@@ -1,0 +1,19 @@
+{
+  "product_id": "78334",
+  "name": "Estee Lauder Modern Muse Eau de Parfum 30ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/78334/estee-lauder-modern-muse-eau-de-parfum-30ml",
+  "currency": "AUD",
+  "current_price": 69.99,
+  "rrp": 85.55,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 69.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

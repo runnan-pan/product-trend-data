@@ -1,0 +1,19 @@
+{
+  "product_id": "105777",
+  "name": "Sabco Lint Roller Mini",
+  "url": "https://www.chemistwarehouse.com.au/buy/105777/sabco-lint-roller-mini",
+  "currency": "AUD",
+  "current_price": 0.95,
+  "rrp": 1.99,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 0.95
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

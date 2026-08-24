@@ -1,0 +1,19 @@
+{
+  "product_id": "136140",
+  "name": "Athena Luxe Protein + Iron Choc Caramel 55g",
+  "url": "https://www.chemistwarehouse.com.au/buy/136140/athena-luxe-protein-iron-choc-caramel-55g",
+  "currency": "AUD",
+  "current_price": 2.25,
+  "rrp": 4.49,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 2.25
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

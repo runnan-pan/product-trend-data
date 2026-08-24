@@ -1,0 +1,19 @@
+{
+  "product_id": "40469",
+  "name": "Johnson & Johnson Cotton Buds 150 with Canister",
+  "url": "https://www.chemistwarehouse.com.au/buy/40469/johnson-johnson-cotton-buds-150-with-canister",
+  "currency": "AUD",
+  "current_price": 3.49,
+  "rrp": 4.0,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 3.49
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
