@@ -1,0 +1,19 @@
+{
+  "product_id": "90012",
+  "name": "b.box Sippy Cup Aqua 240ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/90012/b-box-sippy-cup-aqua-240ml",
+  "currency": "AUD",
+  "current_price": 11.24,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 11.24
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
