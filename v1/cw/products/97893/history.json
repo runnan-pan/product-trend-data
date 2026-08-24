@@ -1,0 +1,19 @@
+{
+  "product_id": "97893",
+  "name": "Jack n Jill Buzzy Electric Musical Toothbrush",
+  "url": "https://www.chemistwarehouse.com.au/buy/97893/jack-n-jill-buzzy-electric-musical-toothbrush",
+  "currency": "AUD",
+  "current_price": 22.99,
+  "rrp": 29.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 22.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

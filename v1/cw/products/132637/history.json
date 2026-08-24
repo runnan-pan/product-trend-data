@@ -1,0 +1,19 @@
+{
+  "product_id": "132637",
+  "name": "Hello Kitty Eau Fraiche Very Vanilla Spice 100ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/132637/hello-kitty-eau-fraiche-very-vanilla-spice-100ml",
+  "currency": "AUD",
+  "current_price": 4.99,
+  "rrp": 9.99,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 4.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

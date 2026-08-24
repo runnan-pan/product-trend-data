@@ -1,0 +1,19 @@
+{
+  "product_id": "6199",
+  "name": "ICE Cold Therapy Gel 100g",
+  "url": "https://www.chemistwarehouse.com.au/buy/6199/mentholatum-ice-gel-100g",
+  "currency": "AUD",
+  "current_price": 4.89,
+  "rrp": 8.2,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 4.89
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

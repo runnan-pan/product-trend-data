@@ -1,0 +1,19 @@
+{
+  "product_id": "81489",
+  "name": "Revlon Contour Kit Light/Medium",
+  "url": "https://www.chemistwarehouse.com.au/buy/81489/revlon-contour-kit-light-medium",
+  "currency": "AUD",
+  "current_price": 14.47,
+  "rrp": 28.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 14.47
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
