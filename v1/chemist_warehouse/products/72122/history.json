@@ -1,0 +1,19 @@
+{
+  "product_id": "72122",
+  "name": "Bodichek Wheat Pack Small Rectangle - 25x16cm",
+  "url": "https://www.chemistwarehouse.com.au/buy/72122/bodichek-wheat-pack-small-rectangle-25x16cm",
+  "currency": "AUD",
+  "current_price": 16.99,
+  "rrp": 19.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 16.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

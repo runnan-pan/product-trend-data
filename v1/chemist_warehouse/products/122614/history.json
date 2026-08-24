@@ -1,0 +1,19 @@
+{
+  "product_id": "122614",
+  "name": "Colgate Blast Series 2 Water Flosser",
+  "url": "https://www.chemistwarehouse.com.au/buy/122614/colgate-blast-series-2-water-flosser",
+  "currency": "AUD",
+  "current_price": 125.0,
+  "rrp": 250.0,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 125.0
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

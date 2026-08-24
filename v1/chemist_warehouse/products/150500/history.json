@@ -1,0 +1,19 @@
+{
+  "product_id": "150500",
+  "name": "Optimum Nutrition Clear Plant Lime Sorbet 280g",
+  "url": "https://www.chemistwarehouse.com.au/buy/150500/optimum-nutrition-clear-plant-lemon-lime-280g",
+  "currency": "AUD",
+  "current_price": 36.0,
+  "rrp": 49.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 36.0
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

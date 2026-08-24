@@ -1,0 +1,19 @@
+{
+  "product_id": "66845",
+  "name": "Marc Jacobs Dot Eau de Parfum 50ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/66845/marc-jacobs-dot-eau-de-parfum-50ml",
+  "currency": "AUD",
+  "current_price": 79.99,
+  "rrp": 120.0,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 79.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

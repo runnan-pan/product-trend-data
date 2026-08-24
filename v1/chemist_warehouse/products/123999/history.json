@@ -1,0 +1,19 @@
+{
+  "product_id": "123999",
+  "name": "Strepfen Intensive Sugar Free Orange 16 Lozenges",
+  "url": "https://www.chemistwarehouse.com.au/buy/123999/strepfen-intensive-sugar-free-orange-16-lozenges",
+  "currency": "AUD",
+  "current_price": 8.29,
+  "rrp": 10.5,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 8.29
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
