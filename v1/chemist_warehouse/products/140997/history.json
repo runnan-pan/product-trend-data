@@ -1,0 +1,19 @@
+{
+  "product_id": "140997",
+  "name": "TePe Toothbrush Select Regular/Soft",
+  "url": "https://www.chemistwarehouse.com.au/buy/140997/tepe-toothbrush-select-regular-soft",
+  "currency": "AUD",
+  "current_price": 3.49,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 3.49
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

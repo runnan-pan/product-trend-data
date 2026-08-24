@@ -1,0 +1,19 @@
+{
+  "product_id": "111324",
+  "name": "INC. Plant Based Amino Mango Kiwi 300g",
+  "url": "https://www.chemistwarehouse.com.au/buy/111324/inc-plant-based-amino-mango-kiwi-300g",
+  "currency": "AUD",
+  "current_price": 44.99,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 44.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
