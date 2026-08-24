@@ -1,0 +1,19 @@
+{
+  "product_id": "77884",
+  "name": "Palmer's Shea Formula 50ml Lotion",
+  "url": "https://www.chemistwarehouse.com.au/buy/77884/palmer-s-shea-formula-50ml-lotion",
+  "currency": "AUD",
+  "current_price": 3.49,
+  "rrp": 3.8,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 3.49
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

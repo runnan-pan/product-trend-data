@@ -1,0 +1,19 @@
+{
+  "product_id": "140024",
+  "name": "Australian Natural Soap Company Shaving Soap 3Pack",
+  "url": "https://www.chemistwarehouse.com.au/buy/140024/australian-natural-soap-company-shaving-soap-3pack",
+  "currency": "AUD",
+  "current_price": 40.37,
+  "rrp": 44.85,
+  "in_stock": false,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 40.37
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

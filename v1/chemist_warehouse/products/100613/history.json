@@ -1,0 +1,19 @@
+{
+  "product_id": "100613",
+  "name": "Accu Chek Instant 50CT 50 Blood Glucose Test Strips",
+  "url": "https://www.chemistwarehouse.com.au/buy/100613/accu-chek-instant-50ct-50-blood-glucose-test-strips",
+  "currency": "AUD",
+  "current_price": 26.99,
+  "rrp": 29.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 26.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
