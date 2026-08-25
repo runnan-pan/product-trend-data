@@ -1,0 +1,19 @@
+{
+  "product_id": "153070",
+  "name": "ESLA Lucent Colour Shampoo 250ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/153070/esla-lucent-colour-shampoo-250ml",
+  "currency": "AUD",
+  "current_price": 33.95,
+  "rrp": 38.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 33.95
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

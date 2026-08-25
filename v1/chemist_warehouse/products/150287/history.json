@@ -1,0 +1,19 @@
+{
+  "product_id": "150287",
+  "name": "Buff Roo Shoe Bag Black",
+  "url": "https://www.chemistwarehouse.com.au/buy/150287/buff-roo-shoe-bag-black",
+  "currency": "AUD",
+  "current_price": 29.95,
+  "rrp": 39.0,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 29.95
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

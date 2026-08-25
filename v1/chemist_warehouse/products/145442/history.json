@@ -3,8 +3,8 @@
   "name": "Carolina Herrera Good Girl Eau de Parfum 80ml + Body Lotion 100ml + Eau de Parfum 10ml 3 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/145442/carolina-herrera-good-girl-eau-de-parfum-80ml-body-lotion-100ml-eau-de-parfum-10ml-3-piece-set",
   "currency": "AUD",
-  "current_price": 159.99,
-  "rrp": 230.0,
+  "current_price": 169.99,
+  "rrp": 245.0,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 159.99
+    },
+    {
+      "date": "2026-08-25",
+      "price": 169.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -1,0 +1,19 @@
+{
+  "product_id": "78523",
+  "name": "Cenovis Zinc Plus 25mg 150 Tablets",
+  "url": "https://www.chemistwarehouse.com.au/buy/78523/cenovis-zinc-plus-25mg-150-tablets",
+  "currency": "AUD",
+  "current_price": 9.74,
+  "rrp": 19.49,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 9.74
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

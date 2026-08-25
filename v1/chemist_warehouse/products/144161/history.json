@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/144161/guess-bella-vita-woman-eau-de-toilette-30ml",
   "currency": "AUD",
   "current_price": 29.99,
-  "rrp": 55.0,
+  "rrp": 59.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 29.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

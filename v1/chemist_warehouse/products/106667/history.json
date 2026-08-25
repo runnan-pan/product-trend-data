@@ -1,0 +1,19 @@
+{
+  "product_id": "106667",
+  "name": "Bond No.9 New Bond St Eau de Parfum 50ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/106667/bond-no-9-new-bond-st-eau-de-parfum-50ml",
+  "currency": "AUD",
+  "current_price": 149.99,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 149.99
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

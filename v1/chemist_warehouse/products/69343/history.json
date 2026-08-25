@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/69343/dr-lewinn-s-line-smoothing-complex-s8-eye-recovery-complex-15g",
   "currency": "AUD",
   "current_price": 38.99,
-  "rrp": 77.99,
+  "rrp": 69.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 38.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

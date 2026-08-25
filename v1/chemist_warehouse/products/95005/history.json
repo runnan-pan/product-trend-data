@@ -1,0 +1,19 @@
+{
+  "product_id": "95005",
+  "name": "Heinz Strawberry & Vanilla Custard Pouch 120g",
+  "url": "https://www.chemistwarehouse.com.au/buy/95005/heinz-strawberry-vanilla-custard-pouch-120g",
+  "currency": "AUD",
+  "current_price": 1.49,
+  "rrp": 1.79,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 1.49
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

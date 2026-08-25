@@ -1,0 +1,19 @@
+{
+  "product_id": "153129",
+  "name": "ESLA Hydra Special Serum 100ml",
+  "url": "https://www.chemistwarehouse.com.au/buy/153129/esla-hydra-special-serum-100ml",
+  "currency": "AUD",
+  "current_price": 50.95,
+  "rrp": 58.95,
+  "in_stock": false,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 50.95
+    }
+  ],
+  "snapshot_days": 2,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

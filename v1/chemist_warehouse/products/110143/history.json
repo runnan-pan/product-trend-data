@@ -1,0 +1,19 @@
+{
+  "product_id": "110143",
+  "name": "Wagner Health Paracetamol 500mg 100 Tablets Blister Pack",
+  "url": "https://www.chemistwarehouse.com.au/buy/110143/wagner-health-paracetamol-500mg-100-tablets-blister-pack-s3",
+  "currency": "AUD",
+  "current_price": 3.0,
+  "rrp": null,
+  "in_stock": false,
+  "pharmacist_only": true,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 3.0
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

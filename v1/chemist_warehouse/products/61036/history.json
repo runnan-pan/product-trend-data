@@ -1,0 +1,19 @@
+{
+  "product_id": "61036",
+  "name": "ADT Syringe 0.5mL x 5 - Diphtheria + Tetanus Vaccine",
+  "url": "https://www.chemistwarehouse.com.au/buy/61036/adt-syringe-0-5ml-x-5-diphtheria-tetanus-vaccine",
+  "currency": "AUD",
+  "current_price": 25.0,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 25.0
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

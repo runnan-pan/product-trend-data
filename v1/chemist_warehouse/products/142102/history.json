@@ -1,0 +1,19 @@
+{
+  "product_id": "142102",
+  "name": "Womanizer Classic 2 Bordeaux 1Piece",
+  "url": "https://www.chemistwarehouse.com.au/buy/142102/womanizer-classic-2-bordeaux-1piece",
+  "currency": "AUD",
+  "current_price": 195.0,
+  "rrp": 199.0,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 195.0
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

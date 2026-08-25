@@ -1,0 +1,19 @@
+{
+  "product_id": "65593",
+  "name": "Gillette Mach 3 Sensitive 8 Pack",
+  "url": "https://www.chemistwarehouse.com.au/buy/65593/gillette-mach-3-sensitive-8-pack",
+  "currency": "AUD",
+  "current_price": 26.69,
+  "rrp": 38.5,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 26.69
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

@@ -3,8 +3,8 @@
   "name": "Boston Simplus Mutli Action 120ml",
   "url": "https://www.chemistwarehouse.com.au/buy/53253/boston-simplus-mutli-action-120ml",
   "currency": "AUD",
-  "current_price": 21.99,
-  "rrp": 25.5,
+  "current_price": 22.99,
+  "rrp": 27.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 21.99
+    },
+    {
+      "date": "2026-08-25",
+      "price": 22.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

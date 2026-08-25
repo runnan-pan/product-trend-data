@@ -3,7 +3,7 @@
   "name": "Luna Mini Ceramic Straightener",
   "url": "https://www.chemistwarehouse.com.au/buy/88191/luna-mini-ceramic-straightener",
   "currency": "AUD",
-  "current_price": 19.0,
+  "current_price": 14.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.0
+    },
+    {
+      "date": "2026-08-25",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

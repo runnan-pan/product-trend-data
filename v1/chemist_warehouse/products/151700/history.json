@@ -1,0 +1,19 @@
+{
+  "product_id": "151700",
+  "name": "Lady Jayne Banana Clip Large",
+  "url": "https://www.chemistwarehouse.com.au/buy/151700/lady-jayne-banana-clip-large",
+  "currency": "AUD",
+  "current_price": 8.49,
+  "rrp": 9.99,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-25",
+      "price": 8.49
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

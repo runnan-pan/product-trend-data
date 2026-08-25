@@ -1,0 +1,19 @@
+{
+  "product_id": "81858",
+  "name": "Swisse Vitamin C + Manuka Honey 120 Tablets",
+  "url": "https://www.chemistwarehouse.com.au/buy/81858/swisse-vitamin-c-manuka-honey-120-tablets",
+  "currency": "AUD",
+  "current_price": 19.99,
+  "rrp": 35.49,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-08-24",
+      "price": 19.99
+    }
+  ],
+  "snapshot_days": 2,
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}
