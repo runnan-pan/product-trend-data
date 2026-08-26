@@ -3,7 +3,7 @@
   "name": "Balmoral 3.55m Teak Top Aluminium Table White With 12 Kansas Dining Chairs & Sunbrella Beige Cushions",
   "url": "https://www.bunnings.com.au/balmoral-3-55m-teak-top-aluminium-table-white-with-12-kansas-dining-chairs-sunbrella-beige-cushions_p0398169",
   "currency": "AUD",
-  "current_price": 7990.0,
+  "current_price": 6392.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 7990.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 6392.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
