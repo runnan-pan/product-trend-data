@@ -3,7 +3,7 @@
   "name": "HP Pro Mini 400 G9 Desktop PC, i7-12700T, 16GB RAM, 512GB SSD, Windows 11 Pro [9U499AT]",
   "url": "https://www.bunnings.com.au/hp-pro-mini-400-g9-desktop-pc-i7-12700t-16gb-ram-512gb-ssd-windows-11-pro-9u499at-_p0704466",
   "currency": "AUD",
-  "current_price": 2450.0,
+  "current_price": 2382.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 2450.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 2382.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

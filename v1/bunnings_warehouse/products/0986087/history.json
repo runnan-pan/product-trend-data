@@ -3,7 +3,7 @@
   "name": "Lenovo ThinkCentre Neo 50Q G4 i5-13420H, 16GB RAM, 512GB SSD, Windows 11 Pro [12LN007PAU]",
   "url": "https://www.bunnings.com.au/lenovo-thinkcentre-neo-50q-g4-i5-13420h-16gb-ram-512gb-ssd-windows-11-pro-12ln007pau-_p0986087",
   "currency": "AUD",
-  "current_price": 1234.0,
+  "current_price": 1286.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1234.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 1286.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
