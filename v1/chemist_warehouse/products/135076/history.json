@@ -3,7 +3,7 @@
   "name": "Maybelline Build A Brow 250 Blonde",
   "url": "https://www.chemistwarehouse.com.au/buy/135076/maybelline-build-a-brow-250-blonde",
   "currency": "AUD",
-  "current_price": 9.5,
+  "current_price": 24.99,
   "rrp": 28.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 9.5
+    },
+    {
+      "date": "2026-08-26",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Hot Minute Hair Double Trouble Twin Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/145639/hot-minute-hair-double-trouble-twin-pack",
   "currency": "AUD",
-  "current_price": 49.95,
+  "current_price": 44.95,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 49.95
+    },
+    {
+      "date": "2026-08-26",
+      "price": 44.95
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

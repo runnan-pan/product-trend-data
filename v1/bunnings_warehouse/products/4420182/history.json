@@ -3,7 +3,7 @@
   "name": "HPM 15 AMP Electresafe Power Centre",
   "url": "https://www.bunnings.com.au/hpm-15-amp-electresafe-power-centre_p4420182",
   "currency": "AUD",
-  "current_price": 156.0,
+  "current_price": 175.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 156.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 175.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

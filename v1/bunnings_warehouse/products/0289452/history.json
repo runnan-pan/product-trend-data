@@ -3,7 +3,7 @@
   "name": "Beefeater 1200 Series 4 Burner Stainless Steel BBQ with Side Burner",
   "url": "https://www.bunnings.com.au/beefeater-1200-series-4-burner-stainless-steel-bbq-with-side-burner_p0289452",
   "currency": "AUD",
-  "current_price": 1094.0,
+  "current_price": 1049.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-24",
       "price": 1094.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 1049.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Maybelline Fit Me Loose Finishing Powder 20 Light Medium",
   "url": "https://www.chemistwarehouse.com.au/buy/90456/maybelline-fit-me-loose-finishing-powder-20-light-medium",
   "currency": "AUD",
-  "current_price": 7.5,
+  "current_price": 19.99,
   "rrp": 22.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 7.5
+    },
+    {
+      "date": "2026-08-26",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

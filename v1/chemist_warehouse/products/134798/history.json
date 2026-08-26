@@ -3,7 +3,7 @@
   "name": "Omron HEM7120 Blood Pressure Monitor",
   "url": "https://www.chemistwarehouse.com.au/buy/134798/omron-hem7120-blood-pressure-monitor",
   "currency": "AUD",
-  "current_price": 86.99,
+  "current_price": 86.0,
   "rrp": 99.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 86.99
+    },
+    {
+      "date": "2026-08-26",
+      "price": 86.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

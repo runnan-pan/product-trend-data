@@ -3,7 +3,7 @@
   "name": "Maybelline Lifter Plump 005 Peach Fever",
   "url": "https://www.chemistwarehouse.com.au/buy/135055/maybelline-lifter-plump-005-peach-fever",
   "currency": "AUD",
-  "current_price": 8.0,
+  "current_price": 20.99,
   "rrp": 23.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 8.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 20.99
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

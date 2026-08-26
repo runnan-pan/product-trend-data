@@ -3,7 +3,7 @@
   "name": "Hot Minute Hair 2 in 1 Dry Shampoo and Serum 20ml Serum/ 10g Powder",
   "url": "https://www.chemistwarehouse.com.au/buy/145128/hot-minute-hair-2-in-1-dry-shampoo-powder-and-anti-frizz-serum-20ml-serum-10g-powder",
   "currency": "AUD",
-  "current_price": 29.95,
+  "current_price": 26.95,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 29.95
+    },
+    {
+      "date": "2026-08-26",
+      "price": 26.95
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

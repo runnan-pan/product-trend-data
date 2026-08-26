@@ -3,7 +3,7 @@
   "name": "Swisse Propolis 2000mg 210 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/73682/swisse-propolis-2000mg-210-capsules",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 25.5,
   "rrp": 64.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 29.99
+    },
+    {
+      "date": "2026-08-26",
+      "price": 25.5
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
