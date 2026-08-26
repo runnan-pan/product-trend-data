@@ -3,16 +3,20 @@
   "name": "Surface Gard 60mm Black Non-slip Castor Cup - 4 Piece ",
   "url": "https://www.bunnings.com.au/surface-gard-60mm-black-non-slip-castor-cup-4-piece_p0519738",
   "currency": "AUD",
-  "current_price": 10.0,
+  "current_price": 160.0,
   "rrp": null,
-  "in_stock": true,
+  "in_stock": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 10.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
