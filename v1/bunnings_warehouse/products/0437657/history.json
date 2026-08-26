@@ -3,7 +3,7 @@
   "name": "SodaStream Art Sparkling Water Soda Maker White 60L w/1L Plastic Bottle",
   "url": "https://www.bunnings.com.au/sodastream-art-sparkling-water-soda-maker-white-60l-w-1l-plastic-bottle_p0437657",
   "currency": "AUD",
-  "current_price": 180.0,
+  "current_price": 200.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 180.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 200.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
