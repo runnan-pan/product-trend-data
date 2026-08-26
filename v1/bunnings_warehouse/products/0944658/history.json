@@ -3,7 +3,7 @@
   "name": "vidaXL 3-Seater Sofa\u00a0Black 180 cm Fabric sofa 3-seater couch fabric sofa couch",
   "url": "https://www.bunnings.com.au/vidaxl-3-seater-sofa-black-180-cm-fabric-sofa-3-seater-couch-fabric-sofa-couch_p0944658",
   "currency": "AUD",
-  "current_price": 531.0,
+  "current_price": 533.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 531.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 533.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

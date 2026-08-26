@@ -3,7 +3,7 @@
   "name": "vidaXL Coffee Table Rectangular Side Sofa Table Concrete Grey Engineered Wood",
   "url": "https://www.bunnings.com.au/vidaxl-coffee-table-rectangular-side-sofa-table-concrete-grey-engineered-wood_p0943691",
   "currency": "AUD",
-  "current_price": 146.0,
+  "current_price": 145.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 146.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 145.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

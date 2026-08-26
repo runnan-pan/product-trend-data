@@ -3,7 +3,7 @@
   "name": "VEVOR 32mm Button Maker Machine Black Installation-Free Badge Punch Press Kit with 500pcs Parts",
   "url": "https://www.bunnings.com.au/vevor-32mm-button-maker-machine-black-installation-free-badge-punch-press-kit-with-500pcs-parts_p1048281",
   "currency": "AUD",
-  "current_price": 91.0,
+  "current_price": 90.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 91.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 90.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Brother Cyan High Yield Toner Cartridge To Suit Mfc-l9670cdn/ Mfc-l9630cdn/hl-l9470cdn - Up To 9000 Pages",
   "url": "https://www.bunnings.com.au/brother-cyan-high-yield-toner-cartridge-to-suit-mfc-l9670cdn-mfc-l9630cdn-hl-l9470cdn-up-to-9000-pages_p1153375",
   "currency": "AUD",
-  "current_price": 548.0,
+  "current_price": 531.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 548.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 531.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

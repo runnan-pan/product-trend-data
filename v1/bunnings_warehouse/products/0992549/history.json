@@ -3,7 +3,7 @@
   "name": "vidaXL Camping Tent 2-Person Green Waterproof tent camping shelter",
   "url": "https://www.bunnings.com.au/vidaxl-camping-tent-2-person-green-waterproof-tent-camping-shelter_p0992549",
   "currency": "AUD",
-  "current_price": 122.0,
+  "current_price": 121.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 122.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 121.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

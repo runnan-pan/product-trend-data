@@ -3,7 +3,7 @@
   "name": "Ufurniture 900 x 750mm Mirrored Shaving Cabinet 3 Door Medicine Cupboard Wall Mounted w/ RGB LED White",
   "url": "https://www.bunnings.com.au/ufurniture-900-x-750mm-mirrored-shaving-cabinet-3-door-medicine-cupboard-wall-mounted-w-rgb-led-white_p1066058",
   "currency": "AUD",
-  "current_price": 75.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 75.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

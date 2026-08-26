@@ -3,7 +3,7 @@
   "name": "vidaXL Coffee Table Genuine Teak 90x50x30cm Accent Couch Side Food Holder",
   "url": "https://www.bunnings.com.au/vidaxl-coffee-table-genuine-teak-90x50x30cm-accent-couch-side-food-holder_p0943687",
   "currency": "AUD",
-  "current_price": 270.0,
+  "current_price": 268.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 270.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 268.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

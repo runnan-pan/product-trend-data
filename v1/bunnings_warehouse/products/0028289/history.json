@@ -3,7 +3,7 @@
   "name": "Bosch Blue 3 x 360\u00ba Extra Bright Plane Line Laser",
   "url": "https://www.bunnings.com.au/bosch-blue-3-x-360-extra-bright-plane-line-laser_p0028289",
   "currency": "AUD",
-  "current_price": 415.0,
+  "current_price": 398.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 415.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 398.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

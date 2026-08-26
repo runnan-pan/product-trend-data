@@ -3,7 +3,7 @@
   "name": "vidaXL Workout Bench with Weight Rack Barbell and Dumbbell Set 60.5kg Home Gym",
   "url": "https://www.bunnings.com.au/vidaxl-workout-bench-with-weight-rack-barbell-and-dumbbell-set-60-5kg-home-gym_p1068032",
   "currency": "AUD",
-  "current_price": 435.0,
+  "current_price": 431.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 435.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 431.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

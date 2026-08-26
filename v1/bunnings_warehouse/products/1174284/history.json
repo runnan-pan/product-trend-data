@@ -3,7 +3,7 @@
   "name": "Ufurniture Foldable Desk with Power Outlet, Shelves & Wheels, Mobile Computer Table, Sofa Side Desk, White+Natural",
   "url": "https://www.bunnings.com.au/ufurniture-foldable-desk-with-power-outlet-shelves-wheels-mobile-computer-table-sofa-side-desk-white-natural_p1174284",
   "currency": "AUD",
-  "current_price": 71.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 71.0
+    },
+    {
+      "date": "2026-08-26",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
