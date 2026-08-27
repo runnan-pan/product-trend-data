@@ -3,7 +3,7 @@
   "name": "Caroma Luna Brushed Nickel Tower Basin Mixer    ,",
   "url": "https://www.bunnings.com.au/caroma-luna-brushed-nickel-tower-basin-mixer-_p0647647",
   "currency": "AUD",
-  "current_price": 320.0,
+  "current_price": 349.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-24",
       "price": 320.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 349.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
