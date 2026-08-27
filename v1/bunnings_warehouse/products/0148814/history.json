@@ -3,7 +3,7 @@
   "name": "Build-a-Shed  2.3 x 2.3 x 2.3m Gable Single Sliding Side Door Shed - Zinc",
   "url": "https://www.bunnings.com.au/build-a-shed-2-3-x-2-3-x-2-3m-gable-single-sliding-side-door-shed-zinc_p0148814",
   "currency": "AUD",
-  "current_price": 1360.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1360.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

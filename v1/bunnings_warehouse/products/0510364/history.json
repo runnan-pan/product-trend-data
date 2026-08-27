@@ -3,7 +3,7 @@
   "name": "Eufy E340 Dual Camera Video Doorbell",
   "url": "https://www.bunnings.com.au/eufy-e340-dual-camera-video-doorbell_p0510364",
   "currency": "AUD",
-  "current_price": 287.0,
+  "current_price": 288.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 287.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 288.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Happy Tails Hooded Pet Towel ",
   "url": "https://www.bunnings.com.au/happy-tails-hooded-pet-towel_p0577487",
   "currency": "AUD",
-  "current_price": 7.48,
+  "current_price": 7.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 7.48
+    },
+    {
+      "date": "2026-08-27",
+      "price": 7.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Kingston 16GB (1x16GB) DDR5-5600 SODIMM Memory [KCP556SS8-16]",
   "url": "https://www.bunnings.com.au/kingston-16gb-1x16gb-ddr5-5600-sodimm-memory-kcp556ss8-16-_p0744767",
   "currency": "AUD",
-  "current_price": 769.0,
+  "current_price": 771.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 769.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 771.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

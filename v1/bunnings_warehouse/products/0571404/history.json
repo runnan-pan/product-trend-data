@@ -3,7 +3,7 @@
   "name": "THERMOMATE Commercial Electric Griddle TH-G06, 4400W 73x40cm Half Ribbed Dual Surface",
   "url": "https://www.bunnings.com.au/thermomate-commercial-electric-griddle-th-g06-4400w-73x40cm-half-ribbed-dual-surface_p0571404",
   "currency": "AUD",
-  "current_price": 319.0,
+  "current_price": 299.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 319.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 299.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

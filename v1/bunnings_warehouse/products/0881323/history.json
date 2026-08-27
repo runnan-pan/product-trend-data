@@ -3,7 +3,7 @@
   "name": "24x 7L Foldable Collapsible Silicone Bucket for Hiking/Camp/Fishing Bulk -Orange - Orange | D28 H25cm | Foldable",
   "url": "https://www.bunnings.com.au/24x-7l-foldable-collapsible-silicone-bucket-for-hiking-camp-fishing-bulk-orange-orange-d28-h25cm-foldable_p0881323",
   "currency": "AUD",
-  "current_price": 229.0,
+  "current_price": 205.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 229.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 205.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

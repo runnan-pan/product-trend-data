@@ -3,7 +3,7 @@
   "name": "G.Skill Flare X5 32GB (2x16GB) DDR5-6000 Memory - White [F5-6000J2836G16GX2-FX5W]",
   "url": "https://www.bunnings.com.au/g-skill-flare-x5-32gb-2x16gb-ddr5-6000-memory-white-f5-6000j2836g16gx2-fx5w-_p0844161",
   "currency": "AUD",
-  "current_price": 2038.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 2038.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

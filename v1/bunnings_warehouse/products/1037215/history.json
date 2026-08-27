@@ -3,7 +3,7 @@
   "name": "Smart Fitness Bracelet for Men & Women | HRV Stress Monitor & Pedometer | Android & iOS Mesh Gold",
   "url": "https://www.bunnings.com.au/smart-fitness-bracelet-for-men-women-hrv-stress-monitor-pedometer-android-ios-mesh-gold_p1037215",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 155.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 155.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

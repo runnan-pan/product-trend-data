@@ -3,7 +3,7 @@
   "name": "Kingston Dc600m 960 Gb Solid State Drive - 2.5\" Internal - Sata (sata/600) - Mixed Use - Server Device Supported",
   "url": "https://www.bunnings.com.au/kingston-dc600m-960-gb-solid-state-drive-2-5-internal-sata-sata-600-mixed-use-server-device-supported_p0835543",
   "currency": "AUD",
-  "current_price": 2228.0,
+  "current_price": 2235.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 2228.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 2235.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

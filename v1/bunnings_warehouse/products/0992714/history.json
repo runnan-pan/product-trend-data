@@ -3,7 +3,7 @@
   "name": "Decathlon - Watertight Bikepacking Saddle Bag 6 To 15L Ipx6, Advt 900 - One Size",
   "url": "https://www.bunnings.com.au/decathlon-watertight-bikepacking-saddle-bag-6-to-15l-ipx6-advt-900-one-size_p0992714",
   "currency": "AUD",
-  "current_price": 24.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 24.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

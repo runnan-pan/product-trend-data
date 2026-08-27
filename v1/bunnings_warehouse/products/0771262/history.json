@@ -3,7 +3,7 @@
   "name": "Apc Smart-ups C 1500va/900w Line Interactive Ups, Tower, 230v/10a Input 8x Iec C13 Outlets Lead Acid Battery Smartconnect Port",
   "url": "https://www.bunnings.com.au/apc-smart-ups-c-1500va-900w-line-interactive-ups-tower-230v-10a-input-8x-iec-c13-outlets-lead-acid-battery-smartconnect-port_p0771262",
   "currency": "AUD",
-  "current_price": 1301.0,
+  "current_price": 1298.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1301.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 1298.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
