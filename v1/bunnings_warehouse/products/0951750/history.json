@@ -3,7 +3,7 @@
   "name": "Arlo Essential Pan Tilt Outdoor Security Camera - Plug In",
   "url": "https://www.bunnings.com.au/arlo-essential-pan-tilt-outdoor-security-camera-plug-in_p0951750",
   "currency": "AUD",
-  "current_price": 117.0,
+  "current_price": 78.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 117.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 78.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

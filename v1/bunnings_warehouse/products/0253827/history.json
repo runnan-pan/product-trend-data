@@ -3,7 +3,7 @@
   "name": "Bailey 3.7-6.2m 150kg Industrial Rated Pro 12 Rung Aluminium Leveller Ladder",
   "url": "https://www.bunnings.com.au/bailey-3-7-6-2m-150kg-industrial-rated-pro-12-rung-aluminium-leveller-ladder_p0253827",
   "currency": "AUD",
-  "current_price": 694.0,
+  "current_price": 740.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 694.0
+    },
+    {
+      "date": "2026-08-27",
+      "price": 740.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
