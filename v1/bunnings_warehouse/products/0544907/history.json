@@ -3,7 +3,7 @@
   "name": "Samsung Galaxy XCover 5 5.3\" Dual Sim 4GB/64GB - Black [SM-G525FZKDS03]",
   "url": "https://www.bunnings.com.au/samsung-galaxy-xcover-5-5-3-dual-sim-4gb-64gb-black-sm-g525fzkds03-_p0544907",
   "currency": "AUD",
-  "current_price": 268.0,
+  "current_price": 337.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 268.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 337.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

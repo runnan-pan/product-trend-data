@@ -3,7 +3,7 @@
   "name": "Oppo Ax5s 64gb/3gb 6.2\" - Red [opp222072]",
   "url": "https://www.bunnings.com.au/oppo-ax5s-64gb-3gb-6-2-red-opp222072-_p0944615",
   "currency": "AUD",
-  "current_price": 138.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 138.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

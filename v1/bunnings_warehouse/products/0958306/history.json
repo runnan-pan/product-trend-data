@@ -3,7 +3,7 @@
   "name": "Attica 600 x 350mm White Concrete Fluted Oval Basin",
   "url": "https://www.bunnings.com.au/attica-600-x-350mm-white-concrete-fluted-oval-basin_p0958306",
   "currency": "AUD",
-  "current_price": 397.0,
+  "current_price": 411.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 397.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 411.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

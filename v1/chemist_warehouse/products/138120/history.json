@@ -3,8 +3,8 @@
   "name": "Dentagenie Softstx 60 x 6 Multipack",
   "url": "https://www.chemistwarehouse.com.au/buy/138120/go2-dentagenie-softstx-minty-50-x-6-multipack",
   "currency": "AUD",
-  "current_price": 30.0,
-  "rrp": 35.7,
+  "current_price": 38.14,
+  "rrp": 40.8,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 30.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 38.14
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

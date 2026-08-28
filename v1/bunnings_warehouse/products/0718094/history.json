@@ -3,7 +3,7 @@
   "name": "Tomtoc Dual Compartment Light Electronic Accessory Pouch 1.8L - Black",
   "url": "https://www.bunnings.com.au/tomtoc-dual-compartment-light-electronic-accessory-pouch-1-8l-black_p0718094",
   "currency": "AUD",
-  "current_price": 61.2,
+  "current_price": 61.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 61.2
+    },
+    {
+      "date": "2026-08-28",
+      "price": 61.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

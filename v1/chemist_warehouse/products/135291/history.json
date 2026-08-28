@@ -3,8 +3,8 @@
   "name": "Living Today Non Slip Loofah Shower Mat with Suction Cups Large Bath Mat 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/135291/living-today-non-slip-loofah-shower-mat-1pc",
   "currency": "AUD",
-  "current_price": 28.5,
-  "rrp": 88.95,
+  "current_price": 29.95,
+  "rrp": 89.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 28.5
+    },
+    {
+      "date": "2026-08-28",
+      "price": 29.95
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

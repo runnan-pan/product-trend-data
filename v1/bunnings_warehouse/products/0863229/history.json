@@ -3,7 +3,7 @@
   "name": "Vevor Heavy Duty Cast Iron Meat Grinder White with Steel Table Clamp",
   "url": "https://www.bunnings.com.au/vevor-heavy-duty-cast-iron-meat-grinder-white-with-steel-table-clamp_p0863229",
   "currency": "AUD",
-  "current_price": 50.0,
+  "current_price": 49.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 50.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 49.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

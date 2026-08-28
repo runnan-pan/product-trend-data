@@ -3,7 +3,7 @@
   "name": "Vevor 116.8x88.9x1.8cm Rustic Wood Framed Chalkboard Black Wall Hanging Magnetic Wedding Sign",
   "url": "https://www.bunnings.com.au/vevor-116-8x88-9x1-8cm-rustic-wood-framed-chalkboard-black-wall-hanging-magnetic-wedding-sign_p0913750",
   "currency": "AUD",
-  "current_price": 124.0,
+  "current_price": 122.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 124.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 122.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

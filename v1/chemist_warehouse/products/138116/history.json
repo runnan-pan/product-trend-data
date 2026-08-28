@@ -3,8 +3,8 @@
   "name": "Dentagenie Water flosser Replacement Nozzle Family Pack x 3 Multipack",
   "url": "https://www.chemistwarehouse.com.au/buy/138116/go2-dentagenie-water-flosser-replacement-nozzle-family-pack-x-3-multipack",
   "currency": "AUD",
-  "current_price": 35.99,
-  "rrp": 41.85,
+  "current_price": 46.28,
+  "rrp": 49.5,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 35.99
+    },
+    {
+      "date": "2026-08-28",
+      "price": 46.28
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

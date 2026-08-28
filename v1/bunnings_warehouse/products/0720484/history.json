@@ -3,7 +3,7 @@
   "name": "Western Digital Wd Purple 6tb 3.5' Surveillance Hdd 5400rpm 64mb Sata3 175mb/s 180tbw 24x7 64 Cameras Av Nvr Dvr 1.5mil Mtbf",
   "url": "https://www.bunnings.com.au/western-digital-wd-purple-6tb-3-5-surveillance-hdd-5400rpm-64mb-sata3-175mb-s-180tbw-24x7-64-cameras-av-nvr-dvr-1-5mil-mtbf_p0720484",
   "currency": "AUD",
-  "current_price": 646.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 646.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

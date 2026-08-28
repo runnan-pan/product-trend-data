@@ -3,8 +3,8 @@
   "name": "Dentagenie Tongue Cleaner 20pk x 3 Multipack",
   "url": "https://www.chemistwarehouse.com.au/buy/153175/go2-dentagenie-tongue-cleaner-20pk-x-3-multipack",
   "currency": "AUD",
-  "current_price": 15.0,
-  "rrp": 17.85,
+  "current_price": 19.07,
+  "rrp": 20.4,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 15.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 19.07
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

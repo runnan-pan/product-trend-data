@@ -3,7 +3,7 @@
   "name": "i.Pet Dog Crate Kennel Large House XL Pet Run Cage Puppy Outdoor Enclosure With Roof",
   "url": "https://www.bunnings.com.au/i-pet-dog-crate-kennel-large-house-xl-pet-run-cage-puppy-outdoor-enclosure-with-roof_p0622294",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 229.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 229.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

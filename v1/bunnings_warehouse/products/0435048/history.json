@@ -3,7 +3,7 @@
   "name": "Kansas 2m Outdoor Teak/Aluminium Dining Table White With 8 Hugo Chairs & Stone Grey w/Textured Olefin Cushions",
   "url": "https://www.bunnings.com.au/kansas-2m-outdoor-teak-aluminium-dining-table-white-with-8-hugo-chairs-stone-grey-w-textured-olefin-cushions_p0435048",
   "currency": "AUD",
-  "current_price": 6990.0,
+  "current_price": 5592.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 6990.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 5592.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

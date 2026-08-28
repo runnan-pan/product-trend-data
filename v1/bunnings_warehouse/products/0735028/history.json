@@ -3,7 +3,7 @@
   "name": "Replacement Laptop Battery for Asus ASUS X407 X507 UA X507UA X507MA X407UA X407UB X407UF",
   "url": "https://www.bunnings.com.au/replacement-laptop-battery-for-asus-asus-x407-x507-ua-x507ua-x507ma-x407ua-x407ub-x407uf_p0735028",
   "currency": "AUD",
-  "current_price": 37.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 37.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

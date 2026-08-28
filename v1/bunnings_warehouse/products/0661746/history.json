@@ -3,7 +3,7 @@
   "name": "Nokia XR21 5G 6.49\" Dual Sim 128GB/6GB - Midnight Black",
   "url": "https://www.bunnings.com.au/nokia-xr21-5g-6-49-dual-sim-128gb-6gb-midnight-black_p0661746",
   "currency": "AUD",
-  "current_price": 747.0,
+  "current_price": 828.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 747.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 828.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

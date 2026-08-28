@@ -3,7 +3,7 @@
   "name": "Pierre Cardin Premium Leather Backpack Travel Bag Satchel - Brown - Brown | Leather | Backpack",
   "url": "https://www.bunnings.com.au/pierre-cardin-premium-leather-backpack-travel-bag-satchel-brown-brown-leather-backpack_p0704227",
   "currency": "AUD",
-  "current_price": 249.99,
+  "current_price": 249.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 249.99
+    },
+    {
+      "date": "2026-08-28",
+      "price": 249.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "FIB Water Resistant Small Shoulder Canvas Bag w Adjustable Shoulder Strap - Black - Black | 15 x 23 x 6.5cm | Mixed Fibres",
   "url": "https://www.bunnings.com.au/fib-water-resistant-small-shoulder-canvas-bag-w-adjustable-shoulder-strap-black-black-15-x-23-x-6-5cm-mixed-fibres_p0926816",
   "currency": "AUD",
-  "current_price": 34.0,
+  "current_price": 30.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 34.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 30.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

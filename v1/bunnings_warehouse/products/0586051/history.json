@@ -3,7 +3,7 @@
   "name": "DSBD7-2400L/A Left Inlet Double Sink Dishwasher Bench",
   "url": "https://www.bunnings.com.au/dsbd7-2400l-a-left-inlet-double-sink-dishwasher-bench_p0586051",
   "currency": "AUD",
-  "current_price": 1436.0,
+  "current_price": 1795.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 1436.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 1795.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

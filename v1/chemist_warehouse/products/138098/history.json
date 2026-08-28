@@ -3,8 +3,8 @@
   "name": "GO2 Dentagenie Clean As Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/138098/go2-dentagenie-clean-as-bundle",
   "currency": "AUD",
-  "current_price": 95.99,
-  "rrp": 113.85,
+  "current_price": 122.76,
+  "rrp": 131.29,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 95.99
+    },
+    {
+      "date": "2026-08-28",
+      "price": 122.76
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
