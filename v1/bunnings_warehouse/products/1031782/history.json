@@ -3,7 +3,7 @@
   "name": "Charleston Sequin Flapper Fringe Costume Tassel Party Fancy Dress 20s 30s - Red - Red | One Size | SEQUIN",
   "url": "https://www.bunnings.com.au/charleston-sequin-flapper-fringe-costume-tassel-party-fancy-dress-20s-30s-red-red-one-size-sequin_p1031782",
   "currency": "AUD",
-  "current_price": 54.0,
+  "current_price": 48.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 54.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 48.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "The Rug Connection Sense 261 Off White 200x200cm - Medium Round Transitional Pet Friendly Indoor Rug",
   "url": "https://www.bunnings.com.au/the-rug-connection-sense-261-off-white-200x200cm-medium-round-transitional-pet-friendly-indoor-rug_p0723312",
   "currency": "AUD",
-  "current_price": 199.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 199.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

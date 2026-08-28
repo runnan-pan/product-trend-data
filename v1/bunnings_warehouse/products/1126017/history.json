@@ -3,7 +3,7 @@
   "name": "Olg Anvil Bar Leaner 4 Leg Black Frame Nordic Maple Top L1200mm X W750mm",
   "url": "https://www.bunnings.com.au/olg-anvil-bar-leaner-4-leg-black-frame-nordic-maple-top-l1200mm-x-w750mm_p1126017",
   "currency": "AUD",
-  "current_price": 529.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 529.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

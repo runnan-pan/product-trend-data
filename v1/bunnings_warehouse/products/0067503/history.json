@@ -3,7 +3,7 @@
   "name": "Selleys\u00ae 10g Power Grip\u2122Super Strong All Purpose Glue Adhesive",
   "url": "https://www.bunnings.com.au/selleys-10g-power-grip-super-strong-all-purpose-glue-adhesive_p0067503",
   "currency": "AUD",
-  "current_price": 10.0,
+  "current_price": 7.5,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 10.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 7.5
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

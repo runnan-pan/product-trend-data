@@ -3,16 +3,20 @@
   "name": "VoltX 12V 200Ah 2560Wh Slimline LiFePO4 Battery + 95Ah 1216Wh Lithium Battery \u2013 Dual Battery Kit for Caravan, 4WD & Off-Grid",
   "url": "https://www.bunnings.com.au/voltx-12v-200ah-2560wh-slimline-lifepo4-battery-95ah-1216wh-lithium-battery-dual-battery-kit-for-caravan-4wd-off-grid_p0988771",
   "currency": "AUD",
-  "current_price": 749.0,
-  "rrp": 1279.0,
+  "current_price": 759.0,
+  "rrp": null,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 749.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 759.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

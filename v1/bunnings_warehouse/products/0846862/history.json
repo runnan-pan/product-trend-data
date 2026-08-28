@@ -3,7 +3,7 @@
   "name": "3 Legged Thing Zayla L Bracket PD Capture v3 for Nikon Z 50 - Grey",
   "url": "https://www.bunnings.com.au/3-legged-thing-zayla-l-bracket-pd-capture-v3-for-nikon-z-50-grey_p0846862",
   "currency": "AUD",
-  "current_price": 138.0,
+  "current_price": 131.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 138.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 131.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

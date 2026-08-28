@@ -3,7 +3,7 @@
   "name": "Rick and Morty Rick Sanchez Halloween Costume with Lab Coat, Top and Vacuform Mask - White Colour, Extra large",
   "url": "https://www.bunnings.com.au/rick-and-morty-rick-sanchez-halloween-costume-with-lab-coat-top-and-vacuform-mask-white-colour-extra-large_p0973049",
   "currency": "AUD",
-  "current_price": 87.0,
+  "current_price": 56.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 87.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 56.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

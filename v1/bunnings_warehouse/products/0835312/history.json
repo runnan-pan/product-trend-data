@@ -3,7 +3,7 @@
   "name": "Simplecom EC412v2 NVMe and SATA M.2 SSD to PCIe x4 Expansion Card",
   "url": "https://www.bunnings.com.au/simplecom-ec412v2-nvme-and-sata-m-2-ssd-to-pcie-x4-expansion-card_p0835312",
   "currency": "AUD",
-  "current_price": 28.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 28.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

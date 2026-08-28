@@ -3,7 +3,7 @@
   "name": "TP-Link Deco BE5000 Dual-Band Whole Home Mesh Wi-Fi 7 System - 3 Pack",
   "url": "https://www.bunnings.com.au/tp-link-deco-be5000-dual-band-whole-home-mesh-wi-fi-7-system-3-pack_p0661023",
   "currency": "AUD",
-  "current_price": 495.0,
+  "current_price": 457.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 495.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 457.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

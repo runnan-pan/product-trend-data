@@ -3,7 +3,7 @@
   "name": "Olg Ekosystem Cupboard Charcoal Carcass With New Oak Top W800mm X D400mm X H1800mm",
   "url": "https://www.bunnings.com.au/olg-ekosystem-cupboard-charcoal-carcass-with-new-oak-top-w800mm-x-d400mm-x-h1800mm_p1127286",
   "currency": "AUD",
-  "current_price": 539.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 539.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Rubies Doctor Opp Men's/Adults Dress Up Medical Costume Shirt/Pants Set Size XL",
   "url": "https://www.bunnings.com.au/rubies-doctor-opp-men-s-adults-dress-up-medical-costume-shirt-pants-set-size-xl_p0985096",
   "currency": "AUD",
-  "current_price": 42.0,
+  "current_price": 40.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 42.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 40.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

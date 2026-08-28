@@ -3,7 +3,7 @@
   "name": "Rubie\u2019s Classic Vampire Halloween Costume for Kids \u2013 Shirt with Cape, Jabot &amp; Medallion, Black &amp; Red Colour, 6-8 Years",
   "url": "https://www.bunnings.com.au/rubie-s-classic-vampire-halloween-costume-for-kids-shirt-with-cape-jabot-amp-medallion-black-amp-red-colour-6-8-years_p0985157",
   "currency": "AUD",
-  "current_price": 45.0,
+  "current_price": 37.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 45.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 37.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

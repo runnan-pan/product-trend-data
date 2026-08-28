@@ -3,7 +3,7 @@
   "name": "VIGI C540-W 4MP Outdoor Full-Colour Wi-Fi Pan Tilt Network Camera (4mm)",
   "url": "https://www.bunnings.com.au/vigi-c540-w-4mp-outdoor-full-colour-wi-fi-pan-tilt-network-camera-4mm-_p0661019",
   "currency": "AUD",
-  "current_price": 147.0,
+  "current_price": 138.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 147.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 138.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

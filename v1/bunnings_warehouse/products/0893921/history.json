@@ -3,7 +3,7 @@
   "name": "EcoFlow River 3 Max Portable Power Station with 600W AC output & Built in 572Wh (47Ah@12V) LFP Battery",
   "url": "https://www.bunnings.com.au/ecoflow-river-3-max-portable-power-station-with-600w-ac-output-built-in-572wh-47ah-12v-lfp-battery_p0893921",
   "currency": "AUD",
-  "current_price": 649.0,
+  "current_price": 584.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 649.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 584.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

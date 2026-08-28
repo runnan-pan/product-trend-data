@@ -3,7 +3,7 @@
   "name": "ZUNI Floor Rug Soft Fluffy Modern Area Rug Living Room Bedroom 200x300CM Pale Blue",
   "url": "https://www.bunnings.com.au/zuni-floor-rug-soft-fluffy-modern-area-rug-living-room-bedroom-200x300cm-pale-blue_p0949420",
   "currency": "AUD",
-  "current_price": 129.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 129.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

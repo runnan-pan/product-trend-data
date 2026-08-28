@@ -3,7 +3,7 @@
   "name": "Wonder Woman 1984 Deluxe Adult Halloween Costume with Dress, Tiara and Gauntlets, Large",
   "url": "https://www.bunnings.com.au/wonder-woman-1984-deluxe-adult-halloween-costume-with-dress-tiara-and-gauntlets-large_p0972805",
   "currency": "AUD",
-  "current_price": 82.0,
+  "current_price": 78.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 82.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 78.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

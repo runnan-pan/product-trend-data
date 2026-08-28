@@ -3,7 +3,7 @@
   "name": "Dc Comics Batman Premium Costume Dress Party Cosplay/Halloween Outfit Size 3-5y",
   "url": "https://www.bunnings.com.au/dc-comics-batman-premium-costume-dress-party-cosplay-halloween-outfit-size-3-5y_p0982645",
   "currency": "AUD",
-  "current_price": 94.0,
+  "current_price": 73.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 94.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 73.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

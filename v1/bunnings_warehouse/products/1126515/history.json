@@ -3,7 +3,7 @@
   "name": "Olg Plantation Boardroom Table 4 Leg Solid Oak Frame Nordic Maple Top L1200mm X W750mm",
   "url": "https://www.bunnings.com.au/olg-plantation-boardroom-table-4-leg-solid-oak-frame-nordic-maple-top-l1200mm-x-w750mm_p1126515",
   "currency": "AUD",
-  "current_price": 489.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 489.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

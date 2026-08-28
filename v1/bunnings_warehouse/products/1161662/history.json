@@ -3,7 +3,7 @@
   "name": "NTK Cabin Air Filter for Lexus GS350 IS200t IS250 IS300 IS300h IS350 Sedan 2012+ 2L 2.5L 3.5L",
   "url": "https://www.bunnings.com.au/ntk-cabin-air-filter-for-lexus-gs350-is200t-is250-is300-is300h-is350-sedan-2012-2l-2-5l-3-5l_p1161662",
   "currency": "AUD",
-  "current_price": 44.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 44.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "VoltX 12V 200Ah 2560Wh Slimline LiFePO4 Battery + 200W Solar Panel Kit \u2013 4WD, Caravan & Off-Grid Solar",
   "url": "https://www.bunnings.com.au/voltx-12v-200ah-2560wh-slimline-lifepo4-battery-200w-solar-panel-kit-4wd-caravan-off-grid-solar_p0587443",
   "currency": "AUD",
-  "current_price": 1479.0,
+  "current_price": 799.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 1479.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 799.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

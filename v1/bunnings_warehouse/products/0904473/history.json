@@ -3,7 +3,7 @@
   "name": "VEVOR Air Bag Suspension Kit Black Compatible with 2011-2019 Chevrolet Silverado",
   "url": "https://www.bunnings.com.au/vevor-air-bag-suspension-kit-black-compatible-with-2011-2019-chevrolet-silverado_p0904473",
   "currency": "AUD",
-  "current_price": 459.0,
+  "current_price": 451.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 459.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 451.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

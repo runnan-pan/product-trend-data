@@ -3,7 +3,7 @@
   "name": "Chicken Rollaway Nesting Box - 3 Hole Automatic Nest Box for Hens & Poultry",
   "url": "https://www.bunnings.com.au/chicken-rollaway-nesting-box-3-hole-automatic-nest-box-for-hens-poultry_p1003496",
   "currency": "AUD",
-  "current_price": 144.0,
+  "current_price": 184.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 144.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 184.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "12x 1920s FLAPPER HEADBAND Headpiece Feather Sequin Charleston Gatsby Party BULK - Gold/Orange - Gold/Orange | Headband",
   "url": "https://www.bunnings.com.au/12x-1920s-flapper-headband-headpiece-feather-sequin-charleston-gatsby-party-bulk-gold-orange-gold-orange-headband_p1031575",
   "currency": "AUD",
-  "current_price": 49.0,
+  "current_price": 44.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 49.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 44.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

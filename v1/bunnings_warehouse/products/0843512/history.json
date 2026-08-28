@@ -3,7 +3,7 @@
   "name": "ZILR 4Kp60 Hyper Thin High Speed HDMI Secure Cable with Micro Connector (1m / 3.3ft)",
   "url": "https://www.bunnings.com.au/zilr-4kp60-hyper-thin-high-speed-hdmi-secure-cable-with-micro-connector-1m-3-3ft-_p0843512",
   "currency": "AUD",
-  "current_price": 63.0,
+  "current_price": 60.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 63.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 60.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

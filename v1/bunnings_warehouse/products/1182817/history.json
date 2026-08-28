@@ -3,7 +3,7 @@
   "name": "VEVOR 336mm Electronic Dart Board Black Blue with 45 Games 474 Variations for Up to 8 Players",
   "url": "https://www.bunnings.com.au/vevor-336mm-electronic-dart-board-black-blue-with-45-games-474-variations-for-up-to-8-players_p1182817",
   "currency": "AUD",
-  "current_price": 143.0,
+  "current_price": 141.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 143.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 141.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

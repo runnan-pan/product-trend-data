@@ -3,7 +3,7 @@
   "name": "SanDisk Extreme Pro Portable V2 1TB - Black [SDSSDE81-1T00-G25]",
   "url": "https://www.bunnings.com.au/sandisk-extreme-pro-portable-v2-1tb-black-sdssde81-1t00-g25-_p0555147",
   "currency": "AUD",
-  "current_price": 399.0,
+  "current_price": 719.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 399.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 719.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

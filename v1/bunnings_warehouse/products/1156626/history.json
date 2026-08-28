@@ -3,7 +3,7 @@
   "name": "Artiss Bed Frame Double With Charging Station Storage Organizer Drawers Led Zac",
   "url": "https://www.bunnings.com.au/artiss-bed-frame-double-with-charging-station-storage-organizer-drawers-led-zac_p1156626",
   "currency": "AUD",
-  "current_price": 194.0,
+  "current_price": 184.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 194.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 184.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

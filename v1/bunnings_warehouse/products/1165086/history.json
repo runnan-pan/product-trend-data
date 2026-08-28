@@ -3,7 +3,7 @@
   "name": "VoltX UPS 3000VA 3000W + 12V 2KW Inverter LCD Display Home Backup Power System",
   "url": "https://www.bunnings.com.au/voltx-ups-3000va-3000w-12v-2kw-inverter-lcd-display-home-backup-power-system_p1165086",
   "currency": "AUD",
-  "current_price": 3499.0,
+  "current_price": 2099.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 3499.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 2099.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

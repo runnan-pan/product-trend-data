@@ -3,7 +3,7 @@
   "name": "TP-Link UH5020C USB Type-C 5 in 1 Hub, 4K@60Hz HDMI, 100W Power Delivery, 1\u00d7 USB-C Data Port, 2\u00d7 USB-A Data Ports",
   "url": "https://www.bunnings.com.au/tp-link-uh5020c-usb-type-c-5-in-1-hub-4k-60hz-hdmi-100w-power-delivery-1-usb-c-data-port-2-usb-a-data-ports_p0807925",
   "currency": "AUD",
-  "current_price": 64.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 64.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

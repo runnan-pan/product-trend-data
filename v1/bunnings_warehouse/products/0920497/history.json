@@ -3,7 +3,7 @@
   "name": "DeWALT 54V XR FLEXVOLT 25cm Brushless Brush Cutter (D-Handle) - Bare Unit DCMBC812N-XE",
   "url": "https://www.bunnings.com.au/dewalt-54v-xr-flexvolt-25cm-brushless-brush-cutter-d-handle-bare-unit-dcmbc812n-xe_p0920497",
   "currency": "AUD",
-  "current_price": 649.0,
+  "current_price": 599.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 649.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 599.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

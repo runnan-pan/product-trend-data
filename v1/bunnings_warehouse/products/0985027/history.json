@@ -3,7 +3,7 @@
   "name": "Little Red Riding Hood Halloween Costume for Girls Book Week Fairytale Dress Up \u2013 Red, 9-10 Years",
   "url": "https://www.bunnings.com.au/little-red-riding-hood-halloween-costume-for-girls-book-week-fairytale-dress-up-red-9-10-years_p0985027",
   "currency": "AUD",
-  "current_price": 57.0,
+  "current_price": 40.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 57.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 40.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

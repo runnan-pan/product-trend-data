@@ -3,7 +3,7 @@
   "name": "Blundstone Unisex Black #7561 DuraFit Side-Zip Safety Boots - UK Size\u00a07",
   "url": "https://www.bunnings.com.au/blundstone-unisex-black-7561-durafit-side-zip-safety-boots-uk-size-7_p0814907",
   "currency": "AUD",
-  "current_price": 199.0,
+  "current_price": 157.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 199.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 157.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

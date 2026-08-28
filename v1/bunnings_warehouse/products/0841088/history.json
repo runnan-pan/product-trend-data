@@ -3,7 +3,7 @@
   "name": "OM System OM-3 Camera w 12-200mm F3.5?6.3 Lens",
   "url": "https://www.bunnings.com.au/om-system-om-3-camera-w-12-200mm-f3-5-6-3-lens_p0841088",
   "currency": "AUD",
-  "current_price": 3888.0,
+  "current_price": 3694.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 3888.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 3694.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

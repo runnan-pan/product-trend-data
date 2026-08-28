@@ -3,7 +3,7 @@
   "name": "Panasonic Leica DG Vario-Elmar 100-400mm f/4-6.3 II ASPH. POWER O.I.S. Lens",
   "url": "https://www.bunnings.com.au/panasonic-leica-dg-vario-elmar-100-400mm-f-4-6-3-ii-asph-power-o-i-s-lens_p0833233",
   "currency": "AUD",
-  "current_price": 2699.0,
+  "current_price": 2209.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 2699.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 2209.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

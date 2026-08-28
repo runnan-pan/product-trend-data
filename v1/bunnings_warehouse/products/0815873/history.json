@@ -3,7 +3,7 @@
   "name": "Hugo Ceramic 1.8m Outdoor Aluminium Dining Table White With 6 Rope Chairs & Grey w/Textured Olefin Cushions",
   "url": "https://www.bunnings.com.au/hugo-ceramic-1-8m-outdoor-aluminium-dining-table-white-with-6-rope-chairs-grey-w-textured-olefin-cushions_p0815873",
   "currency": "AUD",
-  "current_price": 4412.0,
+  "current_price": 4152.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 4412.0
+    },
+    {
+      "date": "2026-08-28",
+      "price": 4152.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
