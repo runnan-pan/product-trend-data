@@ -3,8 +3,8 @@
   "name": "Dentagenie Dental Brush Wide 18 x 3 Multipack",
   "url": "https://www.chemistwarehouse.com.au/buy/138100/go2-dentagenie-dental-brush-wide-12-x-3-multipack",
   "currency": "AUD",
-  "current_price": 18.83,
-  "rrp": null,
+  "current_price": 16.83,
+  "rrp": 18.0,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-08-28",
       "price": 18.83
+    },
+    {
+      "date": "2026-08-29",
+      "price": 16.83
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

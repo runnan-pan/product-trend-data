@@ -3,7 +3,7 @@
   "name": "NTK Oil Filter for Nissan Navara D22 Patrol GR/GU 2001-2016 3.0L Turbo Diesel Compatible With Ryco R2593P",
   "url": "https://www.bunnings.com.au/ntk-oil-filter-for-nissan-navara-d22-patrol-gr-gu-2001-2016-3-0l-turbo-diesel-compatible-with-ryco-r2593p_p0802680",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 44.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-28",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-29",
+      "price": 44.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
