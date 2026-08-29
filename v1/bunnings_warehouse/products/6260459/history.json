@@ -3,7 +3,7 @@
   "name": "DeWALT Heavy-Duty Short Beam Leg Stand",
   "url": "https://www.bunnings.com.au/dewalt-heavy-duty-short-beam-leg-stand_p6260459",
   "currency": "AUD",
-  "current_price": 339.0,
+  "current_price": 292.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 339.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 292.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

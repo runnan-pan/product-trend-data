@@ -3,7 +3,7 @@
   "name": "Dreambaby Child Safety Mag Lock 4 Magnetic Lock System With 1 Key",
   "url": "https://www.bunnings.com.au/dreambaby-child-safety-mag-lock-4-magnetic-lock-system-with-1-key_p4212029",
   "currency": "AUD",
-  "current_price": 36.0,
+  "current_price": 34.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 36.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 34.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
