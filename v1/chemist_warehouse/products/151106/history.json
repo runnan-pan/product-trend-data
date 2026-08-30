@@ -3,8 +3,8 @@
   "name": "Zyrtec Liquid Capsules 10",
   "url": "https://www.chemistwarehouse.com.au/buy/151106/zyrtec-liquid-capsules-10",
   "currency": "AUD",
-  "current_price": 13.99,
-  "rrp": 14.49,
+  "current_price": 14.99,
+  "rrp": 15.4,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 13.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

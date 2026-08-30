@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/54742/benadryl-pe-dry-cough-nasal-congestion-non-drowsy-berry-flavour-200ml",
   "currency": "AUD",
   "current_price": 11.99,
-  "rrp": 17.5,
+  "rrp": 18.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 11.99
     }
   ],
-  "snapshot_days": 6,
+  "snapshot_days": 7,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

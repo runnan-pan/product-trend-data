@@ -3,8 +3,8 @@
   "name": "Mylanta 2Go Antacid FastChews Tablets Mint 8 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/90753/mylanta-2go-antacid-fastchews-tablets-mint-8-pack",
   "currency": "AUD",
-  "current_price": 3.99,
-  "rrp": 4.5,
+  "current_price": 4.49,
+  "rrp": 5.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 3.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 4.49
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Sudafed Daytime/Nightime Relief Tablets 24 - Paracetamol + Pseudoephedrine + Triprolidine Hydrochloride (S3)",
   "url": "https://www.chemistwarehouse.com.au/buy/137953/sudafed-daytime-nightime-relief-tablets-24-paracetamol-pseudoephedrine-triprolidine-hydrochloride-s3",
   "currency": "AUD",
-  "current_price": 22.99,
+  "current_price": 23.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 22.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 23.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

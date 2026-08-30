@@ -3,8 +3,8 @@
   "name": "Nicorette Quit Smoking QuickMist SmartTrack Nicotine Mouth Spray Freshmint 150 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/114405/nicorette-quit-smoking-quickmist-smarttrack-nicotine-mouth-spray-freshmint-150-pack",
   "currency": "AUD",
-  "current_price": 36.99,
-  "rrp": 47.5,
+  "current_price": 38.99,
+  "rrp": 50.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 36.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 38.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

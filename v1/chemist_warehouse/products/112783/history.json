@@ -3,8 +3,8 @@
   "name": "Listerine Pocketmist Oral Care Spray Freshburst 7.7mL",
   "url": "https://www.chemistwarehouse.com.au/buy/112783/listerine-pocketmist-oral-care-spray-freshburst-7-7ml",
   "currency": "AUD",
-  "current_price": 8.49,
-  "rrp": 9.5,
+  "current_price": 8.99,
+  "rrp": 10.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 8.49
+    },
+    {
+      "date": "2026-08-31",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 6,
+  "snapshot_days": 7,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Imodium Diarrhoea Capsules 20 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/68234/imodium-diarrhoea-capsules-20-pack",
   "currency": "AUD",
-  "current_price": 20.99,
-  "rrp": 22.0,
+  "current_price": 22.99,
+  "rrp": 24.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 20.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 22.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

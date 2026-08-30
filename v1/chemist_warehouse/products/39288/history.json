@@ -3,8 +3,8 @@
   "name": "DaktaGold Once Daily Cream for Athlete's Foot 30g",
   "url": "https://www.chemistwarehouse.com.au/buy/39288/daktagold-once-daily-cream-for-athlete-s-foot-30g",
   "currency": "AUD",
-  "current_price": 25.99,
-  "rrp": 28.5,
+  "current_price": 27.99,
+  "rrp": 30.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 25.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 27.99
     }
   ],
-  "snapshot_days": 6,
+  "snapshot_days": 7,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

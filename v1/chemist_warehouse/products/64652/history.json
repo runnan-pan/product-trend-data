@@ -3,8 +3,8 @@
   "name": "Sudafed Nasal Spray Refill 20mL",
   "url": "https://www.chemistwarehouse.com.au/buy/64652/sudafed-nasal-spray-refill-20ml",
   "currency": "AUD",
-  "current_price": 10.99,
-  "rrp": 11.0,
+  "current_price": 11.99,
+  "rrp": 12.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 10.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

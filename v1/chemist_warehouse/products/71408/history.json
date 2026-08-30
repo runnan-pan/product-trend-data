@@ -3,8 +3,8 @@
   "name": "Mylanta 2Go Antacid Double Strength Tablets Lemon Mint 24 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/71408/mylanta-2go-antacid-double-strength-tablets-lemon-mint-24-pack",
   "currency": "AUD",
-  "current_price": 7.99,
-  "rrp": 8.5,
+  "current_price": 8.99,
+  "rrp": 9.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 7.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

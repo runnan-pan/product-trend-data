@@ -3,7 +3,7 @@
   "name": "Sudafed Sinus & Nasal Decongestant 60mg Tablets 12 - Psuedoephedrine (S3)",
   "url": "https://www.chemistwarehouse.com.au/buy/50126/sudafed-sinus-nasal-decongestant-60mg-tablets-12-psuedoephedrine-s3",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 19.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 18.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 6,
+  "snapshot_days": 7,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

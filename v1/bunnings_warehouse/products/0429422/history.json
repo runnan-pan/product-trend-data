@@ -3,7 +3,7 @@
   "name": "BeefEater 1600 Series 4 Burner Stainless Steel Mobile BBQ",
   "url": "https://www.bunnings.com.au/beefeater-1600-series-4-burner-stainless-steel-mobile-bbq_p0429422",
   "currency": "AUD",
-  "current_price": 1594.0,
+  "current_price": 1798.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -19,8 +19,12 @@
     {
       "date": "2026-08-26",
       "price": 1594.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 1798.0
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 6,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

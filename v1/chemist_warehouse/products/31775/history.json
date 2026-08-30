@@ -3,8 +3,8 @@
   "name": "Daktozin Ointment 90g",
   "url": "https://www.chemistwarehouse.com.au/buy/31775/daktozin-ointment-90g",
   "currency": "AUD",
-  "current_price": 19.99,
-  "rrp": 25.5,
+  "current_price": 21.99,
+  "rrp": 27.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.99
+    },
+    {
+      "date": "2026-08-31",
+      "price": 21.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

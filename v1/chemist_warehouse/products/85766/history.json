@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/85766/nicorette-quit-smoking-extra-strength-cooldrops-nicotine-lozenge-icy-mint-8-x-20-pack",
   "currency": "AUD",
   "current_price": 45.99,
-  "rrp": 61.99,
+  "rrp": 72.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 45.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
