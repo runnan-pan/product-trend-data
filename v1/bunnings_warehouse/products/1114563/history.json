@@ -3,7 +3,7 @@
   "name": "Garmin Suction Cup Mount w Speaker - USB-C",
   "url": "https://www.bunnings.com.au/garmin-suction-cup-mount-w-speaker-usb-c_p1114563",
   "currency": "AUD",
-  "current_price": 228.0,
+  "current_price": 217.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 228.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 217.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

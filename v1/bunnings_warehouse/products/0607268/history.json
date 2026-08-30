@@ -3,7 +3,7 @@
   "name": "Hygger Wave Maker Pump 20W - Black - Black | One size | HG-951-20W",
   "url": "https://www.bunnings.com.au/hygger-wave-maker-pump-20w-black-black-one-size-hg-951-20w_p0607268",
   "currency": "AUD",
-  "current_price": 495.0,
+  "current_price": 446.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 495.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 446.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

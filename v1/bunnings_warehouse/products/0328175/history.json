@@ -3,7 +3,7 @@
   "name": "Full Boar 7mm Hex Shank M2 HSS Drill Bit",
   "url": "https://www.bunnings.com.au/full-boar-7mm-hex-shank-m2-hss-drill-bit_p0328175",
   "currency": "AUD",
-  "current_price": 7.0,
+  "current_price": 7.25,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 7.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 7.25
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

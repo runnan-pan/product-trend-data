@@ -3,7 +3,7 @@
   "name": "Toshiba Dynabook Satellite Pro C40-K 14\" FHD IPS Laptop, Core 7-150U, 32GB RAM, 1TB SSD, Windows 11 Pro [PSY25A-01K002]",
   "url": "https://www.bunnings.com.au/toshiba-dynabook-satellite-pro-c40-k-14-fhd-ips-laptop-core-7-150u-32gb-ram-1tb-ssd-windows-11-pro-psy25a-01k002-_p0908633",
   "currency": "AUD",
-  "current_price": 1783.0,
+  "current_price": 1678.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1783.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1678.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

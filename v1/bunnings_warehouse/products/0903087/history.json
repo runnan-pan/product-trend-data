@@ -3,7 +3,7 @@
   "name": "Advwin 730 x 700mm Cabinet LED Medicine Storage Mirror Shaving Cupboard w/ Tower Rack White",
   "url": "https://www.bunnings.com.au/advwin-730-x-700mm-cabinet-led-medicine-storage-mirror-shaving-cupboard-w-tower-rack-white_p0903087",
   "currency": "AUD",
-  "current_price": 79.0,
+  "current_price": 72.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 79.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 72.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

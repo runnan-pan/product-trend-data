@@ -3,7 +3,7 @@
   "name": "White Knight 400g Grey Rust Guard Cold Gal Primer Spray Paint",
   "url": "https://www.bunnings.com.au/white-knight-400g-grey-rust-guard-cold-gal-primer-spray-paint_p1565986",
   "currency": "AUD",
-  "current_price": 32.0,
+  "current_price": 29.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 32.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 29.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

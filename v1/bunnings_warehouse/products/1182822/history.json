@@ -3,7 +3,7 @@
   "name": "VEVOR Tumbler Heat Press Machine with 2 Station Heaters 11-30oz Dual Independent Display Screens",
   "url": "https://www.bunnings.com.au/vevor-tumbler-heat-press-machine-with-2-station-heaters-11-30oz-dual-independent-display-screens_p1182822",
   "currency": "AUD",
-  "current_price": 251.0,
+  "current_price": 246.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 251.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 246.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

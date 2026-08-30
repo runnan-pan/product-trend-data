@@ -3,7 +3,7 @@
   "name": "JBL STADIUM192T 150W 3/4\" Aluminium Dome Tweeter",
   "url": "https://www.bunnings.com.au/jbl-stadium192t-150w-3-4-aluminium-dome-tweeter_p0874242",
   "currency": "AUD",
-  "current_price": 148.0,
+  "current_price": 141.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 148.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 141.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

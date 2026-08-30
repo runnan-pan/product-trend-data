@@ -3,7 +3,7 @@
   "name": "Hp Probook 440 G11 14' Wuxga Intel U7-155u 16gb Ddr5 512gb Ssd Windows 11 Pro Ai Pc Npu Intel Graphics Fingerprint Backlit",
   "url": "https://www.bunnings.com.au/hp-probook-440-g11-14-wuxga-intel-u7-155u-16gb-ddr5-512gb-ssd-windows-11-pro-ai-pc-npu-intel-graphics-fingerprint-backlit_p0836112",
   "currency": "AUD",
-  "current_price": 2855.0,
+  "current_price": 2869.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 2855.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 2869.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

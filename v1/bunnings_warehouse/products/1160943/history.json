@@ -3,7 +3,7 @@
   "name": "Homfurn 2x Bar Stools \u2013 Leather Padded With Backrest, Walnut Wood Frame, Pu Leather Seat, For Home Bar Cafe, Black & Walnut",
   "url": "https://www.bunnings.com.au/homfurn-2x-bar-stools-leather-padded-with-backrest-walnut-wood-frame-pu-leather-seat-for-home-bar-cafe-black-walnut_p1160943",
   "currency": "AUD",
-  "current_price": 229.0,
+  "current_price": 259.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 229.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 259.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

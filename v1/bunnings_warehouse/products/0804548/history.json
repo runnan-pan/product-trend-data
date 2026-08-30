@@ -3,7 +3,7 @@
   "name": "Artiss Office Chair Pu Leather Conference Computer Desk Chair Mid Back Grey",
   "url": "https://www.bunnings.com.au/artiss-office-chair-pu-leather-conference-computer-desk-chair-mid-back-grey_p0804548",
   "currency": "AUD",
-  "current_price": 117.0,
+  "current_price": 116.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 117.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 116.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

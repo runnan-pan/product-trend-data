@@ -3,7 +3,7 @@
   "name": "Gitzo GK2542-F3W Mountaineer Series 2 (GT2545 + GHF3W) w/3 Way Head Tripod",
   "url": "https://www.bunnings.com.au/gitzo-gk2542-f3w-mountaineer-series-2-gt2545-ghf3w-w-3-way-head-tripod_p0842322",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 2124.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 2124.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

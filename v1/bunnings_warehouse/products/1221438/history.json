@@ -3,7 +3,7 @@
   "name": "Vevor 2x12 L/3.17 Gal Commercial Slushy Machine Silver Double Tanks Cool And Freeze Modes For Party",
   "url": "https://www.bunnings.com.au/vevor-2x12-l-3-17-gal-commercial-slushy-machine-silver-double-tanks-cool-and-freeze-modes-for-party_p1221438",
   "currency": "AUD",
-  "current_price": 3530.0,
+  "current_price": 3467.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 3530.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 3467.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

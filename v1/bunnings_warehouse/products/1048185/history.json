@@ -3,7 +3,7 @@
   "name": "VEVOR 8 Pack Straight Sublimation Tumblers 20 oz Stainless Steel with Straw",
   "url": "https://www.bunnings.com.au/vevor-8-pack-straight-sublimation-tumblers-20-oz-stainless-steel-with-straw_p1048185",
   "currency": "AUD",
-  "current_price": 88.0,
+  "current_price": 86.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 88.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 86.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -1,7 +1,7 @@
 {
   "product_id": "1110406",
-  "name": "Ardor Finley Stripe Quilt Cover Set - Oatmeal - King",
-  "url": "https://www.bunnings.com.au/ardor-finley-stripe-quilt-cover-set-oatmeal-king_p1110406",
+  "name": "Ardor Finley Stripe Quilt Cover Set",
+  "url": "https://www.bunnings.com.au/ardor-finley-stripe-quilt-cover-set_p1110406",
   "currency": "AUD",
   "current_price": 58.0,
   "rrp": null,
@@ -13,6 +13,6 @@
       "price": 58.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

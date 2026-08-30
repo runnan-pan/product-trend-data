@@ -3,7 +3,7 @@
   "name": "Terralite 185 x 215 x 152mm Charcoal Block",
   "url": "https://www.bunnings.com.au/terralite-185-x-215-x-152mm-charcoal-block_p3452446",
   "currency": "AUD",
-  "current_price": 1.0,
+  "current_price": 1.02,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 1.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1.02
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Bosch 18V Professional BITURBO Impact Wrench 1/2\" 1000NM 06019J8000 - Skin Only",
   "url": "https://www.bunnings.com.au/bosch-18v-professional-biturbo-impact-wrench-1-2-1000nm-06019j8000-skin-only_p0428206",
   "currency": "AUD",
-  "current_price": 689.0,
+  "current_price": 649.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-28",
       "price": 689.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 649.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

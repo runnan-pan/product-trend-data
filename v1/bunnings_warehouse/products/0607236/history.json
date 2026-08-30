@@ -3,7 +3,7 @@
   "name": "Hygger Ultra-Quiet Canister Filter with UV Sterilizer 1200L - Black/Orange - Black | One size | HG-101-1200L",
   "url": "https://www.bunnings.com.au/hygger-ultra-quiet-canister-filter-with-uv-sterilizer-1200l-black-orange-black-one-size-hg-101-1200l_p0607236",
   "currency": "AUD",
-  "current_price": 379.0,
+  "current_price": 341.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 379.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 341.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

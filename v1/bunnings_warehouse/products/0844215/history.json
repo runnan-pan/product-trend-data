@@ -3,7 +3,7 @@
   "name": "BenQ Zowie XL2566X+ 24.1\" FHD 400Hz DyAc 2 Fast TN Height Adjustable Gaming Monitor For eSports",
   "url": "https://www.bunnings.com.au/benq-zowie-xl2566x-24-1-fhd-400hz-dyac-2-fast-tn-height-adjustable-gaming-monitor-for-esports_p0844215",
   "currency": "AUD",
-  "current_price": 1176.0,
+  "current_price": 1099.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1176.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1099.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

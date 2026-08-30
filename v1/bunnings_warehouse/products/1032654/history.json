@@ -1,9 +1,9 @@
 {
   "product_id": "1032654",
-  "name": "Protect-A-Bed Staynew Cotton Terry Mattress Protector",
+  "name": "Protect-A-Bed Staynew Cotton Terry Mattress Protector - Queen",
   "url": "https://www.bunnings.com.au/protect-a-bed-staynew-cotton-terry-mattress-protector_p1032654",
   "currency": "AUD",
-  "current_price": 62.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 62.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

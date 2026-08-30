@@ -3,7 +3,7 @@
   "name": "Argon Tableware 6x Rectangular Serving Trays - 66 X 45.5cm - Reusable Non Slip Stackable Rubberized Food Drinks Platter Tray",
   "url": "https://www.bunnings.com.au/argon-tableware-6x-rectangular-serving-trays-66-x-45-5cm-reusable-non-slip-stackable-rubberized-food-drinks-platter-tray_p0592112",
   "currency": "AUD",
-  "current_price": 132.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 132.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

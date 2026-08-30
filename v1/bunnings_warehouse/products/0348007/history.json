@@ -3,7 +3,7 @@
   "name": "Artiss 6 Tier Shoe Rack Storage Cabinet White",
   "url": "https://www.bunnings.com.au/artiss-6-tier-shoe-rack-storage-cabinet-white_p0348007",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 129.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 129.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

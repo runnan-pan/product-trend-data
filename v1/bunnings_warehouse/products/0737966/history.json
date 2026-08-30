@@ -3,7 +3,7 @@
   "name": "Keychron Q0 Max RGB Black Custom Mechanical Number Pad - Brown Hot-Swappable Switch [KBKCQ0MM3]",
   "url": "https://www.bunnings.com.au/keychron-q0-max-rgb-black-custom-mechanical-number-pad-brown-hot-swappable-switch-kbkcq0mm3-_p0737966",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 179.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 179.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

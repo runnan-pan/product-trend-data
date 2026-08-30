@@ -3,7 +3,7 @@
   "name": "DeWALT 54V 9.0Ah XR 305mm Flexvolt Sliding Mitre Saw Kit DCS781X1-XE",
   "url": "https://www.bunnings.com.au/dewalt-54v-9-0ah-xr-305mm-flexvolt-sliding-mitre-saw-kit-dcs781x1-xe_p0406171",
   "currency": "AUD",
-  "current_price": 1853.0,
+  "current_price": 1539.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1853.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1539.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

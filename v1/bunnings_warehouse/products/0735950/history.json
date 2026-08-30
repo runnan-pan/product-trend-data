@@ -3,7 +3,7 @@
   "name": "D-Link DGS-F1006P-E 6-Port Gigabit PoE Switch With 4 Long Reach PoE Ports and 2 Uplink Ports",
   "url": "https://www.bunnings.com.au/d-link-dgs-f1006p-e-6-port-gigabit-poe-switch-with-4-long-reach-poe-ports-and-2-uplink-ports_p0735950",
   "currency": "AUD",
-  "current_price": 184.0,
+  "current_price": 194.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 184.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 194.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

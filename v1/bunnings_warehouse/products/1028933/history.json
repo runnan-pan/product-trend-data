@@ -3,7 +3,7 @@
   "name": "Ufurniture Small Computer Desk 80cm Home Office Desk Vanity Desk Gaming Desk Study Writing Table Pink",
   "url": "https://www.bunnings.com.au/ufurniture-small-computer-desk-80cm-home-office-desk-vanity-desk-gaming-desk-study-writing-table-pink_p1028933",
   "currency": "AUD",
-  "current_price": 59.0,
+  "current_price": 51.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 59.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 51.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "BenQ PD2706QN 27\" 2K QHD IPS 100Hz Professional Monitor",
   "url": "https://www.bunnings.com.au/benq-pd2706qn-27-2k-qhd-ips-100hz-professional-monitor_p0944577",
   "currency": "AUD",
-  "current_price": 592.0,
+  "current_price": 538.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 592.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 538.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

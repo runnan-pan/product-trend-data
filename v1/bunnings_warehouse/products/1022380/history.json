@@ -3,7 +3,7 @@
   "name": "HP ZBook FireFly 8 G1i \u2013 16\" Touch, U7-255H, 32GB RAM, 1TB SSD \u2013 Integrated Graphics, Win11 Pro",
   "url": "https://www.bunnings.com.au/hp-zbook-firefly-8-g1i-16-touch-u7-255h-32gb-ram-1tb-ssd-integrated-graphics-win11-pro_p1022380",
   "currency": "AUD",
-  "current_price": 5625.0,
+  "current_price": 5571.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 5625.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 5571.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

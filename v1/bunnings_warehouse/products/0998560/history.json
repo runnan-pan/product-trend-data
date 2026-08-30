@@ -3,7 +3,7 @@
   "name": "Linen House 500TC Lawson White Quilt Cover Set - Queen Size",
   "url": "https://www.bunnings.com.au/linen-house-500tc-lawson-white-quilt-cover-set-queen-size_p0998560",
   "currency": "AUD",
-  "current_price": 222.0,
+  "current_price": 200.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 222.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 200.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

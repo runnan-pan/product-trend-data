@@ -3,7 +3,7 @@
   "name": "AUKEY LC-MC311A MagFusion 3-in-1 Pro Qi2 Active Cooling Wireless Charging Station.",
   "url": "https://www.bunnings.com.au/aukey-lc-mc311a-magfusion-3-in-1-pro-qi2-active-cooling-wireless-charging-station-_p1197086",
   "currency": "AUD",
-  "current_price": 201.0,
+  "current_price": 229.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 201.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 229.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

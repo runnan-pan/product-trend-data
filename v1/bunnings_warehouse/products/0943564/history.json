@@ -3,7 +3,7 @@
   "name": "Ilford Galerie FineArt Smooth Pearl 270gsm 36 91.44 x 15m Roll",
   "url": "https://www.bunnings.com.au/ilford-galerie-fineart-smooth-pearl-270gsm-36-91-44-x-15m-roll_p0943564",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 333.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 333.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

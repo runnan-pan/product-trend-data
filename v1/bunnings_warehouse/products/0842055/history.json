@@ -3,7 +3,7 @@
   "name": "JBL Apex PA454 Compact 4-Channel Amplifier",
   "url": "https://www.bunnings.com.au/jbl-apex-pa454-compact-4-channel-amplifier_p0842055",
   "currency": "AUD",
-  "current_price": 278.0,
+  "current_price": 264.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 278.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 264.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "AOC Q27G4ZD 26.5\" 2K OLED 280Hz 0.03ms Gaming Monitor",
   "url": "https://www.bunnings.com.au/aoc-q27g4zd-26-5-2k-oled-280hz-0-03ms-gaming-monitor_p0989549",
   "currency": "AUD",
-  "current_price": 926.0,
+  "current_price": 739.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 926.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 739.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

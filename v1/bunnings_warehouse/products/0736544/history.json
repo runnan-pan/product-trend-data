@@ -3,7 +3,7 @@
   "name": "Pure Evoke Play 22.1cm Bluetooth Music System - Cotton White",
   "url": "https://www.bunnings.com.au/pure-evoke-play-22-1cm-bluetooth-music-system-cotton-white_p0736544",
   "currency": "AUD",
-  "current_price": 298.0,
+  "current_price": 283.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 298.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 283.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

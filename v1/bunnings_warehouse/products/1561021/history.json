@@ -3,7 +3,7 @@
   "name": "DIGGERS 20L Household Kerosene",
   "url": "https://www.bunnings.com.au/diggers-20l-household-kerosene_p1561021",
   "currency": "AUD",
-  "current_price": 163.0,
+  "current_price": 172.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-24",
       "price": 163.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 172.0
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 6,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

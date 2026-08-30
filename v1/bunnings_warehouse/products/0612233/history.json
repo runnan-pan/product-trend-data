@@ -3,7 +3,7 @@
   "name": "Hygger Aquarium Bluetooth LED Light 60W with App Control - Black - Black | One size | \u200eHG-028-60W",
   "url": "https://www.bunnings.com.au/hygger-aquarium-bluetooth-led-light-60w-with-app-control-black-black-one-size-hg-028-60w_p0612233",
   "currency": "AUD",
-  "current_price": 415.0,
+  "current_price": 374.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 415.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 374.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

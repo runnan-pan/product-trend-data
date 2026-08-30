@@ -3,7 +3,7 @@
   "name": "Telbix Brevik Modern Table Desk Lamp Light Metal Green Satin",
   "url": "https://www.bunnings.com.au/telbix-brevik-modern-table-desk-lamp-light-metal-green-satin_p1050650",
   "currency": "AUD",
-  "current_price": 107.95,
+  "current_price": 107.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-28",
       "price": 107.95
+    },
+    {
+      "date": "2026-08-30",
+      "price": 107.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

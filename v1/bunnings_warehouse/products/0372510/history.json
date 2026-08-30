@@ -3,7 +3,7 @@
   "name": "DeWALT 18V XR Li-ion Cordless Brushless 3-Speed Compact Impact Driver - Skin Only",
   "url": "https://www.bunnings.com.au/dewalt-18v-xr-li-ion-cordless-brushless-3-speed-compact-impact-driver-skin-only_p0372510",
   "currency": "AUD",
-  "current_price": 360.0,
+  "current_price": 299.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 360.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 299.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

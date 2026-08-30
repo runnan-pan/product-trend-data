@@ -3,7 +3,7 @@
   "name": "Genuine Mazda 6 Wagon CX-8 CX-9 Seat Belt Guide Clip Part C23568AD2A02",
   "url": "https://www.bunnings.com.au/genuine-mazda-6-wagon-cx-8-cx-9-seat-belt-guide-clip-part-c23568ad2a02_p1165479",
   "currency": "AUD",
-  "current_price": 37.0,
+  "current_price": 13.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 37.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 13.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

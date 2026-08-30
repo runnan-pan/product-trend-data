@@ -3,7 +3,7 @@
   "name": "Narva 12V 60/55W H4 P43t PLUS 30 Halogen Headlight Globe - Single",
   "url": "https://www.bunnings.com.au/narva-12v-60-55w-h4-p43t-plus-30-halogen-headlight-globe-single_p0047808",
   "currency": "AUD",
-  "current_price": 12.1,
+  "current_price": 10.49,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 12.1
+    },
+    {
+      "date": "2026-08-30",
+      "price": 10.49
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

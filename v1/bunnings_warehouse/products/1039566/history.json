@@ -3,7 +3,7 @@
   "name": "Baseus Crystal Shine Series Fast Charging Data Cable USB to iP 2.4A 2m-Black",
   "url": "https://www.bunnings.com.au/baseus-crystal-shine-series-fast-charging-data-cable-usb-to-ip-2-4a-2m-black_p1039566",
   "currency": "AUD",
-  "current_price": 26.0,
+  "current_price": 27.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 26.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 27.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

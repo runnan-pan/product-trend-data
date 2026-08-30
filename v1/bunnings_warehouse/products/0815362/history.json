@@ -3,7 +3,7 @@
   "name": "Philips 32e1n1800la 32\" Class 4k Uhd Led Monitor - 16:9 - Textured Black - 31.5\" Viewable - Vertical Alignment (va)",
   "url": "https://www.bunnings.com.au/philips-32e1n1800la-32-class-4k-uhd-led-monitor-16-9-textured-black-31-5-viewable-vertical-alignment-va-_p0815362",
   "currency": "AUD",
-  "current_price": 508.0,
+  "current_price": 160.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 508.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

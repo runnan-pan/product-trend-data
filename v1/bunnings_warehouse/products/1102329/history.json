@@ -1,9 +1,9 @@
 {
   "product_id": "1102329",
-  "name": "Tramontina Churrasco Skewer Double Prong 75cm",
+  "name": "Churrasco Skewer Double Prong 75cm Tramontina",
   "url": "https://www.bunnings.com.au/churrasco-skewer-double-prong-75cm-tramontina_p1102329",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

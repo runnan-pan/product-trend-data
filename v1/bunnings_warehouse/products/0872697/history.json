@@ -3,7 +3,7 @@
   "name": "TP-Link Deco XE200 AXE11000 Tri-Band Mesh WiFi 6E System (2 Pack)",
   "url": "https://www.bunnings.com.au/tp-link-deco-xe200-axe11000-tri-band-mesh-wifi-6e-system-2-pack-_p0872697",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 1299.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 160.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1299.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

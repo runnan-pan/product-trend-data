@@ -3,7 +3,7 @@
   "name": "Remington 23-Piece Power Trim Haircut Kit - Silver/Black HC1090AU",
   "url": "https://www.bunnings.com.au/remington-23-piece-power-trim-haircut-kit-silver-black-hc1090au_p0588445",
   "currency": "AUD",
-  "current_price": 34.0,
+  "current_price": 32.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 34.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 32.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

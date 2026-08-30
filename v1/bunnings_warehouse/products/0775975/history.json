@@ -3,7 +3,7 @@
   "name": "DeWALT 18V XR 10 Piece Combo Kit DCZ1085P3-XE",
   "url": "https://www.bunnings.com.au/dewalt-18v-xr-10-piece-combo-kit-dcz1085p3-xe_p0775975",
   "currency": "AUD",
-  "current_price": 1699.0,
+  "current_price": 1599.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1699.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1599.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Bugatti Italy 1L/16cm Stainless Steel Casserole With Glass Lid",
   "url": "https://www.bunnings.com.au/bugatti-italy-1l-16cm-stainless-steel-casserole-with-glass-lid_p0380115",
   "currency": "AUD",
-  "current_price": 215.0,
+  "current_price": 193.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-26",
       "price": 215.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 193.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

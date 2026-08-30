@@ -3,7 +3,7 @@
   "name": "DeWALT 54V 230mm (9\") Cordless Angle Grinder 9.0Ah Kit DCG460X2-XE",
   "url": "https://www.bunnings.com.au/dewalt-54v-230mm-9-cordless-angle-grinder-9-0ah-kit-dcg460x2-xe_p0612144",
   "currency": "AUD",
-  "current_price": 1419.0,
+  "current_price": 1214.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 1419.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1214.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

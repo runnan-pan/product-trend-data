@@ -3,7 +3,7 @@
   "name": "46x22 cm Cast Iron Reversible Griddle BBQ Plate",
   "url": "https://www.bunnings.com.au/46x22-cm-cast-iron-reversible-griddle-bbq-plate_p0433060",
   "currency": "AUD",
-  "current_price": 39.0,
+  "current_price": 35.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 39.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 35.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

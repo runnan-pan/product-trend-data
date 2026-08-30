@@ -3,7 +3,7 @@
   "name": "IXL Tastic Silhouette 3 In 1 Bathroom Heat Fan Light",
   "url": "https://www.bunnings.com.au/ixl-tastic-silhouette-3-in-1-bathroom-heat-fan-light_p4442488",
   "currency": "AUD",
-  "current_price": 294.0,
+  "current_price": 274.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-25",
       "price": 294.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 274.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "Mitsubishi Heavy Industries 7.1kW Ciara\u2122 Air Conditioner Split Reverse Cycle Set",
   "url": "https://www.bunnings.com.au/mitsubishi-heavy-industries-7-1kw-ciara-air-conditioner-split-reverse-cycle-set_p0994765",
   "currency": "AUD",
-  "current_price": 2029.0,
+  "current_price": 1678.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-28",
       "price": 2029.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 1678.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

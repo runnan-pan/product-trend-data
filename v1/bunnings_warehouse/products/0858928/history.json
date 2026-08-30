@@ -1,9 +1,9 @@
 {
   "product_id": "0858928",
-  "name": "Nikon Z 50mm F1.2 S Lens \u00d882mm",
-  "url": "https://www.bunnings.com.au/nikon-z-50mm-f1-2-s-lens-82mm_p0858928",
+  "name": "Nikon NIKKOR Z 50mm f/1.2 S Lens",
+  "url": "https://www.bunnings.com.au/nikon-nikkor-z-50mm-f-1-2-s-lens_p0858928",
   "currency": "AUD",
-  "current_price": 3399.0,
+  "current_price": 3656.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 3399.0
+    },
+    {
+      "date": "2026-08-30",
+      "price": 3656.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
