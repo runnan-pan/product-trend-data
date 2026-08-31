@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/112916/cationorm-preservative-free-eye-drops-10ml",
   "currency": "AUD",
   "current_price": 29.99,
-  "rrp": null,
+  "rrp": 32.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 29.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
