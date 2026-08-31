@@ -3,7 +3,7 @@
   "name": "Olg Tempo Sliding Door Credenza Wide Black W1530mm X D450mm X H1020mm",
   "url": "https://www.bunnings.com.au/olg-tempo-sliding-door-credenza-wide-black-w1530mm-x-d450mm-x-h1020mm_p1127236",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 619.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,12 +11,8 @@
     {
       "date": "2026-08-26",
       "price": 619.0
-    },
-    {
-      "date": "2026-08-28",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 1,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

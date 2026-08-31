@@ -3,7 +3,7 @@
   "name": "800 & 900Mm Oven Door Seal Frontal Gasket A/094/70 A/094/81, suits Ilve",
   "url": "https://www.bunnings.com.au/800-900mm-oven-door-seal-frontal-gasket-a-094-70-a-094-81-suits-ilve_p0638227",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 50.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,12 +11,8 @@
     {
       "date": "2026-08-25",
       "price": 50.0
-    },
-    {
-      "date": "2026-08-30",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

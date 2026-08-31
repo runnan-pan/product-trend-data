@@ -3,7 +3,7 @@
   "name": "Oklahoma Joe's 2 Piece Surface Temperature Gauge",
   "url": "https://www.bunnings.com.au/oklahoma-joe-s-2-piece-surface-temperature-gauge_p0195601",
   "currency": "AUD",
-  "current_price": 34.0,
+  "current_price": 59.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-27",
       "price": 34.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 59.0
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 6,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

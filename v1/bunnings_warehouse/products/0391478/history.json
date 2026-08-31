@@ -3,7 +3,7 @@
   "name": "DeWalt 585ML Pure500 Plus Chemical Anchor",
   "url": "https://www.bunnings.com.au/dewalt-585ml-pure500-plus-chemical-anchor_p0391478",
   "currency": "AUD",
-  "current_price": 64.0,
+  "current_price": 66.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 64.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 66.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

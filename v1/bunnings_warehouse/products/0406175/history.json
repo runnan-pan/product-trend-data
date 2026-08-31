@@ -3,7 +3,7 @@
   "name": "DeWALT 18V 125mm Cordless Angle Grinder - Skin Only DCG416VSN-XJ",
   "url": "https://www.bunnings.com.au/dewalt-18v-125mm-cordless-angle-grinder-skin-only-dcg416vsn-xj_p0406175",
   "currency": "AUD",
-  "current_price": 453.0,
+  "current_price": 531.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 453.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 531.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

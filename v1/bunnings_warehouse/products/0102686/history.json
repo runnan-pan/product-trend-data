@@ -3,7 +3,7 @@
   "name": "Narva 12V 15A 7 Pin Flat 'Quickfit' Trailer Plug",
   "url": "https://www.bunnings.com.au/narva-12v-15a-7-pin-flat-quickfit-trailer-plug_p0102686",
   "currency": "AUD",
-  "current_price": 14.0,
+  "current_price": 15.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 14.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 15.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

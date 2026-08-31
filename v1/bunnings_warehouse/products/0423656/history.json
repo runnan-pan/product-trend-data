@@ -3,7 +3,7 @@
   "name": "DeWALT 54V 9.0Ah 230mm XR FLEXVOLT Brushless Concrete Cut Off Saw Kit",
   "url": "https://www.bunnings.com.au/dewalt-54v-9-0ah-230mm-xr-flexvolt-brushless-concrete-cut-off-saw-kit_p0423656",
   "currency": "AUD",
-  "current_price": 1299.0,
+  "current_price": 1603.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 1299.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 1603.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

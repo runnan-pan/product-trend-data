@@ -3,7 +3,7 @@
   "name": "Ametalin 48mm x 50m Insulation / Ducting Tape",
   "url": "https://www.bunnings.com.au/ametalin-48mm-x-50m-insulation-ducting-tape_p0810227",
   "currency": "AUD",
-  "current_price": 15.0,
+  "current_price": 22.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 15.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 22.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

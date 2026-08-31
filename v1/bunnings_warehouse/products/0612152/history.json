@@ -3,7 +3,7 @@
   "name": "DeWALT 18V XR 5.0Ah Li-ion Brushless 2 Piece Combo Kit DCZ294P2-XE",
   "url": "https://www.bunnings.com.au/dewalt-18v-xr-5-0ah-li-ion-brushless-2-piece-combo-kit-dcz294p2-xe_p0612152",
   "currency": "AUD",
-  "current_price": 559.0,
+  "current_price": 620.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 559.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 620.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

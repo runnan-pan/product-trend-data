@@ -3,7 +3,7 @@
   "name": "Makita 460mm 18V Pole Hedge Trimmer DUN461WZ - Skin Only",
   "url": "https://www.bunnings.com.au/makita-460mm-18v-pole-hedge-trimmer-dun461wz-skin-only_p0327149",
   "currency": "AUD",
-  "current_price": 278.0,
+  "current_price": 319.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 278.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 319.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

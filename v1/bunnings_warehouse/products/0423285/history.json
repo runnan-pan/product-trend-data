@@ -3,7 +3,7 @@
   "name": "Metabo 18V BS 18 LTX BL I Drill Driver - Skin Only 602358850",
   "url": "https://www.bunnings.com.au/metabo-18v-bs-18-ltx-bl-i-drill-driver-skin-only-602358850_p0423285",
   "currency": "AUD",
-  "current_price": 376.0,
+  "current_price": 379.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 376.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 379.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

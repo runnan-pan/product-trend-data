@@ -3,7 +3,7 @@
   "name": "Makita 300mm (12\") 18Vx2 Brushless Top Handle Chainsaw DUC306Z",
   "url": "https://www.bunnings.com.au/makita-300mm-12-18vx2-brushless-top-handle-chainsaw-duc306z_p0492129",
   "currency": "AUD",
-  "current_price": 567.0,
+  "current_price": 649.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-24",
       "price": 567.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 649.0
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 6,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

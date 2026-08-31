@@ -3,7 +3,7 @@
   "name": "Sola 1200mm Spirit Level with 3 Patented Vials and Durable End Caps",
   "url": "https://www.bunnings.com.au/sola-1200mm-spirit-level-with-3-patented-vials-and-durable-end-caps_p0671658",
   "currency": "AUD",
-  "current_price": 117.0,
+  "current_price": 129.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 117.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 129.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

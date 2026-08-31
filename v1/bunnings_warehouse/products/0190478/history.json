@@ -3,7 +3,7 @@
   "name": "DeWALT 8 x 55mm Blue Tip Zinc Hex Screw Bolt - 50 Pack",
   "url": "https://www.bunnings.com.au/dewalt-8-x-55mm-blue-tip-zinc-hex-screw-bolt-50-pack_p0190478",
   "currency": "AUD",
-  "current_price": 31.0,
+  "current_price": 60.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 31.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 60.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

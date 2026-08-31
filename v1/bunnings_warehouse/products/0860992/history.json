@@ -3,7 +3,7 @@
   "name": "Bailey 3866mm 200kg Access 14 Aluminium Ladderweld Platform Ladder",
   "url": "https://www.bunnings.com.au/bailey-3866mm-200kg-access-14-aluminium-ladderweld-platform-ladder_p0860992",
   "currency": "AUD",
-  "current_price": 6279.0,
+  "current_price": 6569.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 6279.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 6569.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

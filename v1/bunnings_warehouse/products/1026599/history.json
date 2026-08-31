@@ -3,7 +3,7 @@
   "name": "UGREEN Uno 65W GaN USB C Charger Three Port Fast Charging Block with LED Screen AU Plug",
   "url": "https://www.bunnings.com.au/ugreen-uno-65w-gan-usb-c-charger-three-port-fast-charging-block-with-led-screen-au-plug_p1026599",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 74.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,12 +11,8 @@
     {
       "date": "2026-08-25",
       "price": 74.0
-    },
-    {
-      "date": "2026-08-26",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 1,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

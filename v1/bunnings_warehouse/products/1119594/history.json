@@ -3,7 +3,7 @@
   "name": "Fagor Kore 700 Series Bench Top 4 Gas Burners  - Commercial Gas Cooktops (C-G740H)",
   "url": "https://www.bunnings.com.au/fagor-kore-700-series-bench-top-4-gas-burners-commercial-gas-cooktops-c-g740h-_p1119594",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 4363.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,12 +11,8 @@
     {
       "date": "2026-08-26",
       "price": 4363.0
-    },
-    {
-      "date": "2026-08-28",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 1,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

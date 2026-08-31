@@ -3,7 +3,7 @@
   "name": "DeWALT Collated Screw Magazine to suit Collated Drywall Screwdriver DCF620 DCF6202-XJ",
   "url": "https://www.bunnings.com.au/dewalt-collated-screw-magazine-to-suit-collated-drywall-screwdriver-dcf620-dcf6202-xj_p0612137",
   "currency": "AUD",
-  "current_price": 179.0,
+  "current_price": 181.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 179.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 181.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

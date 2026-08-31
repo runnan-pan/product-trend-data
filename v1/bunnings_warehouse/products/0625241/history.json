@@ -3,7 +3,7 @@
   "name": "DeWALT 900W 8mm (1/4\") Premium Plunge & Fixed Base Combination Router D26204K-XE",
   "url": "https://www.bunnings.com.au/dewalt-900w-8mm-1-4-premium-plunge-fixed-base-combination-router-d26204k-xe_p0625241",
   "currency": "AUD",
-  "current_price": 615.0,
+  "current_price": 621.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 615.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 621.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

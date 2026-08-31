@@ -3,7 +3,7 @@
   "name": "DeWALT 18V Li-ion XR Compact 3 x 360\u00b0 Green Beam Multiline Laser Combo Kit",
   "url": "https://www.bunnings.com.au/dewalt-18v-li-ion-xr-compact-3-x-360-green-beam-multiline-laser-combo-kit_p0368486",
   "currency": "AUD",
-  "current_price": 628.0,
+  "current_price": 759.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 628.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 759.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

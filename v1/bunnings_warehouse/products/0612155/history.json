@@ -3,7 +3,7 @@
   "name": "DeWALT 18V 6.0Ah FlexVolt Advantage XR 184mm (7\") Circular Saw Kit DCS573T1-XE",
   "url": "https://www.bunnings.com.au/dewalt-18v-6-0ah-flexvolt-advantage-xr-184mm-7-circular-saw-kit-dcs573t1-xe_p0612155",
   "currency": "AUD",
-  "current_price": 598.0,
+  "current_price": 699.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 598.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 699.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

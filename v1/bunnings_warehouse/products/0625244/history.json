@@ -3,7 +3,7 @@
   "name": "DeWALT Extension Pole To Suit DCN890 Concrete Nailer DCN8905-XJ",
   "url": "https://www.bunnings.com.au/dewalt-extension-pole-to-suit-dcn890-concrete-nailer-dcn8905-xj_p0625244",
   "currency": "AUD",
-  "current_price": 495.0,
+  "current_price": 596.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 495.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 596.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

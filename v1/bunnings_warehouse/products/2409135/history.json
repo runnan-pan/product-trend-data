@@ -3,7 +3,7 @@
   "name": "Zenith 10G x 40mm Gold Passivated Type 17 Countersunk Head Timber Screws - 50 Pack",
   "url": "https://www.bunnings.com.au/zenith-10g-x-40mm-gold-passivated-type-17-countersunk-head-timber-screws-50-pack_p2409135",
   "currency": "AUD",
-  "current_price": 8.0,
+  "current_price": 9.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 8.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 9.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

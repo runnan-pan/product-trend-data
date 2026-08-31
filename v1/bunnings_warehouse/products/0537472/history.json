@@ -3,7 +3,7 @@
   "name": "Metabo 18V Brushless High Torque Die Grinder GVB 18 LTX BL 11-7 HT Skin Only 600829850",
   "url": "https://www.bunnings.com.au/metabo-18v-brushless-high-torque-die-grinder-gvb-18-ltx-bl-11-7-ht-skin-only-600829850_p0537472",
   "currency": "AUD",
-  "current_price": 366.0,
+  "current_price": 379.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 366.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 379.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

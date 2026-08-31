@@ -3,7 +3,7 @@
   "name": "Oil Air Fuel Cabin Filter Kit For Hyundai Santa Fe Cm 2.2l Diesel D4hb 2009",
   "url": "https://www.bunnings.com.au/oil-air-fuel-cabin-filter-kit-for-hyundai-santa-fe-cm-2-2l-diesel-d4hb-2009_p1094862",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 49.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,12 +11,8 @@
     {
       "date": "2026-08-26",
       "price": 49.0
-    },
-    {
-      "date": "2026-08-28",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 1,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

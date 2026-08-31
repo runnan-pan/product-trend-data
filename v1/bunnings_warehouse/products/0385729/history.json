@@ -3,7 +3,7 @@
   "name": "Klein Tools HVAC Digital Clamp Meter, AC Auto-Ranging 400 Amp CL320",
   "url": "https://www.bunnings.com.au/klein-tools-hvac-digital-clamp-meter-ac-auto-ranging-400-amp-cl320_p0385729",
   "currency": "AUD",
-  "current_price": 72.0,
+  "current_price": 164.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -19,8 +19,12 @@
     {
       "date": "2026-08-30",
       "price": 72.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 164.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

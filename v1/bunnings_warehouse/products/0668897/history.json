@@ -3,7 +3,7 @@
   "name": "G.Skill Trident Z Neo RGB 32GB(2x16GB) DDR4-3200 CL16 Memory [F4-3200C16D-32GTZN]",
   "url": "https://www.bunnings.com.au/g-skill-trident-z-neo-rgb-32gb-2x16gb-ddr4-3200-cl16-memory-f4-3200c16d-32gtzn-_p0668897",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 465.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,12 +15,8 @@
     {
       "date": "2026-08-27",
       "price": 465.0
-    },
-    {
-      "date": "2026-08-28",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "DeWALT 54V FlexVolt XR Cordless 165mm Plunge Saw - Bare Unit DCS520NT-XJ",
   "url": "https://www.bunnings.com.au/dewalt-54v-flexvolt-xr-cordless-165mm-plunge-saw-bare-unit-dcs520nt-xj_p0625251",
   "currency": "AUD",
-  "current_price": 1068.0,
+  "current_price": 1249.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 1068.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 1249.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

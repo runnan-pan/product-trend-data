@@ -3,7 +3,7 @@
   "name": "Gorilla 2.5T 6 Wheel Heavy Duty Pallet Jack",
   "url": "https://www.bunnings.com.au/gorilla-2-5t-6-wheel-heavy-duty-pallet-jack_p0204303",
   "currency": "AUD",
-  "current_price": 578.0,
+  "current_price": 660.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 578.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 660.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

@@ -3,7 +3,7 @@
   "name": "RH CV Drive Shaft for 2001~2006 Holden Cruze YG 1.5L M15A AWD inc Chevrolet",
   "url": "https://www.bunnings.com.au/rh-cv-drive-shaft-for-2001-2006-holden-cruze-yg-1-5l-m15a-awd-inc-chevrolet_p1027741",
   "currency": "AUD",
-  "current_price": 160.0,
+  "current_price": 143.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,12 +11,8 @@
     {
       "date": "2026-08-26",
       "price": 143.0
-    },
-    {
-      "date": "2026-08-28",
-      "price": 160.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 1,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

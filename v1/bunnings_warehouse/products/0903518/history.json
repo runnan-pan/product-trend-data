@@ -3,7 +3,7 @@
   "name": "DeWALT 54V XR FLEXVOLT 125mm Angle Grinder with Side Handle Detect DCG418SHDN-XJ - Bare Unit",
   "url": "https://www.bunnings.com.au/dewalt-54v-xr-flexvolt-125mm-angle-grinder-with-side-handle-detect-dcg418shdn-xj-bare-unit_p0903518",
   "currency": "AUD",
-  "current_price": 649.0,
+  "current_price": 679.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -15,8 +15,12 @@
     {
       "date": "2026-08-30",
       "price": 649.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 679.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }

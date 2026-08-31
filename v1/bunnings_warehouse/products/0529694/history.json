@@ -3,7 +3,7 @@
   "name": "Metabo 18V 254mm Slide Mitre Saw Kit AU61425400",
   "url": "https://www.bunnings.com.au/metabo-18v-254mm-slide-mitre-saw-kit-au61425400_p0529694",
   "currency": "AUD",
-  "current_price": 990.0,
+  "current_price": 999.0,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-25",
       "price": 990.0
+    },
+    {
+      "date": "2026-08-31",
+      "price": 999.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Bunnings online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store, for Marketplace sellers, or for in-store and delivery-only promotions. Selecting a store on the site is used to check stock, not recorded here."
 }
