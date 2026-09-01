@@ -3,16 +3,20 @@
   "name": "Castrol POWER 1 ULTIMATE 4T Motorcycle Oil 10W-40 1 Litre",
   "url": "https://www.supercheapauto.com.au/p/castrol-castrol-power-1-ultimate-4t-motorcycle-oil-10w-40-1-litre/1083.html",
   "currency": "AUD",
-  "current_price": 36.49,
-  "rrp": 42.99,
+  "current_price": 42.99,
+  "rrp": null,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 36.49
+    },
+    {
+      "date": "2026-09-02",
+      "price": 42.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

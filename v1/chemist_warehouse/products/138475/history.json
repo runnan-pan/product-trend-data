@@ -3,7 +3,7 @@
   "name": "Essenzza Vegan Friendly Ear Candles 2 Pair",
   "url": "https://www.chemistwarehouse.com.au/buy/138475/essenzza-vegan-friendly-ear-candles-2-pair",
   "currency": "AUD",
-  "current_price": 11.0,
+  "current_price": 10.0,
   "rrp": 15.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 11.0
+    },
+    {
+      "date": "2026-09-02",
+      "price": 10.0
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

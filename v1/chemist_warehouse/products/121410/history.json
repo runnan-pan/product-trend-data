@@ -3,7 +3,7 @@
   "name": "No More Sweat BBT Antiperspirant Cream 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/121410/no-more-sweat-bbt-antiperspirant-cream-150ml",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 11.5,
   "rrp": 19.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 12.99
+    },
+    {
+      "date": "2026-09-02",
+      "price": 11.5
     }
   ],
-  "snapshot_days": 9,
+  "snapshot_days": 10,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

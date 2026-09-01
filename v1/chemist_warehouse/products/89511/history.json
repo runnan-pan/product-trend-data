@@ -3,7 +3,7 @@
   "name": "INC. Preworkout Plus Watermelon 300g",
   "url": "https://www.chemistwarehouse.com.au/buy/89511/inc-preworkout-plus-watermelon-300g",
   "currency": "AUD",
-  "current_price": 39.99,
+  "current_price": 35.0,
   "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 39.99
+    },
+    {
+      "date": "2026-09-02",
+      "price": 35.0
     }
   ],
-  "snapshot_days": 9,
+  "snapshot_days": 10,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
