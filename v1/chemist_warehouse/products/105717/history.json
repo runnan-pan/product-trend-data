@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/105717/molicare-men-premium-5-drops-pads-14-packs",
   "currency": "AUD",
   "current_price": 16.69,
-  "rrp": 22.26,
+  "rrp": 22.96,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 16.69
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

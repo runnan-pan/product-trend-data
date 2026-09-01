@@ -3,7 +3,7 @@
   "name": "Cook Easy 200ml Refillable Oil Spray Bottles 2Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/149926/cook-easy-200ml-refillable-oil-spray-bottles-2pack",
   "currency": "AUD",
-  "current_price": 34.99,
+  "current_price": 39.99,
   "rrp": 69.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 34.99
+    },
+    {
+      "date": "2026-09-01",
+      "price": 39.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

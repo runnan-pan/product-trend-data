@@ -3,7 +3,7 @@
   "name": "Clairol Nice N Easy 4G Dark Golden Brown Permanent Hair Colour",
   "url": "https://www.chemistwarehouse.com.au/buy/117519/clairol-nice-n-easy-4g-dark-golden-brown-permanent-hair-colour",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 9.99,
   "rrp": 16.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 13.99
+    },
+    {
+      "date": "2026-09-01",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

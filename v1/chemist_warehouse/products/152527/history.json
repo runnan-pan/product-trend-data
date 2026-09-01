@@ -3,7 +3,7 @@
   "name": "Kenmore Elite Auto-Tamping Espresso Machine With Grinder | Semi-Automatic Coffee Maker 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/152527/kenmore-elite-auto-tamping-espresso-machine-with-grinder-semi-automatic-coffee-maker-1unit",
   "currency": "AUD",
-  "current_price": 584.99,
+  "current_price": 649.99,
   "rrp": 749.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 584.99
+    },
+    {
+      "date": "2026-09-01",
+      "price": 649.99
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

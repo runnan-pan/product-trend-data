@@ -3,7 +3,7 @@
   "name": "Peachy Bums Lace Period Underwear - Midi Brief Size 8",
   "url": "https://www.chemistwarehouse.com.au/buy/153109/peachy-bums-lace-midi-period-brief-size-8",
   "currency": "AUD",
-  "current_price": 15.0,
+  "current_price": 28.95,
   "rrp": 35.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 15.0
+    },
+    {
+      "date": "2026-09-01",
+      "price": 28.95
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

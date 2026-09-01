@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/88218/molicare-premium-mobile-8-drops-extra-large-14-pack",
   "currency": "AUD",
   "current_price": 43.89,
-  "rrp": 58.52,
+  "rrp": 61.46,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 43.89
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

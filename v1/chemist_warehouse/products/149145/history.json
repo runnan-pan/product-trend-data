@@ -3,17 +3,21 @@
   "name": "Klairs Gentle Black Deep Cleansing Oil 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149145/klairs-gentle-black-deep-cleansing-oil-150ml",
   "currency": "AUD",
-  "current_price": 39.0,
-  "rrp": null,
-  "in_stock": false,
+  "current_price": 37.05,
+  "rrp": 39.0,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-24",
       "price": 39.0
+    },
+    {
+      "date": "2026-09-01",
+      "price": 37.05
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

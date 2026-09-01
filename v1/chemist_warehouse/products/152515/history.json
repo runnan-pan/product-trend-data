@@ -3,7 +3,7 @@
   "name": "Koolatron 12V Soft Cool Bag 25L, Plug In Car Fridge Grey/Black",
   "url": "https://www.chemistwarehouse.com.au/buy/152515/koolatron-12v-soft-cool-bag-25l-plug-in-car-fridge-grey-black",
   "currency": "AUD",
-  "current_price": 116.99,
+  "current_price": 129.99,
   "rrp": 139.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 116.99
+    },
+    {
+      "date": "2026-09-01",
+      "price": 129.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

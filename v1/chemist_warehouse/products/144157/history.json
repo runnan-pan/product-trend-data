@@ -3,7 +3,7 @@
   "name": "Dolce & Gabbana The One Gold Eau de Parfum 75ml",
   "url": "https://www.chemistwarehouse.com.au/buy/144157/dolce-gabbana-the-one-gold-eau-de-parfum-75ml",
   "currency": "AUD",
-  "current_price": 109.99,
+  "current_price": 129.99,
   "rrp": 264.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 109.99
+    },
+    {
+      "date": "2026-09-01",
+      "price": 129.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
