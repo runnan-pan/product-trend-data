@@ -3,16 +3,20 @@
   "name": "Ridge Ryder 4WD Drawer With Stainless Steel Slide",
   "url": "https://www.supercheapauto.com.au/p/ridge-ryder-ridge-ryder-4wd-drawer-with-stainless-steel-slide/635836.html",
   "currency": "AUD",
-  "current_price": 336.75,
-  "rrp": 449.0,
+  "current_price": 449.0,
+  "rrp": null,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 336.75
+    },
+    {
+      "date": "2026-09-02",
+      "price": 449.0
     }
   ],
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }
