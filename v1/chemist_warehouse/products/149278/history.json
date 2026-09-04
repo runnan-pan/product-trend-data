@@ -3,8 +3,8 @@
   "name": "Oikiture Kids Table and Chair Set Storage Box Toys Wooden Play Activity Desk Green & White",
   "url": "https://www.chemistwarehouse.com.au/buy/149278/oikiture-kids-table-and-chair-set-storage-box-toys-wooden-play-activity-desk-green-white",
   "currency": "AUD",
-  "current_price": 109.9,
-  "rrp": null,
+  "current_price": 104.41,
+  "rrp": 109.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 109.9
+    },
+    {
+      "date": "2026-09-04",
+      "price": 104.41
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

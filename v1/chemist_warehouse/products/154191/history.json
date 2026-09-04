@@ -3,8 +3,8 @@
   "name": "Oikiture Shoe Storage Cabinet Shoes Rack Organiser 7 Tier Shelf Rattan Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/154191/oikiture-shoe-storage-cabinet-shoes-rack-organiser-7-tier-shelf-rattan-brown",
   "currency": "AUD",
-  "current_price": 119.9,
-  "rrp": null,
+  "current_price": 113.91,
+  "rrp": 119.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 119.9
+    },
+    {
+      "date": "2026-09-04",
+      "price": 113.91
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

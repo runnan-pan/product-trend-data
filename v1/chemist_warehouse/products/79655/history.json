@@ -3,7 +3,7 @@
   "name": "Quit Nits Detangling Defence Spray 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/79655/quit-nits-detangling-defence-spray-150ml",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 9.39,
   "rrp": 13.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 10.99
+    },
+    {
+      "date": "2026-09-04",
+      "price": 9.39
     }
   ],
-  "snapshot_days": 11,
+  "snapshot_days": 12,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

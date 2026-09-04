@@ -3,7 +3,7 @@
   "name": "Kenmore Vacuum Sealer Machine, One-Touch Automatic Food Sealer Stainless Steel",
   "url": "https://www.chemistwarehouse.com.au/buy/152523/kenmore-vacuum-sealer-machine-one-touch-automatic-food-sealer-stainless-steel",
   "currency": "AUD",
-  "current_price": 125.99,
+  "current_price": 139.99,
   "rrp": 159.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 125.99
+    },
+    {
+      "date": "2026-09-04",
+      "price": 139.99
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

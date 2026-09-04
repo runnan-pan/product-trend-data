@@ -3,7 +3,7 @@
   "name": "Kenmore Digital Power Steam Iron For Clothes Blue/White",
   "url": "https://www.chemistwarehouse.com.au/buy/152522/kenmore-digital-power-steam-iron-for-clothes-blue-white",
   "currency": "AUD",
-  "current_price": 62.99,
+  "current_price": 69.99,
   "rrp": 89.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 62.99
+    },
+    {
+      "date": "2026-09-04",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 11,
+  "snapshot_days": 12,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

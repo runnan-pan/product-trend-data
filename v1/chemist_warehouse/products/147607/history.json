@@ -3,8 +3,8 @@
   "name": "Livsip Bistro Furniture Setting 3 Piece Chairs Table Patio Indoor/Outdoor Set Bronze",
   "url": "https://www.chemistwarehouse.com.au/buy/147607/livsip-bistro-furniture-setting-3-piece-chairs-table-patio-indoor-outdoor-set-bronze",
   "currency": "AUD",
-  "current_price": 199.9,
-  "rrp": null,
+  "current_price": 199.41,
+  "rrp": 199.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 199.9
+    },
+    {
+      "date": "2026-09-04",
+      "price": 199.41
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

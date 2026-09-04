@@ -3,8 +3,8 @@
   "name": "Tinseltown Christmas Tree 1.8M Xmas Trees Snowy Decorations Green 830 Tips 6 Feet",
   "url": "https://www.chemistwarehouse.com.au/buy/145191/mazam-christmas-tree-1-8m-xmas-trees-snowy-decorations-green-830-tips-6-feet",
   "currency": "AUD",
-  "current_price": 85.9,
-  "rrp": null,
+  "current_price": 73.02,
+  "rrp": 85.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 85.9
+    },
+    {
+      "date": "2026-09-04",
+      "price": 73.02
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

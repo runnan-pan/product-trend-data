@@ -3,7 +3,7 @@
   "name": "Wagner Professional Everyday Multi 90 Hard Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/108304/wagner-professional-everyday-multi-90-vegetarian-capsules",
   "currency": "AUD",
-  "current_price": 3.99,
+  "current_price": 19.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-02",
       "price": 3.99
+    },
+    {
+      "date": "2026-09-04",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 11,
+  "snapshot_days": 12,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

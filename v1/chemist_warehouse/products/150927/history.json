@@ -3,8 +3,8 @@
   "name": "Oikiture 4 Pieces Kids Sofa Play Couch Modular Lounge Cushion Convertible Playset Grey",
   "url": "https://www.chemistwarehouse.com.au/buy/150927/oikiture-4-pieces-kids-sofa-play-couch-modular-lounge-cushion-convertible-playset-grey",
   "currency": "AUD",
-  "current_price": 189.9,
-  "rrp": null,
+  "current_price": 170.91,
+  "rrp": 189.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 189.9
+    },
+    {
+      "date": "2026-09-04",
+      "price": 170.91
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

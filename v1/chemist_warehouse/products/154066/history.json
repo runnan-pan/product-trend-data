@@ -3,8 +3,8 @@
   "name": "Karma Rub Natural Liquid Magnesium 250ml 2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/154066/karma-rub-natural-liquid-magnesium-250ml-2-pack",
   "currency": "AUD",
-  "current_price": 56.0,
-  "rrp": null,
+  "current_price": 44.8,
+  "rrp": 56.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 56.0
+    },
+    {
+      "date": "2026-09-04",
+      "price": 44.8
     }
   ],
-  "snapshot_days": 11,
+  "snapshot_days": 12,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
