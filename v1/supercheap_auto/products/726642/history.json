@@ -1,18 +1,22 @@
 {
   "product_id": "726642",
-  "name": "Hardkorr XD Series 10in Single Row LED Light Bar",
-  "url": "https://www.supercheapauto.com.au/p/hardkorr-hardkorr-xd-series-10in-single-row-led-light-bar/726642.html",
+  "name": "HardKorr XD-Series 10\" Single Row Light Bar",
+  "url": "https://www.supercheapauto.com.au/p/hardkorr-hardkorr-xd-series-10-single-row-light-bar/726642.html",
   "currency": "AUD",
-  "current_price": 129.99,
-  "rrp": null,
+  "current_price": 97.49,
+  "rrp": 129.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-09-04",
       "price": 129.99
+    },
+    {
+      "date": "2026-09-05",
+      "price": 97.49
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

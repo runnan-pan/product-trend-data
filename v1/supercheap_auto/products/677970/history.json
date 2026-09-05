@@ -3,7 +3,7 @@
   "name": "Prorack\u00a0Aero\u00a0Deck\u00a0Crossbar Adapter\u00a0Kit\u00a0(6 Pack)",
   "url": "https://www.supercheapauto.com.au/p/prorack-prorack%C2%A0aero%C2%A0deck%C2%A0crossbar-adapter%C2%A0kit%C2%A06-pack/677970.html",
   "currency": "AUD",
-  "current_price": 90.0,
+  "current_price": 67.5,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 90.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 67.5
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

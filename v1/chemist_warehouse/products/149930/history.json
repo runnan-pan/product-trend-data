@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/149930/gaviscon-dual-action-peppermint-64-chewable-tablets",
   "currency": "AUD",
   "current_price": 28.99,
-  "rrp": 29.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 28.99
     }
   ],
-  "snapshot_days": 12,
+  "snapshot_days": 13,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,16 +3,20 @@
   "name": "ToolPRO Door Trim Remover Set 5 Piece",
   "url": "https://www.supercheapauto.com.au/p/toolpro-toolpro-door-trim-remover-set-5-piece/282096.html",
   "currency": "AUD",
-  "current_price": 29.99,
-  "rrp": null,
+  "current_price": 22.49,
+  "rrp": 29.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 29.99
+    },
+    {
+      "date": "2026-09-05",
+      "price": 22.49
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

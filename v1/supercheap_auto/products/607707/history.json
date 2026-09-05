@@ -3,8 +3,8 @@
   "name": "XTM Utility Battery U27 MF",
   "url": "https://www.supercheapauto.com.au/p/xtm-4x4-accessories-xtm-utility-battery-u27-mf/607707.html",
   "currency": "AUD",
-  "current_price": 155.0,
-  "rrp": null,
+  "current_price": 116.25,
+  "rrp": 174.99,
   "in_stock": true,
   "source": "live",
   "changes": [
@@ -15,8 +15,12 @@
     {
       "date": "2026-09-01",
       "price": 155.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 116.25
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

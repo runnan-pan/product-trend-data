@@ -3,8 +3,8 @@
   "name": "Feat By You ViTassie Vita Cica Refreshing Gel Cream 80ml",
   "url": "https://www.chemistwarehouse.com.au/buy/150974/feat-by-you-vitassie-vita-cica-refreshing-gel-cream-80ml",
   "currency": "AUD",
-  "current_price": 33.0,
-  "rrp": null,
+  "current_price": 31.35,
+  "rrp": 33.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 33.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 31.35
     }
   ],
-  "snapshot_days": 12,
+  "snapshot_days": 13,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

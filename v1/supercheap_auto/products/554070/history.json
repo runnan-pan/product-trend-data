@@ -1,9 +1,9 @@
 {
   "product_id": "554070",
-  "name": "Cabin Crew Replacement Metal Plates - 2pk Grey & White",
-  "url": "https://www.supercheapauto.com.au/p/cabin-crew-cabin-crew-replacement-metal-plates---2pk-grey-white/554070.html",
+  "name": "Cabin Crew Replacement Metal Plates - 2pk Grey and White",
+  "url": "https://www.supercheapauto.com.au/p/cabin-crew-cabin-crew-replacement-metal-plates---2pk-grey-and-white/554070.html",
   "currency": "AUD",
-  "current_price": 5.0,
+  "current_price": 3.75,
   "rrp": null,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 5.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 3.75
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

@@ -1,9 +1,9 @@
 {
   "product_id": "656489",
-  "name": "Camps 12 Australia Wide Free & Budget Campsite Book: A4 Standard Edition",
-  "url": "https://www.supercheapauto.com.au/p/hema-camps-12-australia-wide-free-budget-campsite-book-a4-standard-edition/656489.html",
+  "name": "Camps 12 Australia Wide Free & Budget Campsite Book: A4 Edition",
+  "url": "https://www.supercheapauto.com.au/p/hema-camps-12-australia-wide-free-budget-campsite-book-a4-edition/656489.html",
   "currency": "AUD",
-  "current_price": 59.0,
+  "current_price": 44.25,
   "rrp": 82.99,
   "in_stock": true,
   "source": "live",
@@ -11,8 +11,12 @@
     {
       "date": "2026-08-26",
       "price": 59.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 44.25
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

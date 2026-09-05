@@ -1,18 +1,22 @@
 {
   "product_id": "711924",
-  "name": "Laser 7in Wireless Smart Monitor",
-  "url": "https://www.supercheapauto.com.au/p/laser-laser-7in-wireless-smart-monitor/711924.html",
+  "name": "Laser 7\" Wireless Smart Monitor NAVC-7CP-931",
+  "url": "https://www.supercheapauto.com.au/p/laser-laser-7-wireless-smart-monitor-navc-7cp-931/711924.html",
   "currency": "AUD",
-  "current_price": 169.99,
-  "rrp": null,
+  "current_price": 127.49,
+  "rrp": 169.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 169.99
+    },
+    {
+      "date": "2026-09-05",
+      "price": 127.49
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

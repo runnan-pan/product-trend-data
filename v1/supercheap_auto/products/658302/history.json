@@ -1,18 +1,22 @@
 {
   "product_id": "658302",
-  "name": "Maxtrax Maxlox 30 Padlock Dual Pack",
-  "url": "https://www.supercheapauto.com.au/p/maxtrax-maxtrax-maxlox-30-padlock-dual-pack/658302.html",
+  "name": "Maxtrax Padlock Maxlox 30 Dual Pack - MTXML30D",
+  "url": "https://www.supercheapauto.com.au/p/maxtrax-maxtrax-padlock-maxlox-30-dual-pack---mtxml30d/658302.html",
   "currency": "AUD",
-  "current_price": 44.99,
-  "rrp": null,
+  "current_price": 33.74,
+  "rrp": 44.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 44.99
+    },
+    {
+      "date": "2026-09-05",
+      "price": 33.74
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

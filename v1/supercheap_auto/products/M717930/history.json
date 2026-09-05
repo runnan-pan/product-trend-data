@@ -3,16 +3,20 @@
   "name": "ECOXGEAR Defender 12V Speaker Black",
   "url": "https://www.supercheapauto.com.au/p/ecoxgear-ecoxgear-defender-12v-speaker/M717930.html",
   "currency": "AUD",
-  "current_price": 499.0,
-  "rrp": null,
+  "current_price": 374.25,
+  "rrp": 499.0,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-09-02",
       "price": 499.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 374.25
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

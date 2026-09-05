@@ -3,16 +3,20 @@
   "name": "Narva LED Rear Stop/Tail Indicator Lamp with 0.5m Cable - 97202",
   "url": "https://www.supercheapauto.com.au/p/narva-narva-led-rear-stop-tail-indicator-lamp-with-0.5m-cable---97202/712866.html",
   "currency": "AUD",
-  "current_price": 119.99,
-  "rrp": null,
+  "current_price": 89.99,
+  "rrp": 119.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 119.99
+    },
+    {
+      "date": "2026-09-05",
+      "price": 89.99
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

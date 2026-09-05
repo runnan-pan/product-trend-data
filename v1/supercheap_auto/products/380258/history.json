@@ -3,16 +3,20 @@
   "name": "Ridge Ryder Electric Winch 12V 12000lb",
   "url": "https://www.supercheapauto.com.au/p/ridge-ryder-ridge-ryder-electric-winch-12v-12000lb/380258.html",
   "currency": "AUD",
-  "current_price": 549.0,
-  "rrp": null,
+  "current_price": 411.75,
+  "rrp": 549.0,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 549.0
+    },
+    {
+      "date": "2026-09-05",
+      "price": 411.75
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

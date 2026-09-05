@@ -3,16 +3,20 @@
   "name": "Nulon APEX+ 5W-20 ECO-C5 Engine Oil 5 Litre",
   "url": "https://www.supercheapauto.com.au/p/nulon-nulon-apex-5w-20-eco-c5-engine-oil-5-litre/348774.html",
   "currency": "AUD",
-  "current_price": 110.99,
-  "rrp": null,
+  "current_price": 83.24,
+  "rrp": 110.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-26",
       "price": 110.99
+    },
+    {
+      "date": "2026-09-05",
+      "price": 83.24
     }
   ],
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }
