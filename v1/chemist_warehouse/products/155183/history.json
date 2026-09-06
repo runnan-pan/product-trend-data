@@ -3,7 +3,7 @@
   "name": "Ocean Road Every Day Foaming Face Wash 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/155183/ocean-road-every-day-foaming-face-wash-100ml",
   "currency": "AUD",
-  "current_price": 11.92,
+  "current_price": 13.9,
   "rrp": 14.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.92
+    },
+    {
+      "date": "2026-09-06",
+      "price": 13.9
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 14,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

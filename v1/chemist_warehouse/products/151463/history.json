@@ -3,7 +3,7 @@
   "name": "Ocean Road Black Body Lotion 400ml",
   "url": "https://www.chemistwarehouse.com.au/buy/151463/ocean-road-black-body-lotion-400ml",
   "currency": "AUD",
-  "current_price": 31.92,
+  "current_price": 38.9,
   "rrp": 39.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 31.92
+    },
+    {
+      "date": "2026-09-06",
+      "price": 38.9
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 14,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
