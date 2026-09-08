@@ -3,7 +3,7 @@
   "name": "A2 Gentle Gold Premium Follow-on Formula Stage 2 From 6 Months 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/136099/a2-gentle-gold-premium-follow-on-formula-stage-2-from-6-months-800g",
   "currency": "AUD",
-  "current_price": 31.99,
+  "current_price": 29.49,
   "rrp": 32.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 31.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 29.49
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Amazonia RAW Gentle Digest Chocolate 1kg",
   "url": "https://www.chemistwarehouse.com.au/buy/140036/amazonia-raw-gentle-digest-chocolate-1kg",
   "currency": "AUD",
-  "current_price": 59.99,
+  "current_price": 45.99,
   "rrp": 78.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 59.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 45.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

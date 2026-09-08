@@ -3,7 +3,7 @@
   "name": "Embryolisse Hydra Serum 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/106815/embryolisse-hydra-serum-30ml",
   "currency": "AUD",
-  "current_price": 44.69,
+  "current_price": 55.99,
   "rrp": 66.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 44.69
+    },
+    {
+      "date": "2026-09-07",
+      "price": 55.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

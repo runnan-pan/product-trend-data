@@ -3,7 +3,7 @@
   "name": "Earth Choice Laundry Liquid Ultra Concentrate 1 litre",
   "url": "https://www.chemistwarehouse.com.au/buy/87264/earth-choice-laundry-liquid-ultra-concentrate-1-litre",
   "currency": "AUD",
-  "current_price": 6.99,
+  "current_price": 5.59,
   "rrp": 8.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 6.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 5.59
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

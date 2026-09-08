@@ -3,7 +3,7 @@
   "name": "Philips Sonicare 3100 Electric Toothbrush White",
   "url": "https://www.chemistwarehouse.com.au/buy/167577/philips-sonicare-3100-electric-toothbrush-white",
   "currency": "AUD",
-  "current_price": 79.5,
+  "current_price": 135.99,
   "rrp": 159.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-26",
       "price": 79.5
+    },
+    {
+      "date": "2026-09-07",
+      "price": 135.99
     }
   ],
-  "snapshot_days": 12,
+  "snapshot_days": 14,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

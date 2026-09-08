@@ -3,7 +3,7 @@
   "name": "Blackmores Odourless Fish Oil 1000mg 500 Capsules Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/66423/blackmores-odourless-fish-oil-1000mg-500-capsules-exclusive-size",
   "currency": "AUD",
-  "current_price": 51.99,
+  "current_price": 43.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 51.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 43.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

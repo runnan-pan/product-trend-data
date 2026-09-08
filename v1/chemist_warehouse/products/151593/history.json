@@ -3,7 +3,7 @@
   "name": "Nema Aqua Transparent Island Film Dressing Non-Adherent Pad Waterproof Sterile 18 x 8.2cm 5 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/151593/nema-aqua-transparent-island-film-dressing-non-adherent-pad-waterproof-sterile-18-x-8-2cm-5-pieces-box",
   "currency": "AUD",
-  "current_price": 18.49,
+  "current_price": 16.99,
   "rrp": 20.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 18.49
+    },
+    {
+      "date": "2026-09-07",
+      "price": 16.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

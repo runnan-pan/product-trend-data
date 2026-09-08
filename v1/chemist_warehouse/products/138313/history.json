@@ -3,7 +3,7 @@
   "name": "Livingstone Industrial First Aid Kit National Wall Mountable Metal Case Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/138313/livingstone-industrial-first-aid-kit-national-wall-mountable-metal-case-bundle",
   "currency": "AUD",
-  "current_price": 352.99,
+  "current_price": 329.99,
   "rrp": 391.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 352.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 329.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

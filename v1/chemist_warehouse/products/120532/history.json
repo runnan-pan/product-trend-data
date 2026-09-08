@@ -3,7 +3,7 @@
   "name": "Alula Gold Allergy Rice Infant Formula 0-12 Months 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/120532/alula-gold-allergy-rice-infant-formula-0-12-months-800g",
   "currency": "AUD",
-  "current_price": 41.85,
+  "current_price": 44.99,
   "rrp": 46.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 41.85
+    },
+    {
+      "date": "2026-09-07",
+      "price": 44.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

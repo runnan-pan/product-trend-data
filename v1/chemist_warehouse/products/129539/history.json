@@ -3,7 +3,7 @@
   "name": "Maybelline Superstay Skin Tint Foundation 36",
   "url": "https://www.chemistwarehouse.com.au/buy/129539/maybelline-superstay-skin-tint-foundation-36",
   "currency": "AUD",
-  "current_price": 31.99,
+  "current_price": 18.99,
   "rrp": 37.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 31.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

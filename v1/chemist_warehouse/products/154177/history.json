@@ -3,7 +3,7 @@
   "name": "Little Bellies Organic Mango Yoghurt Pick Up Sticks 16g",
   "url": "https://www.chemistwarehouse.com.au/buy/154177/little-bellies-organic-mango-yoghurt-pick-up-sticks-16g",
   "currency": "AUD",
-  "current_price": 3.0,
+  "current_price": 3.49,
   "rrp": 3.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 3.0
+    },
+    {
+      "date": "2026-09-07",
+      "price": 3.49
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

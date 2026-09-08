@@ -3,7 +3,7 @@
   "name": "Healthy Care Magnesium Oil 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/74017/healthy-care-magnesium-oil-250ml",
   "currency": "AUD",
-  "current_price": 17.99,
+  "current_price": 10.79,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 17.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 10.79
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

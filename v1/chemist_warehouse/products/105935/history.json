@@ -3,8 +3,8 @@
   "name": "Bioglan Vitamin D3 1000IU 250 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/105935/bioglan-vitamin-d3-1000iu-250-capsules",
   "currency": "AUD",
-  "current_price": 13.99,
-  "rrp": 19.95,
+  "current_price": 9.97,
+  "rrp": 19.89,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 13.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 9.97
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Oricom Baby FS300 Non-Contact Infrared Thermometer and 02SD Duck Digital Bath and Room Thermometer Bundle (FS300SD) Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/134875/oricom-baby-fs300-non-contact-infrared-thermometer-and-02sd-duck-digital-bath-and-room-thermometer-bundle-fs300sd-pack",
   "currency": "AUD",
-  "current_price": 39.0,
+  "current_price": 69.0,
   "rrp": 92.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 39.0
+    },
+    {
+      "date": "2026-09-07",
+      "price": 69.0
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

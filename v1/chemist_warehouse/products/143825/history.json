@@ -3,7 +3,7 @@
   "name": "Go Healthy Mussel NZ Green Lipped 19000mg 100 Hard Capsule Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/143825/go-healthy-mussel-nz-green-lipped-19000mg-100-hard-capsule-exclusive-size",
   "currency": "AUD",
-  "current_price": 33.99,
+  "current_price": 28.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 33.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 28.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "BSc x Violet Crumble Protein Powder Choc Mint 700g",
   "url": "https://www.chemistwarehouse.com.au/buy/142297/bsc-x-violet-crumble-protein-powder-choc-mint-700g",
   "currency": "AUD",
-  "current_price": 50.0,
+  "current_price": 38.89,
   "rrp": 64.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 50.0
+    },
+    {
+      "date": "2026-09-07",
+      "price": 38.89
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

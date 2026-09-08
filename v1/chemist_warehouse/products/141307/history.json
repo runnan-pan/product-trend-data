@@ -3,7 +3,7 @@
   "name": "Tints of Nature 3 in 1 Lightener Kit",
   "url": "https://www.chemistwarehouse.com.au/buy/141307/tints-of-nature-3-in-1-lightener-kit",
   "currency": "AUD",
-  "current_price": 31.95,
+  "current_price": 28.85,
   "rrp": 33.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 31.95
+    },
+    {
+      "date": "2026-09-07",
+      "price": 28.85
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Tints of Nature 4M Medium Mahogany Brown Permanent Hair Dye 130ml",
   "url": "https://www.chemistwarehouse.com.au/buy/141310/tints-of-nature-4m-medium-mahogany-brown-permanent-hair-dye-130ml",
   "currency": "AUD",
-  "current_price": 28.95,
+  "current_price": 25.45,
   "rrp": 29.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 28.95
+    },
+    {
+      "date": "2026-09-07",
+      "price": 25.45
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

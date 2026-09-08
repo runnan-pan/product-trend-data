@@ -3,7 +3,7 @@
   "name": "Lady Jayne Snagless Elastics, Black, Pk50",
   "url": "https://www.chemistwarehouse.com.au/buy/62416/lady-jayne-snagless-elastics-black-pk50",
   "currency": "AUD",
-  "current_price": 4.99,
+  "current_price": 3.39,
   "rrp": 5.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 4.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 3.39
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

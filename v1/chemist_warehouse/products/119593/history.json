@@ -3,8 +3,8 @@
   "name": "Cancer Council SPF 50 Sport Dry Touch & Sweat Resistant 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/119593/cancer-council-spf-50-sport-dry-touch-sweat-resistant-200ml",
   "currency": "AUD",
-  "current_price": 13.69,
-  "rrp": 19.95,
+  "current_price": 12.99,
+  "rrp": 21.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 13.69
+    },
+    {
+      "date": "2026-09-07",
+      "price": 12.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

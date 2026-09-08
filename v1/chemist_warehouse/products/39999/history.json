@@ -3,7 +3,7 @@
   "name": "Nicabate Clear Patch Quit Smoking Step 2 14mg 7 Patches",
   "url": "https://www.chemistwarehouse.com.au/buy/39999/nicabate-clear-patch-quit-smoking-step-2-14mg-7-patches",
   "currency": "AUD",
-  "current_price": 25.99,
+  "current_price": 30.99,
   "rrp": 33.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 25.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 30.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

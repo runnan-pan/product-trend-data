@@ -3,7 +3,7 @@
   "name": "Nature's Sunshine Fenugreek 100Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/153666/nature-s-sunshine-fenugreek-100capsules",
   "currency": "AUD",
-  "current_price": 41.01,
+  "current_price": 38.6,
   "rrp": 48.25,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 41.01
+    },
+    {
+      "date": "2026-09-07",
+      "price": 38.6
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

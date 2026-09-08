@@ -3,7 +3,7 @@
   "name": "Livingstone Antiseptic Towelette Wipe 14.5 x 12.6cm 50 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/148829/livingstone-antiseptic-towelette-wipe-14-5-x-12-6cm-50-pieces-box",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 18.99,
   "rrp": 24.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 21.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

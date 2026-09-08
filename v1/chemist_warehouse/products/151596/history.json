@@ -3,7 +3,7 @@
   "name": "Livingstone Adhesive Joint Knuckle Dressing Non-Adherent Pad Medium 5 x 4.5cm 50 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/151596/livingstone-adhesive-joint-knuckle-dressing-non-adherent-pad-medium-5-x-4-5cm-50-pieces-box",
   "currency": "AUD",
-  "current_price": 14.49,
+  "current_price": 13.49,
   "rrp": 15.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 14.49
+    },
+    {
+      "date": "2026-09-07",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Wagner Vegan Glucosamine 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/105940/wagner-vegan-glucosamine-60-capsules",
   "currency": "AUD",
-  "current_price": 11.04,
+  "current_price": 8.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.04
+    },
+    {
+      "date": "2026-09-07",
+      "price": 8.49
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Comvita Propolis Elixir 200ml (Not For Sale In WA)",
   "url": "https://www.chemistwarehouse.com.au/buy/63958/comvita-propolis-elixir-200ml-not-for-sale-in-wa",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 14.25,
   "rrp": 28.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 18.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 14.25
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

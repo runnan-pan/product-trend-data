@@ -3,7 +3,7 @@
   "name": "NIVEA MEN Pure Impact 3-IN-1 Shower Gel Body Wash 500ml",
   "url": "https://www.chemistwarehouse.com.au/buy/84637/nivea-men-pure-impact-3-in-1-shower-gel-body-wash-500ml",
   "currency": "AUD",
-  "current_price": 7.99,
+  "current_price": 5.39,
   "rrp": 9.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 7.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 5.39
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

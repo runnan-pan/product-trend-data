@@ -3,7 +3,7 @@
   "name": "L'Oreal Paris Color Riche Le Lip Crayon 630 Beige",
   "url": "https://www.chemistwarehouse.com.au/buy/77071/l-oreal-paris-color-riche-lipliner-630-beige",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 14.99,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-08-26",
       "price": 8.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "WelleCo The Super Elixir Blood Orange 300g Jar",
   "url": "https://www.chemistwarehouse.com.au/buy/141611/welleco-the-super-elixir-blood-orange-300g-jar",
   "currency": "AUD",
-  "current_price": 69.49,
+  "current_price": 74.99,
   "rrp": 99.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 69.49
+    },
+    {
+      "date": "2026-09-07",
+      "price": 74.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

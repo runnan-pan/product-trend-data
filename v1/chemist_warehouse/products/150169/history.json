@@ -3,7 +3,7 @@
   "name": "Dr.Scholls Travel and Compression Socks Natural Small",
   "url": "https://www.chemistwarehouse.com.au/buy/150169/scholl-travel-and-compression-socks-natural-small",
   "currency": "AUD",
-  "current_price": 30.39,
+  "current_price": 36.99,
   "rrp": 43.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 30.39
+    },
+    {
+      "date": "2026-09-07",
+      "price": 36.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

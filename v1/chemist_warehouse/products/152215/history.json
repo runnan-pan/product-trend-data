@@ -3,7 +3,7 @@
   "name": "Livingstone Sports First Aid Kit Refill Only Small Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/152215/livingstone-sports-first-aid-kit-refill-only-small-bundle",
   "currency": "AUD",
-  "current_price": 70.49,
+  "current_price": 69.99,
   "rrp": 77.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 70.49
+    },
+    {
+      "date": "2026-09-07",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

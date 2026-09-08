@@ -3,7 +3,7 @@
   "name": "Raffertys Garden 10+ Months Strawberry Yoghurt Buttons Baby 28g",
   "url": "https://www.chemistwarehouse.com.au/buy/132714/raffertys-garden-12-months-strawberry-yoghurt-buttons-baby-28g",
   "currency": "AUD",
-  "current_price": 5.99,
+  "current_price": 5.4,
   "rrp": 6.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 5.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 5.4
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

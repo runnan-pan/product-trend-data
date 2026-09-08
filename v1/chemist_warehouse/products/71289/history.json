@@ -3,7 +3,7 @@
   "name": "Palmer's Cocoa Butter Skin Therapy Oil For Face 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/71289/palmer-s-cocoa-butter-skin-therapy-oil-for-face-30ml",
   "currency": "AUD",
-  "current_price": 12.49,
+  "current_price": 21.99,
   "rrp": 24.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 12.49
+    },
+    {
+      "date": "2026-09-07",
+      "price": 21.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

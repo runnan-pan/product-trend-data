@@ -3,7 +3,7 @@
   "name": "Nurofen Quickzorb Pain Relief Caplets 24 pack Ibuprofen Lysine 342mg",
   "url": "https://www.chemistwarehouse.com.au/buy/91535/nurofen-quickzorb-pain-relief-caplets-24-pack-ibuprofen-lysine-342mg",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 7.99,
   "rrp": 9.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 8.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 7.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

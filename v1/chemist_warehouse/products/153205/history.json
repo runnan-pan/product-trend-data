@@ -3,7 +3,7 @@
   "name": "Gillette Proglide Manual Razor +10 Blades",
   "url": "https://www.chemistwarehouse.com.au/buy/153205/gillette-proglide-manual-razor-10-blades",
   "currency": "AUD",
-  "current_price": 68.99,
+  "current_price": 57.39,
   "rrp": 82.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 68.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 57.39
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

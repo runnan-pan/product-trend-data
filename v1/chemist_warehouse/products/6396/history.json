@@ -12,8 +12,16 @@
     {
       "date": "2026-08-25",
       "price": 7.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 6.99
+    },
+    {
+      "date": "2026-09-08",
+      "price": 7.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

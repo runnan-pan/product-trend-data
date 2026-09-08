@@ -3,7 +3,7 @@
   "name": "PainPod Heat",
   "url": "https://www.chemistwarehouse.com.au/buy/129263/painpod-heat",
   "currency": "AUD",
-  "current_price": 239.99,
+  "current_price": 222.75,
   "rrp": 297.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 239.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 222.75
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

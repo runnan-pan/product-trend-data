@@ -3,7 +3,7 @@
   "name": "Sally Hansen Insta-Dri Nail Colour Augmented Red-ality  9.17ml",
   "url": "https://www.chemistwarehouse.com.au/buy/136886/sally-hansen-insta-dri-nail-colour-augmented-red-ality-9-17ml",
   "currency": "AUD",
-  "current_price": 7.69,
+  "current_price": 6.47,
   "rrp": 12.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 7.69
+    },
+    {
+      "date": "2026-09-07",
+      "price": 6.47
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

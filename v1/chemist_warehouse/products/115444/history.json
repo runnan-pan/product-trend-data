@@ -3,7 +3,7 @@
   "name": "Palmer's Cocoa Butter Hand Cream Tube 96g",
   "url": "https://www.chemistwarehouse.com.au/buy/115444/palmer-s-cocoa-butter-hand-cream-tube-96g",
   "currency": "AUD",
-  "current_price": 4.24,
+  "current_price": 4.99,
   "rrp": 8.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 4.24
+    },
+    {
+      "date": "2026-09-07",
+      "price": 4.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

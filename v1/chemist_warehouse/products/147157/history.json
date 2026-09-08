@@ -3,7 +3,7 @@
   "name": "Teddi Lab by Unichi Calcium Vitamin D3 Gummy 60s x3 - Strong Bone, Muscle & Teeth Packs",
   "url": "https://www.chemistwarehouse.com.au/buy/147157/unichi-calcium-vitamin-d3-gummy-x3-packs",
   "currency": "AUD",
-  "current_price": 87.99,
+  "current_price": 83.9,
   "rrp": 119.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 87.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 83.9
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

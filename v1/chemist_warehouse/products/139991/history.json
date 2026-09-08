@@ -3,7 +3,7 @@
   "name": "Hero Mighty Patch Nose Contoured Pimple Patches 8 pack",
   "url": "https://www.chemistwarehouse.com.au/buy/139991/hero-mighty-patch-nose-pimple-patches-8pk",
   "currency": "AUD",
-  "current_price": 12.39,
+  "current_price": 17.99,
   "rrp": 19.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 12.39
+    },
+    {
+      "date": "2026-09-07",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Gillette Venus Smooth Sensitive Blade Refills 4 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/109224/gillette-venus-smooth-sensitive-blade-refills-4-pack",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 13.99,
   "rrp": 20.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 16.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 13.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

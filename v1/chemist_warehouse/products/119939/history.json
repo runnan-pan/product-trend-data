@@ -3,7 +3,7 @@
   "name": "Pentavite Multivitamin + Iron Kids Liquid Lemon Lime 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/119939/pentavite-multivitamin-iron-kids-liquid-lemon-lime-200ml-new",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 11.99,
   "rrp": 23.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 21.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

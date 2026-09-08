@@ -3,7 +3,7 @@
   "name": "Maybelline Fit Me Matte Poreless Powder 220 Natural Beige",
   "url": "https://www.chemistwarehouse.com.au/buy/91824/maybelline-fit-me-matte-poreless-powder-220-natural-beige",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 9.99,
   "rrp": 19.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 16.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

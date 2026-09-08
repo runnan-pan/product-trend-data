@@ -3,7 +3,7 @@
   "name": "Ethical Nutrients Mega Magnesium 450g Powder Raspberry",
   "url": "https://www.chemistwarehouse.com.au/buy/80217/ethical-nutrients-mega-magnesium-450g-powder-raspberry",
   "currency": "AUD",
-  "current_price": 66.99,
+  "current_price": 43.97,
   "rrp": 87.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 66.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 43.97
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Gillette Venus Comfort Glide White Tea Blade Refills 8 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/109201/gillette-venus-comfort-glide-white-tea-blade-refills-8-pack",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 29.39,
   "rrp": 41.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 35.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 29.39
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

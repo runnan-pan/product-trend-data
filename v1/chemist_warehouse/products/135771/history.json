@@ -3,7 +3,7 @@
   "name": "Movicol Powder Lemon Lime 13g Sachets 360 (12 x 30) - Macrogol-3350 + Sodium Chloride + Bicarbonate + Potassium Chloride",
   "url": "https://www.chemistwarehouse.com.au/buy/135771/movicol-powder-lemon-lime-13g-sachets-360-12-x-30-macrogol-3350-sodium-chloride-bicarbonate-potassium-chloride",
   "currency": "AUD",
-  "current_price": 191.88,
+  "current_price": 227.88,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 191.88
+    },
+    {
+      "date": "2026-09-07",
+      "price": 227.88
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

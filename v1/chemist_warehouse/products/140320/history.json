@@ -3,7 +3,7 @@
   "name": "Covergirl Clean Lip Color Lipstick #400 Crimson Doll",
   "url": "https://www.chemistwarehouse.com.au/buy/140320/covergirl-clean-lip-color-lipstick-400-crimson-doll",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 10.97,
   "rrp": 21.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 12.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 10.97
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

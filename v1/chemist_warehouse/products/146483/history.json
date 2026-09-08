@@ -3,8 +3,8 @@
   "name": "Hidow Pro Touch 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/146483/hidow-pro-touch-1unit",
   "currency": "AUD",
-  "current_price": 999.0,
-  "rrp": null,
+  "current_price": 749.25,
+  "rrp": 999.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 999.0
+    },
+    {
+      "date": "2026-09-07",
+      "price": 749.25
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

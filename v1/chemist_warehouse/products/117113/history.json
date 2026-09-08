@@ -3,7 +3,7 @@
   "name": "Nude By Nature Kabuki Brush 07",
   "url": "https://www.chemistwarehouse.com.au/buy/117113/nude-by-nature-kabuki-brush-07-new",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 15.97,
   "rrp": 31.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 21.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 15.97
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

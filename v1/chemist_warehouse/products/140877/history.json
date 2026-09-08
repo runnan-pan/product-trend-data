@@ -3,7 +3,7 @@
   "name": "Nicorette Gum 4mg Classic 75 Pieces",
   "url": "https://www.chemistwarehouse.com.au/buy/140877/nicorette-gum-4mg-classic-75-pieces",
   "currency": "AUD",
-  "current_price": 30.99,
+  "current_price": 29.99,
   "rrp": 32.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-08-31",
       "price": 30.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

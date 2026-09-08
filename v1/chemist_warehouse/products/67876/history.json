@@ -3,7 +3,7 @@
   "name": "BabyLove Nappy Pants Size 6 (15-25kg) 22 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/67876/babylove-nappy-pants-size-6-15-25kg-22-pack",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 11.99,
   "rrp": 20.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

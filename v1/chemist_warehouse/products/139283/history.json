@@ -3,8 +3,8 @@
   "name": "Redken Acidic Bonding Concentrate Leave-In Treatment 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/139283/redken-acidic-bonding-concentrate-leave-in-treatment-150ml",
   "currency": "AUD",
-  "current_price": 40.39,
-  "rrp": 58.0,
+  "current_price": 48.99,
+  "rrp": 60.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 40.39
+    },
+    {
+      "date": "2026-09-07",
+      "price": 48.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

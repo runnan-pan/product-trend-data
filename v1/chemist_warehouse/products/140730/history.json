@@ -3,7 +3,7 @@
   "name": "Clevinger 6cm Memory Foam Mattress Topper with Bamboo Cover - Double 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/140730/clevinger-6cm-memory-foam-mattress-topper-with-bamboo-cover-double-1pc",
   "currency": "AUD",
-  "current_price": 159.95,
+  "current_price": 169.95,
   "rrp": 399.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 159.95
+    },
+    {
+      "date": "2026-09-07",
+      "price": 169.95
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

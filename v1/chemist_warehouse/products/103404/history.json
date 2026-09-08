@@ -3,7 +3,7 @@
   "name": "B.Box Silicone Fresh Food Feeder Blush",
   "url": "https://www.chemistwarehouse.com.au/buy/103404/b-box-silicone-fresh-food-feeder-blush",
   "currency": "AUD",
-  "current_price": 10.46,
+  "current_price": 8.37,
   "rrp": 13.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 10.46
+    },
+    {
+      "date": "2026-09-07",
+      "price": 8.37
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

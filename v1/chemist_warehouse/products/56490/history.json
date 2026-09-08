@@ -3,7 +3,7 @@
   "name": "Olay Total Effects 7 in One Touch of Foundation Face Cream BB Cr\u00e8me SPF 15 50g",
   "url": "https://www.chemistwarehouse.com.au/buy/56490/olay-total-effects-7-in-one-touch-of-foundation-face-cream-bb-creme-spf-15-50g",
   "currency": "AUD",
-  "current_price": 23.99,
+  "current_price": 19.99,
   "rrp": 39.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 23.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Mustela Stelatopia+ Lipid Replenishing Cream 300ml",
   "url": "https://www.chemistwarehouse.com.au/buy/138404/mustela-stelatopia-lipid-replenishing-cream-300ml",
   "currency": "AUD",
-  "current_price": 34.99,
+  "current_price": 27.61,
   "rrp": 39.45,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 34.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 27.61
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

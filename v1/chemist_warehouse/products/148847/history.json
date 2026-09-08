@@ -3,7 +3,7 @@
   "name": "Livingstone Wheelchair Heavy Duty Seat Width 51cm Red Each",
   "url": "https://www.chemistwarehouse.com.au/buy/148847/livingstone-wheelchair-heavy-duty-seat-width-51cm-red-each",
   "currency": "AUD",
-  "current_price": 379.99,
+  "current_price": 229.99,
   "rrp": 417.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 379.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 229.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

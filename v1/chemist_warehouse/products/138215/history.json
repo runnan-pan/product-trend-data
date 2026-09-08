@@ -3,7 +3,7 @@
   "name": "Inner Health Advanced Spectrum Probiotic 25 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/138215/inner-health-advanced-spectrum-probiotic-25-capsules",
   "currency": "AUD",
-  "current_price": 24.99,
+  "current_price": 19.25,
   "rrp": 38.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 24.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 19.25
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

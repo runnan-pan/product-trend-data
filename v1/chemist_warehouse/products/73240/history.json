@@ -3,8 +3,8 @@
   "name": "Cancer Council SPF 50+ Ultra 500ml Pump",
   "url": "https://www.chemistwarehouse.com.au/buy/73240/cancer-council-spf-50-ultra-500ml-pump",
   "currency": "AUD",
-  "current_price": 22.99,
-  "rrp": 32.95,
+  "current_price": 20.69,
+  "rrp": 34.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 22.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 20.69
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

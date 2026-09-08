@@ -3,7 +3,7 @@
   "name": "Plunkett's Vita E Natural Vitamin E Quick Dry Oil 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/92923/plunkett-s-vita-e-natural-vitamin-e-quick-dry-oil-125ml",
   "currency": "AUD",
-  "current_price": 18.69,
+  "current_price": 22.99,
   "rrp": 26.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 18.69
+    },
+    {
+      "date": "2026-09-07",
+      "price": 22.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

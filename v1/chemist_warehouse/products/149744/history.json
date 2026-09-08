@@ -3,7 +3,7 @@
   "name": "Inner Health Women's 5-in-1 Probiotic 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/149744/inner-health-women-s-5-in-1-probiotic-60-capsules",
   "currency": "AUD",
-  "current_price": 47.99,
+  "current_price": 37.97,
   "rrp": 75.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 47.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 37.97
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

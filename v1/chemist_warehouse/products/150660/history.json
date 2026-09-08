@@ -3,7 +3,7 @@
   "name": "CleanLIFE 2 in 1 Clean Wipes 15 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/150660/cleanlife-2-in-1-clean-wipes-15-pack",
   "currency": "AUD",
-  "current_price": 1.99,
+  "current_price": 1.79,
   "rrp": 2.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 1.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 1.79
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

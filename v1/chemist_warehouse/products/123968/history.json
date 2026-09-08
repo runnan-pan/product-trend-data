@@ -3,7 +3,7 @@
   "name": "Barely Intimate Flushable Wipes 10 pack",
   "url": "https://www.chemistwarehouse.com.au/buy/123968/barely-flush-away-flushable-intimate-wipes-10-pack",
   "currency": "AUD",
-  "current_price": 2.69,
+  "current_price": 1.69,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 2.69
+    },
+    {
+      "date": "2026-09-07",
+      "price": 1.69
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

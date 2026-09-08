@@ -3,7 +3,7 @@
   "name": "Nature's Sunshine Saw Palmetto 100Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/138328/nature-s-sunshine-saw-palmetto-100capsules",
   "currency": "AUD",
-  "current_price": 52.66,
+  "current_price": 49.56,
   "rrp": 61.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 52.66
+    },
+    {
+      "date": "2026-09-07",
+      "price": 49.56
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

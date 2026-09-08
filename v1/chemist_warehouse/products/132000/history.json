@@ -3,7 +3,7 @@
   "name": "Cetaphil Bright Healthy Radiance Brightening Day Protective Cream SPF15 50g",
   "url": "https://www.chemistwarehouse.com.au/buy/132000/cetaphil-bright-healthy-radiance-brightening-day-protective-cream-spf15-50g",
   "currency": "AUD",
-  "current_price": 26.59,
+  "current_price": 32.99,
   "rrp": 37.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 26.59
+    },
+    {
+      "date": "2026-09-07",
+      "price": 32.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

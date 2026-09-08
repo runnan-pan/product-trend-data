@@ -3,7 +3,7 @@
   "name": "Sally Hansen Miracle Gel Nail Polish Chill in the Heir 14.7ml",
   "url": "https://www.chemistwarehouse.com.au/buy/126178/sally-hansen-miracle-gel-nail-polish-chill-in-the-heir-14-7ml",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 15.0,
   "rrp": 18.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 10.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 15.0
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

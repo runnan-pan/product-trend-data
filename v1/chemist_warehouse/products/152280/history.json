@@ -3,7 +3,7 @@
   "name": "Oricom 10.1\u2033 Smart Photo Frame with Instant Photo Sharing 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/152280/oricom-frame10blk-10-1-smart-photo-frame-with-instant-photo-sharing-pack",
   "currency": "AUD",
-  "current_price": 129.0,
+  "current_price": 179.0,
   "rrp": 199.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 129.0
+    },
+    {
+      "date": "2026-09-07",
+      "price": 179.0
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

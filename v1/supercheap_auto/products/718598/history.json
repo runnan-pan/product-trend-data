@@ -3,8 +3,8 @@
   "name": "Penrite Air Filter PF3015 (Interchangeable with A1575)",
   "url": "https://www.supercheapauto.com.au/p/penrite-penrite-air-filter-pf3015-interchangeable-with-a1575/718598.html",
   "currency": "AUD",
-  "current_price": 46.99,
-  "rrp": null,
+  "current_price": 39.94,
+  "rrp": 46.99,
   "in_stock": true,
   "source": "live",
   "changes": [
@@ -19,8 +19,12 @@
     {
       "date": "2026-09-06",
       "price": 46.99
+    },
+    {
+      "date": "2026-09-08",
+      "price": 39.94
     }
   ],
-  "snapshot_days": 12,
+  "snapshot_days": 14,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

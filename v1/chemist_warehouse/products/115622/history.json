@@ -3,7 +3,7 @@
   "name": "Schwarzkopf Live Colour Permanent 7.1 Medium Ash Blonde",
   "url": "https://www.chemistwarehouse.com.au/buy/115622/schwarzkopf-live-colour-permanent-7-1-medium-ash-blonde",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 9.99,
   "rrp": 17.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

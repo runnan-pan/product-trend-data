@@ -3,7 +3,7 @@
   "name": "Gillette Sensor 3 Sensitive Disposables 8pk",
   "url": "https://www.chemistwarehouse.com.au/buy/153213/gillette-sensor-3-sensitive-disposables-8pk",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 10.69,
   "rrp": 15.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 12.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 10.69
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

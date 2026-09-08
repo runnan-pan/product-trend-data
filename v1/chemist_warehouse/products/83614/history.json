@@ -3,7 +3,7 @@
   "name": "TENA Pants Plus Extra Large 12 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/83614/tena-pants-plus-12-extra-large-pack",
   "currency": "AUD",
-  "current_price": 43.99,
+  "current_price": 28.2,
   "rrp": 47.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 43.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 28.2
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

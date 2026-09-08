@@ -3,7 +3,7 @@
   "name": "Baby Mum-Mum Rice Rusks Banana Flavour 36g",
   "url": "https://www.chemistwarehouse.com.au/buy/74287/baby-mum-mum-rice-rusks-banana-flavour-36g",
   "currency": "AUD",
-  "current_price": 2.99,
+  "current_price": 3.79,
   "rrp": 3.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 2.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 3.79
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

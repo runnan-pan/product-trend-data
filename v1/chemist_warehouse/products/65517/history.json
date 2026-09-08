@@ -3,7 +3,7 @@
   "name": "Nicotinell Patch 7mg 28 Day",
   "url": "https://www.chemistwarehouse.com.au/buy/65517/nicotinell-patch-7mg-28-day",
   "currency": "AUD",
-  "current_price": 60.99,
+  "current_price": 48.99,
   "rrp": 64.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 60.99
+    },
+    {
+      "date": "2026-09-07",
+      "price": 48.99
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

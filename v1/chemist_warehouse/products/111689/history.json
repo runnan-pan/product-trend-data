@@ -3,7 +3,7 @@
   "name": "Garnier BB Cream All-In-One Perfector Anti-Age Medium SPF 25 50mL",
   "url": "https://www.chemistwarehouse.com.au/buy/111689/garnier-bb-cream-all-in-one-perfector-anti-age-medium-spf-25-50ml",
   "currency": "AUD",
-  "current_price": 10.17,
+  "current_price": 8.47,
   "rrp": 16.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 10.17
+    },
+    {
+      "date": "2026-09-07",
+      "price": 8.47
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

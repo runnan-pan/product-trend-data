@@ -3,7 +3,7 @@
   "name": "OsmoLax Laxative Powder 120 Dose 2040g (4 x 510g) - Macrogol-3350 Constipation Relief with No Salty Taste, Flavour Free & Salt Free",
   "url": "https://www.chemistwarehouse.com.au/buy/99832/osmolax-laxative-powder-120-dose-2040g-4-x-510g-macrogol-3350-constipation-relief-with-no-salty-taste-flavour-free-salt-free",
   "currency": "AUD",
-  "current_price": 75.96,
+  "current_price": 58.76,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 75.96
+    },
+    {
+      "date": "2026-09-07",
+      "price": 58.76
     }
   ],
-  "snapshot_days": 13,
+  "snapshot_days": 15,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

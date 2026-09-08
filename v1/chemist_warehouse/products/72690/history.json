@@ -3,7 +3,7 @@
   "name": "Healthy Care Bee Venom Face Moisturiser 30g",
   "url": "https://www.chemistwarehouse.com.au/buy/72690/healthy-care-bee-venom-face-moisturiser-30g",
   "currency": "AUD",
-  "current_price": 23.49,
+  "current_price": 14.09,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 23.49
+    },
+    {
+      "date": "2026-09-07",
+      "price": 14.09
     }
   ],
-  "snapshot_days": 14,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
