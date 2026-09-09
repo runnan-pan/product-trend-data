@@ -3,7 +3,7 @@
   "name": "Little Etoile Stage 1 Premium Infant Formula (0-6 months) 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/140117/little-etoile-stage-1-premium-infant-formula-0-6-months-800g",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 38.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 35.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 38.99
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

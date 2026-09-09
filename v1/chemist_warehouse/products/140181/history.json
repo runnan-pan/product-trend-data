@@ -3,8 +3,8 @@
   "name": "Max Biocare Belle Dame 30 Soft Capsules 3Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/140181/max-biocare-belle-dame-30-soft-capsules-3pack",
   "currency": "AUD",
-  "current_price": 138.99,
-  "rrp": 155.97,
+  "current_price": 186.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 138.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 186.99
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

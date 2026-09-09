@@ -3,7 +3,7 @@
   "name": "Little Etoile Stage 4 Optimum Growing-Up Formula (2-6 Years) 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/138768/little-etoile-stage-4-optimum-growing-up-formula-2-6-years-800g",
   "currency": "AUD",
-  "current_price": 46.99,
+  "current_price": 49.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 46.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 49.99
     }
   ],
-  "snapshot_days": 15,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

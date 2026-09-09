@@ -3,8 +3,8 @@
   "name": "Max Biocare NextG Cal\u00ae 3Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/152743/max-biocare-nextg-cal-3pack",
   "currency": "AUD",
-  "current_price": 79.99,
-  "rrp": 89.97,
+  "current_price": 107.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 79.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 107.99
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

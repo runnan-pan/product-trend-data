@@ -1,9 +1,9 @@
 {
   "product_id": "113626",
-  "name": "WaterWipes Baby & Newborn Sensitive Wipes 240 Pack",
+  "name": "WaterWipes Baby & Newborn Sensitive Wipes 4 x 60 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/113626/waterwipes-biodegradable-baby-wipes-4x-60-pack",
   "currency": "AUD",
-  "current_price": 27.99,
+  "current_price": 14.69,
   "rrp": 29.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 27.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 14.69
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

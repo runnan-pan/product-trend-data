@@ -3,8 +3,8 @@
   "name": "Garden of Wellness Nourishing Body Oil Lavender Calm 120ml",
   "url": "https://www.chemistwarehouse.com.au/buy/138888/garden-of-wellness-nourishing-body-oil-lavender-calm-120ml",
   "currency": "AUD",
-  "current_price": 39.99,
-  "rrp": 42.0,
+  "current_price": 49.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 39.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 49.99
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

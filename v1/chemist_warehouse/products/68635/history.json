@@ -3,7 +3,7 @@
   "name": "Pears Soap Oil Clear Triple Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/68635/pears-soap-oil-clear-triple-pack",
   "currency": "AUD",
-  "current_price": 4.99,
+  "current_price": 4.5,
   "rrp": 7.2,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 4.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 4.5
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Garden of Wellness Nourishing Body Oil Lemon Zest 2Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/150030/garden-of-wellness-nourishing-body-oil-lemon-zest-2pack",
   "currency": "AUD",
-  "current_price": 76.99,
-  "rrp": 84.0,
+  "current_price": 100.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 76.99
+    },
+    {
+      "date": "2026-09-09",
+      "price": 100.99
     }
   ],
-  "snapshot_days": 15,
+  "snapshot_days": 16,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
