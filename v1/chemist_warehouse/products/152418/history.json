@@ -3,8 +3,8 @@
   "name": "Revitive Coach with Knee Therapy Circulation Booster 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/152418/revitive-coach-with-knee-therapy-circulation-booster-1unit",
   "currency": "AUD",
-  "current_price": 499.0,
-  "rrp": 599.0,
+  "current_price": 625.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 499.0
+    },
+    {
+      "date": "2026-09-10",
+      "price": 625.0
     }
   ],
-  "snapshot_days": 17,
+  "snapshot_days": 18,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
