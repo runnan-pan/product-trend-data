@@ -3,7 +3,7 @@
   "name": "Livingstone Incontinence Bluey Underpads 8-Ply, 250Pieces",
   "url": "https://www.chemistwarehouse.com.au/buy/141020/livingstone-incontinence-bluey-underpads-8-ply-250pieces",
   "currency": "AUD",
-  "current_price": 56.49,
+  "current_price": 53.99,
   "rrp": 62.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 56.49
+    },
+    {
+      "date": "2026-09-11",
+      "price": 53.99
     }
   ],
-  "snapshot_days": 18,
+  "snapshot_days": 19,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
