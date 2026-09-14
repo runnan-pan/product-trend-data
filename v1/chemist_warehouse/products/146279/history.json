@@ -3,7 +3,7 @@
   "name": "Koolatron Portable Mini Fridge Aqua Green 4 Litre",
   "url": "https://www.chemistwarehouse.com.au/buy/146279/koolatron-portable-mini-fridge-aqua-green-4-litre",
   "currency": "AUD",
-  "current_price": 79.99,
+  "current_price": 71.99,
   "rrp": 89.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 79.99
+    },
+    {
+      "date": "2026-09-14",
+      "price": 71.99
     }
   ],
-  "snapshot_days": 19,
+  "snapshot_days": 21,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

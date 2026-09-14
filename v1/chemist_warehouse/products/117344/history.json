@@ -3,8 +3,8 @@
   "name": "Kid Essentials Nutritionally Complete 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/117344/kid-essentials-nutritionally-complete-800g",
   "currency": "AUD",
-  "current_price": 38.99,
-  "rrp": 43.99,
+  "current_price": 44.99,
+  "rrp": 46.49,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 38.99
+    },
+    {
+      "date": "2026-09-14",
+      "price": 44.99
     }
   ],
-  "snapshot_days": 20,
+  "snapshot_days": 22,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

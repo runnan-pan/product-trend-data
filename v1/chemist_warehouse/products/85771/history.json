@@ -3,8 +3,8 @@
   "name": "LifeStyles Ultra Natural Lubricant 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/85771/lifestyles-ultra-natural-lubricant-100ml",
   "currency": "AUD",
-  "current_price": 11.49,
-  "rrp": 12.0,
+  "current_price": 12.99,
+  "rrp": 13.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.49
+    },
+    {
+      "date": "2026-09-14",
+      "price": 12.99
     }
   ],
-  "snapshot_days": 20,
+  "snapshot_days": 22,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
