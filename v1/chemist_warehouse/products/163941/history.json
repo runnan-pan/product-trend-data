@@ -3,7 +3,7 @@
   "name": "Duloxetine WGR 30mg Capsules 84 (3 x 28) - Duloxetine",
   "url": "https://www.chemistwarehouse.com.au/buy/163941/duloxetine-wgr-30mg-capsules-84-3-x-28-duloxetine",
   "currency": "AUD",
-  "current_price": 23.97,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 23.97
+    },
+    {
+      "date": "2026-09-16",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

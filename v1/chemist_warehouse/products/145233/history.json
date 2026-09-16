@@ -3,7 +3,7 @@
   "name": "Tegretol 200mg Tablets 400 (4 x 100) - Carbamazepine",
   "url": "https://www.chemistwarehouse.com.au/buy/145233/tegretol-200mg-tablets-400-4-x-100-carbamazepine",
   "currency": "AUD",
-  "current_price": 34.2,
+  "current_price": 33.92,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 34.2
+    },
+    {
+      "date": "2026-09-16",
+      "price": 33.92
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

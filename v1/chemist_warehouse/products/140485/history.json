@@ -3,7 +3,7 @@
   "name": "Raffertys Garden Blueberry & Banana Baby Teething Wafers 8+ Months 60g",
   "url": "https://www.chemistwarehouse.com.au/buy/140485/raffertys-garden-blueberry-banana-baby-teething-wafers-8-months-60g",
   "currency": "AUD",
-  "current_price": 3.0,
+  "current_price": 4.05,
   "rrp": 4.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-10",
       "price": 3.0
+    },
+    {
+      "date": "2026-09-16",
+      "price": 4.05
     }
   ],
-  "snapshot_days": 19,
+  "snapshot_days": 21,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

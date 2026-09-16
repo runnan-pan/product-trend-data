@@ -3,7 +3,7 @@
   "name": "Alphagan 0.2% Eye Drops 10mL (2 x 5mL) - Brimonidine",
   "url": "https://www.chemistwarehouse.com.au/buy/145211/alphagan-0-2-eye-drops-10ml-2-x-5ml-brimonidine",
   "currency": "AUD",
-  "current_price": 26.96,
+  "current_price": 26.9,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 26.96
+    },
+    {
+      "date": "2026-09-16",
+      "price": 26.9
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Sumatriptan WGR 50mg Tablets 12 (3 x 4) - Sumatriptan",
   "url": "https://www.chemistwarehouse.com.au/buy/153729/sumatriptan-wgr-50mg-tablets-12-3-x-4-sumatriptan",
   "currency": "AUD",
-  "current_price": 23.97,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 23.97
+    },
+    {
+      "date": "2026-09-16",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

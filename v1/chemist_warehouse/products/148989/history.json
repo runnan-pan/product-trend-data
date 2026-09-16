@@ -3,7 +3,7 @@
   "name": "Bioglan Active Magnesium + Creatine 300g",
   "url": "https://www.chemistwarehouse.com.au/buy/148989/bioglan-active-magnesium-creatine-300g",
   "currency": "AUD",
-  "current_price": 18.74,
+  "current_price": 15.0,
   "rrp": 37.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 18.74
+    },
+    {
+      "date": "2026-09-16",
+      "price": 15.0
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

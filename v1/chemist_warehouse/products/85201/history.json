@@ -3,8 +3,8 @@
   "name": "Sustagen Hospital Formula Nutritional Supplement Banana Flavour 840g",
   "url": "https://www.chemistwarehouse.com.au/buy/85201/sustagen-hospital-formula-nutritional-supplement-banana-flavour-840g",
   "currency": "AUD",
-  "current_price": 28.99,
-  "rrp": 39.49,
+  "current_price": 31.99,
+  "rrp": 42.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 28.99
+    },
+    {
+      "date": "2026-09-15",
+      "price": 31.99
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

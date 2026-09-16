@@ -3,7 +3,7 @@
   "name": "Karvezide 150/12.5mg Tablets 30 - Irbesartan + Hydrochlorothiazide",
   "url": "https://www.chemistwarehouse.com.au/buy/39533/karvezide-150-12-5mg-tablets-30-irbesartan-hydrochlorothiazide",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 11.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 10.99
+    },
+    {
+      "date": "2026-09-16",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Diprosone 0.05% Cream 90g (6 x 15g) - Betamethasone Dipropionate",
   "url": "https://www.chemistwarehouse.com.au/buy/103845/diprosone-0-05-cream-90g-6-x-15g-betamethasone-dipropionate",
   "currency": "AUD",
-  "current_price": 39.7,
+  "current_price": 38.68,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 39.7
+    },
+    {
+      "date": "2026-09-16",
+      "price": 38.68
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

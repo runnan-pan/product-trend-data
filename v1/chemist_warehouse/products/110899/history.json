@@ -3,7 +3,7 @@
   "name": "Betnovate 1/2 0.05% Cream 120g (8 x 15g) - Betamethasone Valerate",
   "url": "https://www.chemistwarehouse.com.au/buy/110899/betnovate-1-2-0-05-cream-120g-8-x-15g-betamethasone-valerate",
   "currency": "AUD",
-  "current_price": 45.48,
+  "current_price": 44.04,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 45.48
+    },
+    {
+      "date": "2026-09-16",
+      "price": 44.04
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

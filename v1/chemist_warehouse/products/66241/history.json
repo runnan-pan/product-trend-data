@@ -3,7 +3,7 @@
   "name": "Celestone M 0.02% Cream 400g (4 x 100g) - Betamethasone Valerate",
   "url": "https://www.chemistwarehouse.com.au/buy/66241/celestone-m-0-02-cream-400g-4-x-100g-betamethasone-valerate",
   "currency": "AUD",
-  "current_price": 35.0,
+  "current_price": 34.56,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 35.0
+    },
+    {
+      "date": "2026-09-16",
+      "price": 34.56
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

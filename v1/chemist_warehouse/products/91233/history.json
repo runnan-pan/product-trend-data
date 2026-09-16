@@ -3,7 +3,7 @@
   "name": "Ventolin Nebules 2.5mg/2.5mL 60 (3 x 20) - Salbutamol",
   "url": "https://www.chemistwarehouse.com.au/buy/91233/ventolin-nebules-2-5mg-2-5ml-60-3-x-20-salbutamol",
   "currency": "AUD",
-  "current_price": 23.97,
+  "current_price": 29.68,
   "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 23.97
+    },
+    {
+      "date": "2026-09-16",
+      "price": 29.68
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

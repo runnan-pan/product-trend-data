@@ -3,7 +3,7 @@
   "name": "Sodium Valproate Sandoz 200mg Tablets 200 (2 x 100) - Valproate",
   "url": "https://www.chemistwarehouse.com.au/buy/62137/sodium-valproate-sandoz-200mg-tablets-200-2-x-100-valproate",
   "currency": "AUD",
-  "current_price": 17.0,
+  "current_price": 17.98,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 17.0
+    },
+    {
+      "date": "2026-09-16",
+      "price": 17.98
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

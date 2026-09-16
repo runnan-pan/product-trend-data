@@ -3,7 +3,7 @@
   "name": "Diprosone 0.05% Ointment 60g (4 x 15g) - Betamethasone Dipropionate",
   "url": "https://www.chemistwarehouse.com.au/buy/51209/diprosone-0-05-ointment-60g-4-x-15g-betamethasone-dipropionate",
   "currency": "AUD",
-  "current_price": 34.8,
+  "current_price": 34.12,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 34.8
+    },
+    {
+      "date": "2026-09-16",
+      "price": 34.12
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

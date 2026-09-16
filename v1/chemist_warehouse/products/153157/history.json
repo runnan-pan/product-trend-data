@@ -3,8 +3,8 @@
   "name": "Sustagen Ready to Drink Multipack Vanilla 3 x 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/153157/sustagen-ready-to-drink-vanilla-3-x-250ml",
   "currency": "AUD",
-  "current_price": 6.49,
-  "rrp": 7.2,
+  "current_price": 6.99,
+  "rrp": 7.8,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 6.49
+    },
+    {
+      "date": "2026-09-15",
+      "price": 6.99
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

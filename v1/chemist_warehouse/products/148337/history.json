@@ -3,7 +3,7 @@
   "name": "Esomeprazole WGR 20mg Tablets 60 (2 x 30) - Esomeprazole",
   "url": "https://www.chemistwarehouse.com.au/buy/148337/esomeprazole-wgr-20mg-tablets-60-2-x-30-esomeprazole",
   "currency": "AUD",
-  "current_price": 17.98,
+  "current_price": 18.98,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 17.98
+    },
+    {
+      "date": "2026-09-16",
+      "price": 18.98
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

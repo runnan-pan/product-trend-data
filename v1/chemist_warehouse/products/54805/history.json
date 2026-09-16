@@ -3,8 +3,8 @@
   "name": "Paris Hilton For Men Eau de Toilette 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/54805/paris-hilton-for-men-eau-de-toilette-100ml",
   "currency": "AUD",
-  "current_price": 39.99,
-  "rrp": null,
+  "current_price": 34.99,
+  "rrp": 102.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 39.99
+    },
+    {
+      "date": "2026-09-15",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

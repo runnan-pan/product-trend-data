@@ -3,7 +3,7 @@
   "name": "Tramal SR 150mg Tablets 60 (3 x 20) - Tramadol",
   "url": "https://www.chemistwarehouse.com.au/buy/42910/tramal-sr-150mg-tablets-60-3-x-20-tramadol",
   "currency": "AUD",
-  "current_price": 35.97,
+  "current_price": 38.97,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 35.97
+    },
+    {
+      "date": "2026-09-16",
+      "price": 38.97
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

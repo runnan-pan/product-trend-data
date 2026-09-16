@@ -3,8 +3,8 @@
   "name": "Dentagenie Sonic Cleaner",
   "url": "https://www.chemistwarehouse.com.au/buy/150886/go2-dentagenie-sonic-cleaner",
   "currency": "AUD",
-  "current_price": 69.99,
-  "rrp": 79.95,
+  "current_price": 72.99,
+  "rrp": 91.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 69.99
+    },
+    {
+      "date": "2026-09-16",
+      "price": 72.99
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

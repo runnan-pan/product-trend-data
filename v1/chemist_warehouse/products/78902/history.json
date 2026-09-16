@@ -3,7 +3,7 @@
   "name": "Travatan BAK Free 0.004% Eye Drops 2.5ml - Travoprost",
   "url": "https://www.chemistwarehouse.com.au/buy/78902/travatan-bak-free-0-004-eye-drops-2-5ml-travoprost",
   "currency": "AUD",
-  "current_price": 24.99,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 24.99
+    },
+    {
+      "date": "2026-09-16",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 21,
+  "snapshot_days": 23,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

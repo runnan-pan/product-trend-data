@@ -3,7 +3,7 @@
   "name": "Elocon 0.1% Ointment 90g (6 x 15g) - Mometasone Furoate",
   "url": "https://www.chemistwarehouse.com.au/buy/106524/elocon-0-1-ointment-90g-6-x-15g-mometasone-furoate",
   "currency": "AUD",
-  "current_price": 46.18,
+  "current_price": 44.98,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 46.18
+    },
+    {
+      "date": "2026-09-16",
+      "price": 44.98
     }
   ],
-  "snapshot_days": 22,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
