@@ -3,17 +3,21 @@
   "name": "BoPeep EVA Foam Kids Play Mat Floor Baby Crawling Interlocking Waterproof Grey 4Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/136082/bopeep-eva-foam-kids-play-mat-floor-baby-crawling-interlocking-waterproof-grey-4pack",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 18.99,
   "rrp": 56.99,
-  "in_stock": false,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 13.99
+    },
+    {
+      "date": "2026-09-17",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 23,
+  "snapshot_days": 24,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
