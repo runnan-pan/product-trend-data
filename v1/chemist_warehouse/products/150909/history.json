@@ -3,7 +3,7 @@
   "name": "Difflam Soothing Cough + Sore Throat + Blocked Nose Honey Lemon 32 Lozenges",
   "url": "https://www.chemistwarehouse.com.au/buy/150909/difflam-soothing-cough-sore-throat-blocked-nose-honey-lemon-32-lozenges",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 10.99,
   "rrp": 14.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.99
+    },
+    {
+      "date": "2026-09-18",
+      "price": 10.99
     }
   ],
-  "snapshot_days": 25,
+  "snapshot_days": 26,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

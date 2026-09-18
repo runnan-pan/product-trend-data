@@ -3,7 +3,7 @@
   "name": "BioRevive Dry Ears Kids Spray 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/148976/dry-ears-kids-spray-30ml",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 11.39,
   "rrp": 14.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 13.99
+    },
+    {
+      "date": "2026-09-18",
+      "price": 11.39
     }
   ],
-  "snapshot_days": 25,
+  "snapshot_days": 26,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
