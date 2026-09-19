@@ -3,7 +3,7 @@
   "name": "Juicy Couture Viva La Juicy Eau de Parfum 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/62436/juicy-couture-viva-la-juicy-eau-de-parfum-100ml",
   "currency": "AUD",
-  "current_price": 69.99,
+  "current_price": 49.99,
   "rrp": 132.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 69.99
+    },
+    {
+      "date": "2026-09-19",
+      "price": 49.99
     }
   ],
-  "snapshot_days": 25,
+  "snapshot_days": 26,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
