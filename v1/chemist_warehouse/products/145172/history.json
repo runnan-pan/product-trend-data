@@ -3,7 +3,7 @@
   "name": "Koolatron Portable Retro Mini Fridge with Bluetooth Speaker Red 4 Litre",
   "url": "https://www.chemistwarehouse.com.au/buy/145172/koolatron-portable-retro-mini-fridge-with-bluetooth-speaker-red-4-litre",
   "currency": "AUD",
-  "current_price": 76.49,
+  "current_price": 84.99,
   "rrp": 99.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-14",
       "price": 76.49
+    },
+    {
+      "date": "2026-09-20",
+      "price": 84.99
     }
   ],
-  "snapshot_days": 26,
+  "snapshot_days": 28,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

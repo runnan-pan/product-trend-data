@@ -3,7 +3,7 @@
   "name": "Kenmore 12-Cup Drip Coffee Machine Black",
   "url": "https://www.chemistwarehouse.com.au/buy/152524/kenmore-12-cup-drip-coffee-machine-black",
   "currency": "AUD",
-  "current_price": 89.99,
+  "current_price": 80.99,
   "rrp": 109.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 89.99
+    },
+    {
+      "date": "2026-09-21",
+      "price": 80.99
     }
   ],
-  "snapshot_days": 26,
+  "snapshot_days": 28,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Joop! Go Eau de Toilette 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/53862/joop-go-eau-de-toilette-100ml",
   "currency": "AUD",
-  "current_price": 39.99,
+  "current_price": 29.99,
   "rrp": 72.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 39.99
+    },
+    {
+      "date": "2026-09-21",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 26,
+  "snapshot_days": 28,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

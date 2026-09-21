@@ -3,7 +3,7 @@
   "name": "Hugo Boss Bottled Night Eau de Toilette 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/76334/hugo-boss-bottled-night-eau-de-toilette-200ml",
   "currency": "AUD",
-  "current_price": 99.99,
+  "current_price": 79.99,
   "rrp": 214.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 99.99
+    },
+    {
+      "date": "2026-09-21",
+      "price": 79.99
     }
   ],
-  "snapshot_days": 27,
+  "snapshot_days": 29,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

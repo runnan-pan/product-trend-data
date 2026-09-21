@@ -3,7 +3,7 @@
   "name": "Elizabeth Arden 5th Avenue Eau de Parfum 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/48464/elizabeth-arden-5th-avenue-eau-de-parfum-125ml",
   "currency": "AUD",
-  "current_price": 24.99,
+  "current_price": 39.99,
   "rrp": 66.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-14",
       "price": 24.99
+    },
+    {
+      "date": "2026-09-21",
+      "price": 39.99
     }
   ],
-  "snapshot_days": 27,
+  "snapshot_days": 29,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
