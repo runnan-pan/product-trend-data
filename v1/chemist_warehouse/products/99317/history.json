@@ -3,7 +3,7 @@
   "name": "GO Healthy Manuka Honey UMF 23+ 250g (Not For Sale In WA)",
   "url": "https://www.chemistwarehouse.com.au/buy/99317/go-healthy-manuka-honey-umf-23-250g-not-for-sale-in-wa",
   "currency": "AUD",
-  "current_price": 126.75,
+  "current_price": 118.49,
   "rrp": 236.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-10",
       "price": 126.75
+    },
+    {
+      "date": "2026-09-24",
+      "price": 118.49
     }
   ],
-  "snapshot_days": 29,
+  "snapshot_days": 32,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

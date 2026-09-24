@@ -3,17 +3,21 @@
   "name": "Vixin Beauty Rapid Eye Repair 30 ml 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/135825/vixin-beauty-rapid-eye-repair-30-ml-1pc",
   "currency": "AUD",
-  "current_price": 53.95,
-  "rrp": 59.95,
-  "in_stock": false,
+  "current_price": 62.95,
+  "rrp": 69.9,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 53.95
+    },
+    {
+      "date": "2026-09-22",
+      "price": 62.95
     }
   ],
-  "snapshot_days": 28,
+  "snapshot_days": 31,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

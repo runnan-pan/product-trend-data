@@ -3,8 +3,8 @@
   "name": "Berocca Energy Pinelime Crush 15 Effervescent Tablets Exclusive",
   "url": "https://www.chemistwarehouse.com.au/buy/148223/berocca-energy-pinelime-crush-15-effervescent-tablets-exclusive",
   "currency": "AUD",
-  "current_price": 11.49,
-  "rrp": null,
+  "current_price": 10.99,
+  "rrp": 11.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 11.49
+    },
+    {
+      "date": "2026-09-22",
+      "price": 10.99
     }
   ],
-  "snapshot_days": 29,
+  "snapshot_days": 32,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

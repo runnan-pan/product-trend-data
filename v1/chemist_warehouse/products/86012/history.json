@@ -3,7 +3,7 @@
   "name": "GO Healthy Manuka Honey UMF 5+ (MGO 80+) 1kg (Not For Sale In WA)",
   "url": "https://www.chemistwarehouse.com.au/buy/86012/go-healthy-manuka-honey-umf-5-mgo-80-1kg-not-for-sale-in-wa",
   "currency": "AUD",
-  "current_price": 59.99,
+  "current_price": 55.99,
   "rrp": 111.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-10",
       "price": 59.99
+    },
+    {
+      "date": "2026-09-24",
+      "price": 55.99
     }
   ],
-  "snapshot_days": 29,
+  "snapshot_days": 32,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
