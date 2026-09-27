@@ -3,8 +3,8 @@
   "name": "Mazam Kids Ride On Car 12V Electric Remote Vehicle Toy Car White",
   "url": "https://www.chemistwarehouse.com.au/buy/147610/mazam-kids-ride-on-car-12v-electric-remote-vehicle-toy-car-white",
   "currency": "AUD",
-  "current_price": 167.11,
-  "rrp": 175.9,
+  "current_price": 175.9,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-04",
       "price": 167.11
+    },
+    {
+      "date": "2026-09-28",
+      "price": 175.9
     }
   ],
-  "snapshot_days": 31,
+  "snapshot_days": 33,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

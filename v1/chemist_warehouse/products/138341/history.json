@@ -3,7 +3,7 @@
   "name": "Nature's Sunshine Bergamot Cardiovascular Care 60Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/138341/nature-s-sunshine-bergamot-cardiovascular-care-60tablets",
   "currency": "AUD",
-  "current_price": 52.76,
+  "current_price": 56.06,
   "rrp": 65.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 52.76
+    },
+    {
+      "date": "2026-09-28",
+      "price": 56.06
     }
   ],
-  "snapshot_days": 31,
+  "snapshot_days": 33,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

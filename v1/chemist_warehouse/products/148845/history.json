@@ -3,7 +3,7 @@
   "name": "Livingstone Elbow Crutches X-Large Aluminium Adjustable 110- 140cm 1Pair",
   "url": "https://www.chemistwarehouse.com.au/buy/148845/livingstone-elbow-crutches-aluminium-adjustable-125-134-5cm-1pair",
   "currency": "AUD",
-  "current_price": 55.99,
+  "current_price": 61.49,
   "rrp": 67.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 55.99
+    },
+    {
+      "date": "2026-09-28",
+      "price": 61.49
     }
   ],
-  "snapshot_days": 31,
+  "snapshot_days": 33,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

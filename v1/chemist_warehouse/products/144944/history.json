@@ -3,7 +3,7 @@
   "name": "Teddi Lab by Unichi Hair Boost Gummy PRO 60s x3with Biotin for Hair, Skin & Nails Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/144944/unichi-hair-boost-gummy-pro-60-gummies-x3-australian-limited-edition-pack",
   "currency": "AUD",
-  "current_price": 99.8,
+  "current_price": 113.99,
   "rrp": 149.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 99.8
+    },
+    {
+      "date": "2026-09-28",
+      "price": 113.99
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

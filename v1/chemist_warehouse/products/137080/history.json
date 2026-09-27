@@ -3,7 +3,7 @@
   "name": "Manicare Salon Firming Face & Body Sculptor",
   "url": "https://www.chemistwarehouse.com.au/buy/137080/manicare-salon-firming-face-body-sculptor",
   "currency": "AUD",
-  "current_price": 65.99,
+  "current_price": 69.99,
   "rrp": 139.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 65.99
+    },
+    {
+      "date": "2026-09-28",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

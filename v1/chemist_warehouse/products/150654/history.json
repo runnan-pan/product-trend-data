@@ -3,8 +3,8 @@
   "name": "Vicks VapoRub Lavender Decongestant Rub 50g",
   "url": "https://www.chemistwarehouse.com.au/buy/150654/vicks-vaporub-lavender-decongestant-rub-50g",
   "currency": "AUD",
-  "current_price": 7.99,
-  "rrp": 8.9,
+  "current_price": 8.99,
+  "rrp": 9.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 7.99
+    },
+    {
+      "date": "2026-09-28",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

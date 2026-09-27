@@ -3,8 +3,8 @@
   "name": "Mazam Ride On Car Electric Vehicle Toy Remote Car MP3 LED light 12V Black",
   "url": "https://www.chemistwarehouse.com.au/buy/152052/mazam-ride-on-car-electric-vehicle-toy-remote-car-mp3-led-light-12v-black",
   "currency": "AUD",
-  "current_price": 170.91,
-  "rrp": 179.9,
+  "current_price": 179.9,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-04",
       "price": 170.91
+    },
+    {
+      "date": "2026-09-28",
+      "price": 179.9
     }
   ],
-  "snapshot_days": 31,
+  "snapshot_days": 33,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

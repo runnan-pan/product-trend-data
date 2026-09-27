@@ -3,7 +3,7 @@
   "name": "Livingstone Digital Blood Pressure Monitor with Talking Feature 1set",
   "url": "https://www.chemistwarehouse.com.au/buy/138266/livingstone-digital-blood-pressure-monitor-with-talking-feature-1set",
   "currency": "AUD",
-  "current_price": 119.99,
+  "current_price": 135.49,
   "rrp": 150.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 119.99
+    },
+    {
+      "date": "2026-09-28",
+      "price": 135.49
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

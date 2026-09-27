@@ -3,8 +3,8 @@
   "name": "COSRX Oil Free Ultra Moisturizing Lotion (With Birch Sap) 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/155838/cosrx-oil-free-ultra-moisturizing-lotion-with-birch-sap-100ml",
   "currency": "AUD",
-  "current_price": 38.7,
-  "rrp": 43.0,
+  "current_price": 43.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 38.7
+    },
+    {
+      "date": "2026-09-28",
+      "price": 43.0
     }
   ],
-  "snapshot_days": 31,
+  "snapshot_days": 33,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

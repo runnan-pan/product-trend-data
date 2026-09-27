@@ -3,7 +3,7 @@
   "name": "Hidow Pro Touch Wireless Receiver 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/146767/hidow-pro-touch-wireless-receiver-1unit",
   "currency": "AUD",
-  "current_price": 74.25,
+  "current_price": 89.0,
   "rrp": 99.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 74.25
+    },
+    {
+      "date": "2026-09-28",
+      "price": 89.0
     }
   ],
-  "snapshot_days": 31,
+  "snapshot_days": 33,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

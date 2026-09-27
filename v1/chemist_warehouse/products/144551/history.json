@@ -3,7 +3,7 @@
   "name": "Nature's Sunshine Cordyceps 90Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/144551/nature-s-sunshine-cordyceps-90capsules",
   "currency": "AUD",
-  "current_price": 54.36,
+  "current_price": 57.76,
   "rrp": 67.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 54.36
+    },
+    {
+      "date": "2026-09-28",
+      "price": 57.76
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

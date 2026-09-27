@@ -3,8 +3,8 @@
   "name": "Beauty of Joseon Green Plum Refreshing Toner : AHA + BHA 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/152081/beauty-of-joseon-green-plum-refreshing-toner-aha-bha-150ml",
   "currency": "AUD",
-  "current_price": 37.05,
-  "rrp": 39.0,
+  "current_price": 39.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 37.05
+    },
+    {
+      "date": "2026-09-28",
+      "price": 39.0
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

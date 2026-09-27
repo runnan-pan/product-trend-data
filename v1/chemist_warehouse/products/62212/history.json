@@ -3,7 +3,7 @@
   "name": "Rabanne Lady Million Eau de Parfum 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/62212/paco-rabanne-lady-million-eau-de-parfum-50ml",
   "currency": "AUD",
-  "current_price": 109.99,
+  "current_price": 74.99,
   "rrp": 175.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 109.99
+    },
+    {
+      "date": "2026-09-28",
+      "price": 74.99
     }
   ],
-  "snapshot_days": 32,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
