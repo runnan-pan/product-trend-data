@@ -1,0 +1,35 @@
+{
+  "product_id": "189004",
+  "name": "Garnier AHA+BHA Charcoal Anti-Blemish Serum 30mL",
+  "url": "https://www.priceline.com.au/product/189004/garnier-aha%2Bbha-charcoal-anti-blemish-serum-30ml",
+  "currency": "AUD",
+  "current_price": 36.99,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-09-15",
+      "price": 36.99
+    },
+    {
+      "date": "2026-09-19",
+      "price": 31.44
+    },
+    {
+      "date": "2026-09-24",
+      "price": 36.99
+    },
+    {
+      "date": "2026-09-25",
+      "price": 37.99
+    },
+    {
+      "date": "2026-09-28",
+      "price": 36.99
+    }
+  ],
+  "snapshot_days": 14,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}

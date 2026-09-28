@@ -1,0 +1,19 @@
+{
+  "product_id": "75437",
+  "name": "Priceline Everyday Sunscreen Lotion SPF50+ 200mL",
+  "url": "https://www.priceline.com.au/product/75437/priceline-everyday-sunscreen-lotion-spf50%2B-200ml",
+  "currency": "AUD",
+  "current_price": 6.0,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-09-28",
+      "price": 6.0
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}

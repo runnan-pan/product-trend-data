@@ -1,0 +1,19 @@
+{
+  "product_id": "95469",
+  "name": "Fisiocrem Solugel 200g",
+  "url": "https://www.priceline.com.au/product/95469/fisiocrem-solugel-200g",
+  "currency": "AUD",
+  "current_price": 31.19,
+  "rrp": 38.99,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-09-28",
+      "price": 31.19
+    }
+  ],
+  "snapshot_days": 1,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}

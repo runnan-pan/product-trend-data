@@ -1,0 +1,27 @@
+{
+  "product_id": "35191",
+  "name": "Priceline Paracetamol Colour Free Suspension 1-5 Years 200mL",
+  "url": "https://www.priceline.com.au/product/35191/priceline-paracetamol-colour-free-suspension-1-5-years-200ml",
+  "currency": "AUD",
+  "current_price": 11.99,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-09-15",
+      "price": 11.99
+    },
+    {
+      "date": "2026-09-19",
+      "price": 10.19
+    },
+    {
+      "date": "2026-09-24",
+      "price": 11.99
+    }
+  ],
+  "snapshot_days": 14,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}

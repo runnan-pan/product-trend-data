@@ -1,0 +1,27 @@
+{
+  "product_id": "97733",
+  "name": "Got2B Un-Glued Hair Styling & Hair Spray Remover Foam 150mL",
+  "url": "https://www.priceline.com.au/product/97733/got2b-un-glued-hair-styling-%26-hair-spray-remover-foam-150ml",
+  "currency": "AUD",
+  "current_price": 10.2,
+  "rrp": 17.0,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-09-15",
+      "price": 10.2
+    },
+    {
+      "date": "2026-09-25",
+      "price": 11.2
+    },
+    {
+      "date": "2026-09-28",
+      "price": 10.2
+    }
+  ],
+  "snapshot_days": 14,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}

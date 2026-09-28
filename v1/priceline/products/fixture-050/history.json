@@ -1,0 +1,19 @@
+{
+  "product_id": "fixture-050",
+  "name": "MERSYNOFEN Paracetamol & Ibuprofen 12 Tablets (pilot 050)",
+  "url": null,
+  "currency": "AUD",
+  "current_price": 8.99,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "fixture",
+  "changes": [
+    {
+      "date": "2026-09-15",
+      "price": 8.99
+    }
+  ],
+  "snapshot_days": 14,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}

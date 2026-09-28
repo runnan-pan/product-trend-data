@@ -1,0 +1,23 @@
+{
+  "product_id": "fixture-131",
+  "name": "Garnier AHA+BHA Charcoal Anti-Blemish Serum 30mL (pilot 131)",
+  "url": null,
+  "currency": "AUD",
+  "current_price": 37.99,
+  "rrp": null,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "fixture",
+  "changes": [
+    {
+      "date": "2026-09-15",
+      "price": 36.99
+    },
+    {
+      "date": "2026-09-25",
+      "price": 37.99
+    }
+  ],
+  "snapshot_days": 14,
+  "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
+}
