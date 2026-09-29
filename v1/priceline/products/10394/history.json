@@ -3,8 +3,8 @@
   "name": "Optive Fusion Lubricant Eye Drops 10mL",
   "url": "https://www.priceline.com.au/product/10394/optive-fusion-lubricant-eye-drops-10ml",
   "currency": "AUD",
-  "current_price": 22.41,
-  "rrp": 29.89,
+  "current_price": 29.89,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 22.41
+    },
+    {
+      "date": "2026-09-29",
+      "price": 29.89
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

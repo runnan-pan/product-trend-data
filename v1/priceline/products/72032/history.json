@@ -3,8 +3,8 @@
   "name": "Carmex Mins Lip Balm Tubes SPF 15 3 x 5g",
   "url": "https://www.priceline.com.au/product/72032/carmex-mins-lip-balm-tubes-spf-15-3-x-5g",
   "currency": "AUD",
-  "current_price": 6.99,
-  "rrp": 9.99,
+  "current_price": 9.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 6.99
+    },
+    {
+      "date": "2026-09-29",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,8 +3,8 @@
   "name": "Le Tan Total Control Application Mitt 1 Each",
   "url": "https://www.priceline.com.au/product/49346/le-tan-total-control-application-mitt-1-each",
   "currency": "AUD",
-  "current_price": 5.99,
-  "rrp": 9.99,
+  "current_price": 9.99,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 5.99
+    },
+    {
+      "date": "2026-09-29",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

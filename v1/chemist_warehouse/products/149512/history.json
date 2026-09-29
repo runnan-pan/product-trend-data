@@ -3,7 +3,7 @@
   "name": "AussieSupps Hair, Skin and Nails 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/149512/aussiesupps-hair-skin-and-nails-60-tablets",
   "currency": "AUD",
-  "current_price": 24.97,
+  "current_price": 39.95,
   "rrp": 49.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-09",
       "price": 24.97
+    },
+    {
+      "date": "2026-09-29",
+      "price": 39.95
     }
   ],
-  "snapshot_days": 33,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

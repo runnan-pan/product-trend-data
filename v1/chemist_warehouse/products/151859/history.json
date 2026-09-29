@@ -3,7 +3,7 @@
   "name": "Sock Exchange Wholesale 96 Novelty Socks Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/151859/sock-exchange-wholesale-96-novelty-socks-bundle",
   "currency": "AUD",
-  "current_price": 229.99,
+  "current_price": 239.95,
   "rrp": 499.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 229.99
+    },
+    {
+      "date": "2026-09-29",
+      "price": 239.95
     }
   ],
-  "snapshot_days": 33,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

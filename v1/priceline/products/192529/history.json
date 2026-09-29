@@ -3,8 +3,8 @@
   "name": "Le Tan Classic Tan Self Tanning Foam Medium Dark 180mL",
   "url": "https://www.priceline.com.au/product/192529/le-tan-classic-tan-self-tanning-foam-medium-dark-180ml",
   "currency": "AUD",
-  "current_price": 8.99,
-  "rrp": 14.99,
+  "current_price": 14.99,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 8.99
+    },
+    {
+      "date": "2026-09-29",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

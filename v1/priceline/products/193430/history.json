@@ -3,8 +3,8 @@
   "name": "TANOLOGIST Hydrating Daily Glow Gradual Self Tan Lotion Medium/Dark 250mL",
   "url": "https://www.priceline.com.au/product/193430/tanologist-hydrating-daily-glow-gradual-self-tan-lotion-medium-dark-250ml",
   "currency": "AUD",
-  "current_price": 13.29,
-  "rrp": 18.99,
+  "current_price": 18.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 13.29
+    },
+    {
+      "date": "2026-09-29",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

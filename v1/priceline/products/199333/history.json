@@ -3,8 +3,8 @@
   "name": "Coco & Eve Anti-Aging Tanning Serum 30mL",
   "url": "https://www.priceline.com.au/product/199333/coco-%26-eve-anti-aging-tanning-serum-30ml",
   "currency": "AUD",
-  "current_price": 29.4,
-  "rrp": 49.0,
+  "current_price": 49.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 29.4
+    },
+    {
+      "date": "2026-09-29",
+      "price": 49.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

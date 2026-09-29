@@ -3,8 +3,8 @@
   "name": "Luna Bronze Glow Gradual Tanning Moisturiser Light 200mL",
   "url": "https://www.priceline.com.au/product/97198/luna-bronze-glow-gradual-tanning-moisturiser-light-200ml",
   "currency": "AUD",
-  "current_price": 27.16,
-  "rrp": 33.95,
+  "current_price": 33.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 27.16
+    },
+    {
+      "date": "2026-09-29",
+      "price": 33.95
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

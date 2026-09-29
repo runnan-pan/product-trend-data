@@ -3,8 +3,8 @@
   "name": "The Quick Flick Quick Glow 2-in-1 Hydrating Shimmer Body Glaze 160mL",
   "url": "https://www.priceline.com.au/product/95635/the-quick-flick-quick-glow-2-in-1-hydrating-shimmer-body-glaze-160ml",
   "currency": "AUD",
-  "current_price": 17.4,
-  "rrp": 29.0,
+  "current_price": 29.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 17.4
+    },
+    {
+      "date": "2026-09-29",
+      "price": 29.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

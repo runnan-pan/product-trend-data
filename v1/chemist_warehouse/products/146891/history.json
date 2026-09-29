@@ -3,8 +3,8 @@
   "name": "EZZ Hair Growth Shampoo 380ml",
   "url": "https://www.chemistwarehouse.com.au/buy/146891/ezz-hair-growth-shampoo-380ml",
   "currency": "AUD",
-  "current_price": 21.57,
-  "rrp": 35.95,
+  "current_price": 35.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 21.57
+    },
+    {
+      "date": "2026-09-29",
+      "price": 35.95
     }
   ],
-  "snapshot_days": 33,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

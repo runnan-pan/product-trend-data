@@ -3,7 +3,7 @@
   "name": "AussieSupps Mood Balance 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/149513/aussiesupps-mood-balance-60-capsules",
   "currency": "AUD",
-  "current_price": 24.97,
+  "current_price": 39.95,
   "rrp": 49.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-09",
       "price": 24.97
+    },
+    {
+      "date": "2026-09-29",
+      "price": 39.95
     }
   ],
-  "snapshot_days": 34,
+  "snapshot_days": 35,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

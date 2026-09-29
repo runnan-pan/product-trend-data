@@ -3,7 +3,7 @@
   "name": "BIOCEUTICALS D3 Capsules 240 Capsules",
   "url": "https://www.priceline.com.au/product/654004/bioceuticals-d3-capsules-240-capsules",
   "currency": "AUD",
-  "current_price": 37.99,
+  "current_price": 34.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 37.99
+    },
+    {
+      "date": "2026-09-29",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

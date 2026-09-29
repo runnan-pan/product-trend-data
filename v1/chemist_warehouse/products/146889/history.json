@@ -3,7 +3,7 @@
   "name": "EZZ Hair Growth Spray 120ml",
   "url": "https://www.chemistwarehouse.com.au/buy/146889/ezz-hair-growth-spray-120ml",
   "currency": "AUD",
-  "current_price": 39.97,
+  "current_price": 75.95,
   "rrp": 79.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 39.97
+    },
+    {
+      "date": "2026-09-29",
+      "price": 75.95
     }
   ],
-  "snapshot_days": 34,
+  "snapshot_days": 35,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

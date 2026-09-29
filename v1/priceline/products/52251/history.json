@@ -3,8 +3,8 @@
   "name": "TANOLOGIST Clear Self Tan Mousse Medium 200mL",
   "url": "https://www.priceline.com.au/product/52251/tanologist-clear-self-tan-mousse-medium-200ml",
   "currency": "AUD",
-  "current_price": 17.49,
-  "rrp": 24.99,
+  "current_price": 24.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 17.49
+    },
+    {
+      "date": "2026-09-29",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

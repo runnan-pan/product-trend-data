@@ -3,7 +3,7 @@
   "name": "EZZ Joint Energy Boost Tablets 60Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/131724/ezz-joint-energy-boost-tablets-60capsules",
   "currency": "AUD",
-  "current_price": 27.97,
+  "current_price": 38.95,
   "rrp": 55.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 27.97
+    },
+    {
+      "date": "2026-09-29",
+      "price": 38.95
     }
   ],
-  "snapshot_days": 33,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

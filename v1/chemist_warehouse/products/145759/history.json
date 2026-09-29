@@ -3,7 +3,7 @@
   "name": "JOVS Dora Smart IPL Hair Removal Device with Skin Sensor for Face Body",
   "url": "https://www.chemistwarehouse.com.au/buy/145759/jovs-dora-ipl-intense-pulsed-light-hair-removal-device-1unit",
   "currency": "AUD",
-  "current_price": 294.5,
+  "current_price": 299.95,
   "rrp": 699.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 294.5
+    },
+    {
+      "date": "2026-09-29",
+      "price": 299.95
     }
   ],
-  "snapshot_days": 33,
+  "snapshot_days": 34,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "The Quick Flick Quick Glow Tanning Mitt & Exfoliation Duo 2 Piece Set",
   "url": "https://www.priceline.com.au/product/95633/the-quick-flick-quick-glow-tanning-mitt-%26-exfoliation-duo-2-piece-set",
   "currency": "AUD",
-  "current_price": 9.0,
-  "rrp": 15.0,
+  "current_price": 15.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 9.0
+    },
+    {
+      "date": "2026-09-29",
+      "price": 15.0
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

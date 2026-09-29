@@ -3,8 +3,8 @@
   "name": "Carmex Classic Lip Balm Original Click Stick SPF 15 4.25g",
   "url": "https://www.priceline.com.au/product/321427/carmex-classic-lip-balm-original-click-stick-spf-15-4-25g",
   "currency": "AUD",
-  "current_price": 3.78,
-  "rrp": 5.4,
+  "current_price": 5.4,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 3.78
+    },
+    {
+      "date": "2026-09-29",
+      "price": 5.4
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

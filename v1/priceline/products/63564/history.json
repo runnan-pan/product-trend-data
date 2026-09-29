@@ -3,7 +3,7 @@
   "name": "BIOCEUTICALS D3 + K2 Spray 50mL",
   "url": "https://www.priceline.com.au/product/63564/bioceuticals-d3-%2B-k2-spray-50ml",
   "currency": "AUD",
-  "current_price": 51.99,
+  "current_price": 46.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 51.99
+    },
+    {
+      "date": "2026-09-29",
+      "price": 46.99
     }
   ],
-  "snapshot_days": 1,
+  "snapshot_days": 2,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }
