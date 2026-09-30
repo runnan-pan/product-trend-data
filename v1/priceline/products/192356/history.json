@@ -3,8 +3,8 @@
   "name": "VS Sassoon Smooth Fusion 40mm Curler 1 Each",
   "url": "https://www.priceline.com.au/product/192356/vs-sassoon-smooth-fusion-40mm-curler-1-each",
   "currency": "AUD",
-  "current_price": 42.95,
-  "rrp": null,
+  "current_price": 34.36,
+  "rrp": 42.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 42.95
+    },
+    {
+      "date": "2026-09-30",
+      "price": 34.36
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

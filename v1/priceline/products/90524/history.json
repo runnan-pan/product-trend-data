@@ -3,8 +3,8 @@
   "name": "OGX Refreshing Scalp+ Rosemary Mint Shampoo 385mL",
   "url": "https://www.priceline.com.au/product/90524/ogx-refreshing-scalp%2B-rosemary-mint-shampoo-385ml",
   "currency": "AUD",
-  "current_price": 11.5,
-  "rrp": 23.0,
+  "current_price": 23.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 11.5
+    },
+    {
+      "date": "2026-09-30",
+      "price": 23.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

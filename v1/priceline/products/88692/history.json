@@ -3,8 +3,8 @@
   "name": "ROH Drench Hair Masque 150mL",
   "url": "https://www.priceline.com.au/product/88692/roh-drench-hair-masque-150ml",
   "currency": "AUD",
-  "current_price": 37.95,
-  "rrp": null,
+  "current_price": 28.46,
+  "rrp": 37.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 37.95
+    },
+    {
+      "date": "2026-09-30",
+      "price": 28.46
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

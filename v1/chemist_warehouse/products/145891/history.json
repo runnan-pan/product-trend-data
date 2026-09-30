@@ -3,8 +3,8 @@
   "name": "Frula Brightening Vitamin C Serum 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/145891/frula-brightening-vitamin-c-serum-30ml",
   "currency": "AUD",
-  "current_price": 28.0,
-  "rrp": 35.0,
+  "current_price": 30.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 28.0
+    },
+    {
+      "date": "2026-09-30",
+      "price": 30.0
     }
   ],
-  "snapshot_days": 34,
+  "snapshot_days": 35,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

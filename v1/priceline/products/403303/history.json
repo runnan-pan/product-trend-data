@@ -3,8 +3,8 @@
   "name": "Remington Personal Haircut Kit 1 Kit",
   "url": "https://www.priceline.com.au/product/403303/remington-personal-haircut-kit-1-kit",
   "currency": "AUD",
-  "current_price": 19.95,
-  "rrp": null,
+  "current_price": 15.96,
+  "rrp": 19.95,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 19.95
+    },
+    {
+      "date": "2026-09-30",
+      "price": 15.96
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,8 +3,8 @@
   "name": "OGX Argan Oil of Morocco Weightless Oil Spray 118mL",
   "url": "https://www.priceline.com.au/product/90522/ogx-argan-oil-of-morocco-weightless-oil-spray-118ml",
   "currency": "AUD",
-  "current_price": 15.0,
-  "rrp": 30.0,
+  "current_price": 30.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 15.0
+    },
+    {
+      "date": "2026-09-30",
+      "price": 30.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

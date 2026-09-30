@@ -3,7 +3,7 @@
   "name": "EpZen AHA Exfoliating Body Wash 200mL",
   "url": "https://www.priceline.com.au/product/193405/epzen-aha-exfoliating-body-wash-200ml",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 11.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 21.99
+    },
+    {
+      "date": "2026-09-30",
+      "price": 11.0
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,8 +3,8 @@
   "name": "Ego Moov Head Lice Defence Spray 120mL",
   "url": "https://www.priceline.com.au/product/280305/ego-moov-head-lice-defence-spray-120ml",
   "currency": "AUD",
-  "current_price": 15.99,
-  "rrp": null,
+  "current_price": 12.79,
+  "rrp": 15.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 15.99
+    },
+    {
+      "date": "2026-09-30",
+      "price": 12.79
     }
   ],
-  "snapshot_days": 2,
+  "snapshot_days": 3,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }
