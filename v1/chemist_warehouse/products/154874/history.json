@@ -3,7 +3,7 @@
   "name": "Dove Women Antiperspirant Deodorant 48h Roll On Powder Soft 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/154874/dove-women-antiperspirant-deodorant-48h-roll-on-powder-soft-50ml",
   "currency": "AUD",
-  "current_price": 3.39,
+  "current_price": 4.49,
   "rrp": 5.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 3.39
+    },
+    {
+      "date": "2026-10-01",
+      "price": 4.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

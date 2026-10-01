@@ -3,7 +3,7 @@
   "name": "NeilMed Sinus Rinse Kids Starter Kit 30 Sachets",
   "url": "https://www.chemistwarehouse.com.au/buy/118363/neilmed-sinus-rinse-kids-starter-kit-30-sachets-online-only",
   "currency": "AUD",
-  "current_price": 9.99,
+  "current_price": 5.79,
   "rrp": 11.67,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 9.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 5.79
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

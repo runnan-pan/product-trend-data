@@ -3,7 +3,7 @@
   "name": "Real Paw Paw 200g",
   "url": "https://www.chemistwarehouse.com.au/buy/77226/real-paw-paw-200g",
   "currency": "AUD",
-  "current_price": 14.39,
+  "current_price": 18.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 14.39
+    },
+    {
+      "date": "2026-10-01",
+      "price": 18.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

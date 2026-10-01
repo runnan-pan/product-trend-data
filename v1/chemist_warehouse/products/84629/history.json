@@ -3,7 +3,7 @@
   "name": "Maybelline Fit Me Matte & Poreless Mattifying Liquid Foundation - Buff Beige 130",
   "url": "https://www.chemistwarehouse.com.au/buy/84629/maybelline-fit-me-matte-poreless-mattifying-liquid-foundation-buff-beige-130",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 16.69,
   "rrp": 27.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 16.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

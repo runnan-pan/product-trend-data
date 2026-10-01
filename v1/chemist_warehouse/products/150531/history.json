@@ -3,7 +3,7 @@
   "name": "Thursday Plantation Patch Perfect Invisible Acne Control 42 Patches",
   "url": "https://www.chemistwarehouse.com.au/buy/150531/thursday-plantation-patch-perfect-invisible-acne-control-42-patches",
   "currency": "AUD",
-  "current_price": 9.99,
+  "current_price": 6.99,
   "rrp": 11.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 9.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 6.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

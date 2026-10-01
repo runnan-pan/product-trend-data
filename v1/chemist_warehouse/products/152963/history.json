@@ -3,7 +3,7 @@
   "name": "SleepDoctor Adjustable Snoring Device 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/152963/sleepdoctor-adjustable-snoring-device-1unit",
   "currency": "AUD",
-  "current_price": 109.63,
+  "current_price": 97.46,
   "rrp": 121.83,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 109.63
+    },
+    {
+      "date": "2026-10-01",
+      "price": 97.46
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Pristiq 100mg Tablets 84 (3 x 28) - Desvenlafaxine",
   "url": "https://www.chemistwarehouse.com.au/buy/91520/pristiq-100mg-tablets-84-3-x-28-desvenlafaxine",
   "currency": "AUD",
-  "current_price": 38.11,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 38.11
+    },
+    {
+      "date": "2026-10-01",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

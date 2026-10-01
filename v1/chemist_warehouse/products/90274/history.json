@@ -3,7 +3,7 @@
   "name": "Huggies Skin Protect Nappies Size 2 Infant 4-8kg Bulk 48 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/90274/huggies-ultimate-nappies-size-2-infant-4-8kg-bulk-48-pack",
   "currency": "AUD",
-  "current_price": 23.99,
+  "current_price": 14.39,
   "rrp": 24.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 23.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

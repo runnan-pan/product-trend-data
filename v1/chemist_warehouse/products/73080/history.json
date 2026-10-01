@@ -3,7 +3,7 @@
   "name": "Revlon Colorstay 16 Hour Eye Shadow Decadent",
   "url": "https://www.chemistwarehouse.com.au/buy/73080/revlon-colorstay-day-to-night-eyeshadow-quad-decadent",
   "currency": "AUD",
-  "current_price": 14.49,
+  "current_price": 24.99,
   "rrp": 29.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 14.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

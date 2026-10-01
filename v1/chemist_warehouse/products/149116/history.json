@@ -3,7 +3,7 @@
   "name": "Breathe Right Nasal Strips Tan Large 30",
   "url": "https://www.chemistwarehouse.com.au/buy/149116/breathe-right-nasal-strips-tan-large-30",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 30.99,
   "rrp": 35.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 29.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 30.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

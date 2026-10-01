@@ -3,7 +3,7 @@
   "name": "Sukin Firming Tri-Peptides Body Scrub 240g",
   "url": "https://www.chemistwarehouse.com.au/buy/151289/sukin-firming-tri-peptides-body-scrub-240g",
   "currency": "AUD",
-  "current_price": 7.2,
+  "current_price": 9.48,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 7.2
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.48
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

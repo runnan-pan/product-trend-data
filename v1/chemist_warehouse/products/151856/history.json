@@ -3,7 +3,7 @@
   "name": "Clevinger 2pc 12L+18L Stackable Plastic Kitchen Trash Bin Household Classification Storage Box 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/151856/clevinger-2pc-12l-18l-stackable-plastic-kitchen-trash-bin-household-classification-storage-box-1unit",
   "currency": "AUD",
-  "current_price": 62.65,
+  "current_price": 62.55,
   "rrp": 159.65,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 62.65
+    },
+    {
+      "date": "2026-10-01",
+      "price": 62.55
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

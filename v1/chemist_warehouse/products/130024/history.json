@@ -3,7 +3,7 @@
   "name": "Pigeon SofTouch Bottle PPSU 160ml Twin Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/130024/pigeon-softouch-bottle-ppsu-160ml-twin-pack",
   "currency": "AUD",
-  "current_price": 41.3,
+  "current_price": 44.25,
   "rrp": 59.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 41.3
+    },
+    {
+      "date": "2026-10-01",
+      "price": 44.25
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

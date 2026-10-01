@@ -3,7 +3,7 @@
   "name": "Swisspers Earth Kind Cotton Tips With Paper Stems 20 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/116364/swisspers-earth-kind-cotton-tips-with-paper-stems-20-pack",
   "currency": "AUD",
-  "current_price": 0.99,
+  "current_price": 0.69,
   "rrp": 1.25,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 0.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 0.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

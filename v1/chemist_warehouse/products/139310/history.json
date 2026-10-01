@@ -3,7 +3,7 @@
   "name": "L'Oreal Professionnel Serie Expert Metal Detox Mask 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/139310/l-oreal-professionnel-serie-expert-metal-detox-mask-250ml",
   "currency": "AUD",
-  "current_price": 63.99,
+  "current_price": 52.39,
   "rrp": 77.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 63.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 52.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

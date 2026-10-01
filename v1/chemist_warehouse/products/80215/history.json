@@ -3,7 +3,7 @@
   "name": "Ethical Nutrients Mega Magnesium Glycinate 5-in-1 240 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/80215/ethical-nutrients-mega-magnesium-240-tablets",
   "currency": "AUD",
-  "current_price": 42.47,
+  "current_price": 64.99,
   "rrp": 84.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 42.47
+    },
+    {
+      "date": "2026-10-01",
+      "price": 64.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

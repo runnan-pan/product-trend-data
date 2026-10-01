@@ -3,8 +3,8 @@
   "name": "Dermaid 0.5% Eczema Cream 30g",
   "url": "https://www.chemistwarehouse.com.au/buy/3981/dermaid-0-5-eczema-cream-30g",
   "currency": "AUD",
-  "current_price": 8.49,
-  "rrp": 8.99,
+  "current_price": 6.99,
+  "rrp": 9.49,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 8.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 6.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

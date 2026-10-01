@@ -3,7 +3,7 @@
   "name": "Nair Sensitive Formula Wax Ready Strips Chamomile Extract Legs & Body 40 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/111670/nair-natural-wax-strips-for-body-legs-40-pack",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 19.99,
   "rrp": 23.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-08",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Revlon Super Lustrous Glimmer Lip Oil Vio-lit",
   "url": "https://www.chemistwarehouse.com.au/buy/150754/revlon-super-lustrous-glimmer-lip-oil-vio-lit",
   "currency": "AUD",
-  "current_price": 11.49,
+  "current_price": 13.69,
   "rrp": 23.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 11.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 13.69
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

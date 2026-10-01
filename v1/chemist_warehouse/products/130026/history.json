@@ -3,7 +3,7 @@
   "name": "Pigeon SofTouch Bottle PP 160ml",
   "url": "https://www.chemistwarehouse.com.au/buy/130026/pigeon-softouch-bottle-pp-160ml",
   "currency": "AUD",
-  "current_price": 14.91,
+  "current_price": 15.97,
   "rrp": 21.3,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.91
+    },
+    {
+      "date": "2026-10-01",
+      "price": 15.97
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

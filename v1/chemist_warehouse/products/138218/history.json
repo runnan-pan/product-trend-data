@@ -3,7 +3,7 @@
   "name": "Freshwater Farm Manuka Honey & Vanilla Bean Body Bar 200g",
   "url": "https://www.chemistwarehouse.com.au/buy/138218/freshwater-farm-manuka-honey-vanilla-bean-body-bar-200g",
   "currency": "AUD",
-  "current_price": 3.99,
+  "current_price": 3.39,
   "rrp": 5.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 3.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 3.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

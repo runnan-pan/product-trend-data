@@ -3,7 +3,7 @@
   "name": "LifeSmart Cholesterol Strips 10 Strips",
   "url": "https://www.priceline.com.au/product/53538/lifesmart-cholesterol-strips-10-strips",
   "currency": "AUD",
-  "current_price": 39.0,
+  "current_price": 40.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 39.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 40.99
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

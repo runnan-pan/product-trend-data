@@ -3,7 +3,7 @@
   "name": "NIVEA Sun After Sun Moisturising Lotion with Soothing Aloe Vera Gel 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/48119/nivea-sun-moisturising-after-sun-lotion-aloe-vera-200ml",
   "currency": "AUD",
-  "current_price": 5.69,
+  "current_price": 4.74,
   "rrp": 9.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 5.69
+    },
+    {
+      "date": "2026-10-01",
+      "price": 4.74
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

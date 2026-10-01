@@ -3,8 +3,8 @@
   "name": "KIND Collective On Point Precise Eye Liner Black Laminate 1 Each",
   "url": "https://www.priceline.com.au/product/95746/kind-collective-on-point-precise-eye-liner-black-laminate-1-each",
   "currency": "AUD",
-  "current_price": 14.0,
-  "rrp": null,
+  "current_price": 5.58,
+  "rrp": 14.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 14.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 5.58
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

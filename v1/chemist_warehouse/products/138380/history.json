@@ -3,7 +3,7 @@
   "name": "Maybelline Tattoo Liner Automatic Gel Pencil Vivid Green/Hunter Green",
   "url": "https://www.chemistwarehouse.com.au/buy/138380/maybelline-tattoo-liner-automatic-gel-pencil-hunter-green",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 14.99,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-22",
       "price": 8.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

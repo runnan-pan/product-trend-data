@@ -3,7 +3,7 @@
   "name": "Cetaphil Pro Eczema Prone Soothe & Repair Cream 226g",
   "url": "https://www.chemistwarehouse.com.au/buy/149697/cetaphil-pro-eczema-prone-soothe-repair-cream-226g",
   "currency": "AUD",
-  "current_price": 26.99,
+  "current_price": 22.39,
   "rrp": 31.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 26.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 22.39
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

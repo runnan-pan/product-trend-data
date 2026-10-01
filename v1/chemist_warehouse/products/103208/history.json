@@ -3,7 +3,7 @@
   "name": "L'Oreal Elvive Extraordinary Oil Coco Mask 300ml",
   "url": "https://www.chemistwarehouse.com.au/buy/103208/l-oreal-elvive-extraordinary-oil-coco-mask-300ml",
   "currency": "AUD",
-  "current_price": 11.0,
+  "current_price": 9.69,
   "rrp": 13.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-09",
       "price": 11.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Unichi Rosa Prima Rose Oil Complex 90 Softgels 3Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/146127/unichi-rosa-prima-rose-oil-complex-90-softgels-3pack",
   "currency": "AUD",
-  "current_price": 183.99,
+  "current_price": 178.8,
   "rrp": 230.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 183.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 178.8
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

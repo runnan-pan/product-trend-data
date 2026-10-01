@@ -3,7 +3,7 @@
   "name": "Revlon Illuminance Skin Caring Foundation Creamy Natural",
   "url": "https://www.chemistwarehouse.com.au/buy/124488/revlon-illuminance-skin-caring-foundation-creamy-natural",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 26.39,
   "rrp": 44.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 21.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 26.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

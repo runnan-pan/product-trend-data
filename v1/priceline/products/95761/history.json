@@ -3,8 +3,8 @@
   "name": "KIND Collective Up All Night Setting Spray 75mL",
   "url": "https://www.priceline.com.au/product/95761/kind-collective-up-all-night-setting-spray-75ml",
   "currency": "AUD",
-  "current_price": 19.0,
-  "rrp": null,
+  "current_price": 7.6,
+  "rrp": 19.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 19.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 7.6
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

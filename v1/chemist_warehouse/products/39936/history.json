@@ -3,7 +3,7 @@
   "name": "Olay Total Effects 7 in One Day Face Cream Gentle 50g",
   "url": "https://www.chemistwarehouse.com.au/buy/39936/olay-total-effects-7-in-one-day-face-cream-gentle-50g",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 33.0,
   "rrp": 39.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 33.0
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

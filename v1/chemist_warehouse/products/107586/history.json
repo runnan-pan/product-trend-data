@@ -3,7 +3,7 @@
   "name": "Demazin 12 Hour Relief Decongestant Nasal Spray 2 x 20ml",
   "url": "https://www.chemistwarehouse.com.au/buy/107586/demazin-12-hour-relief-decongestant-nasal-spray-2-x-20ml",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 14.99,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 10.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

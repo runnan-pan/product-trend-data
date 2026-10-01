@@ -3,7 +3,7 @@
   "name": "Pigeon Flexible Peristaltic PPSU Bottle 160ml",
   "url": "https://www.chemistwarehouse.com.au/buy/63476/pigeon-flexible-peristaltic-ppsu-bottle-160ml",
   "currency": "AUD",
-  "current_price": 17.36,
+  "current_price": 18.6,
   "rrp": 24.8,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 17.36
+    },
+    {
+      "date": "2026-10-01",
+      "price": 18.6
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Sevikar 40/10mg Tablets 60 (2 x 30) - Olmesartan Medoxomil + Amlodipine",
   "url": "https://www.chemistwarehouse.com.au/buy/132530/sevikar-40-10mg-tablets-60-2-x-30-olmesartan-medoxomil-amlodipine",
   "currency": "AUD",
-  "current_price": 31.98,
+  "current_price": 31.66,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 31.98
+    },
+    {
+      "date": "2026-10-01",
+      "price": 31.66
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Tommee Tippee Natural Start 3m+ Med Flow 2 x 340mL",
   "url": "https://www.priceline.com.au/product/198111/tommee-tippee-natural-start-3m%2B-med-flow-2-x-340ml",
   "currency": "AUD",
-  "current_price": 22.99,
+  "current_price": 28.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 22.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

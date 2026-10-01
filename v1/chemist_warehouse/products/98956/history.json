@@ -3,7 +3,7 @@
   "name": "Oral B Toothbrush Advantage Complete 5 Way Clean Medium",
   "url": "https://www.chemistwarehouse.com.au/buy/98956/oral-b-toothbrush-advantage-complete-5-way-clean-medium-1-pack",
   "currency": "AUD",
-  "current_price": 3.49,
+  "current_price": 1.99,
   "rrp": 3.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 3.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 1.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

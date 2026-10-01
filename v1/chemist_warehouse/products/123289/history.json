@@ -3,7 +3,7 @@
   "name": "Breathe Right Nasal Strips Extra Strength Clear 44 Strips",
   "url": "https://www.chemistwarehouse.com.au/buy/123289/breathe-right-nasal-strips-extra-strength-clear-44-strips",
   "currency": "AUD",
-  "current_price": 37.99,
+  "current_price": 38.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 37.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 38.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

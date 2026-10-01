@@ -3,8 +3,8 @@
   "name": "Aveeno Damage Repair+ Almond Oil Blend Shampoo 354mL",
   "url": "https://www.priceline.com.au/product/91455/aveeno-damage-repair%2B-almond-oil-blend-shampoo-354ml",
   "currency": "AUD",
-  "current_price": 19.5,
-  "rrp": null,
+  "current_price": 9.75,
+  "rrp": 19.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 19.5
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.75
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "Leukostrip Tan 6.4mm x 76mm 3 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/53130/leukostrip-6-4mm-x-76mm-3-pack",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 9.99,
   "rrp": 12.6,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

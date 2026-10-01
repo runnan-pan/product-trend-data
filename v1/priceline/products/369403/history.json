@@ -3,7 +3,7 @@
   "name": "Tena Maxi for Men Level 4 M/L Large 8 Pack",
   "url": "https://www.priceline.com.au/product/369403/tena-maxi-for-men-level-4-m-l-large-8-pack",
   "currency": "AUD",
-  "current_price": 11.39,
+  "current_price": 5.69,
   "rrp": 18.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 11.39
+    },
+    {
+      "date": "2026-10-01",
+      "price": 5.69
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

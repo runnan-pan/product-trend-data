@@ -3,7 +3,7 @@
   "name": "Revlon Illuminance Glow Filter Light Medium",
   "url": "https://www.chemistwarehouse.com.au/buy/143827/revlon-illuminance-glow-filter-light-medium",
   "currency": "AUD",
-  "current_price": 17.99,
+  "current_price": 21.39,
   "rrp": 36.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 17.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 21.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

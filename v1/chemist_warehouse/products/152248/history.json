@@ -3,7 +3,7 @@
   "name": "Beauty Of Joseon Revive Eye Serum: Ginseng + Retinal",
   "url": "https://www.chemistwarehouse.com.au/buy/152248/the-beauty-of-joseon-revive-eye-serum-ginseng-retinal",
   "currency": "AUD",
-  "current_price": 26.99,
+  "current_price": 28.69,
   "rrp": 36.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 26.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 28.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

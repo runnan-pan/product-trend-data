@@ -3,7 +3,7 @@
   "name": "Nicotinell Chewing Gum 2mg Fruit 96",
   "url": "https://www.chemistwarehouse.com.au/buy/6594/nicotinell-chewing-gum-2mg-fruit-96",
   "currency": "AUD",
-  "current_price": 27.99,
+  "current_price": 23.99,
   "rrp": 35.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 27.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 23.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

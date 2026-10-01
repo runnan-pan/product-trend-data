@@ -3,7 +3,7 @@
   "name": "Mitchum for Women Anti-Perspirant Deodorant Shower Fresh Roll On 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/73387/mitchum-for-women-anti-perspirant-deodorant-shower-fresh-roll-on-50ml",
   "currency": "AUD",
-  "current_price": 4.49,
+  "current_price": 2.94,
   "rrp": 4.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 4.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 2.94
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

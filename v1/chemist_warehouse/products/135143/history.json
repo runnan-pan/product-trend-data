@@ -3,7 +3,7 @@
   "name": "Remology 4D Vibration Massage Cushion with Heat Function Neck Back Shoulder Massager 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/135143/remology-heated-shiatsu-neck-massager-1pc",
   "currency": "AUD",
-  "current_price": 84.95,
+  "current_price": 83.95,
   "rrp": 235.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-29",
       "price": 84.95
+    },
+    {
+      "date": "2026-10-01",
+      "price": 83.95
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

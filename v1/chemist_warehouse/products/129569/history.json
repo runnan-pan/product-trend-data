@@ -3,7 +3,7 @@
   "name": "Rexona Men Advanced Antiperspirant Roll On Invisible Dry Ice Fresh 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/129569/rexona-for-men-antiperspirant-deodorant-roll-on-invisible-ice-50ml",
   "currency": "AUD",
-  "current_price": 4.99,
+  "current_price": 2.74,
   "rrp": 5.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 4.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 2.74
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

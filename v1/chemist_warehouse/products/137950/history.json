@@ -3,7 +3,7 @@
   "name": "Codral Original Cold and Flu + Cough 500/30 Capsules 24 - Paracetamol + Pseudoephedrine (S3)",
   "url": "https://www.chemistwarehouse.com.au/buy/137950/codral-original-cold-and-flu-cough-500-30-capsules-24-paracetamol-pseudoephedrine-s3",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 23.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 23.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Cherub Baby On the Go Reusable Food Pouches | Bundle Kit | Dusty Rose & Sand Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/137837/cherub-baby-on-the-go-reusable-food-pouches-bundle-kit-dusty-rose-sand-pack",
   "currency": "AUD",
-  "current_price": 112.99,
+  "current_price": 105.99,
   "rrp": 134.43,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 112.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 105.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

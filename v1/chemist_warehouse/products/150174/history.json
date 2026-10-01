@@ -3,8 +3,8 @@
   "name": "FeetCalm Hydration Bath Mouse Cleanser 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/150174/feetcalm-hydration-bath-mouse-cleanser-125ml",
   "currency": "AUD",
-  "current_price": 25.0,
-  "rrp": 32.0,
+  "current_price": 32.0,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 25.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 32.0
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

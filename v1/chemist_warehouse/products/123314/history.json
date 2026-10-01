@@ -3,8 +3,8 @@
   "name": "Oral B Toothpaste 3D White Strengthen Enamel 190g",
   "url": "https://www.chemistwarehouse.com.au/buy/123314/oral-b-toothpaste-3d-white-strengthen-enamel-190g",
   "currency": "AUD",
-  "current_price": 6.99,
-  "rrp": 7.99,
+  "current_price": 5.69,
+  "rrp": 9.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 6.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 5.69
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

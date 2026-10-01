@@ -3,7 +3,7 @@
   "name": "Teddi Lab by Unichi Apple Cider Vinegar Gummy 60s x3 - Detox & Metabolism Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/137581/unichi-apple-cider-vinegar-gummy-60-gummies-x3-pack",
   "currency": "AUD",
-  "current_price": 93.99,
+  "current_price": 79.9,
   "rrp": 127.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-28",
       "price": 93.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 79.9
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

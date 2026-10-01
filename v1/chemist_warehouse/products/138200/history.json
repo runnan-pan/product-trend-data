@@ -3,7 +3,7 @@
   "name": "Cenovis Chewable Mega Vitamin C 1000mg Lemon Lime 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/138200/cenovis-chewable-mega-vitamin-c-1000mg-lemon-lime-60-tablets",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 14.49,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 8.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

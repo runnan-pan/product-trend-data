@@ -3,7 +3,7 @@
   "name": "Batiste 24H Active Dry Shampoo 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/137221/batiste-24h-active-dry-shampoo-200ml",
   "currency": "AUD",
-  "current_price": 9.99,
+  "current_price": 8.54,
   "rrp": 17.1,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 9.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 8.54
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

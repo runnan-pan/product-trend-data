@@ -3,7 +3,7 @@
   "name": "Livingstone Veterinary Gloves Clear Orange Recyclable Polyethylene 100 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/154284/livingstone-veterinary-gloves-clear-orange-recyclable-polyethylene-100-pieces-box",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 15.99,
   "rrp": 18.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-28",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 15.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

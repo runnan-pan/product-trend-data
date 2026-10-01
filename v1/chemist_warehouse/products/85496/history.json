@@ -3,7 +3,7 @@
   "name": "Carusos One a Day Tribulus 30000mg 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/85496/carusos-one-a-day-tribulus-30000mg-60-tablets",
   "currency": "AUD",
-  "current_price": 17.47,
+  "current_price": 26.49,
   "rrp": 34.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 17.47
+    },
+    {
+      "date": "2026-10-01",
+      "price": 26.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

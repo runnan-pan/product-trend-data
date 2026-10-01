@@ -3,7 +3,7 @@
   "name": "Nurofen Cold and Flu Multi-Symptom Relief Tablets 200mg Ibuprofen 24 pack",
   "url": "https://www.chemistwarehouse.com.au/buy/64831/nurofen-cold-and-flu-multi-symptom-relief-tablets-200mg-ibuprofen-24-pack",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 11.89,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 11.89
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

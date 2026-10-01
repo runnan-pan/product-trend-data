@@ -3,17 +3,21 @@
   "name": "Equipmed Electric Folding Wheelchair Longrange Aluminium Frame Black",
   "url": "https://www.chemistwarehouse.com.au/buy/147269/equipmed-electric-folding-wheelchair-longrange-aluminium-frame-black",
   "currency": "AUD",
-  "current_price": 1099.0,
+  "current_price": 1347.0,
   "rrp": 2199.0,
-  "in_stock": false,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 1099.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 1347.0
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

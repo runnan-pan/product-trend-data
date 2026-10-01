@@ -3,7 +3,7 @@
   "name": "Dr. LeWinn's Plump + Lift Collagen Surge Plumping Pearls 30g",
   "url": "https://www.chemistwarehouse.com.au/buy/91213/dr-lewinn-s-ultra-r4-collagen-surge-plumping-gel-30g",
   "currency": "AUD",
-  "current_price": 38.99,
+  "current_price": 46.69,
   "rrp": 77.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 38.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 46.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

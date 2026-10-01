@@ -3,7 +3,7 @@
   "name": "Only Organic Wild Rice Risotto Spring Lamb 120g",
   "url": "https://www.chemistwarehouse.com.au/buy/153491/only-organic-wild-rice-risotto-spring-lamb-120g",
   "currency": "AUD",
-  "current_price": 1.99,
+  "current_price": 1.79,
   "rrp": 2.3,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 1.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 1.79
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

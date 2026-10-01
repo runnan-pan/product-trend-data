@@ -3,7 +3,7 @@
   "name": "Blackmores Magmin 500mg 250 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/43171/blackmores-magmin-500mg-250-tablets",
   "currency": "AUD",
-  "current_price": 25.24,
+  "current_price": 39.99,
   "rrp": 50.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 25.24
+    },
+    {
+      "date": "2026-10-01",
+      "price": 39.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Revlon Colorstay Satin Ink Liquid Lipstick My Own Boss",
   "url": "https://www.chemistwarehouse.com.au/buy/111480/revlon-colorstay-satin-ink-liquid-lipstick-my-own-boss",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 18.99,
   "rrp": 32.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

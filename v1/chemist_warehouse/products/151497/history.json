@@ -3,7 +3,7 @@
   "name": "Bioderma Sensibio H2O 500ml 30th Anniversary Limited Edition",
   "url": "https://www.chemistwarehouse.com.au/buy/151497/bioderma-sensibio-h2o-500ml-30th-anniversary-limited-edition",
   "currency": "AUD",
-  "current_price": 22.99,
+  "current_price": 19.79,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 22.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 19.79
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

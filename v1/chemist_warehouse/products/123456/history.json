@@ -3,7 +3,7 @@
   "name": "Benzac Microbiome Equalising Moisturiser 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/123456/benzac-microbiome-equalising-moisturiser-50ml",
   "currency": "AUD",
-  "current_price": 23.99,
+  "current_price": 22.69,
   "rrp": 28.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 23.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 22.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

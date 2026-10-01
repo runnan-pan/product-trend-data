@@ -3,8 +3,8 @@
   "name": "Flixonase Allergy and Hayfever 24 Hour Nasal Spray 120 Doses",
   "url": "https://www.chemistwarehouse.com.au/buy/79829/flixonase-allergy-and-hayfever-24-hour-nasal-spray-120-doses",
   "currency": "AUD",
-  "current_price": 20.99,
-  "rrp": null,
+  "current_price": 16.99,
+  "rrp": 20.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 20.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 16.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

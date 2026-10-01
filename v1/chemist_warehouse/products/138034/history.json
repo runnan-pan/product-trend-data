@@ -3,8 +3,8 @@
   "name": "Unichi Rosa Prima Rosehip Extract 1500mg Complex 60 Vegan Capsules x2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/138034/unichi-rosa-prima-rosehip-extract-1500mg-complex-60-vegan-capsules-x2-pack",
   "currency": "AUD",
-  "current_price": 87.99,
-  "rrp": null,
+  "current_price": 55.99,
+  "rrp": 79.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 87.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 55.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

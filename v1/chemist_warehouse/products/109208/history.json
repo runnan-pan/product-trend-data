@@ -3,7 +3,7 @@
   "name": "Optimum Nutrition Isolate Vanilla Softserve 2.27kg",
   "url": "https://www.chemistwarehouse.com.au/buy/109208/optimum-nutrition-isolate-vanilla-softserve-2-27kg",
   "currency": "AUD",
-  "current_price": 134.34,
+  "current_price": 174.99,
   "rrp": 223.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 134.34
+    },
+    {
+      "date": "2026-10-01",
+      "price": 174.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

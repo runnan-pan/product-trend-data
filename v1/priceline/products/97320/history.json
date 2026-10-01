@@ -3,8 +3,8 @@
   "name": "OGX ProGrowth + Peptide Conditioner Thicken & Strengthen 385mL",
   "url": "https://www.priceline.com.au/product/97320/ogx-progrowth-%2B-peptide-conditioner-thicken-%26-strengthen-385ml",
   "currency": "AUD",
-  "current_price": 25.0,
-  "rrp": null,
+  "current_price": 12.5,
+  "rrp": 25.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 25.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 12.5
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

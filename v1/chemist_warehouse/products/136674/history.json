@@ -3,7 +3,7 @@
   "name": "Garnier Fructis Hair Drink Banana 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/136674/garnier-fructis-hair-drink-banana-200ml",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 8.99,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

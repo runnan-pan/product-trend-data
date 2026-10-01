@@ -3,7 +3,7 @@
   "name": "Microgenics Vitamin C 1000 Non Acidic 200 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/90905/microgenics-vitamin-c-1000-non-acidic-200-capsules",
   "currency": "AUD",
-  "current_price": 20.49,
+  "current_price": 26.64,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 20.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 26.64
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

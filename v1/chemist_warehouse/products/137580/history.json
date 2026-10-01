@@ -3,7 +3,7 @@
   "name": "Teddi Lab by Unichi Rose Iron Gummy x3 with Vitamin C - Energy Support, Gentle Formula Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/137580/unichi-rose-iron-gummy-60-gummies-x3-pack",
   "currency": "AUD",
-  "current_price": 93.99,
+  "current_price": 79.8,
   "rrp": 127.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-28",
       "price": 93.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 79.8
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

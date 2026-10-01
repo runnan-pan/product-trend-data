@@ -3,7 +3,7 @@
   "name": "Sukin Aquaboost 3D Hyaluronic Acid Hydration Mist 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/141693/sukin-aquaboost-3d-hyaluronic-acid-hydration-mist-125ml",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 9.49,
   "rrp": 23.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 10.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

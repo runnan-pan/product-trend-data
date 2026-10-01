@@ -3,7 +3,7 @@
   "name": "Musashi 100% Whey Vanilla 900g",
   "url": "https://www.chemistwarehouse.com.au/buy/91341/musashi-100-whey-vanilla-900g",
   "currency": "AUD",
-  "current_price": 42.49,
+  "current_price": 74.99,
   "rrp": 84.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 42.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 74.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

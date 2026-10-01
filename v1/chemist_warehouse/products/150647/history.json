@@ -3,7 +3,7 @@
   "name": "The Midwife Mumma Double Breast Pump Handsfree",
   "url": "https://www.chemistwarehouse.com.au/buy/150647/the-midwife-mumma-double-breast-pump-handsfree",
   "currency": "AUD",
-  "current_price": 247.99,
+  "current_price": 299.99,
   "rrp": 309.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 247.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 299.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

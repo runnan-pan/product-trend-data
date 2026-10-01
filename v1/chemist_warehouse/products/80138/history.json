@@ -3,8 +3,8 @@
   "name": "Maxigesic Double Action Combination Pain Relief 12 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/80138/maxigesic-double-action-combination-pain-relief-12-tablets",
   "currency": "AUD",
-  "current_price": 9.99,
-  "rrp": 10.49,
+  "current_price": 4.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 9.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 4.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

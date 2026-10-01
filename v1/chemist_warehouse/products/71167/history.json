@@ -3,7 +3,7 @@
   "name": "Rimmel Brow This Way Professional Pencil 001 Dark Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/71167/rimmel-brow-this-way-professional-pencil-001-dark-brown",
   "currency": "AUD",
-  "current_price": 5.97,
+  "current_price": 6.99,
   "rrp": 11.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 5.97
+    },
+    {
+      "date": "2026-10-01",
+      "price": 6.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

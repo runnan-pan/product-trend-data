@@ -3,7 +3,7 @@
   "name": "Neat Feat 3B Face Saver 50g",
   "url": "https://www.chemistwarehouse.com.au/buy/66033/neat-feat-3b-face-saver-50g",
   "currency": "AUD",
-  "current_price": 20.99,
+  "current_price": 18.39,
   "rrp": 24.6,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 20.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 18.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Ego QV Dermcare Eczema Daily Wash 350ml",
   "url": "https://www.chemistwarehouse.com.au/buy/111648/ego-qv-dermcare-eczema-daily-wash-350ml",
   "currency": "AUD",
-  "current_price": 18.69,
-  "rrp": 26.99,
+  "current_price": 23.99,
+  "rrp": 27.49,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 18.69
+    },
+    {
+      "date": "2026-10-01",
+      "price": 23.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

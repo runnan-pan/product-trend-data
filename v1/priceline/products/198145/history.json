@@ -3,7 +3,7 @@
   "name": "Tena ProSkin Pants XL Maxi 10 Pack",
   "url": "https://www.priceline.com.au/product/198145/tena-proskin-pants-xl-maxi-10-pack",
   "currency": "AUD",
-  "current_price": 28.97,
+  "current_price": 14.48,
   "rrp": 48.29,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 28.97
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.48
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "Pigeon Ultra Clean Laundry Detergent Liquid Refill 450ml",
   "url": "https://www.chemistwarehouse.com.au/buy/100963/pigeon-ultra-clean-laundry-detergent-liquid-refill-450ml",
   "currency": "AUD",
-  "current_price": 6.93,
+  "current_price": 7.42,
   "rrp": 9.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 6.93
+    },
+    {
+      "date": "2026-10-01",
+      "price": 7.42
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

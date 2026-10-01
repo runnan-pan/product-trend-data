@@ -3,7 +3,7 @@
   "name": "Viktor & Rolf Flowerbomb Eau de Parfum 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/62437/viktor-rolf-flowerbomb-eau-de-parfum-100ml",
   "currency": "AUD",
-  "current_price": 199.99,
+  "current_price": 189.99,
   "rrp": 309.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 199.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 189.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

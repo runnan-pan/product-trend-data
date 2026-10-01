@@ -3,7 +3,7 @@
   "name": "Zatamil 0.1% Hydrogel 15g - Mometasone (S3)",
   "url": "https://www.chemistwarehouse.com.au/buy/105973/zatamil-0-1-hydrogel-15g-mometasone-s3",
   "currency": "AUD",
-  "current_price": 6.99,
+  "current_price": 7.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 6.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 7.49
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

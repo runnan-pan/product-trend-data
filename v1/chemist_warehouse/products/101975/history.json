@@ -3,8 +3,8 @@
   "name": "Bali Body\u00a0Luxe Tanning Mitt",
   "url": "https://www.chemistwarehouse.com.au/buy/101975/bali-body-luxe-tanning-mitt",
   "currency": "AUD",
-  "current_price": 8.99,
-  "rrp": 12.95,
+  "current_price": 12.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 8.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 12.95
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

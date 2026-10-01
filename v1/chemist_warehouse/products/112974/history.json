@@ -3,7 +3,7 @@
   "name": "RoC Multi Correxion Revive & Glow Daily Serum 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/112974/roc-multi-correxion-revive-glow-daily-serum-30ml",
   "currency": "AUD",
-  "current_price": 36.99,
+  "current_price": 25.69,
   "rrp": 42.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 36.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 25.69
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

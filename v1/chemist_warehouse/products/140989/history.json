@@ -3,7 +3,7 @@
   "name": "Revlon Colorstay Brow Fantasy Pencil & Gel Soft Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/140989/revlon-colorstay-brow-fantasy-pencil-gel-soft-brown",
   "currency": "AUD",
-  "current_price": 14.49,
+  "current_price": 24.99,
   "rrp": 29.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

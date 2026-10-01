@@ -3,8 +3,8 @@
   "name": "BN Healthy B12 Strawberry - Mecobalamin 1000mcg 60 Melts",
   "url": "https://www.chemistwarehouse.com.au/buy/150733/bn-healthy-b12-strawberry-mecobalamin-1000mcg-60-melts",
   "currency": "AUD",
-  "current_price": 16.5,
-  "rrp": null,
+  "current_price": 14.0,
+  "rrp": 16.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 16.5
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.0
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

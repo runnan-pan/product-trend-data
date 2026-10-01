@@ -3,8 +3,8 @@
   "name": "Hydralyte Electrolyte Effervescent Strawberry Kiwi 20 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/84906/hydralyte-electrolyte-effervescent-strawberry-kiwi-20-tablets",
   "currency": "AUD",
-  "current_price": 9.99,
-  "rrp": 16.95,
+  "current_price": 8.49,
+  "rrp": 18.15,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 9.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 8.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

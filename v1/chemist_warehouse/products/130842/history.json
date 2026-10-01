@@ -3,7 +3,7 @@
   "name": "Rexona Women Clinical Protection Antiperspirant Aerosol Shower Clean 180ml",
   "url": "https://www.chemistwarehouse.com.au/buy/130842/rexona-for-women-clinical-protection-antiperspirant-shower-clean-180ml",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 6.99,
   "rrp": 14.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 6.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

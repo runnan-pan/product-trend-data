@@ -3,7 +3,7 @@
   "name": "Johnson's Baby Shampoo 200mL",
   "url": "https://www.chemistwarehouse.com.au/buy/5670/johnson-s-baby-shampoo-200ml",
   "currency": "AUD",
-  "current_price": 3.9,
+  "current_price": 6.39,
   "rrp": 6.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 3.9
+    },
+    {
+      "date": "2026-10-01",
+      "price": 6.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

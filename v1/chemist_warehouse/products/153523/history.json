@@ -3,7 +3,7 @@
   "name": "Faction Labs Disorder Pump Purple Reign Watermelon 400g",
   "url": "https://www.chemistwarehouse.com.au/buy/153523/faction-labs-disorder-pump-purple-reign-watermelon-400g",
   "currency": "AUD",
-  "current_price": 39.99,
+  "current_price": 49.99,
   "rrp": 59.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 39.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 49.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

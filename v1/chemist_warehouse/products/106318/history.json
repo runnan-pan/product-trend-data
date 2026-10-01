@@ -3,7 +3,7 @@
   "name": "Maybelline Tattoo Studio Brow Pencil Medium Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/106318/maybelline-tattoo-brow-36hr-eyebrow-pencil-medium-brown-shade-257",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 14.39,
   "rrp": 23.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.39
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

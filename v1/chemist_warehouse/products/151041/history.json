@@ -3,7 +3,7 @@
   "name": "H2 Juice 500Ml Sparkling Watermelon 12Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/151041/h2-juice-500ml-sparkling-watermelon-12pack",
   "currency": "AUD",
-  "current_price": 43.0,
+  "current_price": 38.7,
   "rrp": 49.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 43.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 38.7
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

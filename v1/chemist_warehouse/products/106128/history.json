@@ -3,7 +3,7 @@
   "name": "Jergens Ultra Healing Plus Hand & Body Cream 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/106128/jergens-ultra-healing-plus-hand-body-cream-100ml",
   "currency": "AUD",
-  "current_price": 6.99,
+  "current_price": 4.69,
   "rrp": 7.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 6.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 4.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

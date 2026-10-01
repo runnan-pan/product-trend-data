@@ -3,7 +3,7 @@
   "name": "Anthogenol 100 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/65374/anthogenol-100-capsules",
   "currency": "AUD",
-  "current_price": 119.0,
+  "current_price": 144.99,
   "rrp": 220.7,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 119.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 144.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

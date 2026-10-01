@@ -3,7 +3,7 @@
   "name": "Batiste Tropical Dry Shampoo 350ml",
   "url": "https://www.chemistwarehouse.com.au/buy/109067/batiste-tropical-dry-shampoo-350ml",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 9.64,
   "rrp": 19.3,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.64
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

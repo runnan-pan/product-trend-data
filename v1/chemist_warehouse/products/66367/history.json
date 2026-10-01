@@ -3,7 +3,7 @@
   "name": "Dettol Antibacterial Foaming Hand Wash Rose & Cherry 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/66367/dettol-foam-antibacterial-hand-wash-rose-and-cherry-in-bloom-250-ml",
   "currency": "AUD",
-  "current_price": 3.39,
+  "current_price": 2.99,
   "rrp": 5.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 3.39
+    },
+    {
+      "date": "2026-10-01",
+      "price": 2.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

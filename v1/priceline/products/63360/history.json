@@ -3,8 +3,8 @@
   "name": "Av\u00e8ne Cicalfate+ Scar Gel 30mL",
   "url": "https://www.priceline.com.au/product/63360/avene-cicalfate%2B-scar-gel-30ml",
   "currency": "AUD",
-  "current_price": 27.99,
-  "rrp": null,
+  "current_price": 20.99,
+  "rrp": 27.99,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 27.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 20.99
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

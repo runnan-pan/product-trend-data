@@ -3,7 +3,7 @@
   "name": "Bondi Sands Hydra Spf 50 + Face Gel 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/131595/bondi-sands-hydra-spf-50-face-gel-50ml",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 13.69,
   "rrp": 22.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 13.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

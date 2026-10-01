@@ -3,7 +3,7 @@
   "name": "Bellamy's Organic Banana Apple Porridge 120g",
   "url": "https://www.chemistwarehouse.com.au/buy/84795/bellamy-s-organic-banana-apple-porridge-120g",
   "currency": "AUD",
-  "current_price": 2.19,
+  "current_price": 1.89,
   "rrp": 2.3,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 2.19
+    },
+    {
+      "date": "2026-10-01",
+      "price": 1.89
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Rite Aid Nursing Pads 72 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/91951/rite-aid-nursing-pads-72-pack",
   "currency": "AUD",
-  "current_price": 8.49,
+  "current_price": 9.49,
   "rrp": 9.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 8.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.49
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

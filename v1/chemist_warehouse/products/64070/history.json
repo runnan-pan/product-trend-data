@@ -3,7 +3,7 @@
   "name": "Healthy Care Super Hair Skin & Nails 100 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/64070/healthy-care-super-hair-skin-nails-100-capsules",
   "currency": "AUD",
-  "current_price": 10.19,
+  "current_price": 16.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 10.19
+    },
+    {
+      "date": "2026-10-01",
+      "price": 16.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

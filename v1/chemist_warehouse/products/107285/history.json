@@ -3,7 +3,7 @@
   "name": "Thursday Plantation Tea Tree Exfoliating Acne Face Scrub 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/107285/thursday-plantation-tea-tree-exfoliating-acne-face-scrub-100ml",
   "currency": "AUD",
-  "current_price": 7.39,
+  "current_price": 10.99,
   "rrp": 12.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 7.39
+    },
+    {
+      "date": "2026-10-01",
+      "price": 10.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

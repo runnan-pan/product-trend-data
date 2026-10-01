@@ -3,8 +3,8 @@
   "name": "KIND Collective Turn Up The Volume Mascara Midnight Black 15g",
   "url": "https://www.priceline.com.au/product/87695/kind-collective-turn-up-the-volume-mascara-midnight-black-15g",
   "currency": "AUD",
-  "current_price": 18.0,
-  "rrp": null,
+  "current_price": 7.2,
+  "rrp": 18.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 18.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 7.2
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "Melrose FutureLab Peri Meno Ultra Complex 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/148026/melrose-futurelab-peri-meno-ultra-complex-60-capsules",
   "currency": "AUD",
-  "current_price": 38.47,
+  "current_price": 46.99,
   "rrp": 54.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 38.47
+    },
+    {
+      "date": "2026-10-01",
+      "price": 46.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

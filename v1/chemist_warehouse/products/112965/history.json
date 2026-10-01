@@ -3,7 +3,7 @@
   "name": "RoC Retinol Correxion Line Smoothing Max Hydration Cream Fragrance Free 48g",
   "url": "https://www.chemistwarehouse.com.au/buy/112965/roc-retinol-correxion-line-smoothing-max-hydration-cream-fragrance-free-48g",
   "currency": "AUD",
-  "current_price": 36.99,
+  "current_price": 25.69,
   "rrp": 42.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 36.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 25.69
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "QV Wash Cleansing Bar 100G Twin Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/54313/qv-wash-cleansing-bar-100g-twin-pack",
   "currency": "AUD",
-  "current_price": 12.69,
+  "current_price": 14.99,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 12.69
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

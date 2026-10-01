@@ -3,7 +3,7 @@
   "name": "Body Assist Silicone Scar Tape 4cm x 1.5m Roll",
   "url": "https://www.chemistwarehouse.com.au/buy/154817/body-assist-silicone-scar-tape-4cm-x-1-5m-roll",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 14.99,
   "rrp": 19.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

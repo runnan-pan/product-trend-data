@@ -3,7 +3,7 @@
   "name": "Pigeon SofTouch Bottle PPSU 240ml",
   "url": "https://www.chemistwarehouse.com.au/buy/130023/pigeon-softouch-bottle-ppsu-240ml",
   "currency": "AUD",
-  "current_price": 24.99,
+  "current_price": 26.77,
   "rrp": 35.7,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 24.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 26.77
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

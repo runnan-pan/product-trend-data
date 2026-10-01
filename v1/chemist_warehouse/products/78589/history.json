@@ -3,7 +3,7 @@
   "name": "Oral B 3D White Luxe Advanced Seal 14 Teeth Whitening Treatments",
   "url": "https://www.chemistwarehouse.com.au/buy/78589/oral-b-3d-white-luxe-advanced-seal-14-teeth-whitening-treatments",
   "currency": "AUD",
-  "current_price": 31.49,
+  "current_price": 33.99,
   "rrp": 44.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 31.49
+    },
+    {
+      "date": "2026-10-01",
+      "price": 33.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

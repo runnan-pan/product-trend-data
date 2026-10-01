@@ -3,7 +3,7 @@
   "name": "Palmers Cocoa Butter Massage Lotion For Stretch Marks 1L",
   "url": "https://www.chemistwarehouse.com.au/buy/150815/palmers-cocoa-butter-massage-lotion-for-stretch-marks-1l",
   "currency": "AUD",
-  "current_price": 26.0,
+  "current_price": 49.99,
   "rrp": 52.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 26.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 49.99
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

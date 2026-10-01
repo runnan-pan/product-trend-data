@@ -3,7 +3,7 @@
   "name": "NIVEA MEN Deep Espresso Aerosol Deodorant 72H Protection 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/99618/nivea-men-deep-espresso-48h-aerosol-deodorant-250ml",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 5.24,
   "rrp": 10.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 8.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 5.24
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

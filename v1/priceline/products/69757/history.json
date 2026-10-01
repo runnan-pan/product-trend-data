@@ -3,8 +3,8 @@
   "name": "Av\u00e8ne Tolerance Control Soothing Skin Recovery Cream 40mL",
   "url": "https://www.priceline.com.au/product/69757/avene-tolerance-control-soothing-skin-recovery-cream-40ml",
   "currency": "AUD",
-  "current_price": 49.99,
-  "rrp": null,
+  "current_price": 37.49,
+  "rrp": 49.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 49.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 37.49
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

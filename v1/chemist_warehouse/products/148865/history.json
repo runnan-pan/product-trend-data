@@ -3,7 +3,7 @@
   "name": "Voss Still Water Glass 375mL 24Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/148865/voss-still-water-glass-375ml-24pack",
   "currency": "AUD",
-  "current_price": 72.0,
+  "current_price": 64.8,
   "rrp": 85.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 72.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 64.8
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

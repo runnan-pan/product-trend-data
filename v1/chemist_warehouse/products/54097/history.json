@@ -3,7 +3,7 @@
   "name": "FLO Post Op Nasal Sachet 70",
   "url": "https://www.chemistwarehouse.com.au/buy/54097/flo-post-op-nasal-sachet-70",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 26.99,
   "rrp": 37.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 35.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 26.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

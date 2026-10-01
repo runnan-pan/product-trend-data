@@ -3,7 +3,7 @@
   "name": "Voss Sparkling Water Glass 375mL 24Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/148870/voss-sparkling-water-glass-375ml-24pack",
   "currency": "AUD",
-  "current_price": 78.99,
+  "current_price": 71.09,
   "rrp": 93.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 78.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 71.09
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "KIND Collective SuperHero 5-in-1 Multi-Tasking Pressed Powder Tan 10g",
   "url": "https://www.priceline.com.au/product/71340/kind-collective-superhero-5-in-1-multi-tasking-pressed-powder-tan-10g",
   "currency": "AUD",
-  "current_price": 22.0,
-  "rrp": null,
+  "current_price": 8.78,
+  "rrp": 22.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 22.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 8.78
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

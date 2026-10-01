@@ -3,7 +3,7 @@
   "name": "Omron HEM7142T2 Standard Blood Pressure Monitor",
   "url": "https://www.chemistwarehouse.com.au/buy/123919/omron-hem7142t1-standard-blood-pressure-monitor",
   "currency": "AUD",
-  "current_price": 119.99,
+  "current_price": 90.99,
   "rrp": 144.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 119.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 90.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

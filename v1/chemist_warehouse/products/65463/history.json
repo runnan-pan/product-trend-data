@@ -3,7 +3,7 @@
   "name": "Vermox Worming Treatment Banana Flavoured Liquid 15ml",
   "url": "https://www.chemistwarehouse.com.au/buy/65463/vermox-worming-treatment-banana-flavoured-liquid-15ml",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 9.99,
   "rrp": 15.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

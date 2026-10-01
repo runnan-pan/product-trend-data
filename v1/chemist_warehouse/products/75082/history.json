@@ -3,7 +3,7 @@
   "name": "Rose-Hip Vital Canine 500g",
   "url": "https://www.chemistwarehouse.com.au/buy/75082/rose-hip-vital-canine-500g",
   "currency": "AUD",
-  "current_price": 76.99,
+  "current_price": 72.99,
   "rrp": 119.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 76.99
+    },
+    {
+      "date": "2026-10-01",
+      "price": 72.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

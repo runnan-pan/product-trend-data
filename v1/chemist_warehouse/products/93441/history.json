@@ -3,7 +3,7 @@
   "name": "Oli6 - Stage 4 Goat A2 Milk Junior Drink 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/93441/oli6-stage-4-dairy-goat-milk-drink-junior-800g",
   "currency": "AUD",
-  "current_price": 33.57,
+  "current_price": 36.93,
   "rrp": 46.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 33.57
+    },
+    {
+      "date": "2026-10-01",
+      "price": 36.93
     }
   ],
-  "snapshot_days": 35,
+  "snapshot_days": 36,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "ecostore Lemongrass Soap 80g",
   "url": "https://www.chemistwarehouse.com.au/buy/91197/ecostore-lemongrass-soap-80g",
   "currency": "AUD",
-  "current_price": 1.64,
+  "current_price": 2.99,
   "rrp": 3.29,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 1.64
+    },
+    {
+      "date": "2026-10-01",
+      "price": 2.99
     }
   ],
-  "snapshot_days": 36,
+  "snapshot_days": 37,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "KIND Collective Hydrating Lipstick Blush Cream Shine 4g",
   "url": "https://www.priceline.com.au/product/184634/kind-collective-hydrating-lipstick-blush-cream-shine-4g",
   "currency": "AUD",
-  "current_price": 15.0,
-  "rrp": null,
+  "current_price": 6.0,
+  "rrp": 15.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 15.0
+    },
+    {
+      "date": "2026-10-01",
+      "price": 6.0
     }
   ],
-  "snapshot_days": 3,
+  "snapshot_days": 4,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }
