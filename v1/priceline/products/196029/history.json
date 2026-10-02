@@ -3,8 +3,8 @@
   "name": "OGX Argan Oil Of Morocco Lightweight Shampoo 385mL",
   "url": "https://www.priceline.com.au/product/196029/ogx-argan-oil-of-morocco-lightweight-shampoo-385ml",
   "currency": "AUD",
-  "current_price": 23.0,
-  "rrp": null,
+  "current_price": 11.5,
+  "rrp": 23.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 23.0
+    },
+    {
+      "date": "2026-10-02",
+      "price": 11.5
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,8 +3,8 @@
   "name": "NYX Professional Makeup Jumbo Eye Pencil Black Bean 5g",
   "url": "https://www.priceline.com.au/product/15826/nyx-professional-makeup-jumbo-eye-pencil-black-bean-5g",
   "currency": "AUD",
-  "current_price": 16.99,
-  "rrp": null,
+  "current_price": 8.49,
+  "rrp": 16.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-02",
+      "price": 8.49
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

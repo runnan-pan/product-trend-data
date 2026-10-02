@@ -3,8 +3,8 @@
   "name": "Herbs of Gold Ultra Zinc + 60 Capsules",
   "url": "https://www.priceline.com.au/product/196858/herbs-of-gold-ultra-zinc-%2B-60-capsules",
   "currency": "AUD",
-  "current_price": 21.34,
-  "rrp": 30.49,
+  "current_price": 30.49,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 21.34
+    },
+    {
+      "date": "2026-10-02",
+      "price": 30.49
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

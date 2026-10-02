@@ -3,7 +3,7 @@
   "name": "KIND Collective Blur Perfection Translucent Setting Powder Banana Bake 7g",
   "url": "https://www.priceline.com.au/product/95758/kind-collective-blur-perfection-translucent-setting-powder-banana-bake-7g",
   "currency": "AUD",
-  "current_price": 8.78,
+  "current_price": 15.39,
   "rrp": 22.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 8.78
+    },
+    {
+      "date": "2026-10-02",
+      "price": 15.39
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

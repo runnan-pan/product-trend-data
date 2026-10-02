@@ -3,7 +3,7 @@
   "name": "KIND Collective Foundation Brush 1 Each",
   "url": "https://www.priceline.com.au/product/187704/kind-collective-foundation-brush-1-each",
   "currency": "AUD",
-  "current_price": 6.78,
+  "current_price": 11.89,
   "rrp": 17.0,
   "in_stock": false,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 6.78
+    },
+    {
+      "date": "2026-10-02",
+      "price": 11.89
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

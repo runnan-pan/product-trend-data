@@ -3,8 +3,8 @@
   "name": "OGX Extra Strength Hydrate & Repair + Argan Oil of Morocco Conditioner For Damaged Hair 385mL",
   "url": "https://www.priceline.com.au/product/4662/ogx-extra-strength-hydrate-%26-repair-%2B-argan-oil-of-morocco-conditioner-for-damaged-hair-385ml",
   "currency": "AUD",
-  "current_price": 25.0,
-  "rrp": null,
+  "current_price": 12.5,
+  "rrp": 25.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 25.0
+    },
+    {
+      "date": "2026-10-02",
+      "price": 12.5
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

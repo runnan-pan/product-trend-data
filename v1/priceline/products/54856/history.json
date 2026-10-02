@@ -3,8 +3,8 @@
   "name": "OGX Renewing + Shine Argan Oil Of Morocco Extra Penetrating Oil For Damaged & Coarse Hair 100mL",
   "url": "https://www.priceline.com.au/product/54856/ogx-renewing-%2B-shine-argan-oil-of-morocco-extra-penetrating-oil-for-damaged-%26-coarse-hair-100ml",
   "currency": "AUD",
-  "current_price": 30.0,
-  "rrp": null,
+  "current_price": 15.0,
+  "rrp": 30.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 30.0
+    },
+    {
+      "date": "2026-10-02",
+      "price": 15.0
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

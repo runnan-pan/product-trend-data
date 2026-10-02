@@ -3,7 +3,7 @@
   "name": "Tena Liner Active Xtra Long 24 Pack",
   "url": "https://www.priceline.com.au/product/282995/tena-liner-active-xtra-long-24-pack",
   "currency": "AUD",
-  "current_price": 2.03,
+  "current_price": 4.07,
   "rrp": 6.79,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 2.03
+    },
+    {
+      "date": "2026-10-02",
+      "price": 4.07
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

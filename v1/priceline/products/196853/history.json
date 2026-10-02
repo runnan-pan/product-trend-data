@@ -3,8 +3,8 @@
   "name": "Herbs of Gold Magnesium Citrate 900 60 Capsules",
   "url": "https://www.priceline.com.au/product/196853/herbs-of-gold-magnesium-citrate-900-60-capsules",
   "currency": "AUD",
-  "current_price": 16.44,
-  "rrp": 23.49,
+  "current_price": 23.49,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 16.44
+    },
+    {
+      "date": "2026-10-02",
+      "price": 23.49
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

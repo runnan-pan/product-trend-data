@@ -3,8 +3,8 @@
   "name": "Herbs of Gold Women's Multi + 30 Tablets",
   "url": "https://www.priceline.com.au/product/196872/herbs-of-gold-women%27s-multi-%2B-30-tablets",
   "currency": "AUD",
-  "current_price": 21.69,
-  "rrp": 30.99,
+  "current_price": 30.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 21.69
+    },
+    {
+      "date": "2026-10-02",
+      "price": 30.99
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

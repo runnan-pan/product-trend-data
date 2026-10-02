@@ -3,7 +3,7 @@
   "name": "Regaine Women's Once A Day Foam Extra Strength Hair Regrowth Treatment 60g",
   "url": "https://www.priceline.com.au/product/10044/regaine-women%27s-once-a-day-foam-extra-strength-hair-regrowth-treatment-60g",
   "currency": "AUD",
-  "current_price": 28.59,
+  "current_price": 52.5,
   "rrp": 75.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 28.59
+    },
+    {
+      "date": "2026-10-02",
+      "price": 52.5
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

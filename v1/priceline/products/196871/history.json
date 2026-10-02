@@ -3,8 +3,8 @@
   "name": "Herbs of Gold Cranberry 70 000 50 Tablets",
   "url": "https://www.priceline.com.au/product/196871/herbs-of-gold-cranberry-70-000-50-tablets",
   "currency": "AUD",
-  "current_price": 24.84,
-  "rrp": 35.49,
+  "current_price": 35.49,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 24.84
+    },
+    {
+      "date": "2026-10-02",
+      "price": 35.49
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "KIND Collective SuperHero 2-in-1 Foundation & Concealer Medium 30mL",
   "url": "https://www.priceline.com.au/product/184622/kind-collective-superhero-2-in-1-foundation-%26-concealer-medium-30ml",
   "currency": "AUD",
-  "current_price": 11.58,
+  "current_price": 20.29,
   "rrp": 29.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 11.58
+    },
+    {
+      "date": "2026-10-02",
+      "price": 20.29
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

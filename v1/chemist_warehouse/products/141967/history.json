@@ -3,7 +3,7 @@
   "name": "Lifesmart Lancets 100 Box",
   "url": "https://www.chemistwarehouse.com.au/buy/141967/lifesmart-lancets-100-box",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 17.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-02",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 37,
+  "snapshot_days": 38,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

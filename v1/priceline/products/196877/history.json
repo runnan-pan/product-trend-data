@@ -3,8 +3,8 @@
   "name": "Herbs of Gold Ginkgo Biloba 6000 60 Capsules",
   "url": "https://www.priceline.com.au/product/196877/herbs-of-gold-ginkgo-biloba-6000-60-capsules",
   "currency": "AUD",
-  "current_price": 20.99,
-  "rrp": 29.99,
+  "current_price": 29.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 20.99
+    },
+    {
+      "date": "2026-10-02",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

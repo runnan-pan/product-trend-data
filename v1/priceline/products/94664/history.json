@@ -3,7 +3,7 @@
   "name": "HERO Mighty Patch Invisible+ Hydrocolloid Pimple Patches 24 Pack",
   "url": "https://www.priceline.com.au/product/94664/hero-mighty-patch-invisible%2B-hydrocolloid-pimple-patches-24-pack",
   "currency": "AUD",
-  "current_price": 4.35,
+  "current_price": 8.7,
   "rrp": 14.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 4.35
+    },
+    {
+      "date": "2026-10-02",
+      "price": 8.7
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

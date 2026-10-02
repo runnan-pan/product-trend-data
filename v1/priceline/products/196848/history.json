@@ -3,8 +3,8 @@
   "name": "Herbs of Gold Activated B Complex 60 Capsules",
   "url": "https://www.priceline.com.au/product/196848/herbs-of-gold-activated-b-complex-60-capsules",
   "currency": "AUD",
-  "current_price": 39.19,
-  "rrp": 55.99,
+  "current_price": 55.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 39.19
+    },
+    {
+      "date": "2026-10-02",
+      "price": 55.99
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

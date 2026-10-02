@@ -3,7 +3,7 @@
   "name": "KIND Collective Hydra + Tint Lip Stain Watermelon Wave 2.2mL",
   "url": "https://www.priceline.com.au/product/91426/kind-collective-hydra-%2B-tint-lip-stain-watermelon-wave-2-2ml",
   "currency": "AUD",
-  "current_price": 6.4,
+  "current_price": 11.2,
   "rrp": 16.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 6.4
+    },
+    {
+      "date": "2026-10-02",
+      "price": 11.2
     }
   ],
-  "snapshot_days": 4,
+  "snapshot_days": 5,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }
