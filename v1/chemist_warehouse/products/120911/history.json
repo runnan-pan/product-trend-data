@@ -3,7 +3,7 @@
   "name": "Rabanne 1 Million Parfum Eau de Parfum 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/120911/paco-rabanne-1-million-parfum-eau-de-parfum-100ml",
   "currency": "AUD",
-  "current_price": 89.99,
+  "current_price": 109.99,
   "rrp": 182.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-28",
       "price": 89.99
+    },
+    {
+      "date": "2026-10-05",
+      "price": 109.99
     }
   ],
-  "snapshot_days": 38,
+  "snapshot_days": 41,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

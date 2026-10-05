@@ -3,8 +3,8 @@
   "name": "Av\u00e8ne Redness Expert Soothing Moisturising Concentrated Cream 30mL",
   "url": "https://www.priceline.com.au/product/199904/avene-redness-expert-soothing-moisturising-concentrated-cream-30ml",
   "currency": "AUD",
-  "current_price": 39.74,
-  "rrp": 52.99,
+  "current_price": 52.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 39.74
+    },
+    {
+      "date": "2026-10-05",
+      "price": 52.99
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

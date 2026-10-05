@@ -3,8 +3,8 @@
   "name": "NYX Professional Makeup Smushy Matte Lip Balm Swipe Sesh 8mL",
   "url": "https://www.priceline.com.au/product/94065/nyx-professional-makeup-smushy-matte-lip-balm-swipe-sesh-8ml",
   "currency": "AUD",
-  "current_price": 8.49,
-  "rrp": 16.99,
+  "current_price": 16.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-02",
       "price": 8.49
+    },
+    {
+      "date": "2026-10-03",
+      "price": 16.99
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

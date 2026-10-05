@@ -3,8 +3,8 @@
   "name": "B.Box Sippy Cup Disney Bambi 240ml",
   "url": "https://www.chemistwarehouse.com.au/buy/132092/b-box-sippy-cup-disney-bambi-240ml",
   "currency": "AUD",
-  "current_price": 15.99,
-  "rrp": 17.95,
+  "current_price": 14.99,
+  "rrp": 18.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-05",
+      "price": 14.99
     }
   ],
-  "snapshot_days": 38,
+  "snapshot_days": 41,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

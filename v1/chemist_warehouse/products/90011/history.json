@@ -3,8 +3,8 @@
   "name": "b.box Sippy Cup Apple 240ml",
   "url": "https://www.chemistwarehouse.com.au/buy/90011/b-box-sippy-cup-apple-240ml",
   "currency": "AUD",
-  "current_price": 14.99,
-  "rrp": 15.95,
+  "current_price": 13.99,
+  "rrp": 16.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 14.99
+    },
+    {
+      "date": "2026-10-05",
+      "price": 13.99
     }
   ],
-  "snapshot_days": 37,
+  "snapshot_days": 40,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

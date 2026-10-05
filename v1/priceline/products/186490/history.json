@@ -3,8 +3,8 @@
   "name": "Av\u00e8ne Xeracalm A.D Lipid Replenish Cleansing Oil 400mL",
   "url": "https://www.priceline.com.au/product/186490/avene-xeracalm-a-d-lipid-replenish-cleansing-oil-400ml",
   "currency": "AUD",
-  "current_price": 32.24,
-  "rrp": 42.99,
+  "current_price": 42.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 32.24
+    },
+    {
+      "date": "2026-10-05",
+      "price": 42.99
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

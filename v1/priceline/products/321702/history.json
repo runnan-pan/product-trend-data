@@ -3,7 +3,7 @@
   "name": "Claratyne Children's Hayfever & Allergy & Hayfever Relief Grape Flavoured 10 Tablets",
   "url": "https://www.priceline.com.au/product/321702/claratyne-children%27s-hayfever-%26-allergy-%26-hayfever-relief-grape-flavoured-10-tablets",
   "currency": "AUD",
-  "current_price": 13.49,
+  "current_price": 14.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 13.49
+    },
+    {
+      "date": "2026-10-03",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 5,
+  "snapshot_days": 8,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

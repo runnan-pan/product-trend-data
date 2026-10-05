@@ -3,8 +3,8 @@
   "name": "B.Box Tritan Drink Bottle 450ml Emerald Forest",
   "url": "https://www.chemistwarehouse.com.au/buy/132113/b-box-tritan-drink-bottle-450ml-emerald-forest",
   "currency": "AUD",
-  "current_price": 20.99,
-  "rrp": 21.95,
+  "current_price": 18.99,
+  "rrp": 22.89,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 20.99
+    },
+    {
+      "date": "2026-10-05",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 38,
+  "snapshot_days": 41,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
