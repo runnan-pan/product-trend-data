@@ -3,7 +3,7 @@
   "name": "B.Box Insulated Drink Bottle 350ml Lilac Pop",
   "url": "https://www.chemistwarehouse.com.au/buy/132114/b-box-insulated-drink-bottle-350ml-lilac-pop",
   "currency": "AUD",
-  "current_price": 27.99,
+  "current_price": 28.49,
   "rrp": 33.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 27.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

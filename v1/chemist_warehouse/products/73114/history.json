@@ -3,8 +3,8 @@
   "name": "QV Baby Gentle Wash 250G",
   "url": "https://www.chemistwarehouse.com.au/buy/73114/qv-baby-gentle-wash-250g",
   "currency": "AUD",
-  "current_price": 11.49,
-  "rrp": 11.99,
+  "current_price": 11.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 11.49
+    },
+    {
+      "date": "2026-10-08",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "B.Box Sippy Cup Gelato Boysenberry 240ml",
   "url": "https://www.chemistwarehouse.com.au/buy/111757/b-box-sippy-cup-gelato-boysenberry-240ml",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 14.49,
   "rrp": 16.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-05",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

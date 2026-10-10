@@ -3,8 +3,8 @@
   "name": "Ego Moov Head Lice Shampoo 200mL",
   "url": "https://www.priceline.com.au/product/318779/ego-moov-head-lice-shampoo-200ml",
   "currency": "AUD",
-  "current_price": 21.19,
-  "rrp": 26.49,
+  "current_price": 26.49,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 21.19
+    },
+    {
+      "date": "2026-10-06",
+      "price": 26.49
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "Bellamy's Beta Genica-8 Step 2 Follow-On Formula 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/100850/bellamy-s-beta-genica-8-step-2-follow-on-formula-800g",
   "currency": "AUD",
-  "current_price": 78.99,
+  "current_price": 79.49,
   "rrp": 79.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 78.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 79.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

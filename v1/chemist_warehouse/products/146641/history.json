@@ -3,7 +3,7 @@
   "name": "Braun Manual Nasal Aspirator 1 Filters",
   "url": "https://www.chemistwarehouse.com.au/buy/146641/braun-manual-nasal-aspirator-1-filters",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 13.49,
   "rrp": 15.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 12.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

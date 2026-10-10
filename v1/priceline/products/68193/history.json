@@ -3,8 +3,8 @@
   "name": "Bioglan Platinum Probiotic 100 Billion 30 Capsules",
   "url": "https://www.priceline.com.au/product/68193/bioglan-platinum-probiotic-100-billion-30-capsules",
   "currency": "AUD",
-  "current_price": 41.99,
-  "rrp": 62.99,
+  "current_price": 62.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 41.99
+    },
+    {
+      "date": "2026-10-06",
+      "price": 62.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "Mumamoo Stage 2 Premium Follow On Formula 6-12 Months 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/119863/mumamoo-stage-2-premium-follow-on-formula-6-12-months-800g",
   "currency": "AUD",
-  "current_price": 33.99,
+  "current_price": 34.49,
   "rrp": 34.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 33.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 34.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

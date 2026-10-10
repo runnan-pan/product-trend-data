@@ -3,7 +3,7 @@
   "name": "Lyclear Scabies Cream 30g (Prescription Only) - Permethrin",
   "url": "https://www.chemistwarehouse.com.au/buy/112541/lyclear-scabies-cream-30g-prescription-only-permethrin",
   "currency": "AUD",
-  "current_price": 12.49,
+  "current_price": 12.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 12.49
+    },
+    {
+      "date": "2026-10-09",
+      "price": 12.99
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

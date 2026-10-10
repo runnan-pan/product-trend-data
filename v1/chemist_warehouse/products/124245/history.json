@@ -3,7 +3,7 @@
   "name": "Durex Invisible Close Fit Condoms 10 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/124245/durex-invisible-close-fit-condoms-10-pack",
   "currency": "AUD",
-  "current_price": 10.49,
+  "current_price": 10.99,
   "rrp": 11.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 10.49
+    },
+    {
+      "date": "2026-10-09",
+      "price": 10.99
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

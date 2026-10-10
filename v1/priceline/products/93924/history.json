@@ -3,8 +3,8 @@
   "name": "FRAIM Satin Pillowcase 1 Pack",
   "url": "https://www.priceline.com.au/product/93924/fraim-satin-pillowcase-1-pack",
   "currency": "AUD",
-  "current_price": 12.6,
-  "rrp": 18.0,
+  "current_price": 18.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 12.6
+    },
+    {
+      "date": "2026-10-06",
+      "price": 18.0
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

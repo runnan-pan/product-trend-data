@@ -3,8 +3,8 @@
   "name": "Elizabeth Arden Eight Hour Cream Moisturising Hand Treatment 75ml",
   "url": "https://www.chemistwarehouse.com.au/buy/67375/elizabeth-arden-eight-hour-cream-moisturising-hand-treatment-75ml",
   "currency": "AUD",
-  "current_price": 28.99,
-  "rrp": 37.0,
+  "current_price": 31.99,
+  "rrp": 38.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 28.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 31.99
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

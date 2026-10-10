@@ -3,7 +3,7 @@
   "name": "Dr. LeWinn's Brighten And Even Cellular Regeneration Cream 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/86675/dr-lewinn-s-reversaderm-antioxidant-regeneration-cream-30ml",
   "currency": "AUD",
-  "current_price": 37.69,
+  "current_price": 35.39,
   "rrp": 58.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 37.69
+    },
+    {
+      "date": "2026-10-08",
+      "price": 35.39
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

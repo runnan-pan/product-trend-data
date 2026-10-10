@@ -3,7 +3,7 @@
   "name": "Biostime SN-2 BIO PLUS HPO Toddler Milk Drink Stage 3 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/117356/biostime-sn-2-bio-plus-hpo-toddler-milk-drink-stage-3-800g",
   "currency": "AUD",
-  "current_price": 41.99,
+  "current_price": 42.49,
   "rrp": 43.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 41.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 42.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

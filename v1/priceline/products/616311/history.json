@@ -1,7 +1,7 @@
 {
   "product_id": "616311",
   "name": "Ego QV Cream 100g",
-  "url": "https://www.priceline.com.au/product/616311/ego-replenishing-moisturising-cream-100g",
+  "url": "https://www.priceline.com.au/product/616311/ego-qv-cream-100g",
   "currency": "AUD",
   "current_price": 6.99,
   "rrp": 9.99,
@@ -14,6 +14,6 @@
       "price": 6.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

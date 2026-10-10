@@ -3,7 +3,7 @@
   "name": "MCoBeauty Brow Wax Sculpt & Set",
   "url": "https://www.chemistwarehouse.com.au/buy/138821/mcobeauty-brow-wax-sculpt-set",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 13.0,
   "rrp": 24.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 13.0
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

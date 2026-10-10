@@ -3,8 +3,8 @@
   "name": "Grow Longer Stronger Nourishing Oil 60mL",
   "url": "https://www.priceline.com.au/product/189385/grow-longer-stronger-nourishing-oil-60ml",
   "currency": "AUD",
-  "current_price": 9.5,
-  "rrp": 19.0,
+  "current_price": 19.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 9.5
+    },
+    {
+      "date": "2026-10-06",
+      "price": 19.0
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

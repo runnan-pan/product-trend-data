@@ -3,7 +3,7 @@
   "name": "B.Box Silicone Fresh Food Feeder Ocean",
   "url": "https://www.chemistwarehouse.com.au/buy/103403/b-box-silicone-fresh-food-feeder-ocean",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 12.49,
   "rrp": 14.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-05",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 12.49
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

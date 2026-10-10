@@ -3,8 +3,8 @@
   "name": "Remington High Precision Haircut Kit 1 Pack",
   "url": "https://www.priceline.com.au/product/947660/remington-high-precision-haircut-kit-1-pack",
   "currency": "AUD",
-  "current_price": 23.96,
-  "rrp": 29.95,
+  "current_price": 29.95,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 23.96
+    },
+    {
+      "date": "2026-10-06",
+      "price": 29.95
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

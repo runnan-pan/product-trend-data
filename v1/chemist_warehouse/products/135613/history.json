@@ -3,7 +3,7 @@
   "name": "MCoBeauty Hot Lip Plump Cinderella",
   "url": "https://www.chemistwarehouse.com.au/buy/135613/mcobeauty-hot-lip-plump-cinderella",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 8.5,
   "rrp": 16.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 8.5
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "ROH Reset Scalp Wash 350mL",
   "url": "https://www.priceline.com.au/product/89593/roh-reset-scalp-wash-350ml",
   "currency": "AUD",
-  "current_price": 26.21,
-  "rrp": 34.95,
+  "current_price": 34.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 26.21
+    },
+    {
+      "date": "2026-10-06",
+      "price": 34.95
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

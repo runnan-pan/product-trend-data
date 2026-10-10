@@ -3,7 +3,7 @@
   "name": "Klairs Fundamental Watery Oil Drop 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/150980/klairs-fundamental-watery-oil-drop-50ml",
   "currency": "AUD",
-  "current_price": 45.0,
+  "current_price": 42.75,
   "rrp": 49.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-28",
       "price": 45.0
+    },
+    {
+      "date": "2026-10-09",
+      "price": 42.75
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

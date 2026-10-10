@@ -3,8 +3,8 @@
   "name": "VS Sassoon Expert Turbo 2400 Dryer 1 Each",
   "url": "https://www.priceline.com.au/product/7411/vs-sassoon-expert-turbo-2400-dryer-1-each",
   "currency": "AUD",
-  "current_price": 47.99,
-  "rrp": 59.99,
+  "current_price": 59.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 47.99
+    },
+    {
+      "date": "2026-10-06",
+      "price": 59.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -1,10 +1,10 @@
 {
   "product_id": "186090",
   "name": "Ego QV Ceramides Cleanser 350g",
-  "url": "https://www.priceline.com.au/product/186090/ego-barrier-repair-ceramides-cleanser-350g",
+  "url": "https://www.priceline.com.au/product/186090/ego-qv-ceramides-cleanser-350g",
   "currency": "AUD",
-  "current_price": 9.44,
-  "rrp": 13.49,
+  "current_price": 13.49,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-09-28",
       "price": 9.44
+    },
+    {
+      "date": "2026-10-06",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

@@ -3,7 +3,7 @@
   "name": "Tommee Tippee Healthcare Kit",
   "url": "https://www.chemistwarehouse.com.au/buy/135741/tommee-tippee-healthcare-kit",
   "currency": "AUD",
-  "current_price": 26.99,
+  "current_price": 27.49,
   "rrp": 36.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 26.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 27.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

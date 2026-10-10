@@ -3,8 +3,8 @@
   "name": "Nature's Way High Strength Adult Vita Gummies Collagen Beauty Complex Peach Flavoured 50 Pastilles",
   "url": "https://www.priceline.com.au/product/188009/nature%27s-way-high-strength-adult-vita-gummies-collagen-beauty-complex-peach-flavoured-50-pastilles",
   "currency": "AUD",
-  "current_price": 16.79,
-  "rrp": 27.99,
+  "current_price": 27.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-30",
       "price": 16.79
+    },
+    {
+      "date": "2026-10-06",
+      "price": 27.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

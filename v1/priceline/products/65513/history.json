@@ -1,7 +1,7 @@
 {
   "product_id": "65513",
   "name": "Nature's Own Magnesium 75 Capsules",
-  "url": "https://www.priceline.com.au/product/65513/nature%27s-own-magnesium-chelate-500mg-75-capsules",
+  "url": "https://www.priceline.com.au/product/65513/nature%27s-own-magnesium-75-capsules",
   "currency": "AUD",
   "current_price": 19.99,
   "rrp": null,
@@ -14,6 +14,6 @@
       "price": 19.99
     }
   ],
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "disclaimer": "These are publicly displayed Priceline Australia online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions or items supplied after pharmacist advice."
 }

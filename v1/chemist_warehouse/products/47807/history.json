@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/47807/elizabeth-arden-sunflowers-eau-de-toilette-100ml",
   "currency": "AUD",
   "current_price": 24.99,
-  "rrp": 39.0,
+  "rrp": 40.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -26,6 +26,6 @@
       "price": 24.99
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

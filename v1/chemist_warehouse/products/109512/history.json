@@ -3,8 +3,8 @@
   "name": "Elizabeth Arden Green Tea Lavender Eau De Toilette 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/109512/elizabeth-arden-green-tea-lavender-eau-de-toilette-100ml",
   "currency": "AUD",
-  "current_price": 19.99,
-  "rrp": 39.0,
+  "current_price": 24.99,
+  "rrp": 43.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

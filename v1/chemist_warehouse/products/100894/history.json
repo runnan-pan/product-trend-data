@@ -3,7 +3,7 @@
   "name": "Glow Lab Age Renew Regenerating Facial Serum 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/100894/glow-lab-age-renew-regenerating-facial-serum-30ml",
   "currency": "AUD",
-  "current_price": 33.99,
+  "current_price": 23.99,
   "rrp": 40.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 33.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 23.99
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

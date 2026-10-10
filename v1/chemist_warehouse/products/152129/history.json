@@ -3,7 +3,7 @@
   "name": "Peak Energy Gum Mint 12 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/152129/peak-energy-gum-mint-12-pack",
   "currency": "AUD",
-  "current_price": 69.9,
+  "current_price": 50.31,
   "rrp": 71.88,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 69.9
+    },
+    {
+      "date": "2026-10-08",
+      "price": 50.31
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

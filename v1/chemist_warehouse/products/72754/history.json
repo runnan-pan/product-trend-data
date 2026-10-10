@@ -3,7 +3,7 @@
   "name": "Skin Doctors Beetox 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/72754/skin-doctors-beetox-50ml",
   "currency": "AUD",
-  "current_price": 55.99,
+  "current_price": 32.49,
   "rrp": 64.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 55.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 32.49
     }
   ],
-  "snapshot_days": 41,
+  "snapshot_days": 45,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

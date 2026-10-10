@@ -3,7 +3,7 @@
   "name": "Karicare Goat Milk Stage 3 Toddler Formula 900g",
   "url": "https://www.chemistwarehouse.com.au/buy/116568/karicare-goat-milk-toddler-formula-900g",
   "currency": "AUD",
-  "current_price": 51.99,
+  "current_price": 52.49,
   "rrp": 52.8,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 51.99
+    },
+    {
+      "date": "2026-10-08",
+      "price": 52.49
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

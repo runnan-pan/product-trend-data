@@ -3,7 +3,7 @@
   "name": "LifeStyles Zero Condoms 20 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/87116/lifestyles-zero-condoms-20-pack",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 22.49,
   "rrp": 22.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-09-14",
       "price": 21.99
+    },
+    {
+      "date": "2026-10-09",
+      "price": 22.49
     }
   ],
-  "snapshot_days": 40,
+  "snapshot_days": 44,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
