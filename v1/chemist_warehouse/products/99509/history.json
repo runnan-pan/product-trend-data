@@ -3,7 +3,7 @@
   "name": "Elastoplast Performance Wrist Support S/M",
   "url": "https://www.chemistwarehouse.com.au/buy/99509/elastoplast-performance-wrist-support-m-1-pack",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 36.49,
   "rrp": 45.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 35.99
+    },
+    {
+      "date": "2026-10-12",
+      "price": 36.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

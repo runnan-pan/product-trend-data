@@ -3,7 +3,7 @@
   "name": "Nicorette Quit Smoking Extra Strength Nicotine Gum Classic 30 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/63457/nicorette-quit-smoking-extra-strength-nicotine-gum-classic-30-pack",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 15.49,
   "rrp": 17.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-08-31",
       "price": 14.99
+    },
+    {
+      "date": "2026-10-13",
+      "price": 15.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

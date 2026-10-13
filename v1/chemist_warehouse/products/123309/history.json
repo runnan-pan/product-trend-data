@@ -3,7 +3,7 @@
   "name": "Oral B 3D White Whitening Strips Sensitive 14 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/123309/oral-b-3d-white-whitening-strips-sensitive-14-pack",
   "currency": "AUD",
-  "current_price": 31.99,
+  "current_price": 32.49,
   "rrp": 44.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 31.99
+    },
+    {
+      "date": "2026-10-13",
+      "price": 32.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

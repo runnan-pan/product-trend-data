@@ -3,7 +3,7 @@
   "name": "Elastoplast Waterproof Dressing 4XL 10cm x 20cm 5 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/118867/elastoplast-waterproof-dressing-4xl-10cm-x-20cm-5-pack",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 22.49,
   "rrp": 24.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 21.99
+    },
+    {
+      "date": "2026-10-12",
+      "price": 22.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

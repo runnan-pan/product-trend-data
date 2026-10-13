@@ -3,7 +3,7 @@
   "name": "Visine Advanced Relief Eye Drops 15mL",
   "url": "https://www.chemistwarehouse.com.au/buy/8324/visine-advanced-relief-eye-drops-15ml",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 13.49,
   "rrp": 14.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-08-31",
       "price": 12.99
+    },
+    {
+      "date": "2026-10-12",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 44,
+  "snapshot_days": 47,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Braun Thermoscan 7+ Ear Thermometer",
   "url": "https://www.chemistwarehouse.com.au/buy/133924/braun-thermoscan-7-ear-thermometer",
   "currency": "AUD",
-  "current_price": 152.99,
+  "current_price": 153.49,
   "rrp": 181.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 152.99
+    },
+    {
+      "date": "2026-10-13",
+      "price": 153.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

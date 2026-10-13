@@ -3,7 +3,7 @@
   "name": "Vicks Non-Contact Forehead 3-In-1 Thermometer",
   "url": "https://www.chemistwarehouse.com.au/buy/108425/vicks-non-contact-forehead-3-in-1-thermometer",
   "currency": "AUD",
-  "current_price": 58.99,
+  "current_price": 59.49,
   "rrp": 62.94,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 58.99
+    },
+    {
+      "date": "2026-10-13",
+      "price": 59.49
     }
   ],
-  "snapshot_days": 44,
+  "snapshot_days": 47,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Elastoplast Protective Ankle Stabiliser",
   "url": "https://www.chemistwarehouse.com.au/buy/77193/elastoplast-protective-ankle-stabiliser-1-pack",
   "currency": "AUD",
-  "current_price": 42.99,
+  "current_price": 43.49,
   "rrp": 69.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 42.99
+    },
+    {
+      "date": "2026-10-12",
+      "price": 43.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

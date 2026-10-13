@@ -3,7 +3,7 @@
   "name": "Difflam Anti-inflammatory Mouth Gel Peppermint 10g",
   "url": "https://www.chemistwarehouse.com.au/buy/3429/difflam-anti-inflammatory-mouth-gel-peppermint-10g",
   "currency": "AUD",
-  "current_price": 11.49,
+  "current_price": 11.99,
   "rrp": 12.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.49
+    },
+    {
+      "date": "2026-10-13",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Oapl 68201 Therafirm Women Knee High Stocking Sand Medium",
   "url": "https://www.chemistwarehouse.com.au/buy/74613/oapl-68201-therafirm-women-knee-high-stocking-sand-medium",
   "currency": "AUD",
-  "current_price": 27.99,
+  "current_price": 28.49,
   "rrp": 39.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 27.99
+    },
+    {
+      "date": "2026-10-12",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 45,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

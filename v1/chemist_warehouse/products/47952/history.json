@@ -3,7 +3,7 @@
   "name": "Accu-Chek Softclix Lancets 200",
   "url": "https://www.chemistwarehouse.com.au/buy/47952/accu-chek-softclix-lancets-200",
   "currency": "AUD",
-  "current_price": 32.99,
+  "current_price": 33.49,
   "rrp": 36.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 32.99
+    },
+    {
+      "date": "2026-10-13",
+      "price": 33.49
     }
   ],
-  "snapshot_days": 44,
+  "snapshot_days": 47,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
