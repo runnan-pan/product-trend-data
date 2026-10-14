@@ -3,7 +3,7 @@
   "name": "JOVS Venus Pro IPL Hair Removal Device with Ice Cooling Skin Rejuvenation",
   "url": "https://www.chemistwarehouse.com.au/buy/145758/jovs-venus-pro-ipl-intense-pulsed-light-hair-remover-1unit",
   "currency": "AUD",
-  "current_price": 394.95,
+  "current_price": 399.5,
   "rrp": 899.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 394.95
+    },
+    {
+      "date": "2026-10-14",
+      "price": 399.5
     }
   ],
-  "snapshot_days": 47,
+  "snapshot_days": 48,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

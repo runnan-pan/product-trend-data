@@ -3,7 +3,7 @@
   "name": "Living Today Battery Powered Mini Desktop Fan 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/146105/living-today-battery-powered-mini-desktop-fan-1unit",
   "currency": "AUD",
-  "current_price": 29.95,
+  "current_price": 32.95,
   "rrp": 69.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 29.95
+    },
+    {
+      "date": "2026-10-14",
+      "price": 32.95
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

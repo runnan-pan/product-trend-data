@@ -3,7 +3,7 @@
   "name": "Nurofen For Children 3 months - 5 years Pain and Fever Relief 100mg/5mL Ibuprofen Strawberry 200mL",
   "url": "https://www.chemistwarehouse.com.au/buy/59911/nurofen-for-children-3-months-5-years-pain-and-fever-relief-100mg-5ml-ibuprofen-strawberry-200ml",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 22.49,
   "rrp": 27.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 21.99
+    },
+    {
+      "date": "2026-10-14",
+      "price": 22.49
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

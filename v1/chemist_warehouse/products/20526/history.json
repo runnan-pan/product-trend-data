@@ -3,7 +3,7 @@
   "name": "Telfast Hayfever Allergy Tablets 120mg 30 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/20526/telfast-hayfever-allergy-relief-120mg-antihistamine-tablets-non-drowsy-30-pack",
   "currency": "AUD",
-  "current_price": 20.99,
+  "current_price": 21.49,
   "rrp": 28.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 20.99
+    },
+    {
+      "date": "2026-10-14",
+      "price": 21.49
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

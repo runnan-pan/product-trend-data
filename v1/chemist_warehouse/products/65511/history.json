@@ -3,7 +3,7 @@
   "name": "Nurofen For Children 5-12yrs Pain and Fever Relief Concentrated Liquid 200mg/5mL Ibuprofen Orange 200mL",
   "url": "https://www.chemistwarehouse.com.au/buy/65511/nurofen-for-children-5-12yrs-pain-and-fever-relief-concentrated-liquid-200mg-5ml-ibuprofen-orange-200ml",
   "currency": "AUD",
-  "current_price": 28.99,
+  "current_price": 29.49,
   "rrp": 36.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 28.99
+    },
+    {
+      "date": "2026-10-14",
+      "price": 29.49
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
