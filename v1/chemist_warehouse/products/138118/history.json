@@ -3,7 +3,7 @@
   "name": "Dentagenie Pearly White Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/138118/go2-dentagenie-pearly-white-bundle",
   "currency": "AUD",
-  "current_price": 124.05,
+  "current_price": 128.89,
   "rrp": 137.85,
   "in_stock": false,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 124.05
+    },
+    {
+      "date": "2026-10-15",
+      "price": 128.89
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

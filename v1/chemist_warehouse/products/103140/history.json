@@ -3,7 +3,7 @@
   "name": "Avent Anti-Colic Bottle 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/103140/avent-anti-colic-bottle-125ml-1-pack",
   "currency": "AUD",
-  "current_price": 9.06,
+  "current_price": 12.49,
   "rrp": 12.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 9.06
+    },
+    {
+      "date": "2026-10-15",
+      "price": 12.49
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

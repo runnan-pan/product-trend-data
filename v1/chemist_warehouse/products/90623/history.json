@@ -3,8 +3,8 @@
   "name": "Sorbent Facial Tissues Silky White 50 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/90623/sorbent-facial-tissues-silky-white-50-pack",
   "currency": "AUD",
-  "current_price": 0.69,
-  "rrp": 0.99,
+  "current_price": 0.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 0.69
+    },
+    {
+      "date": "2026-10-15",
+      "price": 0.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

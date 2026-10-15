@@ -3,7 +3,7 @@
   "name": "Voost Hydrate + Magnesium Citrus Burst Effervescent Tablets 36 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/152707/voost-hydrate-magnesium-citrus-burst-effervescent-tablets-36-pack",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 28.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 35.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

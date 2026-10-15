@@ -3,7 +3,7 @@
   "name": "OGX Renewing Moroccan Argan Oil Extra Strength Penetrating Oil 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/98587/ogx-renewing-hydrating-shine-argan-oil-of-morocco-extra-penetrating-oil-for-damaged-heat-styled-hair-100ml",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 25.99,
   "rrp": 30.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 14.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 25.99
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

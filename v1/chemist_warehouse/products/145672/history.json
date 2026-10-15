@@ -3,7 +3,7 @@
   "name": "Pigeon Training Toothbrush Step 4 Pink",
   "url": "https://www.chemistwarehouse.com.au/buy/145672/pigeon-training-toothbrush-step-4-pink",
   "currency": "AUD",
-  "current_price": 5.4,
+  "current_price": 6.19,
   "rrp": 7.2,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 5.4
+    },
+    {
+      "date": "2026-10-15",
+      "price": 6.19
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

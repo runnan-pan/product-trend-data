@@ -3,8 +3,8 @@
   "name": "Optimum Nutrition Gold Standard 100% Whey Vanilla Ice Cream 2.27kg",
   "url": "https://www.chemistwarehouse.com.au/buy/150490/optimum-nutrition-gold-standard-100-whey-vanilla-ice-cream-2-27kg",
   "currency": "AUD",
-  "current_price": 169.99,
-  "rrp": 179.95,
+  "current_price": 184.99,
+  "rrp": 215.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 169.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 184.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

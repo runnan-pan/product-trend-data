@@ -3,7 +3,7 @@
   "name": "Bioglan Curcumin Double Strength 1200mg 70 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/124011/bioglan-curcumin-double-strength-1200mg-70-tablets",
   "currency": "AUD",
-  "current_price": 43.97,
+  "current_price": 56.99,
   "rrp": 87.89,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 43.97
+    },
+    {
+      "date": "2026-10-15",
+      "price": 56.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

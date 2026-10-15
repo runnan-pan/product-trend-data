@@ -3,7 +3,7 @@
   "name": "Healthy Way Wild Walnuts 200g",
   "url": "https://www.chemistwarehouse.com.au/buy/94848/healthy-way-wild-walnuts-200g",
   "currency": "AUD",
-  "current_price": 7.19,
+  "current_price": 8.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 7.19
+    },
+    {
+      "date": "2026-10-15",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Rose-Hip Vital Equine 1.5kg",
   "url": "https://www.chemistwarehouse.com.au/buy/126783/rose-hip-vital-equine-1-5kg",
   "currency": "AUD",
-  "current_price": 154.99,
+  "current_price": 149.46,
   "rrp": 229.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 154.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 149.46
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

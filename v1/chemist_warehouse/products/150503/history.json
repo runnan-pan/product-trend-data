@@ -3,8 +3,8 @@
   "name": "Optimum Nutrition Serious Mass Vanilla 2.72kg",
   "url": "https://www.chemistwarehouse.com.au/buy/150503/optimum-nutrition-serious-mass-vanilla-2-72kg",
   "currency": "AUD",
-  "current_price": 94.99,
-  "rrp": 98.95,
+  "current_price": 59.44,
+  "rrp": 118.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 94.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 59.44
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

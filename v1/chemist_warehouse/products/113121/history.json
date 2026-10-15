@@ -3,7 +3,7 @@
   "name": "King C Gillette Double Edge Safety Razor + 5 Razor Blades",
   "url": "https://www.chemistwarehouse.com.au/buy/113121/king-c-gillette-double-edge-safety-razor-5-razor-blades",
   "currency": "AUD",
-  "current_price": 14.94,
+  "current_price": 14.85,
   "rrp": 29.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.94
+    },
+    {
+      "date": "2026-10-15",
+      "price": 14.85
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

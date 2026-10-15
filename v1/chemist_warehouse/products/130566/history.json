@@ -3,7 +3,7 @@
   "name": "Glam By Manicare Emery Flexi Lashes Natural",
   "url": "https://www.chemistwarehouse.com.au/buy/130566/glam-by-manicare-eyelashes-flexi-lash-natural-emery",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 7.74,
   "rrp": 15.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 7.74
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

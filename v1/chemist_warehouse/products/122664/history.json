@@ -3,7 +3,7 @@
   "name": "Kristin Ess Moisture Rich Curl Shampoo 296ml",
   "url": "https://www.chemistwarehouse.com.au/buy/122664/kristin-ess-moisture-rich-curl-shampoo-296ml",
   "currency": "AUD",
-  "current_price": 17.99,
+  "current_price": 12.39,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 17.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 12.39
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

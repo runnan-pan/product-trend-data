@@ -3,7 +3,7 @@
   "name": "Banana Boat SPF 50+ Sport 1 Litre",
   "url": "https://www.chemistwarehouse.com.au/buy/89400/banana-boat-spf-50-sport-1-litre",
   "currency": "AUD",
-  "current_price": 29.39,
+  "current_price": 35.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 29.39
+    },
+    {
+      "date": "2026-10-15",
+      "price": 35.99
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Braun Series 5 51-M1200s Wet & Dry Shaver",
   "url": "https://www.chemistwarehouse.com.au/buy/133545/braun-series-5-51-m1200s-wet-dry-shaver-online-only",
   "currency": "AUD",
-  "current_price": 152.99,
+  "current_price": 185.99,
   "rrp": 219.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 152.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 185.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

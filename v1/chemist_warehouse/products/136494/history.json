@@ -3,7 +3,7 @@
   "name": "Avent Natural Response Feeding Bottle 330ml",
   "url": "https://www.chemistwarehouse.com.au/buy/136494/avent-natural-response-feeding-bottle-330ml-1-pack",
   "currency": "AUD",
-  "current_price": 14.66,
+  "current_price": 19.99,
   "rrp": 20.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.66
+    },
+    {
+      "date": "2026-10-15",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

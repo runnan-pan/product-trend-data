@@ -3,8 +3,8 @@
   "name": "CanineCeuticals Organic Beef Kidney 150g",
   "url": "https://www.chemistwarehouse.com.au/buy/154766/canineceuticals-organic-beef-kidney-150g",
   "currency": "AUD",
-  "current_price": 53.85,
-  "rrp": null,
+  "current_price": 47.93,
+  "rrp": 53.85,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 53.85
+    },
+    {
+      "date": "2026-10-15",
+      "price": 47.93
     }
   ],
-  "snapshot_days": 48,
+  "snapshot_days": 49,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

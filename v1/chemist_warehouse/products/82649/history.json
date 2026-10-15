@@ -3,7 +3,7 @@
   "name": "Oli6 - Stage 3 Goat A2 Milk Toddler Formula 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/82649/oli6-stage-3-dairy-goat-milk-formula-toddler-800g",
   "currency": "AUD",
-  "current_price": 36.93,
+  "current_price": 43.49,
   "rrp": 46.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 36.93
+    },
+    {
+      "date": "2026-10-15",
+      "price": 43.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

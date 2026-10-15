@@ -3,7 +3,7 @@
   "name": "Cancer Council SPF 50+ Face Day Wear Serum 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/119595/cancer-council-spf-50-face-day-wear-serum-50ml",
   "currency": "AUD",
-  "current_price": 14.69,
+  "current_price": 17.39,
   "rrp": 24.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 14.69
+    },
+    {
+      "date": "2026-10-15",
+      "price": 17.39
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
