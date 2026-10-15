@@ -3,7 +3,7 @@
   "name": "Dentagenie Smooth Flosspyx 36pk x 3 Multipack",
   "url": "https://www.chemistwarehouse.com.au/buy/153174/go2-dentagenie-smooth-flosspyx-36pk-x-3-multipack",
   "currency": "AUD",
-  "current_price": 18.35,
+  "current_price": 19.07,
   "rrp": 20.4,
   "in_stock": false,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 18.35
+    },
+    {
+      "date": "2026-10-15",
+      "price": 19.07
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

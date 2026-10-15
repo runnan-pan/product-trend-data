@@ -3,8 +3,8 @@
   "name": "Optimum Nutrition Gold Standard 100% Isolate Vanilla 720g",
   "url": "https://www.chemistwarehouse.com.au/buy/150492/optimum-nutrition-gold-standard-100-isolate-vanilla-720g",
   "currency": "AUD",
-  "current_price": 99.99,
-  "rrp": 106.45,
+  "current_price": 109.99,
+  "rrp": 127.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 99.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 109.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

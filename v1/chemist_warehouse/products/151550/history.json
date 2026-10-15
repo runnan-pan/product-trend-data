@@ -3,7 +3,7 @@
   "name": "Cenovis Sugarless C 500mg Chewable 500 Tablet Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/151550/cenovis-sugarless-c-500mg-chewable-500-tablet-exclusive-size",
   "currency": "AUD",
-  "current_price": 27.99,
+  "current_price": 24.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 27.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

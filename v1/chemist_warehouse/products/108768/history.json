@@ -3,7 +3,7 @@
   "name": "GC Tooth Mousse Plus Mint 40g",
   "url": "https://www.chemistwarehouse.com.au/buy/108768/gc-tooth-mousse-plus-mint-40g",
   "currency": "AUD",
-  "current_price": 27.49,
+  "current_price": 32.49,
   "rrp": 34.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 27.49
+    },
+    {
+      "date": "2026-10-15",
+      "price": 32.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

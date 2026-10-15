@@ -3,8 +3,8 @@
   "name": "CanineCeuticals Gut Restore 120g",
   "url": "https://www.chemistwarehouse.com.au/buy/143279/canineceuticals-gut-restore-120g",
   "currency": "AUD",
-  "current_price": 49.95,
-  "rrp": null,
+  "current_price": 44.46,
+  "rrp": 49.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 49.95
+    },
+    {
+      "date": "2026-10-15",
+      "price": 44.46
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Braun Series 3 Electric Shaver For Men 300S",
   "url": "https://www.chemistwarehouse.com.au/buy/103445/braun-series-3-electric-shaver-for-men-300s",
   "currency": "AUD",
-  "current_price": 68.99,
+  "current_price": 69.99,
   "rrp": 99.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 68.99
+    },
+    {
+      "date": "2026-10-15",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 50,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
