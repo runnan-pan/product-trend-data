@@ -3,7 +3,7 @@
   "name": "Benzac Acne Control 3 Step Acne Starter Kit",
   "url": "https://www.chemistwarehouse.com.au/buy/102654/benzac-acne-control-3-step-acne-starter-kit",
   "currency": "AUD",
-  "current_price": 42.99,
+  "current_price": 43.49,
   "rrp": 49.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 42.99
+    },
+    {
+      "date": "2026-10-16",
+      "price": 43.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

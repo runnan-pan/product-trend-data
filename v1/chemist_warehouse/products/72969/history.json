@@ -3,7 +3,7 @@
   "name": "Rexona Women Clinical Protection Antiperspirant Cream Stick Shower Clean 45ml",
   "url": "https://www.chemistwarehouse.com.au/buy/72969/rexona-for-women-clinical-protection-antiperspirant-deodorant-shower-clean-45ml",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 14.49,
   "rrp": 16.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-16",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

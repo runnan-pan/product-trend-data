@@ -3,7 +3,7 @@
   "name": "Hask Exotics Chia Seed Dry Shampoo 122g",
   "url": "https://www.chemistwarehouse.com.au/buy/106962/hask-exotics-chia-seed-dry-shampoo-122g",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 14.49,
   "rrp": 17.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

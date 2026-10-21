@@ -3,7 +3,7 @@
   "name": "Hydro 2 Oil Magnesium Oil 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/155237/hydro-2-oil-magnesium-oil-250ml",
   "currency": "AUD",
-  "current_price": 28.95,
+  "current_price": 14.95,
   "rrp": 29.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 28.95
+    },
+    {
+      "date": "2026-10-16",
+      "price": 14.95
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

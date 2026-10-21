@@ -3,7 +3,7 @@
   "name": "Olaplex No.5 Bond Maintenance Conditioner 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/92264/olaplex-no-5-bond-maintenance-conditioner-250ml",
   "currency": "AUD",
-  "current_price": 45.99,
+  "current_price": 46.49,
   "rrp": 54.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 45.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 46.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

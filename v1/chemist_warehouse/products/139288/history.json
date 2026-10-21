@@ -3,7 +3,7 @@
   "name": "Redken Frizz Dismiss Rebel Tame Cream 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/139288/redken-frizz-dismiss-rebel-tame-cream-250ml",
   "currency": "AUD",
-  "current_price": 41.99,
+  "current_price": 42.49,
   "rrp": 51.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 41.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 42.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

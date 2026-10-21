@@ -3,7 +3,7 @@
   "name": "Matrix High Amplify Conditioner 300ml",
   "url": "https://www.chemistwarehouse.com.au/buy/139320/matrix-high-amplify-conditioner-300ml",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 30.49,
   "rrp": 37.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 29.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 30.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

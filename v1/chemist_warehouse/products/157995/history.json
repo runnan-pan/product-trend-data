@@ -3,7 +3,7 @@
   "name": "Elizabeth Arden Eight Hour Cream Intensive Lip Repair Balm 15ml",
   "url": "https://www.chemistwarehouse.com.au/buy/157995/elizabeth-arden-eight-hour-cream-intensive-lip-repair-balm-15ml",
   "currency": "AUD",
-  "current_price": 31.99,
+  "current_price": 28.49,
   "rrp": 38.0,
   "in_stock": false,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-08",
       "price": 31.99
+    },
+    {
+      "date": "2026-10-19",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

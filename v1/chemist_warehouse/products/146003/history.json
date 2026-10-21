@@ -3,8 +3,8 @@
   "name": "SISTERWOULD Give Me Life Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/146003/sisterwould-give-me-life-bundle",
   "currency": "AUD",
-  "current_price": 70.0,
-  "rrp": 78.0,
+  "current_price": 59.5,
+  "rrp": 70.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-13",
       "price": 70.0
+    },
+    {
+      "date": "2026-10-16",
+      "price": 59.5
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

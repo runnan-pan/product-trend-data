@@ -3,7 +3,7 @@
   "name": "Rexona Women Clinical Protection Antiperspirant Aerosol Summer Strength 180ml",
   "url": "https://www.chemistwarehouse.com.au/buy/90360/rexona-for-women-clinical-protection-antiperspirant-summer-180ml",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 12.49,
   "rrp": 14.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,16 @@
     {
       "date": "2026-10-15",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-16",
+      "price": 11.49
+    },
+    {
+      "date": "2026-10-21",
+      "price": 12.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

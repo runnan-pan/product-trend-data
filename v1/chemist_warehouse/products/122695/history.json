@@ -3,7 +3,7 @@
   "name": "Antipodes Lime Caviar Collagen-Rich Firming Cream 60ml",
   "url": "https://www.chemistwarehouse.com.au/buy/122695/antipodes-lime-caviar-collagen-rich-firming-cream-60ml",
   "currency": "AUD",
-  "current_price": 52.99,
+  "current_price": 53.49,
   "rrp": 62.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 52.99
+    },
+    {
+      "date": "2026-10-19",
+      "price": 53.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Kings Domain 3 in 1 Shampoo Conditioner + Body Wash 375ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149701/kings-domain-3-in-1-shampoo-conditioner-body-wash-375ml",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 14.49,
   "rrp": 16.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

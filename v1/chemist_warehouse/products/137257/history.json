@@ -3,7 +3,7 @@
   "name": "Clairol Bold & Bright Permanent Hair Colour 28 Wild Blackberry",
   "url": "https://www.chemistwarehouse.com.au/buy/137257/clairol-bold-bright-permanent-hair-colour-28-wild-blackberry",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 15.49,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 14.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 15.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

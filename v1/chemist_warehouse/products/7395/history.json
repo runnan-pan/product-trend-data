@@ -3,7 +3,7 @@
   "name": "Regaine Mens 5% Minoxidil Solution Hair Regrowth Treatment 60ml",
   "url": "https://www.chemistwarehouse.com.au/buy/7395/regaine-men-s-extra-strength-minoxidil-hair-regrowth-treatment-60ml",
   "currency": "AUD",
-  "current_price": 56.99,
+  "current_price": 57.49,
   "rrp": 67.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 56.99
+    },
+    {
+      "date": "2026-10-16",
+      "price": 57.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

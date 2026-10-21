@@ -3,7 +3,7 @@
   "name": "Toni & Guy Glamour Sky High Dry Shampoo 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/75641/toni-guy-glamour-sky-high-dry-shampoo-250ml",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 16.49,
   "rrp": 19.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 16.49
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

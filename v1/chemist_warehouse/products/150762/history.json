@@ -3,7 +3,7 @@
   "name": "Matrix Instacure Build a Bond Balm 75ml",
   "url": "https://www.chemistwarehouse.com.au/buy/150762/matrix-instacure-build-a-bond-balm-75ml",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 30.49,
   "rrp": 36.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 29.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 30.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

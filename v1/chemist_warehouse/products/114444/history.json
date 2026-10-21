@@ -3,7 +3,7 @@
   "name": "Virbac Rapigel 200g Tube",
   "url": "https://www.chemistwarehouse.com.au/buy/114444/virbac-rapigel-200g-tube",
   "currency": "AUD",
-  "current_price": 33.99,
+  "current_price": 34.0,
   "rrp": 35.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 33.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 34.0
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

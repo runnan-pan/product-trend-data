@@ -3,7 +3,7 @@
   "name": "Ogx Extra Strength Hydrate & Repair + Argan Oil of Morocco Conditioner For Damaged Hair 385mL",
   "url": "https://www.chemistwarehouse.com.au/buy/78969/ogx-extra-strength-hydrate-repair-argan-oil-of-morocco-conditioner-for-damaged-hair-385ml",
   "currency": "AUD",
-  "current_price": 21.99,
+  "current_price": 22.49,
   "rrp": 25.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 21.99
+    },
+    {
+      "date": "2026-10-21",
+      "price": 22.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

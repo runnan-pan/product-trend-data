@@ -3,7 +3,7 @@
   "name": "Regaine Womens 2% Minoxidil Solution Hair Regrowth Treatment 3\u00a0x 60ml",
   "url": "https://www.chemistwarehouse.com.au/buy/72616/regaine-women-s-regular-strength-minoxidil-hair-regrowth-treatment-3-x-60ml",
   "currency": "AUD",
-  "current_price": 144.99,
+  "current_price": 145.49,
   "rrp": 170.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 144.99
+    },
+    {
+      "date": "2026-10-16",
+      "price": 145.49
     }
   ],
-  "snapshot_days": 50,
+  "snapshot_days": 54,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

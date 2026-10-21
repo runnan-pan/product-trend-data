@@ -3,7 +3,7 @@
   "name": "Hydro 2 Oil Muscle Joint 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/155236/hydro-2-oil-muscle-joint-250ml",
   "currency": "AUD",
-  "current_price": 18.95,
+  "current_price": 14.95,
   "rrp": 19.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 18.95
+    },
+    {
+      "date": "2026-10-16",
+      "price": 14.95
     }
   ],
-  "snapshot_days": 49,
+  "snapshot_days": 53,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
