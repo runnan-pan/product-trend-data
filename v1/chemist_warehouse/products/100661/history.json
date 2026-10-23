@@ -3,7 +3,7 @@
   "name": "Swisse Beauty Collagen Glow With Collagen Peptides 120 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/100661/swisse-beauty-collagen-glow-with-collagen-peptides-120-tablets",
   "currency": "AUD",
-  "current_price": 45.99,
+  "current_price": 29.99,
   "rrp": 59.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 45.99
+    },
+    {
+      "date": "2026-10-22",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 54,
+  "snapshot_days": 56,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

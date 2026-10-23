@@ -3,7 +3,7 @@
   "name": "Swisse Calcium + Vitamin D 300 Mini Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/116788/swisse-calcium-vitamin-d-300-mini-tablets",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 18.99,
   "rrp": 39.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-22",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 54,
+  "snapshot_days": 56,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

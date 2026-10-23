@@ -3,7 +3,7 @@
   "name": "Swisse High Strength Krill Oil 60 Capsules Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/67494/swisse-high-strength-krill-oil-60-capsules-exclusive-size",
   "currency": "AUD",
-  "current_price": 36.99,
+  "current_price": 32.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 36.99
+    },
+    {
+      "date": "2026-10-22",
+      "price": 32.99
     }
   ],
-  "snapshot_days": 53,
+  "snapshot_days": 55,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

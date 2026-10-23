@@ -3,7 +3,7 @@
   "name": "IsoWhey Plant-Based Meal Replacement Shake Vanilla 550g",
   "url": "https://www.chemistwarehouse.com.au/buy/106004/isowhey-plant-based-meal-replacement-shake-vanilla-550g",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 30.49,
   "rrp": 39.59,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 29.99
+    },
+    {
+      "date": "2026-10-22",
+      "price": 30.49
     }
   ],
-  "snapshot_days": 54,
+  "snapshot_days": 56,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

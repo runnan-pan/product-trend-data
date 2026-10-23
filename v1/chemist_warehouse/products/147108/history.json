@@ -3,7 +3,7 @@
   "name": "Carusos Vitamin K2 Double Strength 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/147108/caruso-s-vitamin-k2-double-strength-60-capsules",
   "currency": "AUD",
-  "current_price": 33.99,
+  "current_price": 34.49,
   "rrp": 44.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 33.99
+    },
+    {
+      "date": "2026-10-23",
+      "price": 34.49
     }
   ],
-  "snapshot_days": 53,
+  "snapshot_days": 55,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

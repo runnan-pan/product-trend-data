@@ -3,7 +3,7 @@
   "name": "Blackmores Insolar 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/78067/blackmores-insolar-60-tablets",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 19.49,
   "rrp": 21.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,16 @@
     {
       "date": "2026-10-15",
       "price": 10.99
+    },
+    {
+      "date": "2026-10-22",
+      "price": 18.99
+    },
+    {
+      "date": "2026-10-23",
+      "price": 19.49
     }
   ],
-  "snapshot_days": 53,
+  "snapshot_days": 55,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "American Cans 355mL Dr Pepper Cherry 12Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/146015/american-cans-355ml-dr-pepper-cherry-12pack",
   "currency": "AUD",
-  "current_price": 39.0,
+  "current_price": 39.49,
   "rrp": 42.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 39.0
+    },
+    {
+      "date": "2026-10-22",
+      "price": 39.49
     }
   ],
-  "snapshot_days": 53,
+  "snapshot_days": 55,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

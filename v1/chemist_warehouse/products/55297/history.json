@@ -3,7 +3,7 @@
   "name": "Blackmores Vitamin A 5000IU 150 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/55297/blackmores-vitamin-a-5000iu-150-capsules",
   "currency": "AUD",
-  "current_price": 10.49,
+  "current_price": 17.49,
   "rrp": 20.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,16 @@
     {
       "date": "2026-10-15",
       "price": 10.49
+    },
+    {
+      "date": "2026-10-22",
+      "price": 16.99
+    },
+    {
+      "date": "2026-10-23",
+      "price": 17.49
     }
   ],
-  "snapshot_days": 54,
+  "snapshot_days": 56,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
