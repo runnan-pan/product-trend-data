@@ -3,8 +3,8 @@
   "name": "Glucology Insulin Pump Belt Small, Beige",
   "url": "https://www.chemistwarehouse.com.au/buy/142796/glucology-insulin-pump-belt-small-beige",
   "currency": "AUD",
-  "current_price": 32.95,
-  "rrp": 34.95,
+  "current_price": 34.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 32.95
+    },
+    {
+      "date": "2026-10-28",
+      "price": 34.95
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Lincon Nitrile Examination Gloves ASTM Powder Free Small 200 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/146198/lincon-nitrile-examination-gloves-astm-powder-free-small-200-pieces-box",
   "currency": "AUD",
-  "current_price": 21.99,
-  "rrp": 24.99,
+  "current_price": 21.98,
+  "rrp": 24.98,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 21.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 21.98
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

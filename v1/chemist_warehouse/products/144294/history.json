@@ -3,8 +3,8 @@
   "name": "BH Fitness S1RW rower 1unit",
   "url": "https://www.chemistwarehouse.com.au/buy/144294/bh-fitness-s1rw-rower-1unit",
   "currency": "AUD",
-  "current_price": 1399.0,
-  "rrp": 1699.0,
+  "current_price": 1699.0,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-08",
       "price": 1399.0
+    },
+    {
+      "date": "2026-10-28",
+      "price": 1699.0
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

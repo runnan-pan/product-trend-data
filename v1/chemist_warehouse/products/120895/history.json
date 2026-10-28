@@ -3,7 +3,7 @@
   "name": "Bioglan Muscle Protect HMB + D3 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/120895/bioglan-muscle-protect-hmb-d3-60-tablets",
   "currency": "AUD",
-  "current_price": 32.99,
+  "current_price": 33.49,
   "rrp": 44.89,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 32.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 33.49
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

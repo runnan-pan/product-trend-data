@@ -3,7 +3,7 @@
   "name": "Antipodes Natural Avocado Pear Night Cream 60ml",
   "url": "https://www.chemistwarehouse.com.au/buy/86888/antipodes-natural-avocado-pear-night-cream-60ml",
   "currency": "AUD",
-  "current_price": 60.49,
+  "current_price": 48.99,
   "rrp": 70.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-19",
       "price": 60.49
+    },
+    {
+      "date": "2026-10-26",
+      "price": 48.99
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

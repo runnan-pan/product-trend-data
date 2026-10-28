@@ -3,7 +3,7 @@
   "name": "Advanced Cosmetica White Beauty Series Natural Illuminating Cleanser Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/134308/advanced-cosmetica-white-beauty-series-natural-illuminating-cleanser-bundle",
   "currency": "AUD",
-  "current_price": 49.98,
+  "current_price": 49.97,
   "rrp": 52.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 49.98
+    },
+    {
+      "date": "2026-10-28",
+      "price": 49.97
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

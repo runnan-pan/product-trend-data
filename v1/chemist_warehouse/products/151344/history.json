@@ -3,8 +3,8 @@
   "name": "Beurer Corefit 1 EMS Training Belt 1unit",
   "url": "https://www.chemistwarehouse.com.au/buy/151344/beurer-corefit-1-ems-training-belt-1unit",
   "currency": "AUD",
-  "current_price": 114.0,
-  "rrp": 139.95,
+  "current_price": 139.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-22",
       "price": 114.0
+    },
+    {
+      "date": "2026-10-28",
+      "price": 139.95
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

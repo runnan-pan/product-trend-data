@@ -3,7 +3,7 @@
   "name": "SRC Relief Femme-Eze Perineum Ice & Heat Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/136717/src-relief-femme-eze-perineum-ice-heat-pack",
   "currency": "AUD",
-  "current_price": 23.95,
+  "current_price": 24.95,
   "rrp": 34.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 23.95
+    },
+    {
+      "date": "2026-10-28",
+      "price": 24.95
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

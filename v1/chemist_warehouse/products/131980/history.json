@@ -3,7 +3,7 @@
   "name": "Mavala SKIN VITALITY Vitalizing Alpine Micro-Mist 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/131980/mavala-skin-vitality-vitalizing-alpine-micro-mist-50ml",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 18.98,
   "rrp": 21.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 18.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 18.98
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "CanineCeuticals Gut Protect 400g",
   "url": "https://www.chemistwarehouse.com.au/buy/143278/canineceuticals-gut-protect-400g",
   "currency": "AUD",
-  "current_price": 88.96,
-  "rrp": 99.95,
+  "current_price": 99.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 88.96
+    },
+    {
+      "date": "2026-10-28",
+      "price": 99.95
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

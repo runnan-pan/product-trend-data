@@ -3,7 +3,7 @@
   "name": "Comvita Olive Leaf Extract Mixed Berry 1 Litre",
   "url": "https://www.chemistwarehouse.com.au/buy/77361/comvita-olive-leaf-extract-mixed-berry-1-litre",
   "currency": "AUD",
-  "current_price": 42.99,
+  "current_price": 43.49,
   "rrp": 59.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 42.99
+    },
+    {
+      "date": "2026-10-27",
+      "price": 43.49
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

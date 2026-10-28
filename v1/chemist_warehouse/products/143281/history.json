@@ -3,8 +3,8 @@
   "name": "CanineCeuticals P.E.A Plus 60g",
   "url": "https://www.chemistwarehouse.com.au/buy/143281/canineceuticals-p-e-a-plus-60g",
   "currency": "AUD",
-  "current_price": 53.36,
-  "rrp": 59.95,
+  "current_price": 59.95,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 53.36
+    },
+    {
+      "date": "2026-10-28",
+      "price": 59.95
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

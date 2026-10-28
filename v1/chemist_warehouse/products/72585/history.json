@@ -3,7 +3,7 @@
   "name": "Nature's Way Greens Plus 300g Powder",
   "url": "https://www.chemistwarehouse.com.au/buy/72585/nature-s-way-greens-plus-300g-powder",
   "currency": "AUD",
-  "current_price": 45.99,
+  "current_price": 46.49,
   "rrp": 62.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 45.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 46.49
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

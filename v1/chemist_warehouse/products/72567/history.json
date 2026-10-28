@@ -3,8 +3,8 @@
   "name": "Nestle NAN Reflux Baby Infant Formula for Regurgitation, From Birth to 12 Months \u2013 800g",
   "url": "https://www.chemistwarehouse.com.au/buy/72567/nestle-nan-a-r-baby-infant-formula-for-regurgitation-from-birth-to-12-months-800g",
   "currency": "AUD",
-  "current_price": 28.49,
-  "rrp": 28.99,
+  "current_price": 28.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 28.49
+    },
+    {
+      "date": "2026-10-27",
+      "price": 28.99
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

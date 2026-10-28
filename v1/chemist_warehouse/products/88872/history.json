@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/88872/maxine-s-burn-bar-choc-mint-fudge-40g",
   "currency": "AUD",
   "current_price": 1.89,
-  "rrp": 3.85,
+  "rrp": 4.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -26,6 +26,6 @@
       "price": 1.89
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

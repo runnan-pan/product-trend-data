@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/135821/denta-med-dry-mouth-gel-65ml-twin-pack-bundle",
   "currency": "AUD",
   "current_price": 37.99,
-  "rrp": 39.98,
+  "rrp": 39.97,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 37.99
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

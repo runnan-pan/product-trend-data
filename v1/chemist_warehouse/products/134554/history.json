@@ -3,7 +3,7 @@
   "name": "REVAMP Diverse 19-32mm Reverse Waves Curl Barrel - Attachment 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/134554/revamp-diverse-19-32mm-reverse-waves-curl-barrel-attachment-1pc",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 18.98,
   "rrp": 39.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 18.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 18.98
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

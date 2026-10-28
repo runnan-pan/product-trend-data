@@ -4,8 +4,8 @@
   "url": "https://www.chemistwarehouse.com.au/buy/133706/go2-dentagenie-whitening-strips-28pk",
   "currency": "AUD",
   "current_price": 30.39,
-  "rrp": 32.5,
-  "in_stock": false,
+  "rrp": null,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
@@ -26,6 +26,6 @@
       "price": 30.39
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

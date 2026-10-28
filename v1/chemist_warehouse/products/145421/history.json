@@ -3,8 +3,8 @@
   "name": "SUN ZAPPER Extreme Zinc Sunscreen Lotion SPF 50+ 90ml",
   "url": "https://www.chemistwarehouse.com.au/buy/145421/sun-zapper-extreme-zinc-sunscreen-lotion-spf-50-90ml",
   "currency": "AUD",
-  "current_price": 17.99,
-  "rrp": 21.99,
+  "current_price": 21.0,
+  "rrp": 21.98,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 17.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 21.0
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

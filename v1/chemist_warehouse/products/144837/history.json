@@ -3,7 +3,7 @@
   "name": "GC Dry Mouth Gel Mint 40g",
   "url": "https://www.chemistwarehouse.com.au/buy/144837/gc-dry-mouth-gel-mint-40g",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 16.98,
   "rrp": 19.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 16.98
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

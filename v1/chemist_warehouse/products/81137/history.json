@@ -3,7 +3,7 @@
   "name": "Cenovis Once Daily 50+ Multi Vitamins & Minerals 100 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/81137/cenovis-once-daily-50-multi-vitamins-minerals-100-capsules",
   "currency": "AUD",
-  "current_price": 25.99,
+  "current_price": 26.49,
   "rrp": 33.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-08-26",
       "price": 25.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 26.49
     }
   ],
-  "snapshot_days": 54,
+  "snapshot_days": 58,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

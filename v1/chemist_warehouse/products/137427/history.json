@@ -3,7 +3,7 @@
   "name": "Little Etoile Head to Toe Wash for Dry, Sensitive & Eczema-prone Skin (0+ Months) 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/137427/little-etoile-head-to-toe-wash-for-dry-sensitive-eczema-prone-skin-0-months-250ml",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 16.98,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-09",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 16.98
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

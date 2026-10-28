@@ -4,8 +4,8 @@
   "url": "https://www.chemistwarehouse.com.au/buy/133712/go2-dentagenie-water-flosser-1pc",
   "currency": "AUD",
   "current_price": 86.01,
-  "rrp": 91.99,
-  "in_stock": false,
+  "rrp": null,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
@@ -26,6 +26,6 @@
       "price": 86.01
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

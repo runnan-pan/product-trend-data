@@ -3,7 +3,7 @@
   "name": "Fusion Menopause Heat Relief 120 Vegetarian Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/116145/fusion-menopause-heat-relief-120-vegetarian-capsules",
   "currency": "AUD",
-  "current_price": 72.99,
+  "current_price": 73.49,
   "rrp": 89.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 72.99
+    },
+    {
+      "date": "2026-10-27",
+      "price": 73.49
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

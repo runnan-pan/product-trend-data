@@ -3,17 +3,21 @@
   "name": "CORTEX Folding Exercise Mat 1.8m 50mm",
   "url": "https://www.chemistwarehouse.com.au/buy/146501/cortex-folding-exercise-mat-1-8m-50mm",
   "currency": "AUD",
-  "current_price": 95.82,
+  "current_price": 95.81,
   "rrp": null,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 95.82
+    },
+    {
+      "date": "2026-10-28",
+      "price": 95.81
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

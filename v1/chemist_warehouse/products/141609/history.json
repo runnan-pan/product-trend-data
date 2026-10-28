@@ -3,7 +3,7 @@
   "name": "Optifast VLCD Shake Coffee 18 x 53g Exclusive Bulk Size",
   "url": "https://www.chemistwarehouse.com.au/buy/141609/optifast-vlcd-shake-coffee-18-x-53g-exclusive-bulk-size",
   "currency": "AUD",
-  "current_price": 63.99,
+  "current_price": 64.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 63.99
+    },
+    {
+      "date": "2026-10-27",
+      "price": 64.49
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

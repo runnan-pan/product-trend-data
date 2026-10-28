@@ -3,7 +3,7 @@
   "name": "Caremax Massage Conductive Gel for TENS Machine 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/151894/caremax-massage-conductive-gel-for-tens-machine-100ml-1unit",
   "currency": "AUD",
-  "current_price": 17.99,
+  "current_price": 17.98,
   "rrp": 25.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 17.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 17.98
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

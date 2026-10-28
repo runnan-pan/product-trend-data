@@ -3,7 +3,7 @@
   "name": "Lifespan Kids Daintree 2-in-1 Monkey Bars & Swing Set One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/139957/lifespan-kids-daintree-2-in-1-monkey-bars-swing-set-one-size",
   "currency": "AUD",
-  "current_price": 796.68,
+  "current_price": 796.67,
   "rrp": 839.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 796.68
+    },
+    {
+      "date": "2026-10-28",
+      "price": 796.67
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

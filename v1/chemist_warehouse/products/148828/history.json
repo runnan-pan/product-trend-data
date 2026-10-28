@@ -3,8 +3,8 @@
   "name": "Liv-Wipe Mini 10% Povidone Iodine Wipes 55 x 50mm 100 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/148828/liv-wipe-mini-10-povidone-iodine-wipes-55-x-50mm-100-pieces-box",
   "currency": "AUD",
-  "current_price": 19.49,
-  "rrp": 21.49,
+  "current_price": 19.48,
+  "rrp": 21.48,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.49
+    },
+    {
+      "date": "2026-10-28",
+      "price": 19.48
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

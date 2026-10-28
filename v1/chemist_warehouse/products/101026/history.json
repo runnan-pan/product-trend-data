@@ -3,7 +3,7 @@
   "name": "Bravecto Cat Spot On 2.8-6.25Kg 2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/101026/bravecto-cat-spot-on-2-8-6-25kg-2-pack",
   "currency": "AUD",
-  "current_price": 94.99,
+  "current_price": 95.49,
   "rrp": 107.3,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 94.99
+    },
+    {
+      "date": "2026-10-26",
+      "price": 95.49
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

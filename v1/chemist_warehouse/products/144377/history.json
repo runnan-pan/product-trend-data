@@ -3,7 +3,7 @@
   "name": "Remology 5-in-1 Rechargeable Grooming Kit for Men with Hair Trimmer & Shaver One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/144377/remology-5-in-1-rechargeable-grooming-kit-one-size",
   "currency": "AUD",
-  "current_price": 66.99,
+  "current_price": 69.99,
   "rrp": 179.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-15",
       "price": 66.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

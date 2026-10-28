@@ -3,7 +3,7 @@
   "name": "Remology Ceramic Hair Straightener Fast Heat Styling Iron 25mm Plates 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/144378/remology-super-smooth-ceramic-hair-straightener-1unit",
   "currency": "AUD",
-  "current_price": 34.95,
+  "current_price": 34.99,
   "rrp": 99.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 34.95
+    },
+    {
+      "date": "2026-10-28",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

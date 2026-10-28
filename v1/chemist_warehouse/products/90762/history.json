@@ -3,7 +3,7 @@
   "name": "Johnson's Baby Fresh Scented Baby Lotion 500mL",
   "url": "https://www.chemistwarehouse.com.au/buy/90762/johnson-s-baby-fresh-scented-baby-lotion-500ml",
   "currency": "AUD",
-  "current_price": 10.49,
+  "current_price": 10.99,
   "rrp": 11.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 10.49
+    },
+    {
+      "date": "2026-10-27",
+      "price": 10.99
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

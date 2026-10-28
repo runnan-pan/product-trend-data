@@ -3,8 +3,8 @@
   "name": "Ninja Mama Certified Organic Witch Hazel - 30ml 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/151777/ninja-mama-certified-organic-witch-hazel-30ml-1unit",
   "currency": "AUD",
-  "current_price": 19.99,
-  "rrp": 21.99,
+  "current_price": 19.98,
+  "rrp": 21.98,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 19.98
     }
   ],
-  "snapshot_days": 55,
+  "snapshot_days": 59,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

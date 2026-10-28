@@ -3,8 +3,8 @@
   "name": "Livingstone Liv Gauze Swabs 8 ply Cotton Sterile 10 x 10cm 150 Pieces/Box",
   "url": "https://www.chemistwarehouse.com.au/buy/154308/livingstone-liv-gauze-swabs-8-ply-cotton-sterile-10-x-10cm-150-pieces-box",
   "currency": "AUD",
-  "current_price": 13.99,
-  "rrp": 17.49,
+  "current_price": 15.49,
+  "rrp": 17.48,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -32,8 +32,12 @@
     {
       "date": "2026-10-15",
       "price": 13.99
+    },
+    {
+      "date": "2026-10-28",
+      "price": 15.49
     }
   ],
-  "snapshot_days": 56,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
