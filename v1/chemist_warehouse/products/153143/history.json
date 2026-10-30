@@ -3,7 +3,7 @@
   "name": "Body Alchemy Magnesium Exfoliating Salt Scrub\u00a0550g",
   "url": "https://www.chemistwarehouse.com.au/buy/153143/body-alchemy-magnesium-exfoliating-salt-scrub-550g",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 13.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 13.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

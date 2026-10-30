@@ -3,7 +3,7 @@
   "name": "Happy Way Mango Pre-workout 250g",
   "url": "https://www.chemistwarehouse.com.au/buy/142886/happy-way-mango-pre-workout-250g",
   "currency": "AUD",
-  "current_price": 59.95,
+  "current_price": 61.81,
   "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 59.95
+    },
+    {
+      "date": "2026-10-29",
+      "price": 61.81
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

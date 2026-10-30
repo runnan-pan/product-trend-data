@@ -3,7 +3,7 @@
   "name": "Blackmores Cholesterol Health 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/57980/blackmores-cholesterol-health-60-capsules",
   "currency": "AUD",
-  "current_price": 34.49,
+  "current_price": 21.99,
   "rrp": 43.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,12 @@
     {
       "date": "2026-10-23",
       "price": 34.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 21.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

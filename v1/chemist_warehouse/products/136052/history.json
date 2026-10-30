@@ -3,17 +3,21 @@
   "name": "Centra Yoga Mat Foldable Non-Slip Exercise Fitness Lightweight 1mm Blue 185X68cm 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/136052/centra-yoga-mat-foldable-non-slip-exercise-fitness-lightweight-1mm-blue-185x68cm-1pc",
   "currency": "AUD",
-  "current_price": 38.99,
+  "current_price": 43.99,
   "rrp": 86.99,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 38.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 43.99
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

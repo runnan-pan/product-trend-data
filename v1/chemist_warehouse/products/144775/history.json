@@ -3,7 +3,7 @@
   "name": "Gillette Venus ComfortGlide Sugarberry Scent With Olay Razor Handle + 4 Blades",
   "url": "https://www.chemistwarehouse.com.au/buy/144775/gillette-venus-comfortglide-sugarberry-scent-plus-olay-women-s-razor-handle-4-blade-refills",
   "currency": "AUD",
-  "current_price": 23.69,
+  "current_price": 28.99,
   "rrp": 34.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 23.69
+    },
+    {
+      "date": "2026-10-29",
+      "price": 28.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Centrum Advance 150 Tablets Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/137276/centrum-advance-multivitamin-150-tablets-exclusive-size",
   "currency": "AUD",
-  "current_price": 26.99,
+  "current_price": 16.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 26.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 16.99
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

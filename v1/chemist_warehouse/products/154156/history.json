@@ -3,7 +3,7 @@
   "name": "Tommee Tippee Weaning Spout Cup 4M+ 240ml",
   "url": "https://www.chemistwarehouse.com.au/buy/154156/tommee-tippee-weaning-spout-cup-4m-240ml-1-pack",
   "currency": "AUD",
-  "current_price": 7.17,
+  "current_price": 9.56,
   "rrp": 11.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 7.17
+    },
+    {
+      "date": "2026-10-29",
+      "price": 9.56
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

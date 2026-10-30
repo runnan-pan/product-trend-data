@@ -3,8 +3,8 @@
   "name": "Numbuzin No.1 Centella Re-Leaf Green Toner Pad 70 Pads",
   "url": "https://www.chemistwarehouse.com.au/buy/152099/numbuzin-no-1-centella-re-leaf-green-toner-pad-70-pads",
   "currency": "AUD",
-  "current_price": 42.0,
-  "rrp": null,
+  "current_price": 39.9,
+  "rrp": 42.0,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 42.0
+    },
+    {
+      "date": "2026-10-30",
+      "price": 39.9
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

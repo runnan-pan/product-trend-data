@@ -3,7 +3,7 @@
   "name": "L'Oreal Elvive Dream Lengths No Haircut Cream Leave In Treatment 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/93742/l-oreal-elvive-dream-lengths-no-haircut-cream-leave-in-treatment-200ml",
   "currency": "AUD",
-  "current_price": 12.49,
+  "current_price": 6.99,
   "rrp": 14.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-21",
       "price": 12.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 6.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

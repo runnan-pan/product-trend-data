@@ -3,17 +3,21 @@
   "name": "Grahams Natural Anti Redness Wash 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/124924/grahams-natural-anti-redness-wash-125ml",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 16.98,
   "rrp": null,
-  "in_stock": false,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 16.98
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

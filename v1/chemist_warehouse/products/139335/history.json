@@ -3,7 +3,7 @@
   "name": "L'Oreal Professionnel Serie Expert Scalp Advanced Anti Discomfort Shampoo 300ml",
   "url": "https://www.chemistwarehouse.com.au/buy/139335/l-oreal-professionnel-serie-expert-scalp-advanced-anti-discomfort-shampoo-300ml",
   "currency": "AUD",
-  "current_price": 47.49,
+  "current_price": 38.39,
   "rrp": 56.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-21",
       "price": 47.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 38.39
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

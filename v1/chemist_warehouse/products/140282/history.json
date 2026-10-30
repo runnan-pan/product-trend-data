@@ -3,8 +3,8 @@
   "name": "Little Etoile Nourishing Lotion (0+ Months) 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/140282/little-etoile-nourishing-lotion-0-months-250ml",
   "currency": "AUD",
-  "current_price": 19.99,
-  "rrp": 24.99,
+  "current_price": 29.99,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

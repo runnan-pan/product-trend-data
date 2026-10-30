@@ -3,7 +3,7 @@
   "name": "Blackmores Proseren 120 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/42745/blackmores-proseren-120-capsules",
   "currency": "AUD",
-  "current_price": 55.49,
+  "current_price": 36.49,
   "rrp": 72.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,12 @@
     {
       "date": "2026-10-23",
       "price": 55.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 36.49
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

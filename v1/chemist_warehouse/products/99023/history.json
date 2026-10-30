@@ -3,7 +3,7 @@
   "name": "Polident Whitening Denture Cleanser 108 Tablets Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/99023/polident-whitening-denture-cleanser-108-tablets-exclusive-size",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 11.19,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 11.19
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,17 +3,21 @@
   "name": "York PVC Yoga Mat with Carrying Strap (Blue) One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/141116/york-pvc-yoga-mat-with-carrying-strap-blue-one-size",
   "currency": "AUD",
-  "current_price": 33.99,
+  "current_price": 31.99,
   "rrp": 39.99,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 33.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 31.99
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

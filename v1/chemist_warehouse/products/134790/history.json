@@ -3,17 +3,21 @@
   "name": "Onkaparinga Organic Cotton Reversible Knit Baby Blanket Grey/White 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/134790/onkaparinga-organic-cotton-reversible-knit-baby-blanket-grey-white-1pc",
   "currency": "AUD",
-  "current_price": 66.0,
+  "current_price": 69.0,
   "rrp": 79.95,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 66.0
+    },
+    {
+      "date": "2026-10-29",
+      "price": 69.0
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

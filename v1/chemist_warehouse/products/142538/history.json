@@ -3,8 +3,8 @@
   "name": "Garden of Wellness Nourishing Body Oil Tropical Glimpse 120ml",
   "url": "https://www.chemistwarehouse.com.au/buy/142538/garden-of-wellness-nourishing-body-oil-tropical-glimpse-120ml",
   "currency": "AUD",
-  "current_price": 39.99,
-  "rrp": 42.0,
+  "current_price": 49.99,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 39.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 49.99
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

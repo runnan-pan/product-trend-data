@@ -3,7 +3,7 @@
   "name": "Bubba Bump 70g Organic Breastfeeding Milk Boosting Tea 1Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/139155/bubba-bump-70g-organic-breastfeeding-milk-boosting-tea-1pack",
   "currency": "AUD",
-  "current_price": 22.49,
+  "current_price": 22.48,
   "rrp": 25.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 22.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 22.48
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

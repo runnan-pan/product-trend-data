@@ -3,7 +3,7 @@
   "name": "Azclear Action Soothing Serum 30g",
   "url": "https://www.chemistwarehouse.com.au/buy/145402/azclear-action-soothing-serum-30g",
   "currency": "AUD",
-  "current_price": 19.49,
+  "current_price": 15.39,
   "rrp": 21.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-16",
       "price": 19.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 15.39
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

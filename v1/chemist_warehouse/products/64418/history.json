@@ -3,7 +3,7 @@
   "name": "Sukin Signature Cream Cleanser Pump 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/64418/sukin-signature-cream-cleanser-pump-125ml",
   "currency": "AUD",
-  "current_price": 6.99,
+  "current_price": 14.49,
   "rrp": 16.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 6.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 14.49
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

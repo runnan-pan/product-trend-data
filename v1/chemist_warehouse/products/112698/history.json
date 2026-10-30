@@ -3,7 +3,7 @@
   "name": "Schwarzkopf Extra Care Marrakesh Oil & Coconut Replenishing Shampoo 950ml",
   "url": "https://www.chemistwarehouse.com.au/buy/112698/schwarzkopf-extra-care-marrakesh-oil-coconut-replenishing-shampoo-950ml",
   "currency": "AUD",
-  "current_price": 17.49,
+  "current_price": 11.99,
   "rrp": 20.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-21",
       "price": 17.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

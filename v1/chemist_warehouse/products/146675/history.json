@@ -3,8 +3,8 @@
   "name": "COSRX Acne Pimple Master Patch Bundle 5Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/146675/cosrx-acne-pimple-master-patch-bundle-5pack",
   "currency": "AUD",
-  "current_price": 39.5,
-  "rrp": null,
+  "current_price": 37.53,
+  "rrp": 39.5,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 39.5
+    },
+    {
+      "date": "2026-10-30",
+      "price": 37.53
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "GO2 Dentagenie Sonic Cleaner x 2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/138111/go2-dentagenie-sonic-cleaner-x-2-pack",
   "currency": "AUD",
-  "current_price": 129.95,
-  "rrp": 139.95,
+  "current_price": 172.02,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 129.95
+    },
+    {
+      "date": "2026-10-29",
+      "price": 172.02
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

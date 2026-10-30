@@ -3,7 +3,7 @@
   "name": "Gillette Labs Razor +9 Blades with Travel Case",
   "url": "https://www.chemistwarehouse.com.au/buy/153206/gillette-labs-razor-9-blades-with-travel-case",
   "currency": "AUD",
-  "current_price": 68.69,
+  "current_price": 68.39,
   "rrp": 98.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 68.69
+    },
+    {
+      "date": "2026-10-29",
+      "price": 68.39
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

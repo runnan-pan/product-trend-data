@@ -3,7 +3,7 @@
   "name": "Fusion Sinusitis 60 Vegetarian Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/116156/fusion-sinusitis-60-vegetarian-capsules",
   "currency": "AUD",
-  "current_price": 37.49,
+  "current_price": 27.59,
   "rrp": 45.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-27",
       "price": 37.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 27.59
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

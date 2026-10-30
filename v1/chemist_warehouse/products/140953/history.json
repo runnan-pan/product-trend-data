@@ -3,8 +3,8 @@
   "name": "Mizzie The Kangaroo Ultimate Toddler Gift Set",
   "url": "https://www.chemistwarehouse.com.au/buy/140953/mizzie-the-kangaroo-ultimate-toddler-gift-set",
   "currency": "AUD",
-  "current_price": 131.75,
-  "rrp": 155.0,
+  "current_price": 155.0,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 131.75
+    },
+    {
+      "date": "2026-10-29",
+      "price": 155.0
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

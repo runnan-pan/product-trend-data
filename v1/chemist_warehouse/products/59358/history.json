@@ -3,7 +3,7 @@
   "name": "Vital Strength Hydroxy Ripped Thermogenic Protein Powder Vanilla 1kg",
   "url": "https://www.chemistwarehouse.com.au/buy/59358/vital-strength-hydroxy-ripped-thermogenic-protein-powder-vanilla-1kg",
   "currency": "AUD",
-  "current_price": 44.49,
+  "current_price": 70.49,
   "rrp": 88.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 44.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 70.49
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

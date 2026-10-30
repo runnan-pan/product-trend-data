@@ -3,7 +3,7 @@
   "name": "La Roche Posay Mela B3 Cleanser 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/136320/la-roche-posay-mela-b3-cleanser-200ml",
   "currency": "AUD",
-  "current_price": 32.49,
+  "current_price": 26.59,
   "rrp": 37.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-19",
       "price": 32.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 26.59
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

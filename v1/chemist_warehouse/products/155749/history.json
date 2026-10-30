@@ -3,7 +3,7 @@
   "name": "Skin Doctors Renewing Night Peel 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/155749/skin-doctors-renewing-night-peel-50ml",
   "currency": "AUD",
-  "current_price": 55.49,
+  "current_price": 38.99,
   "rrp": 64.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,12 @@
     {
       "date": "2026-10-19",
       "price": 55.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 38.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

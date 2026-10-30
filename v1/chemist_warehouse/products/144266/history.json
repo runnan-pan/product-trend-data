@@ -3,8 +3,8 @@
   "name": "Modibodi Classic Period Underwear Bikini Super Absorbency 3 Pack Large",
   "url": "https://www.chemistwarehouse.com.au/buy/144266/modibodi-classic-bikini-super-overnight-3-pack-l",
   "currency": "AUD",
-  "current_price": 64.8,
-  "rrp": 82.0,
+  "current_price": 81.0,
+  "rrp": 97.99,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 64.8
+    },
+    {
+      "date": "2026-10-29",
+      "price": 81.0
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

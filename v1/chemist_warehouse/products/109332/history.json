@@ -3,7 +3,7 @@
   "name": "Schwarzkopf Nordic T1 Refresher Mousse",
   "url": "https://www.chemistwarehouse.com.au/buy/109332/schwarzkopf-nordic-t1-refresher-mousse-new",
   "currency": "AUD",
-  "current_price": 13.49,
+  "current_price": 10.39,
   "rrp": 15.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-21",
       "price": 13.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 10.39
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

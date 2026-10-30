@@ -3,7 +3,7 @@
   "name": "L'Oreal Paris Infallible Le Matte Resistance Liquid Lipstick 150 Lazy Sunday",
   "url": "https://www.chemistwarehouse.com.au/buy/129507/l-oreal-paris-le-matte-resistance-150-lazy-sunday-liquid-lipstick",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 22.39,
   "rrp": 31.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 15.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 22.39
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

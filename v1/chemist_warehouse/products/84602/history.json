@@ -3,7 +3,7 @@
   "name": "Omron Smart Elite HEM7600T Blood Pressure Monitor Bluetooth Tubeless",
   "url": "https://www.chemistwarehouse.com.au/buy/84602/omron-smart-elite-hem7600t-blood-pressure-monitor-bluetooth-tubeless",
   "currency": "AUD",
-  "current_price": 223.49,
+  "current_price": 220.99,
   "rrp": 303.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-13",
       "price": 223.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 220.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

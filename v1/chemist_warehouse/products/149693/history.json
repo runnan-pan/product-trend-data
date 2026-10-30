@@ -3,7 +3,7 @@
   "name": "Cetaphil Bright Healthy Radiance Brightness Refresh Toner 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149693/cetaphil-bright-healthy-radiance-refresh-toner-150ml",
   "currency": "AUD",
-  "current_price": 14.39,
+  "current_price": 16.69,
   "rrp": 23.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 14.39
+    },
+    {
+      "date": "2026-10-29",
+      "price": 16.69
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

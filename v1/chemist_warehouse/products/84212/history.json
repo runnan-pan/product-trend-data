@@ -3,7 +3,7 @@
   "name": "Henry Blooms Tri-Magnesium Citrate 900mg 150 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/84212/henry-blooms-tri-magnesium-citrate-900mg-150-capsules-bulk-pack",
   "currency": "AUD",
-  "current_price": 17.28,
+  "current_price": 24.49,
   "rrp": 34.56,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 17.28
+    },
+    {
+      "date": "2026-10-29",
+      "price": 24.49
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "IsoWhey Clinical Nutrition Diabetic Formula Chocolate 640g",
   "url": "https://www.chemistwarehouse.com.au/buy/81992/isowhey-clinical-nutrition-diabetic-formula-chocolate-640g",
   "currency": "AUD",
-  "current_price": 48.49,
+  "current_price": 38.99,
   "rrp": 60.45,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-22",
       "price": 48.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 38.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

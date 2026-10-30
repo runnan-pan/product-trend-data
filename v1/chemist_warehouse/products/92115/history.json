@@ -3,7 +3,7 @@
   "name": "Rite Aid Baby Nail Trimmer",
   "url": "https://www.chemistwarehouse.com.au/buy/92115/rite-aid-baby-nail-trimmer",
   "currency": "AUD",
-  "current_price": 23.99,
+  "current_price": 21.24,
   "rrp": 24.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 23.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 21.24
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "La Roche Posay Effaclar Duo +M Unifiant Light 40ml",
   "url": "https://www.chemistwarehouse.com.au/buy/148966/la-roche-posay-effaclar-duo-m-unifiant-light-40ml",
   "currency": "AUD",
-  "current_price": 35.49,
+  "current_price": 27.99,
   "rrp": 40.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-19",
       "price": 35.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 27.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

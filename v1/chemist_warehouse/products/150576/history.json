@@ -3,7 +3,7 @@
   "name": "Thursday Plantation Tea Tree Gel Face Wash for Acne 236mL",
   "url": "https://www.chemistwarehouse.com.au/buy/150576/thursday-plantation-tea-tree-gel-face-wash-for-acne-236ml",
   "currency": "AUD",
-  "current_price": 17.49,
+  "current_price": 11.99,
   "rrp": 19.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-16",
       "price": 17.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

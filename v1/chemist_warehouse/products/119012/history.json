@@ -3,7 +3,7 @@
   "name": "St Tropez Gradual Tan Tinted Firming Lotion 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/119012/st-tropez-gradual-tan-tinted-firming-lotion-200ml",
   "currency": "AUD",
-  "current_price": 19.0,
+  "current_price": 18.99,
   "rrp": 37.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,8 +36,12 @@
     {
       "date": "2026-10-28",
       "price": 19.0
+    },
+    {
+      "date": "2026-10-29",
+      "price": 18.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

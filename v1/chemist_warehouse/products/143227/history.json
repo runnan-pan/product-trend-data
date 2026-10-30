@@ -3,7 +3,7 @@
   "name": "Henry Blooms Liposomal Vitamin C Sublingual Tablets 30s 1unit",
   "url": "https://www.chemistwarehouse.com.au/buy/143227/henry-blooms-liposomal-vitamin-c-sublingual-tablets-30s-1unit",
   "currency": "AUD",
-  "current_price": 25.77,
+  "current_price": 34.99,
   "rrp": 42.95,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 25.77
+    },
+    {
+      "date": "2026-10-29",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

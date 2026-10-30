@@ -3,17 +3,21 @@
   "name": "York Performance Recumbent Bike One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/141120/york-performance-recumbent-bike-one-size",
   "currency": "AUD",
-  "current_price": 560.15,
+  "current_price": 527.2,
   "rrp": 659.0,
-  "in_stock": false,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 560.15
+    },
+    {
+      "date": "2026-10-29",
+      "price": 527.2
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

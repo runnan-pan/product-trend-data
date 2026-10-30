@@ -3,8 +3,8 @@
   "name": "York EVA Mat 120 x 60.5 x 1.35cm LRG",
   "url": "https://www.chemistwarehouse.com.au/buy/141126/york-eva-mat-120-x-60-5-x-1-35cm-lrg",
   "currency": "AUD",
-  "current_price": 79.99,
-  "rrp": null,
+  "current_price": 63.99,
+  "rrp": 79.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 79.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 63.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Happy Way Tropical Crush Whey Protein Water Powder 420g",
   "url": "https://www.chemistwarehouse.com.au/buy/142317/happy-way-tropical-crush-whey-protein-water-powder-420g",
   "currency": "AUD",
-  "current_price": 60.25,
-  "rrp": null,
+  "current_price": 62.06,
+  "rrp": 62.12,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 60.25
+    },
+    {
+      "date": "2026-10-29",
+      "price": 62.06
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

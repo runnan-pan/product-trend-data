@@ -3,7 +3,7 @@
   "name": "Nioxin Scalp + Hair Thickening System 2 Trial Kit",
   "url": "https://www.chemistwarehouse.com.au/buy/145723/nioxin-scalp-hair-thickening-system-2-trial-kit",
   "currency": "AUD",
-  "current_price": 58.49,
+  "current_price": 46.69,
   "rrp": 68.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-21",
       "price": 58.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 46.69
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

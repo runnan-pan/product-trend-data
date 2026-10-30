@@ -3,8 +3,8 @@
   "name": "I\u2019m From Rice Toner 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149139/i-m-from-rice-toner-150ml",
   "currency": "AUD",
-  "current_price": 46.0,
-  "rrp": null,
+  "current_price": 41.4,
+  "rrp": 46.0,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 46.0
+    },
+    {
+      "date": "2026-10-30",
+      "price": 41.4
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

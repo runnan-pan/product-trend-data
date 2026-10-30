@@ -3,7 +3,7 @@
   "name": "Oral B Power Toothbrush Vitality Precision Clean",
   "url": "https://www.chemistwarehouse.com.au/buy/123325/oral-b-power-toothbrush-vitality-precision-clean",
   "currency": "AUD",
-  "current_price": 24.99,
+  "current_price": 27.49,
   "rrp": 54.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,16 @@
     {
       "date": "2026-10-15",
       "price": 24.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 28.99
+    },
+    {
+      "date": "2026-10-30",
+      "price": 27.49
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

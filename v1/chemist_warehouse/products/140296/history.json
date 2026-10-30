@@ -3,8 +3,8 @@
   "name": "Little Etoile Head to Toe Bubbly Wash for Delicate Skin (0+ Months) 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/140296/little-etoile-head-to-toe-bubbly-wash-for-delicate-skin-0-months-250ml",
   "currency": "AUD",
-  "current_price": 11.99,
-  "rrp": 12.99,
+  "current_price": 15.99,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 15.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

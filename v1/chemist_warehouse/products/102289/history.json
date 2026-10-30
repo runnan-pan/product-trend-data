@@ -3,7 +3,7 @@
   "name": "Biore Mens Charcoal Deep Cleansing Pore Strips 6 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/102289/biore-mens-charcoal-deep-cleansing-pore-strips-6-pack",
   "currency": "AUD",
-  "current_price": 6.49,
+  "current_price": 4.99,
   "rrp": 7.29,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 6.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 4.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

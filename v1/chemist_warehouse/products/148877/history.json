@@ -3,7 +3,7 @@
   "name": "Para'Kito Adult Wristbands - Graphic Flowery",
   "url": "https://www.chemistwarehouse.com.au/buy/148877/para-kito-adult-wristbands-graphic-flowery",
   "currency": "AUD",
-  "current_price": 29.95,
+  "current_price": 34.95,
   "rrp": 37.95,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 29.95
+    },
+    {
+      "date": "2026-10-29",
+      "price": 34.95
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

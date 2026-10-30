@@ -3,17 +3,21 @@
   "name": "GlowBomb - Fake Tan Removing BATH BOMB 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/134160/glowbomb-fake-tan-removing-bath-bomb-1pc",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 18.98,
   "rrp": null,
-  "in_stock": false,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 18.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 18.98
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

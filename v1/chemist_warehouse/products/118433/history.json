@@ -3,8 +3,8 @@
   "name": "Revlon Colorstay Micro Brow Pencil Soft Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/118433/revlon-colorstay-micro-brow-pencil-soft-brown",
   "currency": "AUD",
-  "current_price": 12.49,
-  "rrp": 25.0,
+  "current_price": 15.39,
+  "rrp": 26.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 12.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 15.39
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Cristiano Ronaldo CR7 Play It Cool Eau de Toilette 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/90195/cristiano-ronaldo-cr7-play-it-cool-eau-de-toilette-50ml",
   "currency": "AUD",
-  "current_price": 29.99,
-  "rrp": null,
+  "current_price": 19.99,
+  "rrp": 29.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 29.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

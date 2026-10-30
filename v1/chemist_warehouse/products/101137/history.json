@@ -3,7 +3,7 @@
   "name": "Clearblue Advanced Digital Ovulation Kit Test (Dual Hormone) 20 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/101137/clearblue-advanced-digital-ovulation-kit-test-dual-hormone-20-pack",
   "currency": "AUD",
-  "current_price": 65.49,
+  "current_price": 53.59,
   "rrp": 79.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 65.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 53.59
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

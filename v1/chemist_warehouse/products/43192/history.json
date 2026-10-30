@@ -3,7 +3,7 @@
   "name": "Blackmores Mega B Complex 200 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/43192/blackmores-mega-b-complex-200-tablets",
   "currency": "AUD",
-  "current_price": 60.49,
+  "current_price": 39.49,
   "rrp": 78.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,12 @@
     {
       "date": "2026-10-23",
       "price": 60.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 39.49
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

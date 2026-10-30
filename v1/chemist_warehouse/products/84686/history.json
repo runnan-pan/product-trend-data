@@ -3,7 +3,7 @@
   "name": "Wagner Vitamin C 1000 Chewable 250 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/84686/wagner-vitamin-c-1000-chewable-250-tablets",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 17.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 19.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

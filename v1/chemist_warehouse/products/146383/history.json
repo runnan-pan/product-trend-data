@@ -3,7 +3,7 @@
   "name": "Caremax 2.0 Classic TENS & EMS & Massage 3 in 1 Combo Machine 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/146383/caremax-2-0-classic-tens-ems-massage-3-in-1-combo-machine-1unit",
   "currency": "AUD",
-  "current_price": 62.49,
+  "current_price": 65.99,
   "rrp": 125.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-26",
       "price": 62.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 65.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

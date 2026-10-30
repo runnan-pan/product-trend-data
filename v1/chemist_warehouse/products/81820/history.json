@@ -3,7 +3,7 @@
   "name": "DUIT VE+ Vitamin E Face Cream 50g",
   "url": "https://www.chemistwarehouse.com.au/buy/81820/duit-ve-vitamin-e-face-cream-50g",
   "currency": "AUD",
-  "current_price": 13.49,
+  "current_price": 9.69,
   "rrp": 14.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-16",
       "price": 13.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 9.69
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

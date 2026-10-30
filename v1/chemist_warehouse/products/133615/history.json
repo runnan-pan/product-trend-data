@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/133615/embi-ooc-pure-silk-floss-picks-premium-eco-friendly-toothpick-4pack",
   "currency": "AUD",
   "current_price": 23.56,
-  "rrp": 33.66,
+  "rrp": 33.65,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -14,6 +14,6 @@
       "price": 23.56
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

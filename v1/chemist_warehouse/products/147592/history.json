@@ -3,8 +3,8 @@
   "name": "Squatty Potty Base 2.0 Stool/Topper Set 7 & 9 Inch",
   "url": "https://www.chemistwarehouse.com.au/buy/147592/squatty-potty-base-2-0-stool-topper-set-7-9-inch",
   "currency": "AUD",
-  "current_price": 52.95,
-  "rrp": 54.95,
+  "current_price": 54.95,
+  "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 52.95
+    },
+    {
+      "date": "2026-10-29",
+      "price": 54.95
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

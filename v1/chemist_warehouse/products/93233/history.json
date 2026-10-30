@@ -3,7 +3,7 @@
   "name": "Bondi Sands Daily Moisturising Face SPF 50+ Sunscreen Lotion Fragrance Free 75ml",
   "url": "https://www.chemistwarehouse.com.au/buy/93233/bondi-sands-daily-moisturising-face-spf-50-sunscreen-lotion-fragrance-free-75ml",
   "currency": "AUD",
-  "current_price": 9.99,
+  "current_price": 15.49,
   "rrp": 16.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-01",
       "price": 9.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 15.49
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

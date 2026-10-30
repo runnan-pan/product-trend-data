@@ -3,7 +3,7 @@
   "name": "Natural Beauty Bamboo Bath Brush and Massager",
   "url": "https://www.chemistwarehouse.com.au/buy/95221/natural-beauty-bamboo-bath-brush-and-massager",
   "currency": "AUD",
-  "current_price": 4.74,
+  "current_price": 9.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 4.74
+    },
+    {
+      "date": "2026-10-29",
+      "price": 9.49
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

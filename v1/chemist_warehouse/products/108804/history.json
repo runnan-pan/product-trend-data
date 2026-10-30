@@ -3,7 +3,7 @@
   "name": "Kristin Ess Weightless Shine Leave In Conditioner 250ml",
   "url": "https://www.chemistwarehouse.com.au/buy/108804/kristin-ess-weightless-shine-leave-in-conditioner-250ml",
   "currency": "AUD",
-  "current_price": 11.69,
+  "current_price": 16.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-15",
       "price": 11.69
+    },
+    {
+      "date": "2026-10-29",
+      "price": 16.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

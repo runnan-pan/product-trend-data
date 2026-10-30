@@ -3,7 +3,7 @@
   "name": "Ego QV Ceramides Moisturising Lotion 1.25L Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/124019/ego-qv-ceramides-moisturising-lotion-1-25l-exclusive-size",
   "currency": "AUD",
-  "current_price": 24.39,
+  "current_price": 29.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-01",
       "price": 24.39
+    },
+    {
+      "date": "2026-10-29",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

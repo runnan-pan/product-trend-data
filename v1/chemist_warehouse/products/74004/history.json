@@ -3,7 +3,7 @@
   "name": "Drug Alert Street Drugs Kit 5 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/74004/drug-alert-street-drugs-kit-5-pack",
   "currency": "AUD",
-  "current_price": 60.49,
+  "current_price": 45.49,
   "rrp": 64.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-13",
       "price": 60.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 45.49
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

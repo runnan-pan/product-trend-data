@@ -3,7 +3,7 @@
   "name": "TOM Organic The Period Cup Size 2 + Convenient Microwavable Steriliser Case",
   "url": "https://www.chemistwarehouse.com.au/buy/100999/tom-organic-the-period-cup-size-2-convenient-microwavable-steriliser-case",
   "currency": "AUD",
-  "current_price": 44.99,
+  "current_price": 27.59,
   "rrp": 45.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 44.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 27.59
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

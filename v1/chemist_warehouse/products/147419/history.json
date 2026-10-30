@@ -3,8 +3,8 @@
   "name": "Livingstone Walking Stick Aluminium Adjustable 68-90 cm Black",
   "url": "https://www.chemistwarehouse.com.au/buy/147419/livingstone-walking-stick-aluminium-adjustable-68-90-cm-black",
   "currency": "AUD",
-  "current_price": 16.99,
-  "rrp": 18.99,
+  "current_price": 16.98,
+  "rrp": 18.98,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 16.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 16.98
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

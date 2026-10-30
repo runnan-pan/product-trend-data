@@ -3,7 +3,7 @@
   "name": "Antipodes Natural Vanilla Pod Day Cream 60ml",
   "url": "https://www.chemistwarehouse.com.au/buy/86889/antipodes-natural-vanilla-pod-day-cream-60ml",
   "currency": "AUD",
-  "current_price": 43.39,
+  "current_price": 36.99,
   "rrp": 62.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-26",
       "price": 43.39
+    },
+    {
+      "date": "2026-10-29",
+      "price": 36.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

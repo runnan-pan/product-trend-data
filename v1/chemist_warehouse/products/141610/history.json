@@ -1,9 +1,9 @@
 {
   "product_id": "141610",
-  "name": "WelleCo The Super Elixir Original 300g Jar",
+  "name": "WelleCo The Super Elixir Pineapple & Lime (Original) 300g Jar",
   "url": "https://www.chemistwarehouse.com.au/buy/141610/welleco-the-super-elixir-original-300g-jar",
   "currency": "AUD",
-  "current_price": 69.99,
+  "current_price": 88.99,
   "rrp": 99.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 69.99
+    },
+    {
+      "date": "2026-10-29",
+      "price": 88.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

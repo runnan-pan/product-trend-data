@@ -3,17 +3,21 @@
   "name": "York Fitness Delta T560 Treadmill 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/144520/york-fitness-delta-t560-treadmill-1unit",
   "currency": "AUD",
-  "current_price": 5499.0,
-  "rrp": null,
-  "in_stock": false,
+  "current_price": 4399.2,
+  "rrp": 5499.0,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 5499.0
+    },
+    {
+      "date": "2026-10-29",
+      "price": 4399.2
     }
   ],
-  "snapshot_days": 58,
+  "snapshot_days": 60,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

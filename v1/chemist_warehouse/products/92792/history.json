@@ -3,7 +3,7 @@
   "name": "L'Oreal Paris CC C'est Magic Anti-Redness Skin Enhancer",
   "url": "https://www.chemistwarehouse.com.au/buy/92792/l-oreal-paris-cest-magic-cc-cream-anti-redness",
   "currency": "AUD",
-  "current_price": 14.49,
+  "current_price": 19.99,
   "rrp": 28.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

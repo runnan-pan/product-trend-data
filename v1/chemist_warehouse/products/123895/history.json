@@ -3,7 +3,7 @@
   "name": "Faction Labs Deficit Clinical Thermogenic Raspberry Soda 225g",
   "url": "https://www.chemistwarehouse.com.au/buy/123895/faction-labs-deficit-clinical-thermogenic-raspberry-soda-200g",
   "currency": "AUD",
-  "current_price": 29.97,
+  "current_price": 45.49,
   "rrp": 59.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 29.97
+    },
+    {
+      "date": "2026-10-29",
+      "price": 45.49
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

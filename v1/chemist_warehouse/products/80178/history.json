@@ -3,8 +3,8 @@
   "name": "Ego QV Baby Barrier Cream 125g",
   "url": "https://www.chemistwarehouse.com.au/buy/80178/qv-baby-barrier-cream-nappy-rash-cream-125g",
   "currency": "AUD",
-  "current_price": 13.49,
-  "rrp": null,
+  "current_price": 9.44,
+  "rrp": 13.49,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-08",
       "price": 13.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 9.44
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

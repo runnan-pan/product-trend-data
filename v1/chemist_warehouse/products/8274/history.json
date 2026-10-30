@@ -3,7 +3,7 @@
   "name": "Veet Pure Hair Removal Cream Legs And Body Sensitive Skin 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/8274/veet-pure-hair-removal-cream-legs-and-body-sensitive-skin-100ml",
   "currency": "AUD",
-  "current_price": 8.69,
+  "current_price": 5.49,
   "rrp": 11.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 8.69
+    },
+    {
+      "date": "2026-10-29",
+      "price": 5.49
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

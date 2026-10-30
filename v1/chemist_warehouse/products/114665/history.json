@@ -3,7 +3,7 @@
   "name": "Nature's Way Collagen Mature Skin 120 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/114665/nature-s-way-beauty-collagen-mature-skin-120-tablets",
   "currency": "AUD",
-  "current_price": 31.49,
+  "current_price": 50.49,
   "rrp": 62.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 31.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 50.49
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

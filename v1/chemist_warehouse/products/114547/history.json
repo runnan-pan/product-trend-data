@@ -3,7 +3,7 @@
   "name": "La Roche Posay Toleriane Dermallergo Eye Cream 20ml",
   "url": "https://www.chemistwarehouse.com.au/buy/114547/la-roche-posay-toleriane-dermallergo-eye-cream-20ml",
   "currency": "AUD",
-  "current_price": 40.49,
+  "current_price": 32.19,
   "rrp": 46.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-19",
       "price": 40.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 32.19
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

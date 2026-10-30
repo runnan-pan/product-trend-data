@@ -3,7 +3,7 @@
   "name": "Melrose Omega Fish Oil Health & Heart 500ml",
   "url": "https://www.chemistwarehouse.com.au/buy/51002/melrose-omega-fish-oil-health-heart-500ml",
   "currency": "AUD",
-  "current_price": 36.49,
+  "current_price": 29.99,
   "rrp": 44.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-27",
       "price": 36.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

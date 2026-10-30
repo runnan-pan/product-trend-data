@@ -3,7 +3,7 @@
   "name": "Oral B Power Toothbrush iO Clean & Gum Protect Refills White 2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/137050/oral-b-power-toothbrush-io-refill-gentle-care-2-pack-white",
   "currency": "AUD",
-  "current_price": 19.97,
+  "current_price": 34.99,
   "rrp": 39.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 19.97
+    },
+    {
+      "date": "2026-10-29",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

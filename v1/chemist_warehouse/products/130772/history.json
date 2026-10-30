@@ -3,7 +3,7 @@
   "name": "Ego QV Face Revitalising Eye Cream 30g",
   "url": "https://www.chemistwarehouse.com.au/buy/130772/ego-qv-face-revitalising-eye-cream-30g",
   "currency": "AUD",
-  "current_price": 17.49,
+  "current_price": 12.99,
   "rrp": 19.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-19",
       "price": 17.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 12.99
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "NYX Bare With Me Concealer Serum Deep Golden",
   "url": "https://www.chemistwarehouse.com.au/buy/136574/nyx-bare-with-me-concealer-serum-deep-golden",
   "currency": "AUD",
-  "current_price": 13.97,
+  "current_price": 16.69,
   "rrp": 27.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-15",
       "price": 13.97
+    },
+    {
+      "date": "2026-10-29",
+      "price": 16.69
     }
   ],
-  "snapshot_days": 59,
+  "snapshot_days": 61,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

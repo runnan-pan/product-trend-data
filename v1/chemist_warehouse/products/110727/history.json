@@ -3,7 +3,7 @@
   "name": "L'Oreal Paris True Match Nude Plumping Tinted Serum 10-12 Deep",
   "url": "https://www.chemistwarehouse.com.au/buy/110727/l-oreal-paris-true-match-nude-plumping-tinted-serum-foundation-deep-10-12",
   "currency": "AUD",
-  "current_price": 22.49,
+  "current_price": 31.39,
   "rrp": 44.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 22.49
+    },
+    {
+      "date": "2026-10-29",
+      "price": 31.39
     }
   ],
-  "snapshot_days": 60,
+  "snapshot_days": 62,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
