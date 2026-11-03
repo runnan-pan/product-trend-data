@@ -1,10 +1,10 @@
 {
   "product_id": "519172",
-  "name": "Ridge Ryder 50 AMP Plug - Battery Clamp, 30cm, 8 AWG",
-  "url": "https://www.supercheapauto.com.au/p/ridge-ryder-ridge-ryder-50-amp-plug---battery-clamp-30cm-8-awg/519172.html",
+  "name": "Ridge Ryder 50 Amp Plug to Battery Clamp 30cm 8 AWG",
+  "url": "https://www.supercheapauto.com.au/p/ridge-ryder-ridge-ryder-50-amp-plug-to-battery-clamp-30cm-8-awg/519172.html",
   "currency": "AUD",
-  "current_price": 27.99,
-  "rrp": null,
+  "current_price": 12.0,
+  "rrp": 27.99,
   "in_stock": true,
   "source": "live",
   "changes": [
@@ -19,8 +19,12 @@
     {
       "date": "2026-09-06",
       "price": 27.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 12.0
     }
   ],
-  "snapshot_days": 16,
+  "snapshot_days": 17,
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

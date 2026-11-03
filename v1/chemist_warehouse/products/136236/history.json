@@ -3,7 +3,7 @@
   "name": "PaWz Wooden Pet Gate Dog Fence Safety Stair Barrier Security Door 3 Panel Large",
   "url": "https://www.chemistwarehouse.com.au/buy/136236/pawz-wooden-pet-gate-dog-fence-safety-stair-barrier-security-door-3-panel-large",
   "currency": "AUD",
-  "current_price": 83.99,
+  "current_price": 78.95,
   "rrp": 145.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 83.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 78.95
     }
   ],
-  "snapshot_days": 61,
+  "snapshot_days": 63,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

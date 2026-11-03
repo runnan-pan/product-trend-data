@@ -3,8 +3,8 @@
   "name": "Avent Natural Response Glass Feeding Bottle 240ml",
   "url": "https://www.chemistwarehouse.com.au/buy/136495/avent-natural-response-glass-feeding-bottle-240ml-1-pack",
   "currency": "AUD",
-  "current_price": 28.99,
-  "rrp": 29.95,
+  "current_price": 38.49,
+  "rrp": 39.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 28.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 38.49
     }
   ],
-  "snapshot_days": 61,
+  "snapshot_days": 63,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

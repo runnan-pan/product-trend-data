@@ -3,7 +3,7 @@
   "name": "Sevikar HCT 20/5/12.5mg Tablets 60 (2 x 30) - Olmesartan + Amlodipine + Hydrochlorothiazide",
   "url": "https://www.chemistwarehouse.com.au/buy/132532/sevikar-hct-20-5-12-5mg-tablets-60-2-x-30-olmesartan-amlodipine-hydrochlorothiazide",
   "currency": "AUD",
-  "current_price": 31.98,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 31.98
+    },
+    {
+      "date": "2026-11-03",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 61,
+  "snapshot_days": 63,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

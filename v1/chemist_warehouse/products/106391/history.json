@@ -3,8 +3,8 @@
   "name": "Fixomull Skin Sensitive 5cm x 5m Roll",
   "url": "https://www.chemistwarehouse.com.au/buy/106391/fixomull-skin-sensitive-5cm-x-5m-roll",
   "currency": "AUD",
-  "current_price": 33.99,
-  "rrp": 40.45,
+  "current_price": 35.99,
+  "rrp": 41.38,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 33.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 35.99
     }
   ],
-  "snapshot_days": 62,
+  "snapshot_days": 64,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

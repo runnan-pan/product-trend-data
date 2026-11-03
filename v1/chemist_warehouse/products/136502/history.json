@@ -3,8 +3,8 @@
   "name": "Avent Natural Response Teats 9 month+ Flow 6 2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/136502/avent-natural-response-teats-9-month-flow-6-2-pack",
   "currency": "AUD",
-  "current_price": 11.99,
-  "rrp": 12.95,
+  "current_price": 13.49,
+  "rrp": 14.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 11.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 62,
+  "snapshot_days": 64,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

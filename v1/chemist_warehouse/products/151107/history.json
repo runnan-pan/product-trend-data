@@ -3,8 +3,8 @@
   "name": "Go Healthy Fish Oil 2000 Compact Odourless 230 Softgel Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/151107/go-healthy-fish-oil-2000-compact-odourless-230-softgel-capsules-new",
   "currency": "AUD",
-  "current_price": 39.99,
-  "rrp": 58.99,
+  "current_price": 47.99,
+  "rrp": 70.75,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 39.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 47.99
     }
   ],
-  "snapshot_days": 61,
+  "snapshot_days": 63,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

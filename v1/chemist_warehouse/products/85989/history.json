@@ -3,8 +3,8 @@
   "name": "GO Healthy Fish Oil 1500mg Odourless 210 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/85989/go-healthy-fish-oil-1-500mg-odourless-210-soft-capsules",
   "currency": "AUD",
-  "current_price": 24.99,
-  "rrp": 44.99,
+  "current_price": 29.99,
+  "rrp": 53.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 24.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 62,
+  "snapshot_days": 64,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

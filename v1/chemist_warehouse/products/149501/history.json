@@ -3,8 +3,8 @@
   "name": "GO Healthy Turmeric Plus Glucosamine 120 Hard Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/149501/go-healthy-turmeric-plus-glucosamine-120-hard-capsules",
   "currency": "AUD",
-  "current_price": 35.99,
-  "rrp": 54.99,
+  "current_price": 37.99,
+  "rrp": 57.75,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 35.99
+    },
+    {
+      "date": "2026-11-03",
+      "price": 37.99
     }
   ],
-  "snapshot_days": 61,
+  "snapshot_days": 63,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
