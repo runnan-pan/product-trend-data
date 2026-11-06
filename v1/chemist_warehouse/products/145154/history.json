@@ -3,7 +3,7 @@
   "name": "SUN ZAPPER Zinc Stick Rainbow SPF 50+ 4Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/145154/sun-zapper-zinc-stick-rainbow-spf-50-4pack",
   "currency": "AUD",
-  "current_price": 39.95,
+  "current_price": 35.95,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-01",
       "price": 39.95
+    },
+    {
+      "date": "2026-11-06",
+      "price": 35.95
     }
   ],
-  "snapshot_days": 64,
+  "snapshot_days": 67,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

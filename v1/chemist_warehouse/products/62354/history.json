@@ -3,7 +3,7 @@
   "name": "Lady Jayne Bobby Pins, Black, 4.5 Cm, Pk25",
   "url": "https://www.chemistwarehouse.com.au/buy/62354/lady-jayne-bobby-pins-black-4-5-cm-pk25",
   "currency": "AUD",
-  "current_price": 1.74,
+  "current_price": 1.0,
   "rrp": 3.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 1.74
+    },
+    {
+      "date": "2026-11-04",
+      "price": 1.0
     }
   ],
-  "snapshot_days": 63,
+  "snapshot_days": 66,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
