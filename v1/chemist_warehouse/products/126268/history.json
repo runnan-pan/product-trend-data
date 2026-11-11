@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/126268/ethical-nutrients-mega-magnesium-night-100-tablets-exclusive-size",
   "currency": "AUD",
   "current_price": 57.99,
-  "rrp": null,
+  "rrp": 80.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -22,6 +22,6 @@
       "price": 57.99
     }
   ],
-  "snapshot_days": 68,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

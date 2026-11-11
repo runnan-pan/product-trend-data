@@ -3,8 +3,8 @@
   "name": "Oikiture Bed Frame Single Size Scallop-Shape Bedhead Boucle White",
   "url": "https://www.chemistwarehouse.com.au/buy/154192/oikiture-bed-frame-single-size-scallop-shape-bedhead-boucle-white",
   "currency": "AUD",
-  "current_price": 239.9,
-  "rrp": null,
+  "current_price": 227.91,
+  "rrp": 239.9,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 239.9
+    },
+    {
+      "date": "2026-11-11",
+      "price": 227.91
     }
   ],
-  "snapshot_days": 67,
+  "snapshot_days": 69,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

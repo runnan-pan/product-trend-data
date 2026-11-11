@@ -3,7 +3,7 @@
   "name": "Dove Exfoliating Body Polish Colloidal Oatmeal And Calendula Oil 298g",
   "url": "https://www.chemistwarehouse.com.au/buy/119022/dove-exfoliating-body-polish-colloidal-oatmeal-and-calendula-oil-298g",
   "currency": "AUD",
-  "current_price": 16.49,
+  "current_price": 16.0,
   "rrp": 18.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-19",
       "price": 16.49
+    },
+    {
+      "date": "2026-11-11",
+      "price": 16.0
     }
   ],
-  "snapshot_days": 68,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

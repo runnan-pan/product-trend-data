@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/54646/nature-s-way-ginkgo-2000-brain-memory-120-tablets",
   "currency": "AUD",
   "current_price": 14.49,
-  "rrp": 16.89,
+  "rrp": 16.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -26,6 +26,6 @@
       "price": 14.49
     }
   ],
-  "snapshot_days": 68,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

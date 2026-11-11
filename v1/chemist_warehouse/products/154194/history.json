@@ -3,8 +3,8 @@
   "name": "Oikiture Kids Bookshelf 4 Bins Toy Box Storage Organiser Display Shelf Natural & White",
   "url": "https://www.chemistwarehouse.com.au/buy/154194/oikiture-kids-bookshelf-4-bins-toy-box-storage-organiser-display-shelf-natural-white",
   "currency": "AUD",
-  "current_price": 109.9,
-  "rrp": null,
+  "current_price": 104.41,
+  "rrp": 109.9,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 109.9
+    },
+    {
+      "date": "2026-11-11",
+      "price": 104.41
     }
   ],
-  "snapshot_days": 66,
+  "snapshot_days": 69,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Lifespan Kids Strongbox Square Sandpit One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/139959/lifespan-kids-strongbox-square-sandpit-one-size",
   "currency": "AUD",
-  "current_price": 148.66,
+  "current_price": 148.67,
   "rrp": 179.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-28",
       "price": 148.66
+    },
+    {
+      "date": "2026-11-11",
+      "price": 148.67
     }
   ],
-  "snapshot_days": 67,
+  "snapshot_days": 69,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

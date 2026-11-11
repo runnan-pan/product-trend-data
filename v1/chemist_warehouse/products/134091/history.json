@@ -3,9 +3,9 @@
   "name": "GlowDry Fake Tan Drying Powder - MINI SPRAY 22g",
   "url": "https://www.chemistwarehouse.com.au/buy/134091/glowdry-fake-tan-drying-powder-mini-spray-22g",
   "currency": "AUD",
-  "current_price": 24.98,
+  "current_price": 24.99,
   "rrp": null,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-28",
       "price": 24.98
+    },
+    {
+      "date": "2026-11-11",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 67,
+  "snapshot_days": 69,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

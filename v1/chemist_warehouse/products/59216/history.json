@@ -3,7 +3,7 @@
   "name": "Bathox Shower Gel Rose & Jasmine 500ml",
   "url": "https://www.chemistwarehouse.com.au/buy/59216/bathox-shower-gel-500ml-rose-jasmine-oil",
   "currency": "AUD",
-  "current_price": 3.69,
+  "current_price": 3.5,
   "rrp": 5.6,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-29",
       "price": 3.69
+    },
+    {
+      "date": "2026-11-11",
+      "price": 3.5
     }
   ],
-  "snapshot_days": 67,
+  "snapshot_days": 70,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

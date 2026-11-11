@@ -3,7 +3,7 @@
   "name": "Caremax Reusable Night Mouth Guard 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/149521/caremax-reusable-night-mouth-guard-1unit",
   "currency": "AUD",
-  "current_price": 19.98,
+  "current_price": 19.99,
   "rrp": 39.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-11-03",
       "price": 19.98
+    },
+    {
+      "date": "2026-11-11",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 68,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

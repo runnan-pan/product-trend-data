@@ -3,8 +3,8 @@
   "name": "York Adjustable Resistance Tube (Light) 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/137947/york-adjustable-resistance-tube-light-1pc",
   "currency": "AUD",
-  "current_price": 15.99,
-  "rrp": 19.98,
+  "current_price": 17.99,
+  "rrp": 19.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-29",
       "price": 15.99
+    },
+    {
+      "date": "2026-11-11",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 66,
+  "snapshot_days": 69,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

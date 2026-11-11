@@ -3,7 +3,7 @@
   "name": "Not Just a Patch Skin Glee Skin Cleansing Wipe Pre-CGM Application 40Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/137698/not-just-a-patch-skin-glee-skin-cleansing-wipe-pre-cgm-application-40pack",
   "currency": "AUD",
-  "current_price": 24.98,
+  "current_price": 24.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-28",
       "price": 24.98
+    },
+    {
+      "date": "2026-11-11",
+      "price": 24.99
     }
   ],
-  "snapshot_days": 68,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

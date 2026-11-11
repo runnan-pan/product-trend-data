@@ -4,7 +4,7 @@
   "url": "https://www.chemistwarehouse.com.au/buy/66575/flo-crs-starter-kit-4-sachets",
   "currency": "AUD",
   "current_price": 7.99,
-  "rrp": 11.08,
+  "rrp": 11.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -22,6 +22,6 @@
       "price": 7.99
     }
   ],
-  "snapshot_days": 68,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

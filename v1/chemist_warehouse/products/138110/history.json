@@ -3,7 +3,7 @@
   "name": "Dentagenie Dental Brush Super Tight 18 x 3 Multipack",
   "url": "https://www.chemistwarehouse.com.au/buy/138110/go2-dentagenie-dental-brush-super-tight-12-x-3-multipack",
   "currency": "AUD",
-  "current_price": 16.82,
+  "current_price": 16.83,
   "rrp": null,
   "in_stock": false,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-29",
       "price": 16.82
+    },
+    {
+      "date": "2026-11-11",
+      "price": 16.83
     }
   ],
-  "snapshot_days": 66,
+  "snapshot_days": 69,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
