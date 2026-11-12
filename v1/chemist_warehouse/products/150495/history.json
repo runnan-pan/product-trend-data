@@ -3,7 +3,7 @@
   "name": "Optimum Nutrition Gold Standard Pre-Workout Green Apple 300g",
   "url": "https://www.chemistwarehouse.com.au/buy/150495/optimum-nutrition-gold-standard-pre-workout-green-apple-300g",
   "currency": "AUD",
-  "current_price": 39.99,
+  "current_price": 45.49,
   "rrp": 53.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-15",
       "price": 39.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 45.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

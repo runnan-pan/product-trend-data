@@ -3,7 +3,7 @@
   "name": "Biore Deep Cleansing Pore Strips 14 Combo",
   "url": "https://www.chemistwarehouse.com.au/buy/51612/biore-deep-cleansing-pore-strips-14-combo",
   "currency": "AUD",
-  "current_price": 7.69,
+  "current_price": 9.49,
   "rrp": 10.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 7.69
+    },
+    {
+      "date": "2026-11-12",
+      "price": 9.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

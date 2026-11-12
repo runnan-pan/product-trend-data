@@ -3,7 +3,7 @@
   "name": "Carusos One a Day Turmeric 150 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/88258/carusos-one-a-day-turmeric-150-tablets",
   "currency": "AUD",
-  "current_price": 77.4,
+  "current_price": 96.99,
   "rrp": 129.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-10-29",
       "price": 77.4
+    },
+    {
+      "date": "2026-11-12",
+      "price": 96.99
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Pantene Miracles Hyaluron Clarify & Hydrate Silicone-Free Shampoo 375ml",
   "url": "https://www.chemistwarehouse.com.au/buy/150226/pantene-miracles-hyaluron-clarify-hydrate-silicone-free-shampoo-375ml",
   "currency": "AUD",
-  "current_price": 5.39,
+  "current_price": 6.74,
   "rrp": 13.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,12 @@
     {
       "date": "2026-11-06",
       "price": 5.39
+    },
+    {
+      "date": "2026-11-12",
+      "price": 6.74
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

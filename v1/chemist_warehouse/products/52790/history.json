@@ -3,7 +3,7 @@
   "name": "Redwin Sorbolene Body Wash with Vitamin E 1 Litre",
   "url": "https://www.chemistwarehouse.com.au/buy/52790/redwin-sorbolene-body-wash-with-vitamin-e-1-litre",
   "currency": "AUD",
-  "current_price": 7.79,
+  "current_price": 9.99,
   "rrp": 12.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-29",
       "price": 7.79
+    },
+    {
+      "date": "2026-11-12",
+      "price": 9.99
     }
   ],
-  "snapshot_days": 71,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

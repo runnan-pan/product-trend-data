@@ -3,8 +3,8 @@
   "name": "Salter Rechargeable Dashboard Analyser Scale 180kg Black 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/143276/salter-rechargeable-dashboard-analyser-scale-180kg-black-1unit",
   "currency": "AUD",
-  "current_price": 54.0,
-  "rrp": 69.99,
+  "current_price": 69.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 54.0
+    },
+    {
+      "date": "2026-11-12",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

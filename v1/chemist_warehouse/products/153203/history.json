@@ -3,7 +3,7 @@
   "name": "Gillette Fusion Manual Razor +13 Blades",
   "url": "https://www.chemistwarehouse.com.au/buy/153203/gillette-fusion-manual-razor-13-blades",
   "currency": "AUD",
-  "current_price": 58.69,
+  "current_price": 50.39,
   "rrp": 84.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-07",
       "price": 58.69
+    },
+    {
+      "date": "2026-11-12",
+      "price": 50.39
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

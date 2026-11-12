@@ -3,7 +3,7 @@
   "name": "B.Box Insulated Drink Bottle Ocean Breeze 350ml",
   "url": "https://www.chemistwarehouse.com.au/buy/90029/b-box-insulated-drink-bottle-ocean-breeze-350ml",
   "currency": "AUD",
-  "current_price": 25.39,
+  "current_price": 28.49,
   "rrp": 33.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,12 @@
     {
       "date": "2026-11-05",
       "price": 25.39
+    },
+    {
+      "date": "2026-11-12",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 69,
+  "snapshot_days": 70,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

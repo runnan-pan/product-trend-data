@@ -3,7 +3,7 @@
   "name": "L'oreal Paris Age Perfect Golden Age Rosy Re-Densifying Day Cream SPF 15 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/87486/l-oreal-paris-age-perfect-golden-age-rosy-re-densifying-day-cream-spf-15-50ml",
   "currency": "AUD",
-  "current_price": 34.49,
+  "current_price": 19.99,
   "rrp": 39.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-29",
       "price": 34.49
+    },
+    {
+      "date": "2026-11-12",
+      "price": 19.99
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

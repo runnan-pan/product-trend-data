@@ -3,7 +3,7 @@
   "name": "L'Oreal Paris True Match Super-Blendable Foundation 9.W",
   "url": "https://www.chemistwarehouse.com.au/buy/90529/l-oreal-paris-true-match-liquid-foundation-9-w",
   "currency": "AUD",
-  "current_price": 23.69,
+  "current_price": 20.39,
   "rrp": 33.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 23.69
+    },
+    {
+      "date": "2026-11-12",
+      "price": 20.39
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

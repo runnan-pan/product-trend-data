@@ -3,7 +3,7 @@
   "name": "Rid Tropical Strength Medicated Insect Repellent Roll On Milk 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/37136/rid-tropical-strength-medicated-insect-repellent-roll-on-milk-100ml",
   "currency": "AUD",
-  "current_price": 8.0,
+  "current_price": 8.49,
   "rrp": 10.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 8.0
+    },
+    {
+      "date": "2026-11-12",
+      "price": 8.49
     }
   ],
-  "snapshot_days": 71,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

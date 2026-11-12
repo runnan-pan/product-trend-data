@@ -3,7 +3,7 @@
   "name": "Nature's Way Joint Restore Triple Action 120 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/62966/nature-s-way-joint-restore-triple-action-120-tablets",
   "currency": "AUD",
-  "current_price": 42.49,
+  "current_price": 34.99,
   "rrp": 52.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-28",
       "price": 42.49
+    },
+    {
+      "date": "2026-11-12",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

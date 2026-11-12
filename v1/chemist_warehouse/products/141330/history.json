@@ -3,7 +3,7 @@
   "name": "Tints of Nature Henna Cream Red 70ml",
   "url": "https://www.chemistwarehouse.com.au/buy/141330/tints-of-nature-henna-cream-red-70ml",
   "currency": "AUD",
-  "current_price": 23.95,
+  "current_price": 21.21,
   "rrp": 24.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-28",
       "price": 23.95
+    },
+    {
+      "date": "2026-11-12",
+      "price": 21.21
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

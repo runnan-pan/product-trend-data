@@ -3,8 +3,8 @@
   "name": "Tabu Cologne Spray  60ml 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/52513/tabu-cologne-spray-60ml-2-piece-set",
   "currency": "AUD",
-  "current_price": 14.99,
-  "rrp": 29.99,
+  "current_price": 29.99,
+  "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-29",
       "price": 14.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 29.99
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

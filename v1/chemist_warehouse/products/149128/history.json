@@ -3,8 +3,8 @@
   "name": "I\u2019m From Ginseng Eye Cream 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149128/i-m-from-ginseng-eye-cream-30ml",
   "currency": "AUD",
-  "current_price": 49.0,
-  "rrp": null,
+  "current_price": 44.1,
+  "rrp": 49.0,
   "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-29",
       "price": 49.0
+    },
+    {
+      "date": "2026-11-12",
+      "price": 44.1
     }
   ],
-  "snapshot_days": 71,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

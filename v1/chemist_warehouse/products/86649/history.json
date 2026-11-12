@@ -3,7 +3,7 @@
   "name": "Skin Republic Charcoal Peel Off Mask",
   "url": "https://www.chemistwarehouse.com.au/buy/86649/skin-republic-charcoal-peel-off-mask",
   "currency": "AUD",
-  "current_price": 5.49,
+  "current_price": 9.49,
   "rrp": 10.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 5.49
+    },
+    {
+      "date": "2026-11-12",
+      "price": 9.49
     }
   ],
-  "snapshot_days": 71,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Swisse Ultiboost Ashwagandha+ Calm 120 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/151509/swisse-ultiboost-ashwagandha-calm-120-pack",
   "currency": "AUD",
-  "current_price": 25.99,
+  "current_price": 40.49,
   "rrp": 51.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-22",
       "price": 25.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 40.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Mintec Peppermint IBS Relief 20 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/6280/mintec-peppermint-ibs-relief-20-capsules",
   "currency": "AUD",
-  "current_price": 11.49,
+  "current_price": 9.59,
   "rrp": 12.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-11-03",
       "price": 11.49
+    },
+    {
+      "date": "2026-11-12",
+      "price": 9.59
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

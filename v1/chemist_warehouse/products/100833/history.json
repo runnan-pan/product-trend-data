@@ -3,7 +3,7 @@
   "name": "Gillette Mach 3 Turbo 3D Razor 2 Up",
   "url": "https://www.chemistwarehouse.com.au/buy/100833/gillette-mach-3-turbo-3d-razor-2-up",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 11.39,
   "rrp": 19.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 12.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 11.39
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

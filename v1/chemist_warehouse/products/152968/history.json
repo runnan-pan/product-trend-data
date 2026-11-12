@@ -3,7 +3,7 @@
   "name": "Thermoskin Recovery Ice Wrap 7.5cm x 100cm",
   "url": "https://www.chemistwarehouse.com.au/buy/152968/thermoskin-recovery-ice-wrap-7-5cm-x-100cm",
   "currency": "AUD",
-  "current_price": 14.35,
+  "current_price": 12.76,
   "rrp": 15.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-24",
       "price": 14.35
+    },
+    {
+      "date": "2026-11-12",
+      "price": 12.76
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

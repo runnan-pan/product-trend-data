@@ -3,7 +3,7 @@
   "name": "Weleda Calendula Shampoo & Body Wash 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149579/weleda-calendula-shampoo-body-wash-200ml",
   "currency": "AUD",
-  "current_price": 13.26,
+  "current_price": 17.99,
   "rrp": 18.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-10-29",
       "price": 13.26
+    },
+    {
+      "date": "2026-11-12",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

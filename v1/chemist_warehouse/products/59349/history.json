@@ -3,7 +3,7 @@
   "name": "Vital Strength Launch Whey Protein Vanilla 2kg",
   "url": "https://www.chemistwarehouse.com.au/buy/59349/vital-strength-launch-whey-protein-vanilla-2kg",
   "currency": "AUD",
-  "current_price": 157.49,
+  "current_price": 106.79,
   "rrp": 177.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 157.49
+    },
+    {
+      "date": "2026-11-12",
+      "price": 106.79
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

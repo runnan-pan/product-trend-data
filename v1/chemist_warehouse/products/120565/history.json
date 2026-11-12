@@ -3,7 +3,7 @@
   "name": "Bondi Sands Gradual Tanning Lotion Tinted Skin Perfector 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/120565/bondi-sands-gradual-tanning-lotion-tinted-skin-perfector-150ml",
   "currency": "AUD",
-  "current_price": 20.49,
+  "current_price": 11.97,
   "rrp": 23.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-16",
       "price": 20.49
+    },
+    {
+      "date": "2026-11-12",
+      "price": 11.97
     }
   ],
-  "snapshot_days": 71,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

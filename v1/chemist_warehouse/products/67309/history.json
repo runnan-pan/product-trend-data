@@ -3,7 +3,7 @@
   "name": "NIVEA Refreshing Day Cream SPF 30 Face Moisturiser with Hyaluronic Acid 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/67309/nivea-daily-essentials-hydrating-face-moisturiser-spf30-50ml",
   "currency": "AUD",
-  "current_price": 7.5,
+  "current_price": 13.49,
   "rrp": 15.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 7.5
+    },
+    {
+      "date": "2026-11-12",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

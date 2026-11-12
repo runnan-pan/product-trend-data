@@ -3,7 +3,7 @@
   "name": "Carusos Men Super Multi 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/71951/carusos-men-super-multi-60-tablets",
   "currency": "AUD",
-  "current_price": 22.2,
+  "current_price": 29.49,
   "rrp": 37.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,12 @@
     {
       "date": "2026-10-29",
       "price": 22.2
+    },
+    {
+      "date": "2026-11-12",
+      "price": 29.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

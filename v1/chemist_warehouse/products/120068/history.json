@@ -3,7 +3,7 @@
   "name": "Gillette Fusion Blades 15 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/120068/gillette-fusion-blades-15-pack",
   "currency": "AUD",
-  "current_price": 80.99,
+  "current_price": 52.69,
   "rrp": 95.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-29",
       "price": 80.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 52.69
     }
   ],
-  "snapshot_days": 71,
+  "snapshot_days": 72,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

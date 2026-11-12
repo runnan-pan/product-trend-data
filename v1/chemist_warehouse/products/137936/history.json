@@ -3,8 +3,8 @@
   "name": "York Black Split Leather Belt / Double Stitched - S 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/137936/york-black-split-leather-belt-double-stitched-s-1pc",
   "currency": "AUD",
-  "current_price": 89.99,
-  "rrp": null,
+  "current_price": 71.99,
+  "rrp": 89.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,8 +20,12 @@
     {
       "date": "2026-11-11",
       "price": 89.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 71.99
     }
   ],
-  "snapshot_days": 69,
+  "snapshot_days": 70,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

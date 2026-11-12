@@ -3,7 +3,7 @@
   "name": "Hawaiian Tropic SPF 50+ Silk Hydration Body 400g",
   "url": "https://www.chemistwarehouse.com.au/buy/120272/hawaiian-tropic-spf-50-silk-hydration-body-400g",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 20.69,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-29",
       "price": 15.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 20.69
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

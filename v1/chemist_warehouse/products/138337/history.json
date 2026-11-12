@@ -3,7 +3,7 @@
   "name": "Nature's Sunshine Lower Bowel Stimulant 100Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/138337/nature-s-sunshine-lower-bowel-stimulant-100capsules",
   "currency": "AUD",
-  "current_price": 45.86,
+  "current_price": 40.46,
   "rrp": 53.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-14",
       "price": 45.86
+    },
+    {
+      "date": "2026-11-12",
+      "price": 40.46
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

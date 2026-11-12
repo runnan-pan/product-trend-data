@@ -3,7 +3,7 @@
   "name": "INC. Hardgainer Mass Vanilla Flavour 2kg",
   "url": "https://www.chemistwarehouse.com.au/buy/74343/inc-hardgainer-mass-vanilla-flavour-2kg",
   "currency": "AUD",
-  "current_price": 57.99,
+  "current_price": 52.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 57.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 52.99
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

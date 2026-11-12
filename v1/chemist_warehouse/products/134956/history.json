@@ -3,7 +3,7 @@
   "name": "Tommy Hilfiger Tommy Girl Eau de Toilette 100ml & Body Lotion 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/134956/tommy-hilfiger-tommy-girl-eau-de-toilette-100ml-body-lotion-2-piece-set",
   "currency": "AUD",
-  "current_price": 69.99,
+  "current_price": 59.99,
   "rrp": 99.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,12 @@
     {
       "date": "2026-08-25",
       "price": 69.99
+    },
+    {
+      "date": "2026-11-12",
+      "price": 59.99
     }
   ],
-  "snapshot_days": 69,
+  "snapshot_days": 70,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

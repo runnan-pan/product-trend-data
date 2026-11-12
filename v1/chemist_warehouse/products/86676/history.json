@@ -3,7 +3,7 @@
   "name": "Dr. LeWinn's Cleanser Series Glycolic Cleanser 120ml",
   "url": "https://www.chemistwarehouse.com.au/buy/86676/dr-lewinn-s-reversaderm-clarifying-glycolic-cleanser-120ml",
   "currency": "AUD",
-  "current_price": 25.69,
+  "current_price": 32.49,
   "rrp": 36.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,12 @@
     {
       "date": "2026-10-29",
       "price": 25.69
+    },
+    {
+      "date": "2026-11-12",
+      "price": 32.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 73,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "QV Baby Bath Oil 250Ml Shower & Bath Oil",
   "url": "https://www.chemistwarehouse.com.au/buy/73113/qv-baby-bath-oil-250ml-shower-bath-oil",
   "currency": "AUD",
-  "current_price": 9.44,
+  "current_price": 9.09,
   "rrp": 13.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,8 +28,12 @@
     {
       "date": "2026-10-29",
       "price": 9.44
+    },
+    {
+      "date": "2026-11-12",
+      "price": 9.09
     }
   ],
-  "snapshot_days": 70,
+  "snapshot_days": 71,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
