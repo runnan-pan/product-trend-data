@@ -3,7 +3,7 @@
   "name": "Clopidogrel Sandoz 75mg Tablets 56 (2 x 28) - Clopidogrel",
   "url": "https://www.chemistwarehouse.com.au/buy/132412/clopidogrel-sandoz-75mg-tablets-56-2-x-28-clopidogrel",
   "currency": "AUD",
-  "current_price": 16.98,
+  "current_price": 17.98,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-09-16",
       "price": 16.98
+    },
+    {
+      "date": "2026-11-15",
+      "price": 17.98
     }
   ],
-  "snapshot_days": 74,
+  "snapshot_days": 75,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

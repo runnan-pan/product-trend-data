@@ -3,7 +3,7 @@
   "name": "BoPeep Kids Play Mat Baby Crawling Pad Floor Foldable XPE Foam Non-slip Bear",
   "url": "https://www.chemistwarehouse.com.au/buy/137916/bopeep-kids-play-mat-baby-crawling-pad-floor-foldable-xpe-foam-non-slip-bear",
   "currency": "AUD",
-  "current_price": 36.95,
+  "current_price": 43.99,
   "rrp": 99.99,
   "in_stock": false,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-11-03",
       "price": 36.95
+    },
+    {
+      "date": "2026-11-15",
+      "price": 43.99
     }
   ],
-  "snapshot_days": 74,
+  "snapshot_days": 75,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

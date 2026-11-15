@@ -3,7 +3,7 @@
   "name": "DreamZ 2x Bed Pad Waterproof Bed Protector Absorbent Incontinence Underpad Washable 183cm x 86.5cm One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/135490/dreamz-2x-bed-pad-waterproof-bed-protector-absorbent-incontinence-underpad-washable-183cm-x-86-5cm-one-size",
   "currency": "AUD",
-  "current_price": 36.95,
+  "current_price": 41.99,
   "rrp": 76.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,12 @@
     {
       "date": "2026-11-03",
       "price": 36.95
+    },
+    {
+      "date": "2026-11-15",
+      "price": 41.99
     }
   ],
-  "snapshot_days": 73,
+  "snapshot_days": 74,
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
