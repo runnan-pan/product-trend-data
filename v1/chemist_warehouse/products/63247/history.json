@@ -3,8 +3,8 @@
   "name": "Carusos Anxiety Aid 30 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/63247/carusos-anxiety-aid-30-tablets",
   "currency": "AUD",
-  "current_price": 33.49,
-  "rrp": 44.0,
+  "current_price": 34.99,
+  "rrp": 45.95,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -24,8 +24,13 @@
     {
       "date": "2026-11-12",
       "price": 33.49
+    },
+    {
+      "date": "2026-11-16",
+      "price": 34.99
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Elastoplast Protective Back Support",
   "url": "https://www.chemistwarehouse.com.au/buy/79825/elastoplast-protective-back-stabiliser-1-pack",
   "currency": "AUD",
-  "current_price": 57.99,
+  "current_price": 58.49,
   "rrp": 79.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 57.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 58.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

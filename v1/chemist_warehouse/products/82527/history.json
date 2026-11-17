@@ -3,7 +3,7 @@
   "name": "Bosisto's Eucalyptus Solution 500ml",
   "url": "https://www.chemistwarehouse.com.au/buy/82527/bosisto-s-eucalyptus-solution-500ml",
   "currency": "AUD",
-  "current_price": 12.99,
+  "current_price": 13.49,
   "rrp": 14.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,13 @@
     {
       "date": "2026-10-15",
       "price": 12.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 13.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

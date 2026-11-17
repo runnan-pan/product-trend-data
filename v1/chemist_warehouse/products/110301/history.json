@@ -3,7 +3,7 @@
   "name": "Elocon 0.1% Ointment 15g - Mometasone (S3)",
   "url": "https://www.chemistwarehouse.com.au/buy/110301/elocon-0-1-ointment-15g-mometasone-s3",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 11.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 10.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 85,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Refresh Tears Plus 15mL (Prescription Only) - Carmellose Sodium",
   "url": "https://www.chemistwarehouse.com.au/buy/42354/refresh-tears-plus-15ml-prescription-only-carmellose-sodium",
   "currency": "AUD",
-  "current_price": 10.99,
+  "current_price": 11.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,13 @@
     {
       "date": "2026-11-12",
       "price": 10.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 11.49
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 85,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

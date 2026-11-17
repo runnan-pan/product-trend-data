@@ -3,7 +3,7 @@
   "name": "Barnes Naturals Australian Manuka Honey MGO 1050+ 500g",
   "url": "https://www.chemistwarehouse.com.au/buy/126142/barnes-naturals-australian-manuka-honey-mgo-1050-500g",
   "currency": "AUD",
-  "current_price": 137.49,
+  "current_price": 251.99,
   "rrp": 314.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,8 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 137.49
+    },
+    {
+      "date": "2026-11-17",
+      "price": 251.99
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

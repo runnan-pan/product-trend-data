@@ -3,7 +3,7 @@
   "name": "Dick Wicks ActivEase Thermal Knee Support",
   "url": "https://www.chemistwarehouse.com.au/buy/58816/dick-wicks-activease-thermal-knee-support",
   "currency": "AUD",
-  "current_price": 50.99,
+  "current_price": 51.49,
   "rrp": 59.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 50.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 51.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,8 +3,8 @@
   "name": "Carusos Super Magnesium 120 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/69778/carusos-super-magnesium-120-tablets",
   "currency": "AUD",
-  "current_price": 37.99,
-  "rrp": 49.95,
+  "current_price": 39.99,
+  "rrp": 52.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -24,8 +24,13 @@
     {
       "date": "2026-11-12",
       "price": 37.99
+    },
+    {
+      "date": "2026-11-16",
+      "price": 39.99
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

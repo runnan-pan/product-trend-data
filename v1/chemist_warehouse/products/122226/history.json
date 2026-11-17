@@ -3,7 +3,7 @@
   "name": "Buscopan 20mg/mL Injection Ampoules 5 x 1mL - Hyoscine Butylbromide",
   "url": "https://www.chemistwarehouse.com.au/buy/122226/buscopan-20mg-ml-injection-ampoules-5-x-1ml-hyoscine-butylbromide",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 7.1,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,13 @@
     {
       "date": "2026-09-16",
       "price": 11.99
+    },
+    {
+      "date": "2026-11-16",
+      "price": 7.1
     }
   ],
-  "snapshot_days": 72,
+  "snapshot_days": 85,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

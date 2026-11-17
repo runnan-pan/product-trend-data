@@ -3,7 +3,7 @@
   "name": "Iberogast IBS + Digestive Relief Oral Liquid 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/134563/iberogast-ibs-digestive-relief-oral-liquid-50ml",
   "currency": "AUD",
-  "current_price": 31.99,
+  "current_price": 32.49,
   "rrp": 34.39,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 31.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 32.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

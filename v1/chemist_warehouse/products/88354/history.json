@@ -3,7 +3,7 @@
   "name": "Nicorette Quit Smoking Cooldrops Fresh Fruit Lozenges 2mg 80 Pieces",
   "url": "https://www.chemistwarehouse.com.au/buy/88354/nicorette-quit-smoking-cooldrops-fresh-fruit-lozenges-2mg-80-pieces",
   "currency": "AUD",
-  "current_price": 37.99,
+  "current_price": 38.49,
   "rrp": 44.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,8 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 37.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 38.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

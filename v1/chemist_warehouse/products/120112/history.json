@@ -3,7 +3,7 @@
   "name": "Synxplus Foot & Ankle Sleeve Nude Medium",
   "url": "https://www.chemistwarehouse.com.au/buy/120112/synxplus-foot-ankle-sleeve-nude-medium",
   "currency": "AUD",
-  "current_price": 27.99,
+  "current_price": 28.49,
   "rrp": 32.09,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,8 +16,13 @@
     {
       "date": "2026-09-07",
       "price": 27.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 28.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

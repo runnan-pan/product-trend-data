@@ -3,7 +3,7 @@
   "name": "Canesten Clotrimazole Thrush Treatment 6 Day Cream 1% - Clotrimazole (S3)",
   "url": "https://www.chemistwarehouse.com.au/buy/1886/canesten-clotrimazole-thrush-treatment-6-day-cream-1-clotrimazole-s3",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 19.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": true,
@@ -12,8 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 18.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 19.49
     }
   ],
-  "snapshot_days": 75,
+  "snapshot_days": 86,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

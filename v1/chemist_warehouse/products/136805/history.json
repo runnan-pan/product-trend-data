@@ -3,7 +3,7 @@
   "name": "White Glo Advanced Whitening Strips 20 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/136805/white-glo-advanced-whitening-strips-20-strips",
   "currency": "AUD",
-  "current_price": 26.99,
+  "current_price": 27.49,
   "rrp": 29.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,8 +24,13 @@
     {
       "date": "2026-10-15",
       "price": 26.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 27.49
     }
   ],
-  "snapshot_days": 73,
+  "snapshot_days": 85,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

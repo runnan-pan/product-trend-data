@@ -3,7 +3,7 @@
   "name": "Welcare 2 In 1 Ear Thermometer",
   "url": "https://www.chemistwarehouse.com.au/buy/117064/welcare-2-in-1-ear-thermometer",
   "currency": "AUD",
-  "current_price": 52.99,
+  "current_price": 53.49,
   "rrp": 62.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,8 +20,13 @@
     {
       "date": "2026-10-15",
       "price": 52.99
+    },
+    {
+      "date": "2026-11-17",
+      "price": 53.49
     }
   ],
-  "snapshot_days": 73,
+  "snapshot_days": 85,
+  "last_seen": "2026-11-17",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
