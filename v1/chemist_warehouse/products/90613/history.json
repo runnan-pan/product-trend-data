@@ -3,7 +3,7 @@
   "name": "Mandays 3 In 1 Multi Groomer",
   "url": "https://www.chemistwarehouse.com.au/buy/90613/mandays-3-in-1-multi-groomer",
   "currency": "AUD",
-  "current_price": 44.0,
+  "current_price": 40.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 44.0
+    },
+    {
+      "date": "2026-11-18",
+      "price": 40.0
     }
   ],
-  "snapshot_days": 86,
-  "last_seen": "2026-11-17",
+  "snapshot_days": 87,
+  "last_seen": "2026-11-18",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
