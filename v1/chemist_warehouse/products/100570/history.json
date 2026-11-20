@@ -3,7 +3,7 @@
   "name": "Ariana Grande Ari Body Mist 236ml",
   "url": "https://www.chemistwarehouse.com.au/buy/100570/ariana-grande-ari-body-mist-236ml",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 11.99,
   "rrp": 19.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 14.99
+    },
+    {
+      "date": "2026-11-19",
+      "price": 11.99
     }
   ],
-  "snapshot_days": 86,
-  "last_seen": "2026-11-18",
+  "snapshot_days": 88,
+  "last_seen": "2026-11-20",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

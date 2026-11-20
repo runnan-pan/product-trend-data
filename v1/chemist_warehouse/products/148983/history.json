@@ -3,7 +3,7 @@
   "name": "Jean Paul Gaultier Scandal Absolut Him Eau De Parfum 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/148983/jean-paul-gaultier-scandal-absolut-him-eau-de-parfum-100ml",
   "currency": "AUD",
-  "current_price": 129.99,
+  "current_price": 109.99,
   "rrp": 210.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-19",
       "price": 129.99
+    },
+    {
+      "date": "2026-11-19",
+      "price": 109.99
     }
   ],
-  "snapshot_days": 87,
-  "last_seen": "2026-11-18",
+  "snapshot_days": 89,
+  "last_seen": "2026-11-20",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

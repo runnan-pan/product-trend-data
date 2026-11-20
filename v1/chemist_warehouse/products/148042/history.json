@@ -3,7 +3,7 @@
   "name": "Rabanne Invictus Eau de Toilette 100ml + 150ml Deodorant Spray + 10ml Travel Spray 3 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/148042/paco-rabanne-invictus-eau-de-toilette-100ml-150ml-deodorant-spray-10ml-travel-spray-3-piece-set",
   "currency": "AUD",
-  "current_price": 129.99,
+  "current_price": 99.99,
   "rrp": 190.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 129.99
+    },
+    {
+      "date": "2026-11-19",
+      "price": 99.99
     }
   ],
-  "snapshot_days": 86,
-  "last_seen": "2026-11-18",
+  "snapshot_days": 88,
+  "last_seen": "2026-11-20",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

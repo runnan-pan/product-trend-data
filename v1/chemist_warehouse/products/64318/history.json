@@ -3,7 +3,7 @@
   "name": "Johnson's Face Care Moisturising Facial Cleansing Wipes For Dry Skin 25 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/64318/johnson-s-face-care-moisturising-facial-cleansing-wipes-for-dry-skin-25-pack",
   "currency": "AUD",
-  "current_price": 5.99,
+  "current_price": 3.59,
   "rrp": 7.2,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-10-29",
       "price": 5.99
+    },
+    {
+      "date": "2026-11-19",
+      "price": 3.59
     }
   ],
-  "snapshot_days": 87,
-  "last_seen": "2026-11-18",
+  "snapshot_days": 89,
+  "last_seen": "2026-11-20",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
