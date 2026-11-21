@@ -3,18 +3,22 @@
   "name": "Beurer FB35 Foot Bubble Spa with Aromatherapy One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/143065/beurer-fb35-foot-bubble-spa-with-aromatherapy-one-size",
   "currency": "AUD",
-  "current_price": 119.95,
-  "rrp": null,
-  "in_stock": false,
+  "current_price": 99.0,
+  "rrp": 119.95,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
     {
       "date": "2026-08-25",
       "price": 119.95
+    },
+    {
+      "date": "2026-11-21",
+      "price": 99.0
     }
   ],
-  "snapshot_days": 88,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 89,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

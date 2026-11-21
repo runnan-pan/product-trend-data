@@ -3,7 +3,7 @@
   "name": "MedeScan Digital Hearing Aids - Behind The Ear 1Pair",
   "url": "https://www.chemistwarehouse.com.au/buy/150746/medescan-digital-hearing-aids-behind-the-ear-1pair",
   "currency": "AUD",
-  "current_price": 219.99,
+  "current_price": 199.99,
   "rrp": 249.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 219.99
+    },
+    {
+      "date": "2026-11-21",
+      "price": 199.99
     }
   ],
-  "snapshot_days": 89,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 90,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

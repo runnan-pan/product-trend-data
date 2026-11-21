@@ -3,9 +3,9 @@
   "name": "The Jojoba Company Nourishing Discovery Set",
   "url": "https://www.chemistwarehouse.com.au/buy/155195/the-jojoba-company-nourishing-discovery-set-set",
   "currency": "AUD",
-  "current_price": 39.96,
-  "rrp": 49.95,
-  "in_stock": false,
+  "current_price": 49.95,
+  "rrp": null,
+  "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 39.96
+    },
+    {
+      "date": "2026-11-21",
+      "price": 49.95
     }
   ],
-  "snapshot_days": 89,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 90,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

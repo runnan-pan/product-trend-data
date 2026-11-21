@@ -3,7 +3,7 @@
   "name": "MedeScan Warm Steam Vaporiser + Special Blend Aroma Oil Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/143377/medescan-warm-steam-vaporiser-special-blend-aroma-oil-bundle",
   "currency": "AUD",
-  "current_price": 74.99,
+  "current_price": 69.99,
   "rrp": 86.98,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 74.99
+    },
+    {
+      "date": "2026-11-21",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 88,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 89,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

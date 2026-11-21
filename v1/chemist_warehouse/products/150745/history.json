@@ -3,7 +3,7 @@
   "name": "MedeScan Smile-Bright Teeth Whitening System With Bonus Charcoal Powders Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/150745/medescan-smile-bright-teeth-whitening-system-with-bonus-charcoal-powders-bundle",
   "currency": "AUD",
-  "current_price": 69.99,
+  "current_price": 51.99,
   "rrp": 104.97,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 69.99
+    },
+    {
+      "date": "2026-11-21",
+      "price": 51.99
     }
   ],
-  "snapshot_days": 89,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 90,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "MedeScan Blood Pressure Advanced Monitoring Kit Smart BP Monitor + Oximeter Bundle",
   "url": "https://www.chemistwarehouse.com.au/buy/150743/medescan-blood-pressure-advanced-monitoring-kit-smart-bp-monitor-oximeter-bundle",
   "currency": "AUD",
-  "current_price": 134.99,
+  "current_price": 119.99,
   "rrp": 229.98,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 134.99
+    },
+    {
+      "date": "2026-11-21",
+      "price": 119.99
     }
   ],
-  "snapshot_days": 89,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 90,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

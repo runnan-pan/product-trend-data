@@ -3,7 +3,7 @@
   "name": "MedeScan Portable & Rechargeable Ultrasonic Mesh Nebuliser 1unit",
   "url": "https://www.chemistwarehouse.com.au/buy/142061/medescan-portable-rechargeable-ultrasonic-mesh-nebuliser-1unit",
   "currency": "AUD",
-  "current_price": 99.0,
+  "current_price": 89.99,
   "rrp": 129.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 99.0
+    },
+    {
+      "date": "2026-11-21",
+      "price": 89.99
     }
   ],
-  "snapshot_days": 88,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 89,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Remicade 100mg Injection Powder 1 - Infliximab",
   "url": "https://www.chemistwarehouse.com.au/buy/61098/remicade-100mg-injection-powder-1-infliximab",
   "currency": "AUD",
-  "current_price": 7.1,
+  "current_price": 25.0,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-11-20",
       "price": 7.1
+    },
+    {
+      "date": "2026-11-21",
+      "price": 25.0
     }
   ],
-  "snapshot_days": 88,
-  "last_seen": "2026-11-20",
+  "snapshot_days": 89,
+  "last_seen": "2026-11-21",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
