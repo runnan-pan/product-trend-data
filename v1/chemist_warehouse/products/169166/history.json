@@ -1,0 +1,20 @@
+{
+  "product_id": "169166",
+  "name": "PediaSure Strawberry 800g",
+  "url": "https://www.chemistwarehouse.com.au/buy/169166/pediasure-strawberry-800g",
+  "currency": "AUD",
+  "current_price": 42.99,
+  "rrp": 51.45,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-11-23",
+      "price": 42.99
+    }
+  ],
+  "snapshot_days": 1,
+  "last_seen": "2026-11-23",
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

@@ -3,8 +3,8 @@
   "name": "Egmont Honey UMF 5+ Manuka Honey 1000g",
   "url": "https://www.chemistwarehouse.com.au/buy/133107/egmont-honey-umf-5-manuka-honey-1000g",
   "currency": "AUD",
-  "current_price": 68.99,
-  "rrp": 98.18,
+  "current_price": 104.99,
+  "rrp": 106.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,9 +20,13 @@
     {
       "date": "2026-10-01",
       "price": 68.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 104.99
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 92,
+  "last_seen": "2026-11-23",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
