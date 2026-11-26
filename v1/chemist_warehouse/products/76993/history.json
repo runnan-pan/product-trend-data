@@ -3,7 +3,7 @@
   "name": "Curash Baby Sensitive Wipes 6 x 80 Value Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/76993/curash-babycare-fragrance-free-wipes-6-x-80",
   "currency": "AUD",
-  "current_price": 18.99,
+  "current_price": 20.24,
   "rrp": 22.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-29",
       "price": 18.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 20.24
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

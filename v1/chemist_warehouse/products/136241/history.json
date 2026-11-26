@@ -3,7 +3,7 @@
   "name": "Centra 3M Golf Putting Mat Practice Training Indoor Outdoor Portable Slope Balls One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/136241/centra-3m-golf-putting-mat-practice-training-indoor-outdoor-portable-slope-balls-one-size",
   "currency": "AUD",
-  "current_price": 140.99,
+  "current_price": 114.74,
   "rrp": 268.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 140.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 114.74
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Mustela 4 Piece Travel Set",
   "url": "https://www.chemistwarehouse.com.au/buy/82426/mustela-4-piece-travel-set",
   "currency": "AUD",
-  "current_price": 24.99,
+  "current_price": 22.94,
   "rrp": 30.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,17 @@
     {
       "date": "2026-11-12",
       "price": 24.99
+    },
+    {
+      "date": "2026-11-24",
+      "price": 25.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 22.94
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

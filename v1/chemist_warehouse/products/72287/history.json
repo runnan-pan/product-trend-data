@@ -3,7 +3,7 @@
   "name": "Nicorette Quit Smoking Nicotine 16 Hour Invisipatch Step 1 28 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/72287/nicorette-quit-smoking-nicotine-16-hour-invisipatch-step-1-28-pack",
   "currency": "AUD",
-  "current_price": 46.49,
+  "current_price": 41.84,
   "rrp": 46.79,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 46.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 41.84
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

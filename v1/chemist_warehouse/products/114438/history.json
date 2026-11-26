@@ -3,7 +3,7 @@
   "name": "Dr Browns Options Anti-Colic With Level 1 Teat Narrow Neck Feeding Bottle 120ml",
   "url": "https://www.chemistwarehouse.com.au/buy/114438/dr-browns-options-anti-colic-with-level-1-teat-narrow-neck-feeding-bottle-120ml-1-pack",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 13.94,
   "rrp": 15.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,17 @@
     {
       "date": "2026-10-01",
       "price": 14.99
+    },
+    {
+      "date": "2026-11-24",
+      "price": 15.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 13.94
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

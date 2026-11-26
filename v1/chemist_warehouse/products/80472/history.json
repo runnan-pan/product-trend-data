@@ -3,7 +3,7 @@
   "name": "Ethical Nutrients High Strength Omega-3 220 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/80472/ethical-nutrients-high-strength-omega-3-220-capsules",
   "currency": "AUD",
-  "current_price": 81.59,
+  "current_price": 73.43,
   "rrp": 134.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 81.59
+    },
+    {
+      "date": "2026-11-26",
+      "price": 73.43
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

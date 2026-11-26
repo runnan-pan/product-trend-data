@@ -3,7 +3,7 @@
   "name": "CalScale High Potency Dry Skin Treatment Cream 100g",
   "url": "https://www.chemistwarehouse.com.au/buy/137967/calscale-high-potency-dry-skin-treatment-cream-100g",
   "currency": "AUD",
-  "current_price": 15.49,
+  "current_price": 13.94,
   "rrp": 16.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-16",
       "price": 15.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 13.94
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

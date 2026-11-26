@@ -3,7 +3,7 @@
   "name": "Bref Brilliant Gel Arctic Ocean Toilet Cleaner Block 2 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/136159/bref-power-active-toilet-cleaner-ocean-breeze-twin-pack-100g",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 8.09,
   "rrp": 11.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 8.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 8.09
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

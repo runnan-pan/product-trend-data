@@ -3,7 +3,7 @@
   "name": "Elastoplast Medium Weight Crepe Bandage 7.5cm x 1.6m",
   "url": "https://www.chemistwarehouse.com.au/buy/58220/elastocrepe-46015-medium-weight-crepe-bandage-7-5cm-x-1-6m",
   "currency": "AUD",
-  "current_price": 8.49,
+  "current_price": 7.64,
   "rrp": 8.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 8.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 7.64
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

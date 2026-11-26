@@ -3,7 +3,7 @@
   "name": "Wagner Raised Toilet Seat",
   "url": "https://www.chemistwarehouse.com.au/buy/98296/wagner-raised-toilet-seat",
   "currency": "AUD",
-  "current_price": 70.99,
+  "current_price": 63.89,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 70.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 63.89
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

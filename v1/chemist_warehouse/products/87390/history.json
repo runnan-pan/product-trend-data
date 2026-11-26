@@ -3,7 +3,7 @@
   "name": "Rejuvenail Antifungal Nail Solution 6.6ml",
   "url": "https://www.chemistwarehouse.com.au/buy/87390/rejuvenail-antifungal-nail-solution-6-6ml",
   "currency": "AUD",
-  "current_price": 49.99,
+  "current_price": 64.49,
   "rrp": 74.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-09-07",
       "price": 49.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 64.49
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

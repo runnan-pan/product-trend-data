@@ -3,8 +3,8 @@
   "name": "Enya Hand and Nail Aloe Vera Cream 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/73201/enya-hand-and-nail-aloe-vera-cream-100ml",
   "currency": "AUD",
-  "current_price": 3.69,
-  "rrp": null,
+  "current_price": 3.32,
+  "rrp": 3.69,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -20,9 +20,13 @@
     {
       "date": "2026-11-12",
       "price": 3.69
+    },
+    {
+      "date": "2026-11-26",
+      "price": 3.32
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

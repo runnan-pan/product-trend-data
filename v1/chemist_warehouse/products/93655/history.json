@@ -3,7 +3,7 @@
   "name": "Wagner Body Science Premium Strap Patella Tendon Adjustable Large/Extra Large",
   "url": "https://www.chemistwarehouse.com.au/buy/93655/wagner-body-science-premium-strap-patella-tendon-adjustable-large-extra-large",
   "currency": "AUD",
-  "current_price": 20.99,
+  "current_price": 18.89,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 20.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 18.89
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

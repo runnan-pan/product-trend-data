@@ -3,7 +3,7 @@
   "name": "Oz Guard Disposable Black Face Masks 30 Pack - Made In Australia",
   "url": "https://www.chemistwarehouse.com.au/buy/111128/oz-guard-disposable-black-face-masks-30-pack-made-in-australia",
   "currency": "AUD",
-  "current_price": 9.99,
+  "current_price": 8.99,
   "rrp": 19.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 9.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

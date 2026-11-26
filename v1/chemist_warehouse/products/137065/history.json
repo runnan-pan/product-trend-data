@@ -3,7 +3,7 @@
   "name": "Natio Mens Plus Tight and Tone BHA Exfoliator 80ml",
   "url": "https://www.chemistwarehouse.com.au/buy/137065/natio-mens-plus-tight-and-tone-bha-exfoliator-80ml",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 17.99,
   "rrp": 23.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 19.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

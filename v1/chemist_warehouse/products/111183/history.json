@@ -3,7 +3,7 @@
   "name": "Swisse Ultiboost Odourless Super Strength Wild Fish Oil 2000mg 200 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/111183/swisse-ultiboost-odourless-super-strength-wild-fish-oil-2000mg-200-capsules",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 24.74,
   "rrp": 54.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 29.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 24.74
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

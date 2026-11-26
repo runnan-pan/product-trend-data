@@ -3,7 +3,7 @@
   "name": "Avene Hyaluron Activ B3 Multi-Intensive Night Cream 40ml",
   "url": "https://www.chemistwarehouse.com.au/buy/122571/avene-hyaluron-activ-b3-multi-intensive-night-cream-40ml",
   "currency": "AUD",
-  "current_price": 63.49,
+  "current_price": 57.14,
   "rrp": 73.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-12",
       "price": 63.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 57.14
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

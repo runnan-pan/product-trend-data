@@ -3,7 +3,7 @@
   "name": "Fusion Kidney Tonic 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/116126/fusion-kidney-tonic-60-tablets",
   "currency": "AUD",
-  "current_price": 45.49,
+  "current_price": 40.94,
   "rrp": 54.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-12",
       "price": 45.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 40.94
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

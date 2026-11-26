@@ -3,7 +3,7 @@
   "name": "Mount Franklin Sparkling Water 450ml",
   "url": "https://www.chemistwarehouse.com.au/buy/134882/mount-franklin-sparkling-water-450ml",
   "currency": "AUD",
-  "current_price": 3.49,
+  "current_price": 3.14,
   "rrp": 3.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 3.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 3.14
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

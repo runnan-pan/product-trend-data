@@ -3,7 +3,7 @@
   "name": "Essano Hydration Rosehip Super Serum 30ml",
   "url": "https://www.chemistwarehouse.com.au/buy/135671/essano-hydration-rosehip-super-serum-30ml",
   "currency": "AUD",
-  "current_price": 17.0,
+  "current_price": 15.3,
   "rrp": 33.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 17.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 15.3
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

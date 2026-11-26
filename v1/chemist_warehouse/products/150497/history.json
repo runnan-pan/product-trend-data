@@ -3,7 +3,7 @@
   "name": "Optimum Nutrition Gold Standard 100% Plant Protein Chocolate 480g",
   "url": "https://www.chemistwarehouse.com.au/buy/150497/optimum-nutrition-gold-standard-100-plant-protein-chocolate-480g",
   "currency": "AUD",
-  "current_price": 35.0,
+  "current_price": 31.5,
   "rrp": 59.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-10-14",
       "price": 35.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 31.5
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Oil Garden Natural Remedies Breathe Oil 25ml",
   "url": "https://www.chemistwarehouse.com.au/buy/115473/oil-garden-natural-remedies-breathe-oil-25ml",
   "currency": "AUD",
-  "current_price": 26.49,
+  "current_price": 23.84,
   "rrp": 29.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 26.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 23.84
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

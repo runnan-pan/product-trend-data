@@ -3,7 +3,7 @@
   "name": "Primatape Rigid Tape 2.5cm x 5m",
   "url": "https://www.chemistwarehouse.com.au/buy/106514/primatape-rigid-tape-2-5cm-x-5m",
   "currency": "AUD",
-  "current_price": 9.49,
+  "current_price": 8.54,
   "rrp": 9.7,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 9.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 8.54
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

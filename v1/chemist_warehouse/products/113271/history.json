@@ -3,7 +3,7 @@
   "name": "Purity Sensitive  Laundry Liquid 2 Litres",
   "url": "https://www.chemistwarehouse.com.au/buy/113271/purity-sensitive-laundry-liquid-2-litres",
   "currency": "AUD",
-  "current_price": 6.89,
+  "current_price": 6.2,
   "rrp": 7.7,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 6.89
+    },
+    {
+      "date": "2026-11-26",
+      "price": 6.2
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

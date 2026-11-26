@@ -3,7 +3,7 @@
   "name": "Nude by Nature Moisture Infusion Foundation 30ml W2 Ivory",
   "url": "https://www.chemistwarehouse.com.au/buy/122054/nude-by-nature-moisture-infusion-foundation-30ml-w2-ivory",
   "currency": "AUD",
-  "current_price": 21.5,
+  "current_price": 19.35,
   "rrp": 42.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 21.5
+    },
+    {
+      "date": "2026-11-26",
+      "price": 19.35
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

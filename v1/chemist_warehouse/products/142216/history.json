@@ -3,7 +3,7 @@
   "name": "Traderight 6L Camping Toilet Outdoor Portable Potty Caravan Travel Boating Bucket Brush 1Unit",
   "url": "https://www.chemistwarehouse.com.au/buy/142216/traderight-6l-camping-toilet-outdoor-portable-potty-caravan-travel-boating-bucket-brush-1unit",
   "currency": "AUD",
-  "current_price": 65.99,
+  "current_price": 47.17,
   "rrp": 164.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 65.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 47.17
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Covergirl Clean Invisible Foundation #160 Classic Tan",
   "url": "https://www.chemistwarehouse.com.au/buy/140335/covergirl-clean-invisible-foundation-160-classic-tan",
   "currency": "AUD",
-  "current_price": 14.69,
+  "current_price": 13.22,
   "rrp": 24.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-10-29",
       "price": 14.69
+    },
+    {
+      "date": "2026-11-26",
+      "price": 13.22
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

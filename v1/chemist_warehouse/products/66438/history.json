@@ -3,7 +3,7 @@
   "name": "Schick Hydro Silk Kit",
   "url": "https://www.chemistwarehouse.com.au/buy/66438/schick-hydro-silk-kit",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 10.99,
   "rrp": 17.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 11.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 10.99
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Vital All In One Lemon & Ginger Powder 120g",
   "url": "https://www.chemistwarehouse.com.au/buy/134851/vital-all-in-one-lemon-ginger-powder-120g",
   "currency": "AUD",
-  "current_price": 25.99,
+  "current_price": 28.79,
   "rrp": 40.97,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-10-29",
       "price": 25.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 28.79
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

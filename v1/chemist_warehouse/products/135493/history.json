@@ -3,7 +3,7 @@
   "name": "PaWz Wooden Pet Gate Dog Fence Retractable Barrier Portable Door 4 Panel White",
   "url": "https://www.chemistwarehouse.com.au/buy/135493/pawz-wooden-pet-gate-dog-fence-retractable-barrier-portable-door-4-panel-white",
   "currency": "AUD",
-  "current_price": 73.99,
+  "current_price": 52.95,
   "rrp": 163.99,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 73.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 52.95
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

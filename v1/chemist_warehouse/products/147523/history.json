@@ -3,7 +3,7 @@
   "name": "Carusos Probiotic Urinary Health 60 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/147523/carusos-probiotic-urinary-health-60-capsules",
   "currency": "AUD",
-  "current_price": 47.49,
+  "current_price": 27.0,
   "rrp": 59.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,17 @@
     {
       "date": "2026-11-12",
       "price": 47.49
+    },
+    {
+      "date": "2026-11-25",
+      "price": 30.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 27.0
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

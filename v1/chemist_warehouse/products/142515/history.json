@@ -3,7 +3,7 @@
   "name": "Zyrtec Kids Chewable Grape 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/142515/zyrtec-kids-chewable-grape-60-tablets",
   "currency": "AUD",
-  "current_price": 39.99,
+  "current_price": 51.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 39.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 51.99
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

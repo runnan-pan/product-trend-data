@@ -3,7 +3,7 @@
   "name": "MCoBeauty Coconut Lip Balm No. 2 Salted Caramel & Pistachio",
   "url": "https://www.chemistwarehouse.com.au/buy/150912/mcobeauty-coconut-lip-balm-no-2-salted-caramel-pistachio-shrink",
   "currency": "AUD",
-  "current_price": 8.99,
+  "current_price": 9.5,
   "rrp": 18.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-11-12",
       "price": 8.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 9.5
     }
   ],
-  "snapshot_days": 24,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 28,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Skin Doctors Super Hydrator 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/155748/skin-doctors-super-hydrator-50ml",
   "currency": "AUD",
-  "current_price": 44.49,
+  "current_price": 40.04,
   "rrp": 51.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -40,9 +40,13 @@
     {
       "date": "2026-11-12",
       "price": 44.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 40.04
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Playgro Super Shaker",
   "url": "https://www.chemistwarehouse.com.au/buy/142436/playgro-super-shaker",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 11.24,
   "rrp": 12.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,17 @@
     {
       "date": "2026-11-12",
       "price": 11.99
+    },
+    {
+      "date": "2026-11-24",
+      "price": 12.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 11.24
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "Rescue Remedy Sleep 20ml Spray",
   "url": "https://www.chemistwarehouse.com.au/buy/108117/rescue-remedy-sleep-20ml-spray",
   "currency": "AUD",
-  "current_price": 34.99,
+  "current_price": 31.49,
   "rrp": 41.2,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-11-12",
       "price": 34.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 31.49
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

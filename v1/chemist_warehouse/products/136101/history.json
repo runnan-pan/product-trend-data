@@ -3,7 +3,7 @@
   "name": "DreamZ Weighted Blanket Heavy Gravity Adults Sleeping Deep Relax Adult 9KG Blue",
   "url": "https://www.chemistwarehouse.com.au/buy/136101/dreamz-weighted-blanket-heavy-gravity-adults-sleeping-deep-relax-adult-9kg-blue",
   "currency": "AUD",
-  "current_price": 65.99,
+  "current_price": 59.99,
   "rrp": 176.99,
   "in_stock": false,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-29",
       "price": 65.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 59.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

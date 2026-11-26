@@ -3,7 +3,7 @@
   "name": "Swisse Womens Multivitamin 120 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/116795/swisse-womens-multivitamin-120-tablets",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 32.39,
   "rrp": 83.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 35.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 32.39
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

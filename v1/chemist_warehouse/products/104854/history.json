@@ -1,9 +1,9 @@
 {
   "product_id": "104854",
-  "name": "Hugo Boss Bottled Eau De Toilette 50ml Spray and Deodorant Spray 150ml 2 Piece Set",
+  "name": "Hugo Boss Bottled Eau de Toilette 50ml Spray and Deodorant Spray 150ml 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/104854/hugo-boss-bottled-eau-de-toilette-50ml-spray-and-deodorant-spray-150ml-2-piece-set",
   "currency": "AUD",
-  "current_price": 69.99,
+  "current_price": 62.99,
   "rrp": 124.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 69.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 62.99
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

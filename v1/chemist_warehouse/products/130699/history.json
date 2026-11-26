@@ -3,7 +3,7 @@
   "name": "Nature's Way Adult Vita Gummies High Strength Eye Health 60 Gummies",
   "url": "https://www.chemistwarehouse.com.au/buy/130699/nature-s-way-adult-vita-gummies-high-strength-eye-health-60-gummies",
   "currency": "AUD",
-  "current_price": 30.49,
+  "current_price": 17.99,
   "rrp": 39.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-28",
       "price": 30.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

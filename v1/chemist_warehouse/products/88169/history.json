@@ -3,7 +3,7 @@
   "name": "Eaoron Miracle Soothing Mask 5x 25ml",
   "url": "https://www.chemistwarehouse.com.au/buy/88169/eaoron-miracle-soothing-mask-5x-25ml",
   "currency": "AUD",
-  "current_price": 19.49,
+  "current_price": 17.54,
   "rrp": 27.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-19",
       "price": 19.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 17.54
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

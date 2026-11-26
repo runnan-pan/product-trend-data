@@ -1,9 +1,9 @@
 {
   "product_id": "109246",
-  "name": "Gillette Fusion ProShield Razor Blades 4 Pack",
+  "name": "Gillette Fusion 1 Style Razor Blades 4 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/109246/gillette-fusion-proshield-razor-blades-4-pack",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 32.39,
   "rrp": 42.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 35.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 32.39
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

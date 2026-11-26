@@ -3,7 +3,7 @@
   "name": "Baby Mum-Mum Rice Rusks Apple & Pumpkin Flavour 36g",
   "url": "https://www.chemistwarehouse.com.au/buy/74286/baby-mum-mum-rice-rusks-apple-pumpkin-flavour-36g",
   "currency": "AUD",
-  "current_price": 3.79,
+  "current_price": 3.41,
   "rrp": 3.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 3.79
+    },
+    {
+      "date": "2026-11-26",
+      "price": 3.41
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

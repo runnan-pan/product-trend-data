@@ -3,9 +3,9 @@
   "name": "BoPeep Kids Tricycle Ride On Trike Toddler Balance Bike Prams Stroller Walker Green One Size",
   "url": "https://www.chemistwarehouse.com.au/buy/136041/bopeep-kids-tricycle-ride-on-trike-toddler-balance-bike-prams-stroller-walker-green-one-size",
   "currency": "AUD",
-  "current_price": 83.99,
+  "current_price": 67.0,
   "rrp": 169.99,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
@@ -20,9 +20,13 @@
     {
       "date": "2026-11-13",
       "price": 83.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 67.0
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

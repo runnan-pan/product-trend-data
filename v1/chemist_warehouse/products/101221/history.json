@@ -3,7 +3,7 @@
   "name": "Voost Hydrate Orange Effervescent Tablets 60 Pack Exclusive Size",
   "url": "https://www.chemistwarehouse.com.au/buy/101221/voost-hydrate-orange-effervescent-tablets-60-pack-exclusive-size",
   "currency": "AUD",
-  "current_price": 26.99,
+  "current_price": 24.29,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 26.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 24.29
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

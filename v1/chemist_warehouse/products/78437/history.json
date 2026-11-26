@@ -3,8 +3,8 @@
   "name": "Depend Real Fit Super Incontinence Underwear for Women Medium 8 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/78437/depend-women-real-fit-underwear-super-medium-8-pack",
   "currency": "AUD",
-  "current_price": 17.99,
-  "rrp": null,
+  "current_price": 16.19,
+  "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-27",
       "price": 17.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 16.19
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

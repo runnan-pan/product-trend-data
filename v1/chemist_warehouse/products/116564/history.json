@@ -3,7 +3,7 @@
   "name": "Restoria Discreet Grey Blending Lotion 236ml",
   "url": "https://www.chemistwarehouse.com.au/buy/116564/restoria-discreet-grey-blending-lotion-236ml",
   "currency": "AUD",
-  "current_price": 20.99,
+  "current_price": 13.5,
   "rrp": 24.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,17 @@
     {
       "date": "2026-10-15",
       "price": 20.99
+    },
+    {
+      "date": "2026-11-25",
+      "price": 15.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 13.5
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

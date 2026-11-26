@@ -3,17 +3,21 @@
   "name": "SCA Accordion Bubble Sunshade Silver Extra-Wide 70 x 172cm",
   "url": "https://www.supercheapauto.com.au/p/sca-sca-accordion-bubble-sunshade-silver-extra-wide-70-x-172cm/736245.html",
   "currency": "AUD",
-  "current_price": 20.99,
-  "rrp": null,
+  "current_price": 15.74,
+  "rrp": 20.99,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-11-21",
       "price": 20.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 15.74
     }
   ],
-  "snapshot_days": 2,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 6,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

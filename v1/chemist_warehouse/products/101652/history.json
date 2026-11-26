@@ -3,7 +3,7 @@
   "name": "Swisse Collagen Joint + Muscle Health Powder 162g",
   "url": "https://www.chemistwarehouse.com.au/buy/101652/swisse-collagen-joint-muscle-health-powder-162g",
   "currency": "AUD",
-  "current_price": 33.49,
+  "current_price": 19.12,
   "rrp": 42.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 33.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 19.12
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

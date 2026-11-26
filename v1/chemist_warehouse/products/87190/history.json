@@ -3,8 +3,8 @@
   "name": "Mercedes Benz for Women New Eau de Parfum 60ml 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/87190/mercedes-benz-for-women-new-eau-de-parfum-60ml-2-piece-set",
   "currency": "AUD",
-  "current_price": 49.0,
-  "rrp": null,
+  "current_price": 44.1,
+  "rrp": 49.0,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 49.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 44.1
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

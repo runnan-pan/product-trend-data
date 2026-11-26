@@ -3,7 +3,7 @@
   "name": "Glam By Manicare Pro Essential Eye Brush Set",
   "url": "https://www.chemistwarehouse.com.au/buy/108490/glam-by-manicare-pro-essential-eye-brush-set",
   "currency": "AUD",
-  "current_price": 22.24,
+  "current_price": 20.02,
   "rrp": 44.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 22.24
+    },
+    {
+      "date": "2026-11-26",
+      "price": 20.02
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

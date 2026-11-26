@@ -3,8 +3,8 @@
   "name": "Rabanne 1 Million Eau de Toilette 100ml 3 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/81893/paco-rabanne-1-million-eau-de-toilette-100ml-3-piece-set",
   "currency": "AUD",
-  "current_price": 99.99,
-  "rrp": null,
+  "current_price": 89.99,
+  "rrp": 99.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,9 +16,13 @@
     {
       "date": "2026-11-19",
       "price": 99.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 89.99
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

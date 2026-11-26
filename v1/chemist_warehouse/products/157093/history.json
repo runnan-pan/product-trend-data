@@ -3,7 +3,7 @@
   "name": "Sukin For Men Face Wash 125ml",
   "url": "https://www.chemistwarehouse.com.au/buy/157093/sukin-for-men-face-wash-125ml",
   "currency": "AUD",
-  "current_price": 8.24,
+  "current_price": 12.59,
   "rrp": 16.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-11-13",
       "price": 8.24
+    },
+    {
+      "date": "2026-11-26",
+      "price": 12.59
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

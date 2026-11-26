@@ -3,7 +3,7 @@
   "name": "BioHack Wanderlust NMN + Glycine Powder 90g",
   "url": "https://www.chemistwarehouse.com.au/buy/163418/biohack-wanderlust-nmn-glycine-powder-90g",
   "currency": "AUD",
-  "current_price": 37.49,
+  "current_price": 50.49,
   "rrp": 74.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-10-29",
       "price": 37.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 50.49
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

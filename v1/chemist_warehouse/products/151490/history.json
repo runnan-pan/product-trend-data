@@ -3,7 +3,7 @@
   "name": "Tigi Bed Head Resurrection Conditioner 750ml",
   "url": "https://www.chemistwarehouse.com.au/buy/151490/tigi-bed-head-resurrection-conditioner-750ml",
   "currency": "AUD",
-  "current_price": 11.99,
+  "current_price": 10.79,
   "rrp": 20.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 11.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 10.79
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

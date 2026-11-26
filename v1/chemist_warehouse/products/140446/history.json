@@ -3,7 +3,7 @@
   "name": "Bambi Mini Co. Superstar Socks Girls Smiley 3-12 Months",
   "url": "https://www.chemistwarehouse.com.au/buy/140446/bambi-mini-co-superstar-socks-girls-smiley-3-12-months",
   "currency": "AUD",
-  "current_price": 4.0,
+  "current_price": 3.6,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-14",
       "price": 4.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 3.6
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

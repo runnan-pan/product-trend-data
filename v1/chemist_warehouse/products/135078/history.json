@@ -3,7 +3,7 @@
   "name": "Maybelline Build A Brow 260 Deep Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/135078/maybelline-build-a-brow-260-deep-brown",
   "currency": "AUD",
-  "current_price": 14.49,
+  "current_price": 14.48,
   "rrp": 28.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 14.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 14.48
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

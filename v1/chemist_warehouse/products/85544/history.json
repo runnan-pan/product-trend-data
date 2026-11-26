@@ -3,7 +3,7 @@
   "name": "Preggers Maternity Pantyhose Black Medium 15-20mmHg",
   "url": "https://www.chemistwarehouse.com.au/buy/85544/preggers-maternity-pantyhose-black-medium-15-20mmhg",
   "currency": "AUD",
-  "current_price": 37.0,
+  "current_price": 33.3,
   "rrp": 68.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-14",
       "price": 37.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 33.3
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

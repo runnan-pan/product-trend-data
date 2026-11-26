@@ -3,7 +3,7 @@
   "name": "Nude by Nature Highlight Palette",
   "url": "https://www.chemistwarehouse.com.au/buy/81743/nude-by-nature-highlight-palette",
   "currency": "AUD",
-  "current_price": 17.0,
+  "current_price": 15.3,
   "rrp": 39.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 17.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 15.3
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

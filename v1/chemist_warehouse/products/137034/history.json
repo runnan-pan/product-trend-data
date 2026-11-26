@@ -3,7 +3,7 @@
   "name": "Liquid I.V. Hydration Lemon Lime 24 Sachets",
   "url": "https://www.chemistwarehouse.com.au/buy/137034/liquid-iv-hydration-lemon-lime-24-sachets",
   "currency": "AUD",
-  "current_price": 39.99,
+  "current_price": 35.99,
   "rrp": 45.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-10-29",
       "price": 39.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 35.99
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

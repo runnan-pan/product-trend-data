@@ -1,0 +1,20 @@
+{
+  "product_id": "152180",
+  "name": "Faction Labs 100% Whey Protein - 30 serves Vanilla Bean",
+  "url": "https://www.chemistwarehouse.com.au/buy/152180/faction-labs-100-whey-protein-30-serves-vanilla-bean",
+  "currency": "AUD",
+  "current_price": 69.95,
+  "rrp": 89.95,
+  "in_stock": true,
+  "pharmacist_only": false,
+  "source": "live",
+  "changes": [
+    {
+      "date": "2026-11-26",
+      "price": 69.95
+    }
+  ],
+  "snapshot_days": 1,
+  "last_seen": "2026-11-26",
+  "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
+}

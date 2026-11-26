@@ -3,7 +3,7 @@
   "name": "Ralph Lauren Polo Black for Men 125ml 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/69041/ralph-lauren-polo-black-for-men-125ml-2-piece-set",
   "currency": "AUD",
-  "current_price": 99.99,
+  "current_price": 89.99,
   "rrp": 129.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 99.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 89.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

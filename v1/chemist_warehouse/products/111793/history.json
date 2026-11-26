@@ -3,7 +3,7 @@
   "name": "Bioderma Sensibio Soothing Defensive Light Moisturiser for Sensitive Skin 40ml",
   "url": "https://www.chemistwarehouse.com.au/buy/111793/bioderma-sensibio-soothing-defensive-light-moisturiser-for-sensitive-skin-40ml",
   "currency": "AUD",
-  "current_price": 30.49,
+  "current_price": 27.44,
   "rrp": 34.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-12",
       "price": 30.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 27.44
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

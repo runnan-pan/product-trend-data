@@ -3,7 +3,7 @@
   "name": "Nicorette Quit Smoking QuickMist Nicotine Mouth Spray Cool Berry 3 x 150 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/88352/nicorette-quit-smoking-quickmist-nicotine-mouth-spray-cool-berry-3-x-150-pack",
   "currency": "AUD",
-  "current_price": 80.99,
+  "current_price": 92.69,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-10-01",
       "price": 80.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 92.69
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

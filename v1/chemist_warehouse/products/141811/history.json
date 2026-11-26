@@ -3,7 +3,7 @@
   "name": "Bambi Mini Co. x SWIM - Kids Splash Happy Rashie and Pant set -  Periwinkle Starfish Print -  3 - 4 Years",
   "url": "https://www.chemistwarehouse.com.au/buy/141811/bambi-mini-co-x-swim-kids-splash-happy-rashie-and-pant-set-periwinkle-starfish-print-3-4-years",
   "currency": "AUD",
-  "current_price": 15.0,
+  "current_price": 13.5,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 15.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 13.5
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

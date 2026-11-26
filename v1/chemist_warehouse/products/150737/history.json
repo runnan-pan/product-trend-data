@@ -3,8 +3,8 @@
   "name": "BN Healthy Male - Supports Healthy Sexual Function 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/150737/bn-healthy-male-supports-healthy-sexual-function-60-tablets",
   "currency": "AUD",
-  "current_price": 44.5,
-  "rrp": null,
+  "current_price": 35.6,
+  "rrp": 41.5,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 44.5
+    },
+    {
+      "date": "2026-11-24",
+      "price": 35.6
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

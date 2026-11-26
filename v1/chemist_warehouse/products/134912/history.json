@@ -3,7 +3,7 @@
   "name": "Vital Proteins Collagen Peptides Powder Chocolate 329g",
   "url": "https://www.chemistwarehouse.com.au/buy/134912/vital-proteins-collagen-peptides-powder-chocolate-329g",
   "currency": "AUD",
-  "current_price": 48.49,
+  "current_price": 43.64,
   "rrp": 56.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-10-29",
       "price": 48.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 43.64
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

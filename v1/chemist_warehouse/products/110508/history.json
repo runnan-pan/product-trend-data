@@ -1,10 +1,10 @@
 {
   "product_id": "110508",
-  "name": "Chloe Nomade Eau De Parfum 75ml 3 Piece Set",
+  "name": "Chloe Nomade Eau de Parfum 75ml 3 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/110508/chloe-nomade-eau-de-parfum-75ml-3-piece-set",
   "currency": "AUD",
-  "current_price": 169.99,
-  "rrp": null,
+  "current_price": 152.99,
+  "rrp": 169.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 169.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 152.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

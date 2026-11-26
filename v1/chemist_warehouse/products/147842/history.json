@@ -3,7 +3,7 @@
   "name": "DreamZ Spring Mattress Bed Pocket Egg Crate Foam Medium Firm 22CM King",
   "url": "https://www.chemistwarehouse.com.au/buy/147842/dreamz-spring-mattress-bed-pocket-egg-crate-foam-medium-firm-22cm-king",
   "currency": "AUD",
-  "current_price": 287.99,
+  "current_price": 261.95,
   "rrp": 699.99,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,9 +12,17 @@
     {
       "date": "2026-08-25",
       "price": 287.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 254.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 261.95
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

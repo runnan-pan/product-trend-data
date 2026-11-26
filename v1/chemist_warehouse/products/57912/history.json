@@ -3,7 +3,7 @@
   "name": "Marc Jacobs Daisy Eau de Toilette 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/57912/marc-jacobs-daisy-eau-de-toilette-100ml",
   "currency": "AUD",
-  "current_price": 71.77,
+  "current_price": 69.99,
   "rrp": 165.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -40,9 +40,13 @@
     {
       "date": "2026-11-19",
       "price": 71.77
+    },
+    {
+      "date": "2026-11-24",
+      "price": 69.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

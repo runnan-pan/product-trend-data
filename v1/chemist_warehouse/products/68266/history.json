@@ -3,7 +3,7 @@
   "name": "Maybelline Define-A-Lash Lengthening Mascara - Very Black",
   "url": "https://www.chemistwarehouse.com.au/buy/68266/maybelline-define-a-lash-lengthening-mascara-very-black",
   "currency": "AUD",
-  "current_price": 11.49,
+  "current_price": 11.48,
   "rrp": 22.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 11.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 11.48
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

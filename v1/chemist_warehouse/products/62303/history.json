@@ -3,7 +3,7 @@
   "name": "KP24  Head Lice/Nit Egg Remover 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/62303/kp24-head-lice-nit-egg-remover-100ml",
   "currency": "AUD",
-  "current_price": 9.0,
+  "current_price": 8.1,
   "rrp": 19.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-04",
       "price": 9.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 8.1
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

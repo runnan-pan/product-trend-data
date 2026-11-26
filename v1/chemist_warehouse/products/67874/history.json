@@ -3,7 +3,7 @@
   "name": "BabyLove Nappy Pants Size 4 (9-14kg) 28 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/67874/babylove-nappy-pants-size-4-9-14kg-28-pack",
   "currency": "AUD",
-  "current_price": 19.99,
+  "current_price": 17.99,
   "rrp": 20.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-10-29",
       "price": 19.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

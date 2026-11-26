@@ -3,7 +3,7 @@
   "name": "Rocktape Kinesiology Tape Mocha 5cm x 5m",
   "url": "https://www.chemistwarehouse.com.au/buy/135422/rocktape-kinesiology-tape-mocha-5cm-x-5m",
   "currency": "AUD",
-  "current_price": 21.49,
+  "current_price": 19.34,
   "rrp": 24.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-15",
       "price": 21.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 19.34
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

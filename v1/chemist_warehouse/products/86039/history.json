@@ -3,7 +3,7 @@
   "name": "Bref Self Active Eucalyptus Toilet Cleaner Block",
   "url": "https://www.chemistwarehouse.com.au/buy/86039/bref-blue-active-eucalyptus-toilet-block-50g",
   "currency": "AUD",
-  "current_price": 3.49,
+  "current_price": 4.5,
   "rrp": 7.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-12",
       "price": 3.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 4.5
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

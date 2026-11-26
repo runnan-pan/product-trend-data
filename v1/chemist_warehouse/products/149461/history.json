@@ -3,7 +3,7 @@
   "name": "Schwarzkopf Osis+ Flatliner Heat Protection Spray 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/149461/schwarzkopf-osis-flatliner-heat-protection-spray-200ml",
   "currency": "AUD",
-  "current_price": 28.49,
+  "current_price": 26.09,
   "rrp": 37.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,17 @@
     {
       "date": "2026-10-21",
       "price": 28.49
+    },
+    {
+      "date": "2026-11-24",
+      "price": 28.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 26.09
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

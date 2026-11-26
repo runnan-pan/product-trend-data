@@ -3,7 +3,7 @@
   "name": "Bioglan Platinum Probiotics Daily 30 Billion 30 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/138193/bioglan-platinum-probiotics-daily-30-billion-30-capsules",
   "currency": "AUD",
-  "current_price": 28.49,
+  "current_price": 15.74,
   "rrp": 34.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-28",
       "price": 28.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 15.74
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

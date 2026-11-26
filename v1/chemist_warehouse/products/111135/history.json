@@ -3,8 +3,8 @@
   "name": "Issey Miyake for Men Eau de Toilette 125mll & Shower Gel 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/111135/issey-miyake-for-men-eau-de-toilette-125mll-shower-gel-2-piece-set",
   "currency": "AUD",
-  "current_price": 89.99,
-  "rrp": null,
+  "current_price": 80.99,
+  "rrp": 89.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -16,9 +16,13 @@
     {
       "date": "2026-09-07",
       "price": 89.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 80.99
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

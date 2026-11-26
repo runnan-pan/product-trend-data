@@ -3,7 +3,7 @@
   "name": "My Beauty Self Tanning Sheet Protector",
   "url": "https://www.chemistwarehouse.com.au/buy/134837/my-beauty-self-tanning-sheet-protector",
   "currency": "AUD",
-  "current_price": 29.99,
+  "current_price": 26.99,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 29.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 26.99
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

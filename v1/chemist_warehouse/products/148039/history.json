@@ -1,9 +1,9 @@
 {
   "product_id": "148039",
-  "name": "Paco Rabanne Fame Parfum 50ml + 75ml Body Lotion + 10ml Eau De Parfum Travel Spray 3 Piece Set",
+  "name": "Paco Rabanne Fame Parfum 50ml + 75ml Body Lotion + 10ml Eau de Parfum Travel Spray 3 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/148039/paco-rabanne-fame-eau-de-parfum-50ml-75ml-body-lotion-10ml-travel-spray-3-piece-set",
   "currency": "AUD",
-  "current_price": 149.99,
+  "current_price": 134.99,
   "rrp": 197.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 149.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 134.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

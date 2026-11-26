@@ -3,7 +3,7 @@
   "name": "Traderight 200m Nappy Bin Refill Kit 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/144492/traderight-200m-nappy-bin-refill-kit-1pc",
   "currency": "AUD",
-  "current_price": 50.99,
+  "current_price": 42.99,
   "rrp": 117.99,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 50.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 42.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

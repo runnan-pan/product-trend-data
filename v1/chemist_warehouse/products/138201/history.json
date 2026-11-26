@@ -3,7 +3,7 @@
   "name": "Cenovis Kids Chewable Vitamin C 250mg Lemonade 150 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/138201/cenovis-kids-chewable-vitamin-c-250mg-lemonade-150-tablets",
   "currency": "AUD",
-  "current_price": 13.49,
+  "current_price": 12.14,
   "rrp": 17.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-28",
       "price": 13.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 12.14
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

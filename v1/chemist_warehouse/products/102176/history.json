@@ -3,7 +3,7 @@
   "name": "Giorgio Armani Si Eau de Parfum 100ml plus 15ml 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/102176/giorgio-armani-si-eau-de-parfum-100ml-plus-15ml-2-piece-set",
   "currency": "AUD",
-  "current_price": 189.99,
+  "current_price": 170.99,
   "rrp": 209.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-11-19",
       "price": 189.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 170.99
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

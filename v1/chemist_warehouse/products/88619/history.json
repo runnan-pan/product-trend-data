@@ -3,7 +3,7 @@
   "name": "Listerine Total Care Antibacterial Mouthwash Clean Mint 100mL",
   "url": "https://www.chemistwarehouse.com.au/buy/88619/listerine-total-care-antibacterial-mouthwash-clean-mint-100ml",
   "currency": "AUD",
-  "current_price": 3.49,
+  "current_price": 3.14,
   "rrp": 3.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 3.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 3.14
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

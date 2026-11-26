@@ -3,7 +3,7 @@
   "name": "Nexcare Opticlude Orthoptic Eye Patch Regular 81mm x 55.5mm",
   "url": "https://www.chemistwarehouse.com.au/buy/53237/nexcare-opticlude-orthoptic-eye-patch-regular-81mm-x-55-5mm",
   "currency": "AUD",
-  "current_price": 18.0,
+  "current_price": 16.2,
   "rrp": 25.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 18.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 16.2
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

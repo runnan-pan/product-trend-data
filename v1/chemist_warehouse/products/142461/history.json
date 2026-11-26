@@ -3,7 +3,7 @@
   "name": "Claratyne Children\u2019s Hayfever & Allergy Relief Grape 50 Chewable Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/142461/claratyne-childrens-grape-50-chewable-tablets",
   "currency": "AUD",
-  "current_price": 36.99,
+  "current_price": 46.49,
   "rrp": 49.59,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 36.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 46.49
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

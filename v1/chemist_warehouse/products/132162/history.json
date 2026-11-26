@@ -3,7 +3,7 @@
   "name": "Ethical Nutrients Mega Magnesium Energy 140g Powder",
   "url": "https://www.chemistwarehouse.com.au/buy/132162/ethical-nutrients-mega-magnesium-energy-140g-powder",
   "currency": "AUD",
-  "current_price": 25.47,
+  "current_price": 36.89,
   "rrp": 50.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-11-12",
       "price": 25.47
+    },
+    {
+      "date": "2026-11-26",
+      "price": 36.89
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

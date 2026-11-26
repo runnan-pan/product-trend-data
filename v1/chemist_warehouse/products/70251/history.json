@@ -3,7 +3,7 @@
   "name": "Nature's Way Restore Daily Probiotic 90 Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/70251/nature-s-way-restore-daily-probiotic-90-capsules",
   "currency": "AUD",
-  "current_price": 39.49,
+  "current_price": 23.62,
   "rrp": 52.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-28",
       "price": 39.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 23.62
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

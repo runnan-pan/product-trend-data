@@ -3,7 +3,7 @@
   "name": "Swisse Mens Multivitamin 65+ 60 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/63126/swisse-mens-multivitamin-65-60-tablets",
   "currency": "AUD",
-  "current_price": 38.49,
+  "current_price": 22.27,
   "rrp": 49.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 38.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 22.27
     }
   ],
-  "snapshot_days": 91,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

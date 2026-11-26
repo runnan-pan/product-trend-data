@@ -3,7 +3,7 @@
   "name": "Versace Bright Crystal Eau de Toilette 50ml Plus Shower Gel 50ml plus Body Lotion Set",
   "url": "https://www.chemistwarehouse.com.au/buy/77642/versace-bright-crystal-eau-de-toilette-50ml-plus-shower-gel-50ml-plus-body-lotion-set",
   "currency": "AUD",
-  "current_price": 99.99,
+  "current_price": 89.99,
   "rrp": 150.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 99.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 89.99
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

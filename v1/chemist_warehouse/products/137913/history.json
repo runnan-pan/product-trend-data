@@ -3,7 +3,7 @@
   "name": "BoPeep Kids Potty Trainer Seat Safety Toilet Training Toddler Non-Slip Grey",
   "url": "https://www.chemistwarehouse.com.au/buy/137913/bopeep-kids-potty-trainer-seat-safety-toilet-training-toddler-non-slip-grey",
   "currency": "AUD",
-  "current_price": 36.99,
+  "current_price": 25.49,
   "rrp": 65.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-11-15",
       "price": 36.99
+    },
+    {
+      "date": "2026-11-24",
+      "price": 25.49
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

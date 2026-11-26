@@ -3,7 +3,7 @@
   "name": "MooGoo Clear Zinc Sunscreen SPF40 200g",
   "url": "https://www.chemistwarehouse.com.au/buy/118499/moogoo-clear-zinc-sunscreen-spf40-200g",
   "currency": "AUD",
-  "current_price": 31.99,
+  "current_price": 28.79,
   "rrp": 38.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 31.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 28.79
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

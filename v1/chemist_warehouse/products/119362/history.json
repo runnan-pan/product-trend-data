@@ -3,7 +3,7 @@
   "name": "Covergirl Simply Ageless Moisture Renew Lipstick 210 Caring Blush 4.2g",
   "url": "https://www.chemistwarehouse.com.au/buy/119362/covergirl-simply-ageless-moisture-renew-lipstick-210-caring-blush-4-2g",
   "currency": "AUD",
-  "current_price": 18.0,
+  "current_price": 16.2,
   "rrp": 21.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-09-07",
       "price": 18.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 16.2
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -1,9 +1,9 @@
 {
   "product_id": "61526",
-  "name": "Clairol Final Net Lacquer Super Hold 400g",
+  "name": "Final Net Hairspray Super Hold 400g",
   "url": "https://www.chemistwarehouse.com.au/buy/61526/clairol-final-net-lacquer-super-hold-400g",
   "currency": "AUD",
-  "current_price": 12.49,
+  "current_price": 11.24,
   "rrp": 13.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-21",
       "price": 12.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 11.24
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

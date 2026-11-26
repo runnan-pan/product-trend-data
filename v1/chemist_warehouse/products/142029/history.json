@@ -3,7 +3,7 @@
   "name": "Jarritos 370mL Lime Lemon 24Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/142029/jarritos-370ml-lime-lemon-24pack",
   "currency": "AUD",
-  "current_price": 77.99,
+  "current_price": 70.19,
   "rrp": 112.8,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-21",
       "price": 77.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 70.19
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

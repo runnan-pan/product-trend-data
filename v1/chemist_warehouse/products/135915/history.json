@@ -3,7 +3,7 @@
   "name": "Faction Labs Attention Cheat Mode Grape Bubblegum 200g",
   "url": "https://www.chemistwarehouse.com.au/buy/135915/faction-labs-attention-cheat-mode-grape-bubblegum-200g",
   "currency": "AUD",
-  "current_price": 35.0,
+  "current_price": 31.5,
   "rrp": 69.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 35.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 31.5
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

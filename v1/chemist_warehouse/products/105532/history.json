@@ -3,7 +3,7 @@
   "name": "Freezeframe Pigment Clear Face Solutions 25ml",
   "url": "https://www.chemistwarehouse.com.au/buy/105532/freezeframe-pigment-clear-face-solutions-25ml",
   "currency": "AUD",
-  "current_price": 59.49,
+  "current_price": 53.54,
   "rrp": 69.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-19",
       "price": 59.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 53.54
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

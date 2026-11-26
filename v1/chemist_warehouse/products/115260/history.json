@@ -3,7 +3,7 @@
   "name": "Fuss Free Naturals Man Mask Vitamin C Sheet Mask For Bearded Men",
   "url": "https://www.chemistwarehouse.com.au/buy/115260/fuss-free-naturals-man-mask-vitamin-c-sheet-mask-for-bearded-men",
   "currency": "AUD",
-  "current_price": 4.0,
+  "current_price": 3.6,
   "rrp": 7.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 4.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 3.6
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

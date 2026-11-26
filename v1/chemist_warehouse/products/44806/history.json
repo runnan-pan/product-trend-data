@@ -3,8 +3,8 @@
   "name": "BRYLCREEM Hair Cream Protein Enriched 150ml",
   "url": "https://www.chemistwarehouse.com.au/buy/44806/brylcreem-hair-cream-protein-enriched-150ml",
   "currency": "AUD",
-  "current_price": 7.99,
-  "rrp": null,
+  "current_price": 7.19,
+  "rrp": 7.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 7.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 7.19
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

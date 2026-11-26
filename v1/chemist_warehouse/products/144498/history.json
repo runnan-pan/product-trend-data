@@ -3,7 +3,7 @@
   "name": "DreamZ Baby Kids Spring Mattress Bed Cot Crib Breathable Firm Foam 13cm Thick 1pc",
   "url": "https://www.chemistwarehouse.com.au/buy/144498/dreamz-baby-kids-spring-mattress-bed-cot-crib-breathable-firm-foam-13cm-thick-1pc",
   "currency": "AUD",
-  "current_price": 83.99,
+  "current_price": 67.99,
   "rrp": 149.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 83.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 67.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

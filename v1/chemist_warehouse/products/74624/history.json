@@ -3,7 +3,7 @@
   "name": "Oapl Space Chamber Combo Child Spacer plus Mask",
   "url": "https://www.chemistwarehouse.com.au/buy/74624/oapl-space-chamber-combo-child-spacer-plus-mask",
   "currency": "AUD",
-  "current_price": 25.49,
+  "current_price": 22.94,
   "rrp": 36.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-13",
       "price": 25.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 22.94
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

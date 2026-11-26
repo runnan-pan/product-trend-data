@@ -3,7 +3,7 @@
   "name": "Palmolive Minions Funny Honey Kids 3 in 1 Hair Shampoo Conditioner & Body Wash 700mL",
   "url": "https://www.chemistwarehouse.com.au/buy/122158/palmolive-minions-funny-honey-kids-3-in-1-hair-shampoo-conditioner-body-wash-700ml",
   "currency": "AUD",
-  "current_price": 9.49,
+  "current_price": 8.54,
   "rrp": 11.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 9.49
+    },
+    {
+      "date": "2026-11-26",
+      "price": 8.54
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

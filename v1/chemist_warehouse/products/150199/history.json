@@ -3,7 +3,7 @@
   "name": "Palmer's Amino Bonding Complex Bonding Healing Oil 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/150199/palmer-s-amino-bonding-complex-bonding-healing-oil-100ml",
   "currency": "AUD",
-  "current_price": 17.0,
+  "current_price": 15.3,
   "rrp": 21.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 17.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 15.3
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

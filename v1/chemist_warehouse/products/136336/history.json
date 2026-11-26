@@ -3,7 +3,7 @@
   "name": "DreamZ 9KG Weighted Blanket (202x151cm) - Grey 1Piece",
   "url": "https://www.chemistwarehouse.com.au/buy/136336/dreamz-9kg-weighted-blanket-202x151cm-grey-1piece",
   "currency": "AUD",
-  "current_price": 88.99,
+  "current_price": 79.99,
   "rrp": 179.99,
   "in_stock": false,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 88.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 79.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

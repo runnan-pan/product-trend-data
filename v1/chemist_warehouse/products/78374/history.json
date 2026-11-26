@@ -3,7 +3,7 @@
   "name": "DermaVeen Sensitive Sun SPF 50+ Moisturising Face & Body Cream 200g",
   "url": "https://www.chemistwarehouse.com.au/buy/78374/dermaveen-sensitive-sun-spf-50-moisturising-face-body-cream-200g",
   "currency": "AUD",
-  "current_price": 14.99,
+  "current_price": 20.24,
   "rrp": 25.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-10-29",
       "price": 14.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 20.24
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

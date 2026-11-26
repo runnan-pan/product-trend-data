@@ -3,8 +3,8 @@
   "name": "MissGuided Boss Babe 10ml Roller Ball + Pom Pom 2 Piece Set",
   "url": "https://www.chemistwarehouse.com.au/buy/143012/missguided-boss-babe-10ml-roller-ball-pom-pom-2-piece-set",
   "currency": "AUD",
-  "current_price": 9.99,
-  "rrp": null,
+  "current_price": 8.99,
+  "rrp": 9.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 9.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 8.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

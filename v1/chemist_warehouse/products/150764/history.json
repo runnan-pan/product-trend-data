@@ -3,7 +3,7 @@
   "name": "Nude by Nature Clean Beauty Favourites by Jacqui Felgate Gift Set Mothers Day 2025",
   "url": "https://www.chemistwarehouse.com.au/buy/150764/nude-by-nature-clean-beauty-favourites-by-jacqui-felgate-gift-set-mothers-day-2025",
   "currency": "AUD",
-  "current_price": 35.0,
+  "current_price": 31.5,
   "rrp": 49.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 35.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 31.5
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

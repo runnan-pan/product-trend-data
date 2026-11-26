@@ -3,7 +3,7 @@
   "name": "Ethical Nutrients Urinary Tract Support 180 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/50609/ethical-nutrients-urinary-tract-support-180-tablets",
   "currency": "AUD",
-  "current_price": 38.56,
+  "current_price": 34.7,
   "rrp": 59.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 38.56
+    },
+    {
+      "date": "2026-11-26",
+      "price": 34.7
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

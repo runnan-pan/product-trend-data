@@ -3,7 +3,7 @@
   "name": "Dolce & Gabbana For Women Light Blue 50ml 2 Piece Gift Set",
   "url": "https://www.chemistwarehouse.com.au/buy/65158/dolce-gabbana-for-women-light-blue-50ml-2-piece-gift-set",
   "currency": "AUD",
-  "current_price": 69.99,
+  "current_price": 62.99,
   "rrp": 124.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 69.99
+    },
+    {
+      "date": "2026-11-26",
+      "price": 62.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

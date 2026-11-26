@@ -3,7 +3,7 @@
   "name": "DreamZ Spring Mattress Bamboo Euro Top Bed Pocket HD Egg Foam 35cm King Single Size",
   "url": "https://www.chemistwarehouse.com.au/buy/147844/dreamz-spring-mattress-bamboo-euro-top-bed-pocket-hd-egg-foam-35cm-king-single-size",
   "currency": "AUD",
-  "current_price": 221.99,
+  "current_price": 189.0,
   "rrp": 383.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,17 @@
     {
       "date": "2026-08-25",
       "price": 221.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 160.65
+    },
+    {
+      "date": "2026-11-26",
+      "price": 189.0
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

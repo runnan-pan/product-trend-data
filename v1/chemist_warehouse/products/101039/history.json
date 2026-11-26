@@ -3,7 +3,7 @@
   "name": "Bravecto Very Large Dog Purple 40-56Kg",
   "url": "https://www.chemistwarehouse.com.au/buy/101039/bravecto-very-large-dog-purple-40-56kg-1-pack",
   "currency": "AUD",
-  "current_price": 73.99,
+  "current_price": 63.0,
   "rrp": 82.45,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,17 @@
     {
       "date": "2026-08-24",
       "price": 73.99
+    },
+    {
+      "date": "2026-11-25",
+      "price": 70.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 63.0
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

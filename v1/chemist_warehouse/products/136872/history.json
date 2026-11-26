@@ -3,7 +3,7 @@
   "name": "Oribel PortaPlay Forest Friends Activity Center 1Piece",
   "url": "https://www.chemistwarehouse.com.au/buy/136872/oribel-portaplay-forest-friends-activity-center-1piece",
   "currency": "AUD",
-  "current_price": 206.99,
+  "current_price": 182.99,
   "rrp": 451.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 206.99
+    },
+    {
+      "date": "2026-11-23",
+      "price": 182.99
     }
   ],
-  "snapshot_days": 90,
-  "last_seen": "2026-11-22",
+  "snapshot_days": 94,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

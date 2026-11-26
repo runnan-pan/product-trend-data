@@ -3,7 +3,7 @@
   "name": "Ogx Flexible Control Shine + Hydrate Argan Oil Of Morocco Tame & Shine Cream For Frizzy Hair 177mL",
   "url": "https://www.chemistwarehouse.com.au/buy/99372/ogx-flexible-control-shine-hydrate-argan-oil-of-morocco-tame-shine-cream-for-frizzy-hair-177ml",
   "currency": "AUD",
-  "current_price": 22.0,
+  "current_price": 19.8,
   "rrp": 27.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 22.0
+    },
+    {
+      "date": "2026-11-26",
+      "price": 19.8
     }
   ],
-  "snapshot_days": 92,
-  "last_seen": "2026-11-23",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-26",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
