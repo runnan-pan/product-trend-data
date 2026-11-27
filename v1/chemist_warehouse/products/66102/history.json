@@ -3,8 +3,8 @@
   "name": "TENA Pads Maxi Night 14 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/66102/tena-pads-maxi-night-14-pack",
   "currency": "AUD",
-  "current_price": 13.99,
-  "rrp": null,
+  "current_price": 12.59,
+  "rrp": 13.99,
   "in_stock": true,
   "pharmacist_only": false,
   "source": "live",
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-12",
       "price": 13.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 12.59
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

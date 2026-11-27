@@ -3,7 +3,7 @@
   "name": "Embryolisse Lait Creme Day & Night Gift Set Xmas 2024",
   "url": "https://www.chemistwarehouse.com.au/buy/143340/embryolisse-lait-creme-day-night-gift-set-xmas-2024",
   "currency": "AUD",
-  "current_price": 44.99,
+  "current_price": 40.49,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 44.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 40.49
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

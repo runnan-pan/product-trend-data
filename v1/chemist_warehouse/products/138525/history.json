@@ -3,7 +3,7 @@
   "name": "Schick Xtreme 3 Kit Hybrid 20 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/138525/schick-xtreme-3-kit-hybrid-20-pack",
   "currency": "AUD",
-  "current_price": 16.69,
+  "current_price": 15.02,
   "rrp": 28.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-26",
       "price": 16.69
+    },
+    {
+      "date": "2026-11-27",
+      "price": 15.02
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

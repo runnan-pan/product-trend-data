@@ -3,7 +3,7 @@
   "name": "Braun Series 5 Beard Trimmer & Hair Clipper For Men BT5260",
   "url": "https://www.chemistwarehouse.com.au/buy/103447/braun-series-5-beard-trimmer-hair-clipper-for-men-bt5260",
   "currency": "AUD",
-  "current_price": 120.0,
+  "current_price": 108.0,
   "rrp": 149.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 120.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 108.0
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

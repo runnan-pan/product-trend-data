@@ -3,7 +3,7 @@
   "name": "Palmolive Naturals Body Wash Cherry Blossom 2L",
   "url": "https://www.chemistwarehouse.com.au/buy/63796/palmolive-naturals-body-wash-milk-cherry-blossom-shower-gel-2l",
   "currency": "AUD",
-  "current_price": 16.99,
+  "current_price": 15.29,
   "rrp": 19.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-29",
       "price": 16.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 15.29
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

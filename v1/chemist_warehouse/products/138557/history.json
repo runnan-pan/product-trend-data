@@ -3,7 +3,7 @@
   "name": "Gillette Intimate System Razor 2up",
   "url": "https://www.chemistwarehouse.com.au/buy/138557/gillette-intimate-system-razor-2up",
   "currency": "AUD",
-  "current_price": 11.0,
+  "current_price": 9.9,
   "rrp": 35.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-11-12",
       "price": 11.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 9.9
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

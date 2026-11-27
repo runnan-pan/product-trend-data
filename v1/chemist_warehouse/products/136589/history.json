@@ -3,7 +3,7 @@
   "name": "NYX Pore Filler Primer 01",
   "url": "https://www.chemistwarehouse.com.au/buy/136589/nyx-pore-filler-primer-01",
   "currency": "AUD",
-  "current_price": 20.69,
+  "current_price": 14.39,
   "rrp": 26.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-26",
       "price": 20.69
+    },
+    {
+      "date": "2026-11-27",
+      "price": 14.39
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

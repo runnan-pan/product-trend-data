@@ -3,7 +3,7 @@
   "name": "GO Healthy Hemp Seed Oil Plus Turmeric 100 Soft Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/151776/go-healthy-hemp-seed-oil-plus-turmeric-100-soft-capsules-new",
   "currency": "AUD",
-  "current_price": 23.99,
+  "current_price": 21.59,
   "rrp": 42.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -40,9 +40,13 @@
     {
       "date": "2026-11-26",
       "price": 23.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 21.59
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

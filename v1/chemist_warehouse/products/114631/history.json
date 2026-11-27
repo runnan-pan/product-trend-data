@@ -3,7 +3,7 @@
   "name": "Nude By Nature Natural Illusion Eye Palette 01 Classic Nude",
   "url": "https://www.chemistwarehouse.com.au/buy/114631/nude-by-nature-natural-illusion-eye-palette-01-classic-nude",
   "currency": "AUD",
-  "current_price": 30.59,
+  "current_price": 24.92,
   "rrp": 39.95,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-26",
       "price": 30.59
+    },
+    {
+      "date": "2026-11-27",
+      "price": 24.92
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

@@ -3,7 +3,7 @@
   "name": "GO Healthy Turmeric 30000+ 1-A-DAY 60 Hard Vege Capsules",
   "url": "https://www.chemistwarehouse.com.au/buy/151311/go-healthy-turmeric-30000-1-a-day-60-hard-vege-capsules",
   "currency": "AUD",
-  "current_price": 35.99,
+  "current_price": 32.39,
   "rrp": 57.75,
   "in_stock": true,
   "pharmacist_only": false,
@@ -40,9 +40,13 @@
     {
       "date": "2026-11-26",
       "price": 35.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 32.39
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

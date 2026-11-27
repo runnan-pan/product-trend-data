@@ -3,7 +3,7 @@
   "name": "First Response Dip and Read Pregnancy Test 3 Tests",
   "url": "https://www.chemistwarehouse.com.au/buy/59550/first-response-dip-and-read-pregnancy-test-3-tests",
   "currency": "AUD",
-  "current_price": 12.49,
+  "current_price": 11.24,
   "rrp": 15.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-09",
       "price": 12.49
+    },
+    {
+      "date": "2026-11-27",
+      "price": 11.24
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

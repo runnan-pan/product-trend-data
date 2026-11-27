@@ -3,7 +3,7 @@
   "name": "Sorbent Toilet Tissue Silky White 3PLY 24 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/135156/sorbent-toilet-tissue-silky-white-3ply-24-pack",
   "currency": "AUD",
-  "current_price": 13.99,
+  "current_price": 12.59,
   "rrp": 15.49,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-11-12",
       "price": 13.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 12.59
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

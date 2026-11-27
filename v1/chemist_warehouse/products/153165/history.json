@@ -3,7 +3,7 @@
   "name": "Kleenex Ultra Soft Pocket Tissues 10",
   "url": "https://www.chemistwarehouse.com.au/buy/153165/kleenex-ultra-soft-pocket-tissues-10s",
   "currency": "AUD",
-  "current_price": 0.79,
+  "current_price": 0.71,
   "rrp": 0.85,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-25",
       "price": 0.79
+    },
+    {
+      "date": "2026-11-27",
+      "price": 0.71
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

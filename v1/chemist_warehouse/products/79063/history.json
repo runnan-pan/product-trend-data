@@ -3,7 +3,7 @@
   "name": "Schick Hydro 5 Mens Refill Razor Blades 4pk",
   "url": "https://www.chemistwarehouse.com.au/buy/79063/schick-hydro-5-mens-refill-razor-blades-4pk",
   "currency": "AUD",
-  "current_price": 15.99,
+  "current_price": 14.39,
   "rrp": 27.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-26",
       "price": 15.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 14.39
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

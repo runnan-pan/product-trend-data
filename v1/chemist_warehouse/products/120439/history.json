@@ -3,7 +3,7 @@
   "name": "Braun Series 7 Electric Shaver 71-N1200s With Precision Trimmer",
   "url": "https://www.chemistwarehouse.com.au/buy/120439/braun-series-7-electric-shaver-71-n1200s-with-precision-trimmer",
   "currency": "AUD",
-  "current_price": 279.0,
+  "current_price": 251.1,
   "rrp": 399.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 279.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 251.1
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

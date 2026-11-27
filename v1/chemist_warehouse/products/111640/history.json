@@ -3,7 +3,7 @@
   "name": "Cancer Council SPF 50+ Ultra 35ml",
   "url": "https://www.chemistwarehouse.com.au/buy/111640/cancer-council-spf-50-ultra-35ml",
   "currency": "AUD",
-  "current_price": 3.12,
+  "current_price": 3.47,
   "rrp": 7.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-26",
       "price": 3.12
+    },
+    {
+      "date": "2026-11-27",
+      "price": 3.47
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

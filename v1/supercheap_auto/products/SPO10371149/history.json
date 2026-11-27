@@ -3,17 +3,21 @@
   "name": "AIR FILTER - ACA373",
   "url": "https://www.supercheapauto.com.au/p/acdelco-air-filter---aca373/SPO10371149.html",
   "currency": "AUD",
-  "current_price": 25.49,
-  "rrp": null,
+  "current_price": 19.12,
+  "rrp": 25.49,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-11-17",
       "price": 25.49
+    },
+    {
+      "date": "2026-11-27",
+      "price": 19.12
     }
   ],
-  "snapshot_days": 10,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 11,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

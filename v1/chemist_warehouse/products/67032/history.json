@@ -3,7 +3,7 @@
   "name": "Cottons Regular 14 Pads",
   "url": "https://www.chemistwarehouse.com.au/buy/67032/cottons-regular-14-pads",
   "currency": "AUD",
-  "current_price": 5.49,
+  "current_price": 4.94,
   "rrp": 5.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-11-12",
       "price": 5.49
+    },
+    {
+      "date": "2026-11-27",
+      "price": 4.94
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

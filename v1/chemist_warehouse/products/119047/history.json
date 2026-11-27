@@ -3,7 +3,7 @@
   "name": "La Roche Posay Anthelios Invisible Spray SPF50+ 200ml",
   "url": "https://www.chemistwarehouse.com.au/buy/119047/la-roche-posay-anthelios-invisible-spray-spf50-200ml",
   "currency": "AUD",
-  "current_price": 30.79,
+  "current_price": 27.71,
   "rrp": 45.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -36,9 +36,13 @@
     {
       "date": "2026-11-26",
       "price": 30.79
+    },
+    {
+      "date": "2026-11-27",
+      "price": 27.71
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

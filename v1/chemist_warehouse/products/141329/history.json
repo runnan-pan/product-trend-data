@@ -5,7 +5,7 @@
   "currency": "AUD",
   "current_price": 21.21,
   "rrp": 24.95,
-  "in_stock": true,
+  "in_stock": false,
   "pharmacist_only": false,
   "source": "live",
   "changes": [
@@ -26,7 +26,7 @@
       "price": 21.21
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

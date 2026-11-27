@@ -3,7 +3,7 @@
   "name": "Elizabeth Arden Eight Hour Miracle Hydrating Mist 100ml",
   "url": "https://www.chemistwarehouse.com.au/buy/143501/elizabeth-arden-eight-hour-miracle-hydrating-mist-100ml",
   "currency": "AUD",
-  "current_price": 40.99,
+  "current_price": 36.89,
   "rrp": 48.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-10-22",
       "price": 40.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 36.89
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

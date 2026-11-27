@@ -3,7 +3,7 @@
   "name": "Bic 1 Disposable Razors Sensitive 20 pack",
   "url": "https://www.chemistwarehouse.com.au/buy/112223/bic-1-disposable-razors-sensitive-20-pack",
   "currency": "AUD",
-  "current_price": 6.0,
+  "current_price": 5.4,
   "rrp": 7.7,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 6.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 5.4
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

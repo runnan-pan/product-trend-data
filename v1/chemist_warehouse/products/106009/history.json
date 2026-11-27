@@ -3,7 +3,7 @@
   "name": "Dr. LeWinn's Marine Collagen Peptide+ Inner Beauty Powder - 30 x 6g",
   "url": "https://www.chemistwarehouse.com.au/buy/106009/dr-lewinn-s-marine-collagen-peptide-inner-beauty-powder-30-x-6g",
   "currency": "AUD",
-  "current_price": 28.34,
+  "current_price": 31.49,
   "rrp": 62.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-26",
       "price": 28.34
+    },
+    {
+      "date": "2026-11-27",
+      "price": 31.49
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

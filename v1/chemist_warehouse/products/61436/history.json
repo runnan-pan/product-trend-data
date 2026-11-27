@@ -3,7 +3,7 @@
   "name": "Aquatabs Water Purification 50 Tablets",
   "url": "https://www.chemistwarehouse.com.au/buy/61436/aquatabs-water-purification-50-tablets",
   "currency": "AUD",
-  "current_price": 15.49,
+  "current_price": 13.94,
   "rrp": 16.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-13",
       "price": 15.49
+    },
+    {
+      "date": "2026-11-27",
+      "price": 13.94
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

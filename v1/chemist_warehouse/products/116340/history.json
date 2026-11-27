@@ -3,7 +3,7 @@
   "name": "Dr LeWinn's Collagen Inner Beauty Liquid Shot Orange & Mango 10 x 50ml",
   "url": "https://www.chemistwarehouse.com.au/buy/116340/dr-lewinn-s-collagen-inner-beauty-liquid-shot-orange-mango-10-x-50ml",
   "currency": "AUD",
-  "current_price": 28.34,
+  "current_price": 31.49,
   "rrp": 62.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -32,9 +32,13 @@
     {
       "date": "2026-11-26",
       "price": 28.34
+    },
+    {
+      "date": "2026-11-27",
+      "price": 31.49
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

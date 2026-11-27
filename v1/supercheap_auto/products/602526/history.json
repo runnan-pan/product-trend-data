@@ -3,17 +3,21 @@
   "name": "Century Hi Performance Car Battery DIN65L MF 580CCA",
   "url": "https://www.supercheapauto.com.au/p/century-century-hi-performance-car-battery-din65l-mf-580cca/602526.html",
   "currency": "AUD",
-  "current_price": 309.0,
-  "rrp": null,
+  "current_price": 216.3,
+  "rrp": 309.0,
   "in_stock": true,
   "source": "live",
   "changes": [
     {
       "date": "2026-11-16",
       "price": 309.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 216.3
     }
   ],
-  "snapshot_days": 11,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 12,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Supercheap Auto online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ by store or for in-store, Club, and delivery-only promotions. Selecting a store on the site is used to check stock or fitment, not recorded here."
 }

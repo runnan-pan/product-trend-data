@@ -3,7 +3,7 @@
   "name": "U by Kotex Tampons Super 32 Pack",
   "url": "https://www.chemistwarehouse.com.au/buy/70073/u-by-kotex-slim-tampons-super-32-pack",
   "currency": "AUD",
-  "current_price": 8.49,
+  "current_price": 7.64,
   "rrp": 9.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 8.49
+    },
+    {
+      "date": "2026-11-27",
+      "price": 7.64
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

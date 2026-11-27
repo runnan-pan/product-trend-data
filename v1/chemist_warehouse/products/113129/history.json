@@ -3,7 +3,7 @@
   "name": "King C Gillette Beard Trimmer",
   "url": "https://www.chemistwarehouse.com.au/buy/113129/king-c-gillette-beard-trimmer",
   "currency": "AUD",
-  "current_price": 29.94,
+  "current_price": 26.95,
   "rrp": 59.9,
   "in_stock": true,
   "pharmacist_only": false,
@@ -28,9 +28,13 @@
     {
       "date": "2026-11-26",
       "price": 29.94
+    },
+    {
+      "date": "2026-11-27",
+      "price": 26.95
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

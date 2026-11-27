@@ -3,7 +3,7 @@
   "name": "Kleenex Facial Tissues 95 Large and Thick",
   "url": "https://www.chemistwarehouse.com.au/buy/75512/kleenex-facial-tissues-95-large-and-thick",
   "currency": "AUD",
-  "current_price": 3.49,
+  "current_price": 3.14,
   "rrp": 3.5,
   "in_stock": true,
   "pharmacist_only": false,
@@ -16,9 +16,13 @@
     {
       "date": "2026-10-15",
       "price": 3.49
+    },
+    {
+      "date": "2026-11-27",
+      "price": 3.14
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

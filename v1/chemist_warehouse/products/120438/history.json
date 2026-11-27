@@ -3,7 +3,7 @@
   "name": "Braun Series 6 Electric Shaver 61-R1000s Wet & Dry",
   "url": "https://www.chemistwarehouse.com.au/buy/120438/braun-series-6-electric-shaver-61-r1000s-wet-dry",
   "currency": "AUD",
-  "current_price": 198.0,
+  "current_price": 178.2,
   "rrp": 299.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 198.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 178.2
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

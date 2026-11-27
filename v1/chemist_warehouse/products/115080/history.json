@@ -3,7 +3,7 @@
   "name": "L'Oreal Paris Volume Million Lashes Mascara Balm Brown",
   "url": "https://www.chemistwarehouse.com.au/buy/115080/l-oreal-paris-volume-million-lashes-balm-brown-mascara-boxed",
   "currency": "AUD",
-  "current_price": 25.99,
+  "current_price": 17.99,
   "rrp": 29.99,
   "in_stock": true,
   "pharmacist_only": false,
@@ -24,9 +24,13 @@
     {
       "date": "2026-11-26",
       "price": 25.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 17.99
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

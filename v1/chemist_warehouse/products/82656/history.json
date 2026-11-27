@@ -3,7 +3,7 @@
   "name": "Health & Beauty Bamboo Pocket Tissues 10 Pack 3 Ply",
   "url": "https://www.chemistwarehouse.com.au/buy/82656/health-beauty-bamboo-pocket-tissues-10-pack-3-ply",
   "currency": "AUD",
-  "current_price": 1.99,
+  "current_price": 1.79,
   "rrp": null,
   "in_stock": true,
   "pharmacist_only": false,
@@ -20,9 +20,13 @@
     {
       "date": "2026-10-01",
       "price": 1.99
+    },
+    {
+      "date": "2026-11-27",
+      "price": 1.79
     }
   ],
-  "snapshot_days": 94,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 95,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }

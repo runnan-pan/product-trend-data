@@ -3,7 +3,7 @@
   "name": "Braun Series 5 All In One Style Kit MGK5420",
   "url": "https://www.chemistwarehouse.com.au/buy/133314/braun-series-5-all-in-one-style-kit-mgk5420",
   "currency": "AUD",
-  "current_price": 134.0,
+  "current_price": 120.6,
   "rrp": 159.0,
   "in_stock": true,
   "pharmacist_only": false,
@@ -12,9 +12,13 @@
     {
       "date": "2026-08-24",
       "price": 134.0
+    },
+    {
+      "date": "2026-11-27",
+      "price": 120.6
     }
   ],
-  "snapshot_days": 95,
-  "last_seen": "2026-11-26",
+  "snapshot_days": 96,
+  "last_seen": "2026-11-27",
   "disclaimer": "These are publicly displayed Chemist Warehouse online prices that we recorded. They are not an official history, not a lowest-price guarantee, and may differ for online-only promotions, marketplace sellers, or PBS / pharmacist-only items."
 }
